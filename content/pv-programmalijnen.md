@@ -44,3 +44,26 @@
     <p style="font-size:15.5px;line-height:1.5;margin:0 0 .75rem;font-weight:500">Perspectief bieden aan ondernemers in het veenweidegebied — daar begon het visiedocument, en daar landt dit programma. Door de drie rollen gelijktijdig te pakken, wordt dat perspectief geen belofte maar een werkelijkheid.</p>
     <p style="font-size:13px;line-height:1.55;margin:0;color:rgba(255,255,255,.85)"><strong>Beleid</strong> schept de juridische en financiële ruimte waaronder de nieuwe typologie kan bestaan. <strong>Perspectief</strong> bewijst dat de business case klopt — voor de boer én voor de maatschappij. <strong>Beweging</strong> brengt het in praktijk, gebied voor gebied, ondernemer voor ondernemer. Drie rollen, één gedeeld doel: de veenweideboer als toekomstbestendige ondernemer die maatschappelijke diensten levert.</p>
   </div>
+
+<div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem 1.75rem;margin:1.5rem 0 2rem">
+    <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--text3);font-weight:600;margin-bottom:8px">Een open strategische vraag</div>
+    <h4 style="margin:0 0 .75rem;color:var(--text)">Waarop specialiseert het VIC zich — grondsoort, gebied, of situatie?</h4>
+    <p style="font-size:13.5px;color:var(--text2);line-height:1.6;margin:0 0 1rem">De redenering in dit document — ondernemerschap als motor, opdrachten in plaats van afwaardering — is niet veen-specifiek. Dezelfde logica werkt op zand bij Natura 2000, op klei in bufferzones, in verziltingszones. Veen is de scherpste casus, niet het hele verhaal. Dat plaatst het VIC voor een vraag over zijn eigen identiteit.</p>
+
+    <div style="display:grid;gap:10px;margin:0 0 1rem">
+      <div style="background:var(--bg);border-radius:var(--radius);padding:.75rem 1rem">
+        <div style="font-size:13px;font-weight:600;color:var(--text);margin-bottom:2px">Pad A — Diepte op grondsoort</div>
+        <div style="font-size:12.5px;color:var(--text2);line-height:1.5">Veenweide Innovatiecentrum. Concentratie op de fysieke werkelijkheid van veen. Uniek, niet te repliceren. Risico: doelgroep blijft beperkt tot één grondsoort.</div>
+      </div>
+      <div style="background:var(--bg);border-radius:var(--radius);padding:.75rem 1rem">
+        <div style="font-size:13px;font-weight:600;color:var(--text);margin-bottom:2px">Pad B — Breedte op gebied</div>
+        <div style="font-size:12.5px;color:var(--text2);line-height:1.5">Plattelands Innovatiecentrum. Veen wordt één werkterrein tussen vele. Risico: verwatert tot wat LTO, BoerenNatuur en collectieven al doen.</div>
+      </div>
+      <div style="background:var(--bg);border-radius:var(--radius);padding:.75rem 1rem">
+        <div style="font-size:13px;font-weight:600;color:var(--text);margin-bottom:2px">Pad C — Diepte op situatie</div>
+        <div style="font-size:12.5px;color:var(--text2);line-height:1.5">Innovatiecentrum voor boeren in uitdagende posities. Veen als zwaartepunt en eerste casus; redenering expliciet ook voor zand en klei. Risico: fuzzy afbakening, toolbox en JUMP moeten uitgebreid.</div>
+      </div>
+    </div>
+
+    <p style="font-size:13.5px;color:var(--text2);line-height:1.6;margin:0">Drie verschillende assen van specialisatie. Alle drie intern consistent. De vraag is niet welke as opportuun is, maar wat het VIC ís: een instituut dat veen tot op de bodem kent, een instituut dat innovatie breed brengt, of een instituut dat zich verbindt met de boer in een uitdagende positie. De keuze hoort niet hier, maar wel bewust — niet als bijproduct van waar de gelegenheid heen drijft.</p>
+  </div>

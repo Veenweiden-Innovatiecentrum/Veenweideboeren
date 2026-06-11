@@ -69,7 +69,7 @@ Dat is urgent. Want de ondernemers voor wie dit bedoeld is, zitten nu al klem.
     <tr><td style="padding:.3rem .75rem .3rem 0;white-space:nowrap;vertical-align:top"><strong>Het kader / de pijlers</strong></td><td style="padding:.3rem 0;color:var(--text2)">De zes lagen die de overheid moet leggen: maatregelen, doelen, juridische ruimte, vangnet, opdrachten en coördinatie (F2).</td></tr>
     <tr><td style="padding:.3rem .75rem .3rem 0;white-space:nowrap;vertical-align:top"><strong>Toolbox / bouwstenen</strong></td><td style="padding:.3rem 0;color:var(--text2)">De instrumenten waarmee de ondernemer de doelen haalt (F1).</td></tr>
     <tr><td style="padding:.3rem .75rem .3rem 0;white-space:nowrap;vertical-align:top"><strong>Doelsturing</strong></td><td style="padding:.3rem 0;color:var(--text2)">De overheid stuurt op wát geleverd wordt; de boer bepaalt hóe.</td></tr>
-    <tr><td style="padding:.3rem .75rem .3rem 0;white-space:nowrap;vertical-align:top"><strong>JUMP</strong></td><td style="padding:.3rem 0;color:var(--text2)">Het VIC-programma met vergaande bedrijfsconcepten richting 2040–2045; dit document vertaalt die bouwstenen naar de komende vijf jaar.</td></tr>
+    <tr><td style="padding:.3rem .75rem .3rem 0;white-space:nowrap;vertical-align:top"><strong>JUMP</strong></td><td style="padding:.3rem 0;color:var(--text2)">Het VIC-programma met vergaande bedrijfsconcepten — mét en zonder dieren — richting 2040–2045; dit document vertaalt die bouwstenen naar de komende vijf jaar.</td></tr>
     </tbody>
   </table>
 </div>
@@ -966,7 +966,7 @@ Wat dit document probeert te doen, voorbij de analyse, is iets dat in de meeste 
 
     <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem;border-top:3px solid var(--accent)">
       <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--accent);margin-bottom:6px;font-weight:600">2 — Nieuwe activiteiten ontwikkelen</div>
-      <p style="font-size:13px;color:var(--text2);line-height:1.5">Geen koeien meer. Volledig overstappen naar natte teelt, wateropslag, paludicultuur, natuurbeheer als hoofdactiviteit, recreatie. De JUMP-concepten bieden de concrete invulling voor 2040–2045; dit document vertaalt ze naar de komende vijf jaar. Dit is het verste pad, en voor sommige boeren het meest kansrijke.</p>
+      <p style="font-size:13px;color:var(--text2);line-height:1.5">Het zwaartepunt verschuift van melk naar nieuwe activiteiten: natte teelt, wateropslag, paludicultuur, natuurbeheer als hoofdactiviteit, recreatie. De JUMP-concepten — mét en zonder dieren — bieden de invulling voor 2040–2045; dit document vertaalt de eerste stappen naar de komende vijf jaar. Dit is het verste pad, en voor sommige boeren het meest kansrijke.</p>
     </div>
 
     <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem;border-top:3px solid var(--red);opacity:0.8">

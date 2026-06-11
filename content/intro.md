@@ -57,7 +57,7 @@ Dat is urgent. Want de ondernemers voor wie dit bedoeld is, zitten nu al klem.
     <tr><td style="padding:.3rem .75rem .3rem 0;white-space:nowrap;vertical-align:top"><strong>Het kader / de pijlers</strong></td><td style="padding:.3rem 0;color:var(--text2)">De zes lagen die de overheid moet leggen: maatregelen, doelen, juridische ruimte, vangnet, opdrachten en coördinatie (F2).</td></tr>
     <tr><td style="padding:.3rem .75rem .3rem 0;white-space:nowrap;vertical-align:top"><strong>Toolbox / bouwstenen</strong></td><td style="padding:.3rem 0;color:var(--text2)">De instrumenten waarmee de ondernemer de doelen haalt (F1).</td></tr>
     <tr><td style="padding:.3rem .75rem .3rem 0;white-space:nowrap;vertical-align:top"><strong>Doelsturing</strong></td><td style="padding:.3rem 0;color:var(--text2)">De overheid stuurt op wát geleverd wordt; de boer bepaalt hóe.</td></tr>
-    <tr><td style="padding:.3rem .75rem .3rem 0;white-space:nowrap;vertical-align:top"><strong>JUMP</strong></td><td style="padding:.3rem 0;color:var(--text2)">Het VIC-programma met vergaande bedrijfsconcepten richting 2040–2045; dit document vertaalt die bouwstenen naar de komende vijf jaar.</td></tr>
+    <tr><td style="padding:.3rem .75rem .3rem 0;white-space:nowrap;vertical-align:top"><strong>JUMP</strong></td><td style="padding:.3rem 0;color:var(--text2)">Het VIC-programma met vergaande bedrijfsconcepten — mét en zonder dieren — richting 2040–2045; dit document vertaalt die bouwstenen naar de komende vijf jaar.</td></tr>
     </tbody>
   </table>
 </div>

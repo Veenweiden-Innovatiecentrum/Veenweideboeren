@@ -13,7 +13,7 @@
 >
 > **Verwerkingsstatus** (bijgehouden vanaf 11 juni 2026): ✅ = verwerkt · ✅◐ = deels verwerkt · geen markering = open of geparkeerd
 >
-> **Stand 11 juni 2026:** Anna volledig verwerkt (A1–A11 + alle 36 annotaties). Roelof volledig verwerkt (R1–R18, C0–C4). Erik: E5 verwerkt; **E1–E4 en E6 open** — herwerk waarvoor Erik hulp aanbood.
+> **Stand 11 juni 2026:** Anna volledig verwerkt (A1–A11 + alle 36 annotaties). Roelof volledig verwerkt (R1–R18, C0–C4). Erik: E1 en E5 verwerkt; **E2–E4 en E6 open** — herwerk waarvoor Erik hulp aanbood.
 
 ---
 
@@ -98,7 +98,7 @@
 
 | # | Topic | Kern | Type |
 |---|---|---|---|
-| E1 | **G / Route 3 klopt niet** — *zijn hoofdpunt* | "Route 3 zonder koeien = nu al beginnen aan JUMP-concepten" botst met de boodschap dat die extreem zijn en tijd vragen. Voorstel: Route 3 = bouwstenen uit JUMP-concepten náást koeien (met doorgroeipad); Route 2 = doorgroei naar concepten mét koeien. Ook: JUMP ≠ per definitie zonder koeien. | Inhoud — herwerk |
+| E1 ✅ | **G / Route 3 klopt niet** — *zijn hoofdpunt* *(bleek één geïsoleerde claim: "geen koeien meer" stond nergens anders in het document; kaart herschreven naar zwaartepuntverschuiving, JUMP expliciet "mét en zonder dieren")* | "Route 3 zonder koeien = nu al beginnen aan JUMP-concepten" botst met de boodschap dat die extreem zijn en tijd vragen. Voorstel: Route 3 = bouwstenen uit JUMP-concepten náást koeien (met doorgroeipad); Route 2 = doorgroei naar concepten mét koeien. Ook: JUMP ≠ per definitie zonder koeien. | Inhoud — herwerk |
 | E2 | **Opgaven-tabel (B) deugt niet als duidingsinstrument** | Indeling polder/natuur/stadsrand duidt de zwaarteverschillen niet; er kloppen dingen niet (cultuur & landschap juist in stadsrand belangrijk); scores overal maken verschillen kunstmatig klein. Voorstel: opgaven noemen + paar sterke voorbeelden. **Biedt hulp aan.** | Inhoud — herwerk |
 | E3 | **D: doelen en middelen door elkaar, gebiedskoppeling klopt niet** | Stikstof speelt nabij natuur (niet algemeen); bufferbeheer is middel, geen doel; CO₂ en waterkwaliteit spelen overal; waterbuffering hoort niet automatisch bij stadsrand. **Biedt hulp aan.** | Inhoud — herwerk |
 | E4 | **-40 gws als algemene doelstelling knelt met scope** | -40 is middel, geen doel; geeft bij nat voorjaar overal problemen → scope wordt onbedoeld heel het veenweidegebied. Focus op afbraakgevoelige gebieden (daar zelfs hoger peil) én op **kwel-gebieden** waar de situatie onhoudbaar wordt — daar zijn nieuwe concepten sowieso nodig. | Inhoud |

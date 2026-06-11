@@ -50,11 +50,11 @@ Plus de vraag: mag het document gedeeld worden met het **LBI (Nick van Eekeren)*
 |---|---|---|---|
 | ET-N10 | **Opgave-telling inconsistent: vijf / zes / zeven** | Intro-samenvatting noemt vijf ("klimaat, water, natuur, landschap, kringloop"); stikstofblok zegt "de andere zes"; later "de zeven". "Waar komt dit vandaan? Wat is de bron?" | Consistentie |
 | ET-N11 | **Hectare-optelsom klopt niet** | 200.000 ha totaal vs. 45.000 + 90.000 + 20.000 = 155.000. "Waar is de rest?" | Feit |
-| ET-N12 | **"TF LNS pijler 2" nergens te vinden** | Toelichten in een voetnoot. | Feit |
+| ET-N12 ✅ | **"TF LNS pijler 2" nergens te vinden** *(term niet hard te maken; vervangen door "rijksmiddelen voor het landelijk gebied")* | Toelichten in een voetnoot. | Feit |
 | ET-N13 ✅ | **"Akte 2 onder een nieuwe naam" te vroeg onbegrijpelijk** *(managementsamenvatting introduceert de drie aktes nu inhoudelijk op pagina één, naast de bestaande intro-leeswijzer)* | Alleen scherp als je weet wat akte II is; hangt aan ET-N2. *(Deels ondervangen: de intro introduceert de drie aktes inmiddels — Anna A3.)* | Consistentie |
 | ET-N14 | **Voedselzekerheid-urgentie polder/stadsrand onbegrijpelijk** | Waarom middel bij polder en hoog bij stadsrand? Vraagt toelichting. *(Toegevoegd aan de werksessie-agenda van 16 juni, E2-blok, samen met ET-N19.)* | Consistentie |
 | ET-N15 | **Driesporen-alinea: kleine aanscherpingen** | "dat zijn zones rond natuur…" (leesbaarheid) en "€1,3 miljard tot 2035 **los van de GLB-hectarepremie**". | Feit/tekst |
-| ET-N16 | **"Dit document gaat over de bovenste twee" — waarom niet de derde groep?** | Niet toegelicht waarom nicheboeren buiten beeld blijven. | Consistentie |
+| ET-N16 ✅ | **"Dit document gaat over de bovenste twee" — waarom niet de derde groep?** *(toegelicht in A bij het populatiemodel: nicheboeren hebben al een werkend bedrijfsmodel; zij profiteren wel mee van akte III)* | Niet toegelicht waarom nicheboeren buiten beeld blijven. | Consistentie |
 
 ### Tekstcorrecties (klein)
 

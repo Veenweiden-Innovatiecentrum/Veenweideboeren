@@ -6,7 +6,7 @@ In het Nederlandse veenweidegebied zit de overgrote meerderheid van de boeren kl
 
 {{partial:a-klem-populatiemodel}}
 
-Een kleine groep hele grote boeren (meer dan 250 koeien, schaalgedreven, gericht op de bulkmarkt) groeit vanzelf, schaalvergroting duwt ze richting 500+ koeien. Een relatief kleine groep nicheboeren (minder dan 70 koeien, extensief, gericht op specifieke markten) groeit alleen als het beleid dat mogelijk maakt. De middengroep — de 40-80 hectare bedrijven met 80-130 koeien — krimpt hoe dan ook. De vraag is niet óf ze krimpt, maar wat er met de boeren gebeurt die eruit vallen.
+Een kleine groep hele grote boeren (meer dan 250 koeien, schaalgedreven, gericht op de bulkmarkt) groeit vanzelf, schaalvergroting duwt ze richting 500+ koeien. Een relatief kleine groep nicheboeren (minder dan 70 koeien, extensief, gericht op specifieke markten) groeit alleen als het beleid dat mogelijk maakt. Zij hebben al een werkend bedrijfsmodel; dit document gaat daarom over de groep die dat niet heeft — al profiteren ook nicheboeren van de condities uit akte III. De middengroep — de 40-80 hectare bedrijven met 80-130 koeien — krimpt hoe dan ook. De vraag is niet óf ze krimpt, maar wat er met de boeren gebeurt die eruit vallen.
 
 ### Waarom zit de middengroep klem? Drie systeemcondities
 

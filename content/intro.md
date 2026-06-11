@@ -1,13 +1,3 @@
-<div class="meta-row">
-    <span class="meta-badge">Visiedocument</span>
-    <span class="meta-badge">April 2026</span>
-    <span class="meta-badge">VIC / JUMP</span>
-  </div>
-
-<h1>Veenweide<span>boeren</span></h1>
-
-## De ondernemer als motor voor de maatschappelijke opgaves
-
 <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.08);border-left:3px solid var(--accent);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 2rem;font-size:13.5px;line-height:1.65">
     <strong style="display:block;margin-bottom:8px;font-size:14px">Voor wie is dit document?</strong>
     <p style="margin:0 0 .75rem"><strong>Voor boeren</strong> — wie tevreden is met de huidige bedrijfsvoering en zijn opgaven binnen het bestaande model haalt: prima. Geen religie, geen opgedrongen verhaal. Maar wie de bui ziet hangen — een perceel dat te nat wordt, krimpende stikstofruimte, een melkprijs die het niet meer dekt — voor die ondernemer is dit een aanbod. Niet "zo moet u het gaan doen", maar "zo zou het kunnen worden, als u het wilt".</p>

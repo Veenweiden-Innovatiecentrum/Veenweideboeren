@@ -55,7 +55,7 @@ De veenweideboer is een nieuwe typologie: niet een reguliere melkveehouder met b
 
       <div style="margin-bottom:14px">
         <div style="font-weight:600;color:var(--text);font-size:13px;margin-bottom:3px">Bedrijf optimaliseren</div>
-        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Een toolbox specifiek voor veenweideboeren: ecologisch slootbeheer, greppelinfiltratie, dynamisch peilbeheer, kruidenrijk grasland, koe-kalf-kudde, precisiebemesting, natuurlijke oevers — geen nieuw inkomen, wel lagere kosten en bijdrage aan de doelen.</div>
+        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Een toolbox specifiek voor veenweideboeren: slootmaaibeheer, greppelinfiltratie, dynamisch peilbeheer, kruidenrijk grasland, koe-kalf-kudde, weidevogelbeheer, natuurvriendelijke oevers — geen nieuw inkomen, wel lagere kosten en bijdrage aan de doelen.</div>
       </div>
 
       <div>

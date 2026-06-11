@@ -138,7 +138,7 @@ Drie aktes voor het veenweidegebied. Niet drie gelijkwaardige scenario's, maar d
     <div class="dim-list">
       <div class="dim-item"><span class="dot green"></span><span class="name">Klimaat &amp; bodemdaling</span><span class="desc">Waterpeil omhoog omdat het loont, koolstofopslag als verdienmodel</span></div>
       <div class="dim-item"><span class="dot green"></span><span class="name">Klimaat (bedrijf)</span><span class="desc">Lagere veedichtheid: minder vee, lagere emissies per hectare</span></div>
-      <div class="dim-item"><span class="dot green"></span><span class="name">Water (kwaliteit)</span><span class="desc">Ecologisch slootbeheer is nu rendabel, kwaliteit verbetert structureel</span></div>
+      <div class="dim-item"><span class="dot green"></span><span class="name">Water (kwaliteit)</span><span class="desc">Ecologisch sloot- en oeverbeheer is nu rendabel, kwaliteit verbetert structureel</span></div>
       <div class="dim-item"><span class="dot amber"></span><span class="name">Water (kwantiteit)</span><span class="desc">Wateropslag als betaalde dienst helpt, maar de totale watervraag bij vernatting blijft een ruimtelijk vraagstuk</span></div>
       <div class="dim-item"><span class="dot green"></span><span class="name">Natuur (gebieden)</span><span class="desc">Minder depositie + actief bufferbeheer rond Natura 2000 als betaalde dienst</span></div>
       <div class="dim-item"><span class="dot green"></span><span class="name">Natuur (basiskwaliteit)</span><span class="desc">Rentmeesterschap terug: weidevogels, slootkanten, biodiversiteit als verdienmodel</span></div>

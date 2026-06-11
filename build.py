@@ -25,9 +25,29 @@ def build_document():
     open(dest, 'w', encoding='utf-8').write(out)
     print(f'Gebouwd: {dest} ({len(out)//1000}k tekens)')
 
+def build_tekst():
+    """Alle content-MD samenvoegen tot één leesbestand (alleen ter inzage —
+    bewerken gebeurt in de losse bestanden in content/)."""
+    order = [l.strip() for l in open('volgorde.txt', encoding='utf-8')
+             if l.strip() and not l.startswith('#')]
+    parts = ['<!-- GEGENEREERD OVERZICHT — niet bewerken; bron: content/*.md -->']
+    for sid in order:
+        md_path = f'content/{sid}.md'
+        if not os.path.exists(md_path):
+            parts.append(f'*[sectie `{sid}`: partial, geen tekstbestand]*')
+            continue
+        parts.append(f'<!-- ======== bestand: content/{sid}.md ======== -->')
+        parts.append(open(md_path, encoding='utf-8').read().rstrip('\n'))
+    os.makedirs('dist', exist_ok=True)
+    dest = 'dist/alles.md'
+    open(dest, 'w', encoding='utf-8').write('\n\n---\n\n'.join(parts) + '\n')
+    print(f'Gebouwd: {dest}')
+
 if __name__ == '__main__':
     target = sys.argv[1] if len(sys.argv) > 1 else 'document'
     if target == 'document':
         build_document()
+    elif target == 'tekst':
+        build_tekst()
     else:
-        sys.exit(f'Onbekende uiting: {target} (beschikbaar: document)')
+        sys.exit(f'Onbekende uiting: {target} (beschikbaar: document, tekst)')

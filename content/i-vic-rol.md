@@ -1,6 +1,4 @@
-## I — De rol van het VIC
-
-Tot nu toe ging dit document over wat er moet gebeuren in het veenweidegebied: welke aktes mogelijk zijn, welke instrumenten daarvoor nodig zijn, en welke risico's op de loer liggen. Deze afsluitende sectie kijkt naar wat het VIC hierin zelf kan betekenen — wat de visie van het instituut is, en welke rollen daaruit voortvloeien voor de komende jaren.
+## De rol van het VIC
 
 <div style="background:linear-gradient(135deg, #1a4d18 0%, #2d6a23 100%);color:#fff;border-radius:var(--radius-lg);padding:1.5rem 1.75rem;margin:2rem 0 0;box-shadow:0 2px 8px rgba(0,0,0,.08)">
     <div style="font-size:10px;text-transform:uppercase;letter-spacing:.12em;color:rgba(255,255,255,.7);font-weight:600;margin-bottom:.5rem">De visie waar het VIC voor staat</div>
@@ -38,7 +36,7 @@ Tot nu toe ging dit document over wat er moet gebeuren in het veenweidegebied: w
       <div style="font-size:10px;text-transform:uppercase;letter-spacing:.08em;color:var(--amber);margin-bottom:.5rem;font-weight:600">Rol 3 — Beweging</div>
       <h3 style="margin-top:0;font-size:17px;color:var(--amber)">Beweging in gang zetten</h3>
       <p style="font-size:13.5px;font-weight:600;color:var(--text);margin-bottom:.75rem;line-height:1.4">Beweging in gang zetten naar de nieuwe rol voor veenweideboeren.</p>
-      <p style="font-size:13px;color:var(--text2);line-height:1.55;margin:0 0 1rem">Op gebiedsniveau en bij individuele boeren. Bijvoorbeeld: serious gaming met AI-ondersteuning, train-de-trainer voor gebiedsmanagers, en gebiedsprocessen die nu al beginnen — niet wachten tot het beleid klaar is. De gebiedsmanager als intermediair die het verhaal kan vertellen. De individuele boer die een concrete stap zet. En de markt-partij die mee-investeert: pilots werken alleen volledig als zuivelketen, drinkwaterbedrijf of bank vanaf het begin mede-eigenaar is. Anders blijft het een overheidsexperiment.</p>
+      <p style="font-size:13px;color:var(--text2);line-height:1.55;margin:0 0 1rem">Op gebiedsniveau, via intermediairs — niet rechtstreeks boer voor boer, maar via degenen die dagelijks aan de keukentafel zitten: agrarische adviseurs, gebiedsmanagers en -regisseurs, agrarische collectieven. Bijvoorbeeld: serious gaming met AI-ondersteuning, train-de-trainer voor gebiedsmanagers, en gebiedsprocessen die nu al beginnen — niet wachten tot het beleid klaar is. En de marktpartij die mee-investeert: pilots werken alleen volledig als zuivelketen, drinkwaterbedrijf of bank vanaf het begin mede-eigenaar is. Anders blijft het een overheidsexperiment.</p>
       <div style="border-top:1px solid rgba(0,0,0,.08);padding-top:.75rem">
         <div style="font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--amber);font-weight:600;margin-bottom:4px">Status</div>
         <div style="font-size:12px;color:var(--text2);line-height:1.5">Nieuwe activiteit voor het VIC. Mogelijk in het domein van serious gaming en AI-gestuurde verkenning — een nieuw terrein dat zich opent en waar het VIC een eigen positie kan opbouwen.</div>
@@ -58,7 +56,7 @@ Tot nu toe ging dit document over wat er moet gebeuren in het veenweidegebied: w
     <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--blue);font-weight:600;margin-bottom:8px">Theory of Change</div>
     <h4 style="margin:0 0 .75rem;color:var(--text)">De impact die het VIC nastreeft</h4>
     <p style="font-size:13.5px;color:var(--text2);line-height:1.6;margin:0 0 .75rem">De beoogde impact van het VIC is concreet en aanwijsbaar: <strong>een geïnspireerde en geïnformeerde dialoog tussen strategische beleidsmedewerkers en geïnteresseerde boeren</strong>. Niet beleid alleen, niet praktijk alleen, maar het gesprek tussen die twee — gevoed door bewijs, perspectief en ervaring.</p>
-    <p style="font-size:13.5px;color:var(--text2);line-height:1.6;margin:0">Daarvoor moeten de drie rollen elkaar activeren in een specifieke richting: <strong>Rol 1 (beleid) via Rol 2 (perspectief) naar Rol 3 (beweging)</strong>. Beleid schept de ruimte. Perspectief levert het bewijs dat die ruimte zin heeft. Beweging maakt het concreet zichtbaar — gebied voor gebied, boer voor boer — en voedt zo het volgende beleidsgesprek. De dialoog die we beogen ontstaat niet vanzelf; ze wordt mogelijk gemaakt doordat de drie rollen in deze volgorde werkelijk in elkaar grijpen.</p>
+    <p style="font-size:13.5px;color:var(--text2);line-height:1.6;margin:0">De rollen lopen gelijktijdig en versterken elkaar in een cirkel — maar binnen die cirkel is er een aanjaagrichting: <strong>Rol 1 (beleid) via Rol 2 (perspectief) naar Rol 3 (beweging)</strong>. Beleid schept de ruimte. Perspectief levert het bewijs dat die ruimte zin heeft. Beweging maakt het concreet zichtbaar — gebied voor gebied, boer voor boer — en voedt zo het volgende beleidsgesprek. De dialoog die we beogen ontstaat niet vanzelf; ze wordt mogelijk gemaakt doordat de drie rollen in deze volgorde werkelijk in elkaar grijpen.</p>
   </div>
 
 <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem 1.75rem;margin:1.5rem 0 2rem">
@@ -82,10 +80,4 @@ Tot nu toe ging dit document over wat er moet gebeuren in het veenweidegebied: w
     </div>
 
     <p style="font-size:13.5px;color:var(--text2);line-height:1.6;margin:0">Drie verschillende assen van specialisatie. Alle drie intern consistent. De vraag is niet welke as opportuun is, maar wat het VIC ís: een instituut dat veen tot op de bodem kent, een instituut dat innovatie breed brengt, of een instituut dat zich verbindt met de boer in een uitdagende positie. De keuze hoort niet hier, maar wel bewust — niet als bijproduct van waar de gelegenheid heen drijft.</p>
-  </div>
-
-<div style="background:linear-gradient(135deg, #1a4d18 0%, #2d6a23 100%);color:#fff;border-radius:var(--radius-lg);padding:1.75rem 2rem;margin:2rem 0 0;box-shadow:0 2px 8px rgba(0,0,0,.08)">
-    <div style="font-size:10px;text-transform:uppercase;letter-spacing:.12em;color:rgba(255,255,255,.7);font-weight:600;margin-bottom:.5rem">Zo vervult het VIC zijn opdracht</div>
-    <p style="font-size:15.5px;line-height:1.5;margin:0 0 .75rem;font-weight:500">Perspectief bieden aan ondernemers in het veenweidegebied — daar begon dit document. Door deze drie rollen gelijktijdig te pakken, wordt dat perspectief geen belofte maar een werkelijkheid.</p>
-    <p style="font-size:13px;line-height:1.55;margin:0;color:rgba(255,255,255,.85)"><strong>Beleid</strong> schept de juridische en financiële ruimte waaronder de nieuwe typologie kan bestaan. <strong>Perspectief</strong> bewijst dat de business case klopt — voor de boer én voor de maatschappij. <strong>Beweging</strong> brengt het in praktijk, gebied voor gebied, ondernemer voor ondernemer. Drie rollen, één gedeeld doel: de veenweideboer als toekomstbestendige ondernemer die maatschappelijke diensten levert.</p>
   </div>

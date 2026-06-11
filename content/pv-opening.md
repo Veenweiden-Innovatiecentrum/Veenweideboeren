@@ -1,6 +1,6 @@
 <div class="meta-row">
     <span class="meta-badge">Programmavoorstel</span>
-    <span class="meta-badge">Concept / skelet</span>
+    <span class="meta-badge">Concept</span>
     <span class="meta-badge">VIC</span>
   </div>
 
@@ -8,4 +8,4 @@
 
 ## Van visie naar programma
 
-**De visie waar dit programma onder hangt:** de veenweideboer als toekomstbestendige ondernemer die maatschappelijke diensten levert — en daarmee de motor wordt voor klimaat, water, natuur, voedselzekerheid, cultuur &amp; landschap, grondstoffen &amp; kringloop en wonen. De kern is één omkering: van subsidies naar vergoedingen voor geleverde maatschappelijke diensten.
+Het visiedocument <em>VIC's Veenweideboeren Visie</em> beschrijft wat er moet gebeuren in het veenweidegebied: welke aktes mogelijk zijn, welke instrumenten daarvoor nodig zijn, en welke risico's op de loer liggen. Dit programmavoorstel kijkt naar wat het VIC daarin zelf kan betekenen — wat de visie van het instituut is, welke rollen daaruit voortvloeien, en welk programma daarbij hoort voor de periode medio 2028 tot medio 2032.

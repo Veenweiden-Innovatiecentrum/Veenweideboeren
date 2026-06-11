@@ -4,13 +4,13 @@
     <strong>Voorbehoud.</strong> Bedragen en verdeling zijn indicatief; validatie van omvang, verdeling, partners en fasering volgt in een VIC-werksessie.
   </div>
 
-**Kader:** €15 miljoen, voor de periode medio 2028 tot medio 2032. Het zwaartepunt ligt op rol 2 (perspectief), het middendeel op rol 3 (beweging), het kleinste deel op rol 1 (beleid).
+**Kader:** €15 miljoen, voor de periode medio 2028 tot medio 2032 — de startdatum sluit aan op de afloop van de huidige JUMP-financiering. Het zwaartepunt ligt op rol 2 (perspectief), het middendeel op rol 3 (beweging), het kleinste deel op rol 1 (beleid).
 
 <table style="width:100%;border-collapse:collapse;font-size:13.5px;line-height:1.55">
   <thead><tr style="text-align:left;border-bottom:2px solid rgba(0,0,0,.15)"><th style="padding:.5rem .75rem .5rem 0">Rol</th><th style="padding:.5rem 0">Kern</th><th style="padding:.5rem 0;white-space:nowrap">Indicatie</th></tr></thead>
   <tbody>
   <tr style="border-bottom:1px solid rgba(0,0,0,.07)"><td style="padding:.45rem .75rem .45rem 0;vertical-align:top;white-space:nowrap"><strong style="color:var(--blue)">Rol 1 — Beleid</strong></td><td style="padding:.45rem .75rem .45rem 0;color:var(--text2)">Agenderen en beïnvloeden: gesprekken, presentaties en workshops met beleidsmakers — duwen en trekken om zichtbaar te maken wat er aan beleidskant moet gebeuren om dit mogelijk te maken.</td><td style="padding:.45rem 0;vertical-align:top">€2 mln</td></tr>
-  <tr style="border-bottom:1px solid rgba(0,0,0,.07)"><td style="padding:.45rem .75rem .45rem 0;vertical-align:top;white-space:nowrap"><strong style="color:var(--accent2)">Rol 2 — Perspectief</strong></td><td style="padding:.45rem .75rem .45rem 0;color:var(--text2)">Bewijs leveren van de business: business cases per archetype en meetmethodieken voor koolstof, biodiversiteit en waterkwaliteit. Nadrukkelijk exclusief de pilotbedrijven zelf — die vragen een eigen begroting (vergelijk de hoogwaterboerderij van het KTC) en zitten niet in dit bedrag.</td><td style="padding:.45rem 0;vertical-align:top">€9 mln</td></tr>
+  <tr style="border-bottom:1px solid rgba(0,0,0,.07)"><td style="padding:.45rem .75rem .45rem 0;vertical-align:top;white-space:nowrap"><strong style="color:var(--accent2)">Rol 2 — Perspectief</strong></td><td style="padding:.45rem .75rem .45rem 0;color:var(--text2)">Bewijs leveren van de business: business cases per archetype en meetmethodieken voor koolstof, biodiversiteit en waterkwaliteit. Nadrukkelijk exclusief de pilotbedrijven zelf: die zijn er wél en het programma bouwt erop voort, maar ze vragen een eigen begroting met eigen financiers (vergelijk de hoogwaterboerderij van het KTC) en zitten niet in dit bedrag.</td><td style="padding:.45rem 0;vertical-align:top">€9 mln</td></tr>
   <tr style="border-bottom:1px solid rgba(0,0,0,.07)"><td style="padding:.45rem .75rem .45rem 0;vertical-align:top;white-space:nowrap"><strong style="color:var(--amber)">Rol 3 — Beweging</strong></td><td style="padding:.45rem .75rem .45rem 0;color:var(--text2)">Beweging via intermediairs: agrarische adviseurs (de PPP Agro's van de wereld), gebiedsmanagers en -regisseurs, agrarische collectieven — toerusten met verhaal, instrumenten en training. Niet rechtstreeks boer voor boer, maar via degenen die dagelijks aan de keukentafel zitten.</td><td style="padding:.45rem 0;vertical-align:top">€4 mln</td></tr>
   <tr><td style="padding:.55rem .75rem .45rem 0"><strong>Totaal (indicatief)</strong></td><td></td><td style="padding:.55rem 0"><strong>€15 mln</strong></td></tr>
   </tbody>
@@ -38,3 +38,9 @@
     </div>
   </div>
 </div>
+
+<div style="background:linear-gradient(135deg, #1a4d18 0%, #2d6a23 100%);color:#fff;border-radius:var(--radius-lg);padding:1.75rem 2rem;margin:2rem 0 0;box-shadow:0 2px 8px rgba(0,0,0,.08)">
+    <div style="font-size:10px;text-transform:uppercase;letter-spacing:.12em;color:rgba(255,255,255,.7);font-weight:600;margin-bottom:.5rem">Zo vervult het VIC zijn opdracht</div>
+    <p style="font-size:15.5px;line-height:1.5;margin:0 0 .75rem;font-weight:500">Perspectief bieden aan ondernemers in het veenweidegebied — daar begon het visiedocument, en daar landt dit programma. Door de drie rollen gelijktijdig te pakken, wordt dat perspectief geen belofte maar een werkelijkheid.</p>
+    <p style="font-size:13px;line-height:1.55;margin:0;color:rgba(255,255,255,.85)"><strong>Beleid</strong> schept de juridische en financiële ruimte waaronder de nieuwe typologie kan bestaan. <strong>Perspectief</strong> bewijst dat de business case klopt — voor de boer én voor de maatschappij. <strong>Beweging</strong> brengt het in praktijk, gebied voor gebied, ondernemer voor ondernemer. Drie rollen, één gedeeld doel: de veenweideboer als toekomstbestendige ondernemer die maatschappelijke diensten levert.</p>
+  </div>

@@ -2109,6 +2109,7 @@ let wtCurrent = 0;
 function wtRender() {
   const s = wtSlides[wtCurrent];
   const slide = document.getElementById('wt-slide');
+  if (!slide) return;
   const isDark = s.dark;
 
   slide.style.background = s.bg;
@@ -2153,6 +2154,7 @@ function wtNav(dir) {
 
 document.addEventListener('keydown', function(e) {
   var wt = document.getElementById('wt-container');
+  if (!wt) return;
   var rect = wt.getBoundingClientRect();
   if (rect.top < window.innerHeight && rect.bottom > 0) {
     if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); wtNav(1); }

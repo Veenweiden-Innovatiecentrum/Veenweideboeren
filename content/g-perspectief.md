@@ -54,7 +54,7 @@ De middengroep die in deel A klem zat, heeft nu twee echte perspectieven: veenwe
           </th>
           <th style="text-align:left;padding:.6rem .75rem;width:28.75%;color:var(--text)">
             <div style="font-weight:700;font-size:13.5px">De pragmaticus</div>
-            <div style="font-size:11px;color:var(--text3);font-weight:400;margin-top:1px">pragmatisch, groot</div>
+            <div style="font-size:11px;color:var(--text3);font-weight:400;margin-top:1px">pragmatisch, de grootste binnen de middengroep</div>
           </th>
         </tr>
       </thead>

@@ -34,9 +34,9 @@
 | A5 ✅ | **"Zuinige boer" verkeerd te lezen** (p.17) | Leest als "op de laatste cent letten" terwijl 'lage-uitstoot-boer' wordt bedoeld? | Terminologie |
 | A6 ✅ | **Term "Veenweideboer" bestaat al** (p.5) *(herladen nu expliciet benoemd in D: van geografische aanduiding naar bedrijfsmodel)* | Hoe gaat het programma de bestaande term opnieuw laden? | Strategisch |
 | A7 ✅ | **Harde maatregelen vs. ondernemerschap** (p.17) *(geen tekstwijziging — dit ís de boodschap van akte II; de ruimte ontstaat pas in akte III via doelsturing)* | "Eigenlijk is er door de harde maatregelen toch niet veel ruimte voor ondernemerschap?" | Inhoudelijke vraag |
-| A8 ✅◐ | **Consistentie cijfers/begrippen** | 20.000 ha eerder noemen (p.2); "is dit hetzelfde als de middengroep?" (p.19); "groot binnen de middengroep toch?" (p.31). | Consistentie |
-| A9 ✅◐ | **Onbekende/moeilijke woorden** | p.23 ("om niet" → belangeloos?), p.27 (Nederlands woord zoeken), p.33 ("enkelvoudige?"), p.42 (→ opeenvolgend?). | Taal |
-| A10 ✅◐ | **Typo's & kleinigheden** | "pijlvak" → peilvak (meermaals, "zoeken en vervangen"), "hem" → hem/haar, kleidek (p.5), LVVN (p.35), oranje kleur nodig (p.23), werkte/wordt gewerkt (p.35), welk ministerie naast LVVN (p.10)? | Redactie |
+| A8 ✅ | **Consistentie cijfers/begrippen** | 20.000 ha eerder noemen (p.2); "is dit hetzelfde als de middengroep?" (p.19); "groot binnen de middengroep toch?" (p.31). | Consistentie |
+| A9 ✅ | **Onbekende/moeilijke woorden** | p.23 ("om niet" → belangeloos?), p.27 (Nederlands woord zoeken), p.33 ("enkelvoudige?"), p.42 (→ opeenvolgend?). | Taal |
+| A10 ✅ | **Typo's & kleinigheden** | "pijlvak" → peilvak (meermaals, "zoeken en vervangen"), "hem" → hem/haar, kleidek (p.5), LVVN (p.35), oranje kleur nodig (p.23), werkte/wordt gewerkt (p.35), welk ministerie naast LVVN (p.10)? | Redactie |
 | A11 ✅ | **Complimenten** *(genoteerd — dank!)* | Plaatje p.25 "echt heel helder!!"; rolverdeling p.41 "heel helder!"; p.39 mooi antwoord op "te mooi om waar te zijn"; slides helpen begrippen begrijpen. | Positief |
 
 ### 1.3 Alle annotaties letterlijk (36 stuks, op paginavolgorde)
@@ -299,11 +299,11 @@
 
 Eén loopje door haar geannoteerde PDF, deze punten zijn in v2 niet te lokaliseren:
 
-- [ ] p.10 — "Wordt hier een ander ministerie bedoeld naast LVVN?"
-- [ ] p.19 — "is dit hetzelfde als de middengroep?"
-- [ ] p.23 — "oranje kleur nodig"
-- [ ] p.27 — "Is hier ook een Nederlands woord voor?"
-- [ ] p.31 — "Groot binnen de middengroep toch?"
-- [ ] p.33 — "enkelvoudige?" + "Wat wordt hier bedoeld met financiën?"
-- [ ] p.35 — "werkte, of wordt er nog steeds aan gewerkt?"
-- [ ] De drie tekstloze markeringen (p.2, 2× p.17, p.23)
+- [x] p.10 — "Wordt hier een ander ministerie bedoeld naast LVVN?" *(sloeg op "Naast LNV en LVVN" — in v2 al herschreven)*
+- [x] p.19 — "is dit hetzelfde als de middengroep?" *(callout in v2 al herschreven naar "familieondernemers … biologisch of anderszins")*
+- [x] p.23 — "oranje kleur nodig" *(kleurlabels kloppen in v2; vermoedelijk print-artefact)*
+- [x] p.27 — "Is hier ook een Nederlands woord voor?" *(= "enabler" → randvoorwaarde, 3×; plus F1-opening verduidelijkt: ondernemer van akte III)*
+- [x] p.31 — "Groot binnen de middengroep toch?" *(archetypentabel: "de grootste binnen de middengroep")*
+- [x] p.33 — "enkelvoudige?" + "Wat wordt hier bedoeld met financiën?" *("geen enkelvoudige entiteit"; "het ministerie van Financiën")*
+- [x] p.35 — "werkte, of wordt er nog steeds aan gewerkt?" *(jaartal-frasen geactualiseerd naar "sinds 2024")*
+- [x] De drie tekstloze markeringen (p.2, 2× p.17, p.23) *(20.000 ha, peilvak, zuinige boer, kleurlabels — alle al verwerkt)*

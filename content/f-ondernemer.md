@@ -1,6 +1,6 @@
 ## F1 — Ondernemerskant: de toolbox
 
-De veenweideboer bepaalt zelf hóe de doelen gehaald worden. Dit zijn de bouwstenen: de toolbox waarmee de boer zijn doelen haalt. Niveau 1 optimaliseert het bestaande bedrijf. Niveau 2 opent nieuwe inkomstenstromen.
+De veenweideboer — de ondernemer van akte III — bepaalt zelf hóe de doelen gehaald worden. Dit zijn de bouwstenen: de toolbox waarmee de boer zijn doelen haalt. Niveau 1 optimaliseert het bestaande bedrijf. Niveau 2 opent nieuwe inkomstenstromen.
 
 De toolbox past niet bij één type boer, hij geeft juist ruimte aan verschillende typen ondernemers in verschillende contexten.
 
@@ -19,14 +19,14 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 #### Waterbeheer op het bedrijf
 
 <div style="background:var(--bg2);border-left:3px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:.75rem 0 1rem;font-size:13px;line-height:1.6">
-    <strong style="display:block;margin-bottom:4px;font-size:13.5px">Eerst de enabler: zonder WIS werkt peilbeleid niet</strong>
-    De indringingsweerstand van veen is groot. Een grondwaterstand van -20 of -40 cm bereiken op een perceel zonder waterinfiltratiesysteem (WIS) is in praktijk onmogelijk. WIS is daarmee geen gewone bouwsteen tussen andere, maar een kritische enabler: zonder WIS is doelsturing op grondwaterstand een papieren norm. De overheid die peilbeleid wil voeren, zal eerst WIS-aanleg moeten faciliteren en financieren.
+    <strong style="display:block;margin-bottom:4px;font-size:13.5px">Eerst de randvoorwaarde: zonder WIS werkt peilbeleid niet</strong>
+    De indringingsweerstand van veen is groot. Een grondwaterstand van -20 of -40 cm bereiken op een perceel zonder waterinfiltratiesysteem (WIS) is in praktijk onmogelijk. WIS is daarmee geen gewone bouwsteen tussen andere, maar een kritische randvoorwaarde: zonder WIS is doelsturing op grondwaterstand een papieren norm. De overheid die peilbeleid wil voeren, zal eerst WIS-aanleg moeten faciliteren en financieren.
   </div>
 
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong>Waterinfiltratiesysteem (WIS / AWIS)</strong></td><td>Kritische enabler: zonder WIS werkt grondwaterstand-sturing niet. Gecontroleerd water infiltreren in de bodem via drains.</td></tr>
+      <tr><td><strong>Waterinfiltratiesysteem (WIS / AWIS)</strong></td><td>Kritische randvoorwaarde: zonder WIS werkt grondwaterstand-sturing niet. Gecontroleerd water infiltreren in de bodem via drains.</td></tr>
       <tr><td><strong>Greppelinfiltratie</strong></td><td>Waterpeil verhogen in percelen via greppels</td></tr>
       <tr><td><strong>Dynamisch peilbeheer</strong></td><td>Flexibel sturen op waterstanden per seizoen</td></tr>
       <tr><td><strong>Waterbuffering op eigen percelen</strong></td><td>Opslag voor droge periodes, opvang bij piekbuien, intern, niet als betaalde dienst</td></tr>

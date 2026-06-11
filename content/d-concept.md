@@ -3,7 +3,7 @@
 De veenweideboer is een nieuwe typologie: niet een reguliere melkveehouder met beperkingen, maar een ander type ondernemer met een ander kader én andere mogelijkheden. Het is niet strenger én slechter, het is anders én beter.
 
 <div style="background:var(--bg2);border-radius:var(--radius);padding:1rem 1.25rem;margin:1rem 0 1.25rem;font-size:13.5px;line-height:1.6;border-left:4px solid var(--accent)">
-  <strong style="display:block;margin-bottom:4px;color:var(--accent2)">Het sturingsprincipe: hardere uitkomsten, vrijere middelen</strong>
+  <strong style="display:block;margin-bottom:4px;color:var(--accent2)">Het sturingsprincipe: hardere uitkomsten, vrijere middelen<span class="fiche-wrap"><button class="fiche-btn" type="button" aria-label="Toelichting tonen">ⓘ</button><span class="fiche-popup"><span class="fiche-label">Toelichting</span><span class="fiche-source">Sturingsinstrumenten moeten samen in elk geval aan drie uitgangspunten voldoen (Boersema &amp; Reijnders, 2009): geen afwenteling naar later en elders; de voordelen van wenselijk gedrag zijn voor het individu groter dan de nadelen; en die voordelen komen niet terecht bij wie niets doet.</span></span></span></strong>
   Het overheidskader hieronder draait op één principe: <em>de overheid is strakker op wat geleverd moet worden, ruimer op hoe dat gebeurt.</em> Dat is precies de spiegel van het huidige beleid, dat vaak het omgekeerde doet — vrije uitkomsten ("opgaves halen, ergens, ooit") en strikte middelen (welke teelten, welke gebouwen, welke functies wel of niet mogen). Doelsturing op uitkomst, ondernemersvrijheid op middelen: dat is wat de zes lagen hieronder samen vormgeven.
 </div>
 

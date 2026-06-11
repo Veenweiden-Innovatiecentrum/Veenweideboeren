@@ -38,7 +38,7 @@ Wij richten ons op het deel waar reguliere melkveehouderij structureel niet meer
 <ul style="margin:.75rem 0 .75rem 1.25rem;font-size:14px;line-height:1.8;color:var(--text2)">
     <li><strong>Gebieden die structureel te nat worden</strong> — vanuit beleid (verhoging van het slootpeil) of vanuit autonome vernatting waardoor reguliere bedrijfsvoering structureel onhaalbaar wordt</li>
     <li><strong>Grenzend aan Natura 2000-gebieden</strong> — bufferzones met extra regeldruk en beperkingen op stikstof en gebruik</li>
-    <li><strong>Gebieden met sterke kwel</strong> — waar waterdruk van onderaf en mogelijke verzilting de bedrijfsvoering structureel beïnvloeden</li>
+    <li><strong>Gebieden met sterke kwel</strong> — waar waterdruk van onderaf en mogelijke verzilting de bedrijfsvoering structureel beïnvloeden — hier zijn nieuwe bedrijfsconcepten sowieso nodig, zelfs zonder enige klimaat- of peildoelstelling</li>
     <li><strong>Stedelijke randen</strong> — waar wateropgaves, ruimtedruk en functiemenging samenkomen</li>
     <li><strong>Snelste bodemdaling en veenoxidatie</strong> — zones waar de fysieke schade het hardst en snelst optreedt</li>
     <li><strong>Gebieden waar de infrastructuur niet meekan met schaalvergroting</strong>: polders met smalle ontsluiting, kleinschalige verkaveling, slechte bereikbaarheid voor zwaar materieel — kenmerkend voor délen van diverse veenweidegebieden, niet voor hele regio's</li>

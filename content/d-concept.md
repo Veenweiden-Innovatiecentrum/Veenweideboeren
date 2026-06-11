@@ -15,7 +15,7 @@ De veenweideboer is een nieuwe typologie: niet een reguliere melkveehouder met b
 
       <div style="margin-bottom:14px">
         <div style="font-weight:600;color:var(--text);font-size:13px;margin-bottom:3px">① Maatregelen</div>
-        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Vernatting naar -40 cm (rond natuur naar -20), stikstofnormen, KRW-waterkwaliteitseisen. Verplicht, niet-onderhandelbaar, dezelfde als in akte II.</div>
+        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Vernatting, stikstofnormen, KRW-waterkwaliteitseisen. Verplicht en niet-onderhandelbaar, dezelfde als in akte II — maar het peil is het middel, niet het doel: gedifferentieerd per peilvak, met het hoogste peil in de meest afbraakgevoelige gebieden en rust waar het al nat ligt.</div>
       </div>
 
       <div style="margin-bottom:14px">

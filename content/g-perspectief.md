@@ -1,6 +1,6 @@
 ## G — Terug naar de boer: wat kun je nu doen?
 
-In deel A zagen we dat de middengroep klem zit, 70-80% van de boeren in het veenweidegebied, zonder perspectief. Alles daartussen was het bewijs en het instrumentarium. Nu de vraag: wat biedt dit de boer van vandaag? Twee echte perspectieven, en twee doodlopende wegen.
+In deel A zagen we dat de middengroep klem zit, 70-80% van de boeren in het veenweidegebied vandaag, zonder perspectief. Alles daartussen was het bewijs en het instrumentarium. Nu de vraag: wat biedt dit de boer van vandaag? Twee echte perspectieven, en twee doodlopende wegen.
 
 Wat dit document probeert te doen, voorbij de analyse, is iets dat in de meeste beleidsstukken ontbreekt: erkenning. Erkenning van het feit dat de middengroep niet faalt, maar klem zit in een systeem dat haar maar twee opties biedt. Pas als die erkenning wordt gevoeld, ontstaat ruimte om iets los te laten en iets nieuws te beginnen. De twee perspectieven hieronder zijn niet bedoeld als opgelegd alternatief, maar als een aanbod aan wie zelf de uitdaging ziet aankomen.
 

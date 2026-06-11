@@ -49,7 +49,7 @@ Hoe groot dit deel precies is, is onderwerp van discussie, schattingen lopen uit
 
 <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.25rem 1.5rem;margin:1rem 0 1.5rem">
     <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--text3);font-weight:600;margin-bottom:8px">Tegenvoorbeeld — waar het níét over gaat</div>
-    <p style="font-size:13.5px;line-height:1.65;margin:0">Een polder in Friesland met een kleiwegdek op het veen, geen Natura 2000 in de buurt, nauwelijks kwel, en beperkte bodemdaling. Daar kun je als melkveehouder prima door met een aangepast bedrijf. Doelsturing op stikstof en waterkwaliteit geldt er gewoon, maar je hebt geen fundamenteel nieuw bedrijfsmodel nodig. Dat is geen veenweideboer in de zin van dit verhaal. Het onderscheid is belangrijk: niet elke boer op veen is een veenweideboer. Het gaat om de gebieden waar de reguliere weg doodloopt.</p>
+    <p style="font-size:13.5px;line-height:1.65;margin:0">Een polder in Friesland met een kleidek op het veen, geen Natura 2000 in de buurt, nauwelijks kwel, en beperkte bodemdaling. Daar kun je als melkveehouder prima door met een aangepast bedrijf. Doelsturing op stikstof en waterkwaliteit geldt er gewoon, maar je hebt geen fundamenteel nieuw bedrijfsmodel nodig. Dat is geen veenweideboer in de zin van dit verhaal. Het onderscheid is belangrijk: niet elke boer op veen is een veenweideboer. Het gaat om de gebieden waar de reguliere weg doodloopt.</p>
   </div>
 
 <div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1rem 0 1.5rem;font-size:13.5px;line-height:1.65">

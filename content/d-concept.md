@@ -20,7 +20,7 @@ De veenweideboer is een nieuwe typologie: niet een reguliere melkveehouder met b
 
       <div style="margin-bottom:14px">
         <div style="font-weight:600;color:var(--text);font-size:13px;margin-bottom:3px">② Doelen — een ladder, geen keuze</div>
-        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Per context en per bedrijf, in opgaande ladder. Eerst op bedrijfsniveau — een vieze sloot mag bestaan zolang het water het erf schoon verlaat; te warme percelen mogen bestaan zolang elders genoeg koolstof wordt vastgehouden. Daarna op polderniveau — wat de ene boer niet haalt, kan een ander binnen hetzelfde pijlvak compenseren tegen vergoeding. Daarna op collectiefniveau, waar de totale opgave wordt afgerekend. Bedrijfsniveau alleen werkt niet: ongelijke percelen en veendiktes maken individuele afrekening met één generieke norm onnodig destructief.</div>
+        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Per context en per bedrijf, in opgaande ladder. Eerst op bedrijfsniveau — een vieze sloot mag bestaan zolang het water het erf schoon verlaat; te warme percelen mogen bestaan zolang elders genoeg koolstof wordt vastgehouden. Daarna op polderniveau — wat de ene boer niet haalt, kan een ander binnen hetzelfde peilvak compenseren tegen vergoeding. Daarna op collectiefniveau, waar de totale opgave wordt afgerekend. Bedrijfsniveau alleen werkt niet: ongelijke percelen en veendiktes maken individuele afrekening met één generieke norm onnodig destructief.</div>
       </div>
 
       <div style="margin-bottom:14px">

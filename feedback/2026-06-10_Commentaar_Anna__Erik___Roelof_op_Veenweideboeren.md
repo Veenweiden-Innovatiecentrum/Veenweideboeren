@@ -41,6 +41,8 @@
 
 ### 1.3 Alle annotaties letterlijk (36 stuks, op paginavolgorde)
 
+> **Verantwoording (11 juni 2026):** alle 36 annotaties zijn herleid en verwerkt — via de topics A1–A11 hierboven en de PDF-checklist in sectie 6. De twee annotaties die buiten de topics vielen (p.5 "over ?", p.17 herformulering verdienmodel) zijn hieronder apart gemarkeerd.
+
 | p. | Annotatie (letterlijk) |
 |---|---|
 | 1 ✅ | "Op slide 5 staat 'hem' geen alternatief biedt. Hem/ haar of weglaten, ivm ook vrouwelijke ondernemers. ;)" |
@@ -49,13 +51,13 @@
 | 2 ✅ | "Helpt denk ik als hier 20.000 hectare staat. Omdat die later in het stuk ook zo benoemd wordt." |
 | 2 | *(markering zonder tekst)* |
 | 3 | "Akte 2 kwam voor mij hier uit de lucht vallen. Komt omdat ik hem geprint heb. Denk dat als je het digitaal leest je als lezer in het menu links al op zoek gaat naar wat is dat dan." |
-| 5 | "over ?" |
+| 5 ✅ | "over ?" *(ontbrekend woord: "En óver dát deel gaan de drie aktes")* |
 | 5 | "Waar we het gisteren ook al even over hadden. Veenweidenboer is al een bestaand begrip. Hoe gaat dit programma de term opnieuw laden?" |
 | 5 ✅ | "Kleidek denk ik?" |
 | 10 | "Wordt hier een ander ministerie bedoelt naast LVVN?" |
 | 11 ✅ | "Peilvak. Kwam ik vaker tegen, dus kwestie van zoeken en vervangen denk ik ;)" |
 | 17 | "Eigenlijk is er door de harde maatregelen toch niet veel ruimte voor ondernemerschap?" |
-| 17 | "voor de boer te creeeren ipv onder de boer te leggen?" |
+| 17 ✅ | "voor de boer te creeeren ipv onder de boer te leggen?" *(herformuleerd: "zonder de condities te scheppen waarin de boer een verdienmodel kan opbouwen" — de boer bouwt, de overheid schept condities)* |
 | 17 | "Hier raakte ik even het spoor bijster ;) Tot nu toe heb ik het gelezen als: er zijn 3 sporen vanuit de overheid. En er zijn 3 aktes van dit visiedocument en die moet je los van elkaar zien. Wat soms best een uitdaging is in het lezen, omdat ik 1 automatisch aan 1 koppel. (ideetje: romeinse cijfers kunnen misschien helpen?) Dus duurde even voordat dat lukte. Hier komt het wel samen akte 2 en spoor 2 wat het even verwarrend maakt. Misschien ben ik de enige lezer die hiervan in de war raakt, maar dacht laat het toch even weten." |
 | 17 | *(markering zonder tekst)* |
 | 17 | *(markering zonder tekst)* |

@@ -127,9 +127,9 @@
 
 | # | Topic | Kern | Type |
 |---|---|---|---|
-| R1 | **Akte 1 feitelijk aanscherpen** | Slootpeilbeleid heeft weinig effect op veenoxidatie midden in percelen; koeien op stal ≠ meer methaan; zware machines ≠ meer CO₂. Juiste redenering: uitstoot blijft hetzelfde → doelen niet gehaald. Stal biedt juist kansen voor ammoniakmaatregelen. | Inhoud — herwerk |
-| R2 | **"Mest is geen waterdienst"** | Snapt de koppeling in de dimensietabel (Voedselzekerheid, Akte 1) niet. | Inhoudelijke vraag |
-| R3 | **Dimensietabel: meerdere cellen "blijft hetzelfde"** | Klimaat & bodemdaling Akte 1 en Klimaat (bedrijf): "blijft eerder hetzelfde als nu", terwijl het stuk een toename suggereert. Voer: 80% gras, 20% mais/bijproducten/soja; soja vooral issue intensief vleesvee. | Inhoud |
+| R1 ✅ | **Akte 1 feitelijk aanscherpen** *(redenering omgezet naar "uitstoot blijft onverminderd hoog → doelen buiten bereik"; machines-argument geschrapt; ammoniak-kans stal benoemd)* | Slootpeilbeleid heeft weinig effect op veenoxidatie midden in percelen; koeien op stal ≠ meer methaan; zware machines ≠ meer CO₂. Juiste redenering: uitstoot blijft hetzelfde → doelen niet gehaald. Stal biedt juist kansen voor ammoniakmaatregelen. | Inhoud — herwerk |
+| R2 ✅ | **"Mest is geen waterdienst"** *(cel verhelderd: mest-dienst en waterdienst zijn twee aparte pijlers van voedselzekerheid)* | Snapt de koppeling in de dimensietabel (Voedselzekerheid, Akte 1) niet. | Inhoudelijke vraag |
+| R3 ✅ | **Dimensietabel: meerdere cellen "blijft hetzelfde"** *(cellen herformuleerd naar "onverminderd hoog"; krachtvoer i.p.v. soja)* | Klimaat & bodemdaling Akte 1 en Klimaat (bedrijf): "blijft eerder hetzelfde als nu", terwijl het stuk een toename suggereert. Voer: 80% gras, 20% mais/bijproducten/soja; soja vooral issue intensief vleesvee. | Inhoud |
 | R4 ✅ | **Zuivelexport-cijfer corrigeren** *(bulkmarkt + ZuivelNL-fiche)* | 75% blijft binnen de EU, waarvan 40% binnen Nederland; 25% naar China, VS, UK (bron: ZuivelNL Blik op Zuivel 2026). | Feit |
 | R5 ✅ | **Cijfers middengroep inconsistent** *(geen inconsistentie: 70-80% vandaag, 55-70% in 2040; tijdsanker toegevoegd)* | G zegt 70-80% klem; deel A (plaatje ontwikkeling melkveehouderij tot 2040) zegt 55-70%. | Consistentie |
 | R6 ✅ | **Peilterminologie & voorbeelden** *(+ vaste regel in richtlijnen/terminologie.md)* | Bij "peilverhoging" altijd benoemen: grondwaterpeil, slootwaterpeil of beide. Voorbeelden tussen haakjes (-40/Friesland) weglaten, "scheelt veel discussie". | Precisie |
@@ -151,10 +151,10 @@
 | # | Hangt aan | Commentaar (letterlijk) |
 |---|---|---|
 | C0 ✅ | "…het land als productiemiddel voor de **wereldmarkt**" (Akte 3, ondernemerschap) | "75% blijft binnen de EU, waarvan 40% binnen Nederland, 25% gaat naar China, VS en UK. https://zuivel-nl.files.svdcdn.com/production/images/Marktinformatie-en-Export/ZuivelNL-Blik-op-Zuivel-2026-NL.pdf" |
-| C1 | Dimensietabel, **Klimaat & bodemdaling, Akte 1**: "rood — Diepe ontwatering, hoge veenoxidatie" | "Blijft eerder hetzelfde als nu" |
-| C2 | Dimensietabel, **Klimaat (bedrijf), Akte 1**: "veel **vee**, veel zware machines, hoge emissies" | "Ook hier blijft hetzelfde nu kun je erin lezen dat het toeneemt." |
-| C3 | Dimensietabel, **Voedselzekerheid, Akte 1**: "geen waterdienst aan akkerbouw — schijnzekerheid" | "Die snap ik niet? Mest is geen waterdienst." |
-| C4 | Dimensietabel, **Grondstoffen & kringloop, Akte 1**: "Hoge import voer en kunstmest — open kringloop" | "Net als nu. Hoge import voer en vooral soja is vooral issue in intensieve vleesvee. 80% is gras en van de overige 20% is mais en bijproducten voedselindustrie (bierborstel) en soja." |
+| C1 ✅ | Dimensietabel, **Klimaat & bodemdaling, Akte 1**: "rood — Diepe ontwatering, hoge veenoxidatie" | "Blijft eerder hetzelfde als nu" |
+| C2 ✅ | Dimensietabel, **Klimaat (bedrijf), Akte 1**: "veel **vee**, veel zware machines, hoge emissies" | "Ook hier blijft hetzelfde nu kun je erin lezen dat het toeneemt." |
+| C3 ✅ | Dimensietabel, **Voedselzekerheid, Akte 1**: "geen waterdienst aan akkerbouw — schijnzekerheid" | "Die snap ik niet? Mest is geen waterdienst." |
+| C4 ✅ | Dimensietabel, **Grondstoffen & kringloop, Akte 1**: "Hoge import voer en kunstmest — open kringloop" | "Net als nu. Hoge import voer en vooral soja is vooral issue in intensieve vleesvee. 80% is gras en van de overige 20% is mais en bijproducten voedselindustrie (bierborstel) en soja." |
 
 ### 3.4 Zijn walkthrough-document letterlijk (volledig)
 
@@ -287,7 +287,7 @@
 1. **G herschrijven**: JUMP = vernieuwende bedrijfsconcepten mét en zonder dieren; Route 3 = bouwstenen naast koeien met doorgroeipad; Route 2 = doorgroei naar concepten met koeien (Erik).
 2. **Opgaven-tabel (B) vervangen** door opgaven + sterke voorbeelden; samen met Erik categorieën/aspecten bepalen die voor de toolbox (F1) verschil maken.
 3. **D ontwarren**: doelen vs. middelen scheiden; gebiedskoppelingen (stikstof↔natuur, water↔niet-stadsrand) corrigeren; -40 gws herpositioneren als middel + scope beperken tot afbraakgevoelige en kwel-gebieden (Erik, met Roelofs peilterminologie).
-4. **Akte 1 feitelijk corrigeren**: slootpeil/veenoxidatie-mechanisme, methaan stal/buiten, machines/CO₂, dimensietabel-cellen, "mest als waterdienst" uitleggen of schrappen (Roelof C1–C4, R1–R3).
+4. ✅ **Akte 1 feitelijk corrigeren**: slootpeil/veenoxidatie-mechanisme, methaan stal/buiten, machines/CO₂, dimensietabel-cellen, "mest als waterdienst" uitleggen of schrappen (Roelof C1–C4, R1–R3).
 5. ✅ **Cijfers gelijktrekken**: middengroep-percentage (55-70 vs 70-80), zuivelexport (ZuivelNL-bron), 20.000 ha vroeg introduceren.
 6. **Structuur**: aktes vs. sporen visueel onderscheiden (Romeinse cijfers?), akte 2 bij eerste noeming de naam "ingrijpen zonder vangrails" geven, tussenstap vóór Akte 1, visuele begrippenlijst, evt. noten voor verdieping.
 7. ✅ **Gevoeligheden verzachten**: *("extreem" bleek al opgelost)* "extreme bedrijfsconcepten" duiden, "kalveren bij de koe" → "gedeeltelijk", "zuinige boer" herformuleren, hem → hem/haar.

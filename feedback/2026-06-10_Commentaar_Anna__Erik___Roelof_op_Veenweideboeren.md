@@ -12,6 +12,8 @@
 > Bronbestanden lokaal: `/tmp/veenweideboeren-commentaar/`
 >
 > **Verwerkingsstatus** (bijgehouden vanaf 11 juni 2026): ✅ = verwerkt · ✅◐ = deels verwerkt · geen markering = open of geparkeerd
+>
+> **Stand 11 juni 2026:** Anna volledig verwerkt (A1–A11 + alle 36 annotaties). Roelof volledig verwerkt (R1–R18, C0–C4). Erik: E5 verwerkt; **E1–E4 en E6 open** — herwerk waarvoor Erik hulp aanbood.
 
 ---
 

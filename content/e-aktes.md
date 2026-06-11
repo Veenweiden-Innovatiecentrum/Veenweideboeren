@@ -119,7 +119,7 @@ Drie aktes voor het veenweidegebied. Niet drie gelijkwaardige scenario's, maar d
     <p>De kernvraag is niet meer "hoe compenseren we de boer?" maar "hoe maken we de boer tot ondernemer van de transitie?" In akte II zijn pijlers onmisbaar omdat het juridisch alternatief schraal is — privaatrechtelijke schadevergoeding bij onrechtmatig handelen, vrijwillige uitkoop, geen automatisch recht op vergoeding bij generieke maatregelen. Hier verschuiven die pijlers naar de achtergrond: als de maatschappelijke opdrachten en prestatiecontracten structureel lopen, worden pijlers een vangnet dat steeds minder nodig is.</p>
 
     <h4>Wat er eerst gebeurt</h4>
-    <p>De pijler grondbeleid stopt de grondhonger-dynamiek uit akte II. Hulp bij landafwaardering voorkomt dat familieondernemers gedwongen verkopen aan grote boeren vanuit de kleigebieden. Transitiesteun overbrugt de kwetsbare eerste jaren tot de prestatiecontracten lopen. De bergboerenregeling biedt basiszekerheid tijdens de transitieperiode.</p>
+    <p>De pijler grondbeleid stopt de grondhonger-dynamiek uit akte II. De grondbank vangt de waardedaling door vernatting op, zodat familieondernemers niet gedwongen verkopen aan grote boeren vanuit de kleigebieden (hoe dat werkt: F2, 3 — Grond &amp; ruimte). Transitiesteun overbrugt de kwetsbare eerste jaren tot de prestatiecontracten lopen. De bergboerenregeling biedt basiszekerheid tijdens de transitieperiode.</p>
 
     <div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.25rem 0;font-size:13.5px;line-height:1.65">
       <strong style="display:block;margin-bottom:6px;font-size:14px">Driesporenbeleid: €1,3 miljard, twee bestedingsroutes</strong>

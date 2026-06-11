@@ -65,7 +65,7 @@ def build_toolbox():
     template = open('templates/toolbox/template.html', encoding='utf-8').read()
     out = template.replace('{{SECTIONS}}', '\n\n'.join(parts))
     os.makedirs('dist', exist_ok=True)
-    dest = "dist/VIC toolbox veenweideboer.html"
+    dest = "dist/VIC's Veenweideboeren toolbox.html"
     open(dest, 'w', encoding='utf-8').write(out)
     print(f'Gebouwd: {dest} ({len(out)//1000}k tekens)')
 

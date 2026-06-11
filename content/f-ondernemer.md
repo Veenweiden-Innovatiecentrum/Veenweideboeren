@@ -14,7 +14,7 @@ De toolbox past niet bij één type boer, hij geeft juist ruimte aan verschillen
 
 ### Niveau 1 — Interne optimalisatie
 
-Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lagere kosten, betere bedrijfsvoering en bijdrage aan de opgaves. De indeling volgt het werkdocument <em>Toolbox Veenweideboer</em>: 35 bouwstenen in tien categorieën. Elke bouwsteen hieronder linkt naar de volledige uitwerking daar — wat het is, wat we weten, wanneer het toepasbaar is, met bronnen.
+Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lagere kosten, betere bedrijfsvoering en bijdrage aan de opgaves. De indeling volgt het werkdocument <em>VIC's Veenweideboeren toolbox</em>: 35 bouwstenen in tien categorieën. Elke bouwsteen hieronder linkt naar de volledige uitwerking daar — wat het is, wat we weten, wanneer het toepasbaar is, met bronnen.
 
 #### Waterbeheer op het bedrijf
 
@@ -26,11 +26,11 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#greppelinfiltratie" style="color:var(--accent2);text-decoration:none">Greppelinfiltratie</a></strong></td><td>Greppels in de zomer permanent watervoerend houden, zodat water het perceel intrekt</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#dynamisch-peilbeheer" style="color:var(--accent2);text-decoration:none">Dynamisch peilbeheer</a></strong></td><td>Slootpeil actief sturen binnen boven- en ondergrens, op grondwaterstand, bodemvocht en weersverwachting</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#pwis-en-awis" style="color:var(--accent2);text-decoration:none">PWIS en AWIS</a></strong></td><td>Kritische randvoorwaarde: gecontroleerd water infiltreren via drains — passief (PWIS) of actief gestuurd (AWIS)</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#druppelinfiltratie-dis" style="color:var(--accent2);text-decoration:none">Druppelinfiltratie (DIS)</a></strong></td><td>Experimentele vernattingstechniek met druppelslangen; pilots lopen</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#bevloeiing" style="color:var(--accent2);text-decoration:none">Bevloeiing</a></strong></td><td>Percelen bevloeien bij droogte; geen structurele bedrijfsmaatregel</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#greppelinfiltratie" style="color:var(--accent2);text-decoration:none">Greppelinfiltratie</a></strong></td><td>Greppels in de zomer permanent watervoerend houden, zodat water het perceel intrekt</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#dynamisch-peilbeheer" style="color:var(--accent2);text-decoration:none">Dynamisch peilbeheer</a></strong></td><td>Slootpeil actief sturen binnen boven- en ondergrens, op grondwaterstand, bodemvocht en weersverwachting</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#pwis-en-awis" style="color:var(--accent2);text-decoration:none">PWIS en AWIS</a></strong></td><td>Kritische randvoorwaarde: gecontroleerd water infiltreren via drains — passief (PWIS) of actief gestuurd (AWIS)</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#druppelinfiltratie-dis" style="color:var(--accent2);text-decoration:none">Druppelinfiltratie (DIS)</a></strong></td><td>Experimentele vernattingstechniek met druppelslangen; pilots lopen</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#bevloeiing" style="color:var(--accent2);text-decoration:none">Bevloeiing</a></strong></td><td>Percelen bevloeien bij droogte; geen structurele bedrijfsmaatregel</td></tr>
     </tbody>
   </table>
 
@@ -39,12 +39,12 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#slootmaaibeheer" style="color:var(--accent2);text-decoration:none">Slootmaaibeheer</a></strong></td><td>Watervegetatie gefaseerd en gedeeltelijk maaien in plaats van alles in één keer</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#baggerbeheer" style="color:var(--accent2);text-decoration:none">Baggerbeheer</a></strong></td><td>Slib verwijderen met aandacht voor timing, frequentie en licht materieel</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#oeverbeheer" style="color:var(--accent2);text-decoration:none">Oeverbeheer</a></strong></td><td>Talud maaien, oever beschermen tegen vertrapping, inrichting van de overgangszone</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#natuurvriendelijke-oevers" style="color:var(--accent2);text-decoration:none">Natuurvriendelijke oevers</a></strong></td><td>Flauwe taluds en oeverbegroeiing; op veen beperkter toepasbaar dan op klei of zand</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#helofytenfilter" style="color:var(--accent2);text-decoration:none">Helofytenfilter</a></strong></td><td>Zuivering via rietachtige oeverplanten in een strook of filterbekken</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#rivierkreeftenbestrijding" style="color:var(--accent2);text-decoration:none">Rivierkreeftenbestrijding</a></strong></td><td>Invasieve kreeften wegvangen die oevers en waterplanten vernielen</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#slootmaaibeheer" style="color:var(--accent2);text-decoration:none">Slootmaaibeheer</a></strong></td><td>Watervegetatie gefaseerd en gedeeltelijk maaien in plaats van alles in één keer</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#baggerbeheer" style="color:var(--accent2);text-decoration:none">Baggerbeheer</a></strong></td><td>Slib verwijderen met aandacht voor timing, frequentie en licht materieel</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#oeverbeheer" style="color:var(--accent2);text-decoration:none">Oeverbeheer</a></strong></td><td>Talud maaien, oever beschermen tegen vertrapping, inrichting van de overgangszone</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#natuurvriendelijke-oevers" style="color:var(--accent2);text-decoration:none">Natuurvriendelijke oevers</a></strong></td><td>Flauwe taluds en oeverbegroeiing; op veen beperkter toepasbaar dan op klei of zand</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#helofytenfilter" style="color:var(--accent2);text-decoration:none">Helofytenfilter</a></strong></td><td>Zuivering via rietachtige oeverplanten in een strook of filterbekken</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#rivierkreeftenbestrijding" style="color:var(--accent2);text-decoration:none">Rivierkreeftenbestrijding</a></strong></td><td>Invasieve kreeften wegvangen die oevers en waterplanten vernielen</td></tr>
     </tbody>
   </table>
 
@@ -53,9 +53,9 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#bodembeheer-en-bewaking" style="color:var(--accent2);text-decoration:none">Bodembeheer en bewaking</a></strong></td><td>Zes bodemdimensies samenhangend beheren en monitoren, van organische stof tot beworteling</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#draagkrachtbeheer" style="color:var(--accent2);text-decoration:none">Draagkrachtbeheer</a></strong></td><td>Sturen op het draagvermogen van natte veenbodem voor vee en machines</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#bekalken" style="color:var(--accent2);text-decoration:none">Bekalken</a></strong></td><td>De pH verhogen op van nature verzurend veen</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#bodembeheer-en-bewaking" style="color:var(--accent2);text-decoration:none">Bodembeheer en bewaking</a></strong></td><td>Zes bodemdimensies samenhangend beheren en monitoren, van organische stof tot beworteling</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#draagkrachtbeheer" style="color:var(--accent2);text-decoration:none">Draagkrachtbeheer</a></strong></td><td>Sturen op het draagvermogen van natte veenbodem voor vee en machines</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#bekalken" style="color:var(--accent2);text-decoration:none">Bekalken</a></strong></td><td>De pH verhogen op van nature verzurend veen</td></tr>
     </tbody>
   </table>
 
@@ -64,11 +64,11 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#beweidingssystemen" style="color:var(--accent2);text-decoration:none">Beweidingssystemen</a></strong></td><td>Omweiden, stripgrazen of kurzrasen, afgestemd op draagkracht en grasaanbod</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#grasrassen-en-doorzaaien" style="color:var(--accent2);text-decoration:none">Grasrassen en doorzaaien</a></strong></td><td>De zode versterken zonder scheuren; doorzaaien met passende rassen</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#kruidenrijk-grasland" style="color:var(--accent2);text-decoration:none">Kruidenrijk grasland</a></strong></td><td>Klaver en productieve kruiden naast gras: biodiverser voer, minder kunstmest, minder lachgas</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#maaibeheer" style="color:var(--accent2);text-decoration:none">Maaibeheer</a></strong></td><td>Timing, frequentie en hoogte van maaien, voor voederwinning én graslandkwaliteit</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#rijpaden-en-licht-materieel" style="color:var(--accent2);text-decoration:none">Rijpaden en licht materieel</a></strong></td><td>Vaste rijpaden en lagere bodemdruk tegen verdichting en insporing</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#beweidingssystemen" style="color:var(--accent2);text-decoration:none">Beweidingssystemen</a></strong></td><td>Omweiden, stripgrazen of kurzrasen, afgestemd op draagkracht en grasaanbod</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#grasrassen-en-doorzaaien" style="color:var(--accent2);text-decoration:none">Grasrassen en doorzaaien</a></strong></td><td>De zode versterken zonder scheuren; doorzaaien met passende rassen</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#kruidenrijk-grasland" style="color:var(--accent2);text-decoration:none">Kruidenrijk grasland</a></strong></td><td>Klaver en productieve kruiden naast gras: biodiverser voer, minder kunstmest, minder lachgas</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#maaibeheer" style="color:var(--accent2);text-decoration:none">Maaibeheer</a></strong></td><td>Timing, frequentie en hoogte van maaien, voor voederwinning én graslandkwaliteit</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#rijpaden-en-licht-materieel" style="color:var(--accent2);text-decoration:none">Rijpaden en licht materieel</a></strong></td><td>Vaste rijpaden en lagere bodemdruk tegen verdichting en insporing</td></tr>
     </tbody>
   </table>
 
@@ -77,9 +77,9 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#stikstofbemesting" style="color:var(--accent2);text-decoration:none">Stikstofbemesting</a></strong></td><td>Bemesten op basis van wat de veenbodem zelf al levert (NLV)</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#andere-mestsoorten-en-organische-stof" style="color:var(--accent2);text-decoration:none">(Andere) mestsoorten en organische stof</a></strong></td><td>Mestsoort kiezen op effect op bodemleven, organische stof en weidevogelhabitat</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#fosfaatbeheer" style="color:var(--accent2);text-decoration:none">Fosfaatbeheer</a></strong></td><td>Fosfaattoestand per perceel sturen, voor nutriëntenbenutting én waterkwaliteit</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#stikstofbemesting" style="color:var(--accent2);text-decoration:none">Stikstofbemesting</a></strong></td><td>Bemesten op basis van wat de veenbodem zelf al levert (NLV)</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#andere-mestsoorten-en-organische-stof" style="color:var(--accent2);text-decoration:none">(Andere) mestsoorten en organische stof</a></strong></td><td>Mestsoort kiezen op effect op bodemleven, organische stof en weidevogelhabitat</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#fosfaatbeheer" style="color:var(--accent2);text-decoration:none">Fosfaatbeheer</a></strong></td><td>Fosfaattoestand per perceel sturen, voor nutriëntenbenutting én waterkwaliteit</td></tr>
     </tbody>
   </table>
 
@@ -88,9 +88,9 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#voederwinning-en-conservering" style="color:var(--accent2);text-decoration:none">Voederwinning en conservering</a></strong></td><td>Maaien, drogen en inkuilen afgestemd op later gemaaid en kruidenrijk gras</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#eiwit-van-eigen-land" style="color:var(--accent2);text-decoration:none">Eiwit van eigen land</a></strong></td><td>Het aandeel eigen eiwit in het rantsoen verhogen, minder aangekocht krachtvoer</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#rantsoen-op-maat" style="color:var(--accent2);text-decoration:none">Rantsoen op maat</a></strong></td><td>Voersamenstelling afgestemd op de kenmerken van het veenweidebedrijf</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#voederwinning-en-conservering" style="color:var(--accent2);text-decoration:none">Voederwinning en conservering</a></strong></td><td>Maaien, drogen en inkuilen afgestemd op later gemaaid en kruidenrijk gras</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#eiwit-van-eigen-land" style="color:var(--accent2);text-decoration:none">Eiwit van eigen land</a></strong></td><td>Het aandeel eigen eiwit in het rantsoen verhogen, minder aangekocht krachtvoer</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#rantsoen-op-maat" style="color:var(--accent2);text-decoration:none">Rantsoen op maat</a></strong></td><td>Voersamenstelling afgestemd op de kenmerken van het veenweidebedrijf</td></tr>
     </tbody>
   </table>
 
@@ -99,9 +99,9 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#koe-kalf-kudde" style="color:var(--accent2);text-decoration:none">Koe-kalf-kudde</a></strong></td><td>Koe en kalf langer bij elkaar, natuurlijk kuddegedrag, dierenwelzijn</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#dynamisch-draadloos-weiden" style="color:var(--accent2);text-decoration:none">Dynamisch draadloos weiden</a></strong></td><td>Koeien virtueel gestuurd zonder fysiek hek (virtual fencing)</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#passende-koe" style="color:var(--accent2);text-decoration:none">Passende koe</a></strong></td><td>Raskeuze passend bij nat veen en lagere veedichtheid, in plaats van de standaard-Holstein</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#koe-kalf-kudde" style="color:var(--accent2);text-decoration:none">Koe-kalf-kudde</a></strong></td><td>Koe en kalf langer bij elkaar, natuurlijk kuddegedrag, dierenwelzijn</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#dynamisch-draadloos-weiden" style="color:var(--accent2);text-decoration:none">Dynamisch draadloos weiden</a></strong></td><td>Koeien virtueel gestuurd zonder fysiek hek (virtual fencing)</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#passende-koe" style="color:var(--accent2);text-decoration:none">Passende koe</a></strong></td><td>Raskeuze passend bij nat veen en lagere veedichtheid, in plaats van de standaard-Holstein</td></tr>
     </tbody>
   </table>
 
@@ -110,7 +110,7 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#ammoniakemissie" style="color:var(--accent2);text-decoration:none">Ammoniakemissie</a></strong></td><td>NH₃-uitstoot beperken in stal, mestopslag, toediening en beweiding</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#ammoniakemissie" style="color:var(--accent2);text-decoration:none">Ammoniakemissie</a></strong></td><td>NH₃-uitstoot beperken in stal, mestopslag, toediening en beweiding</td></tr>
     </tbody>
   </table>
 
@@ -119,10 +119,10 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#weidevogelbeheer" style="color:var(--accent2);text-decoration:none">Weidevogelbeheer</a></strong></td><td>Nestbescherming, uitgesteld maaien en plas-dras voor grutto, kievit en tureluur</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#insectenbeheer" style="color:var(--accent2);text-decoration:none">Insectenbeheer</a></strong></td><td>Bloemrijke randen en habitats voor insecten, als voedselbasis voor weidevogels</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#mozaïekbeheer" style="color:var(--accent2);text-decoration:none">Mozaïekbeheer</a></strong></td><td>Beheer per perceel variëren zodat gebiedsbreed een gevarieerd mozaïek ontstaat</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#landschapselementen-onderhouden" style="color:var(--accent2);text-decoration:none">Landschapselementen onderhouden</a></strong></td><td>Geriefhoutbosjes, erfbeplanting en natte elementen onderhouden</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#weidevogelbeheer" style="color:var(--accent2);text-decoration:none">Weidevogelbeheer</a></strong></td><td>Nestbescherming, uitgesteld maaien en plas-dras voor grutto, kievit en tureluur</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#insectenbeheer" style="color:var(--accent2);text-decoration:none">Insectenbeheer</a></strong></td><td>Bloemrijke randen en habitats voor insecten, als voedselbasis voor weidevogels</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#mozaïekbeheer" style="color:var(--accent2);text-decoration:none">Mozaïekbeheer</a></strong></td><td>Beheer per perceel variëren zodat gebiedsbreed een gevarieerd mozaïek ontstaat</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#landschapselementen-onderhouden" style="color:var(--accent2);text-decoration:none">Landschapselementen onderhouden</a></strong></td><td>Geriefhoutbosjes, erfbeplanting en natte elementen onderhouden</td></tr>
     </tbody>
   </table>
 
@@ -131,8 +131,8 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#elektrificatie" style="color:var(--accent2);text-decoration:none">Elektrificatie</a></strong></td><td>Diesel- en gasprocessen vervangen door elektrisch aangedreven equivalenten</td></tr>
-      <tr><td><strong><a href="VIC%20toolbox%20veenweideboer.html#eigen-energieopwekking" style="color:var(--accent2);text-decoration:none">Eigen energieopwekking</a></strong></td><td>Zonnepanelen op stal- en erfdaken, eventueel een kleine windturbine</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#elektrificatie" style="color:var(--accent2);text-decoration:none">Elektrificatie</a></strong></td><td>Diesel- en gasprocessen vervangen door elektrisch aangedreven equivalenten</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#eigen-energieopwekking" style="color:var(--accent2);text-decoration:none">Eigen energieopwekking</a></strong></td><td>Zonnepanelen op stal- en erfdaken, eventueel een kleine windturbine</td></tr>
     </tbody>
   </table>
 

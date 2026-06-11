@@ -60,7 +60,7 @@ Drie aktes voor het veenweidegebied. Niet drie gelijkwaardige scenario's, maar d
 
         <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius);padding:1rem 1.25rem;font-size:13px;line-height:1.55">
           <strong style="display:block;margin-bottom:4px;font-size:13.5px;color:var(--text)">Grootste deel van de 90.000 ha</strong>
-          <div style="color:var(--text2)">Reguliere melkveehouderij blijft mogelijk. Vernatting werkt hier met WIS als instrument en aangepast graslandbeheer. Geen andere typologie nodig. De veenweideboeren-aanpak is daar niet voor bedoeld. <strong>Het probleem is hier instrumenteel:</strong> hectarepremie compenseert grond in plaats van diensten te belonen, en generieke peilfixatie pakt de boer die al weinig uitstoot (zie hieronder).</div>
+          <div style="color:var(--text2)">Reguliere melkveehouderij blijft mogelijk. Vernatting werkt hier met waterinfiltratiesystemen (WIS) als instrument en aangepast graslandbeheer. Geen andere typologie nodig. De veenweideboeren-aanpak is daar niet voor bedoeld. <strong>Het probleem is hier instrumenteel:</strong> hectarepremie compenseert grond in plaats van diensten te belonen, en generieke peilfixatie pakt de boer die al weinig uitstoot (zie hieronder).</div>
         </div>
 
         <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius);padding:1rem 1.25rem;font-size:13px;line-height:1.55">
@@ -73,7 +73,7 @@ Drie aktes voor het veenweidegebied. Niet drie gelijkwaardige scenario's, maar d
 
     <div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.25rem 0;font-size:13.5px;line-height:1.65">
       <strong style="display:block;margin-bottom:6px;font-size:14px">Generieke peilfixatie pakt de boer die al weinig uitstoot</strong>
-      <p style="margin:0 0 .75rem">Niet elk veen emitteert evenveel. Percelen die al laag liggen zijn doorgaans natter en stoten minder broeikasgassen uit dan hoog gelegen percelen. Generieke peilfixatie binnen een peilvak raakt boeren met overwegend laaggelegen percelen — die nu al weinig uitstoten — even hard als boeren met hoge percelen die veel meer uitstoten. De boer die al weinig uitstoot, betaalt. Zonder kartering en differentiatie binnen peilvakken is dat moeilijk verdedigbaar.</p>
+      <p style="margin:0 0 .75rem">Niet elk veen emitteert evenveel. Percelen die al laag liggen zijn doorgaans natter en stoten minder broeikasgassen uit dan hoog gelegen percelen. Generieke peilfixatie binnen een peilvak raakt boeren met overwegend laaggelegen percelen — die nu al weinig uitstoten — harder dan boeren met hoge percelen die veel meer uitstoten. De boer die al weinig uitstoot, betaalt. Zonder kartering en differentiatie binnen peilvakken is dat moeilijk verdedigbaar.</p>
       <p style="margin:0"><strong>Water naar boven, rust op de rest.</strong> Hoog gelegen percelen stoten het meest uit en lijden het meest onder droogteschade — daar zit de winst van actief watermanagement. Lage natte percelen kunnen vaak met rust gelaten worden. Differentiatie binnen peilvakken benut die kennis; generieke peilfixatie negeert haar.</p>
     </div>
     <h4>Wat er verandert</h4>
@@ -119,7 +119,7 @@ Drie aktes voor het veenweidegebied. Niet drie gelijkwaardige scenario's, maar d
     <p>De kernvraag is niet meer "hoe compenseren we de boer?" maar "hoe maken we de boer tot ondernemer van de transitie?" In akte II zijn pijlers onmisbaar omdat het juridisch alternatief schraal is — privaatrechtelijke schadevergoeding bij onrechtmatig handelen, vrijwillige uitkoop, geen automatisch recht op vergoeding bij generieke maatregelen. Hier verschuiven die pijlers naar de achtergrond: als de maatschappelijke opdrachten en prestatiecontracten structureel lopen, worden pijlers een vangnet dat steeds minder nodig is.</p>
 
     <h4>Wat er eerst gebeurt</h4>
-    <p>De pijler grondbeleid stopt de grondhonger-dynamiek uit akte II. De grondbank vangt de waardedaling door vernatting op, zodat familieondernemers niet gedwongen verkopen aan grote boeren vanuit de kleigebieden (hoe dat werkt: F2, 3 — Grond &amp; ruimte). Transitiesteun overbrugt de kwetsbare eerste jaren tot de prestatiecontracten lopen. De bergboerenregeling biedt basiszekerheid tijdens de transitieperiode.</p>
+    <p>De pijler grondbeleid stopt de grondhonger-dynamiek uit akte II. De grondbank vangt de waardedaling door vernatting op, zodat familieondernemers niet gedwongen verkopen aan grote boeren vanuit de kleigebieden (hoe dat werkt: F2, 3 — Grond &amp; ruimte). Transitiesteun overbrugt de kwetsbare eerste jaren tot de prestatiecontracten lopen. De bergboerenregeling — de EU-regeling die boeren in gebieden met een natuurlijke handicap een structurele basisvergoeding geeft — biedt basiszekerheid tijdens de transitieperiode.</p>
 
     <div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.25rem 0;font-size:13.5px;line-height:1.65">
       <strong style="display:block;margin-bottom:6px;font-size:14px">Driesporenbeleid: €1,3 miljard, twee bestedingsroutes</strong>

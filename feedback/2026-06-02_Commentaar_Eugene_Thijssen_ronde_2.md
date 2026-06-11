@@ -5,7 +5,7 @@
 
 > **Verwerkingsstatus** (bijgehouden vanaf 11 juni 2026): ✅ = verwerkt · ✅◐ = deels verwerkt · geen markering = open of geparkeerd
 >
-> **Stand 11 juni 2026:** drie punten bleken al opgelost in v2 (peilvak, LNV→LVVN, de tafel-zin). Alle overige punten open; stap-voor-stap-behandeling loopt.
+> **Stand 11 juni 2026, einde dag:** vrijwel volledig verwerkt. Open: ET-N4 ⏸ (gekoppeld aan B2, na Erik-sessie), ET-N14/N19 (→ werksessie Erik 16 juni), ET-N11-verificatie bij Douwe Jonkers (actie Tim), navigatiebug walkthrough (ET-N1-rest), en ET-N35 (LBI-besluit Tim).
 
 ---
 
@@ -60,24 +60,24 @@ Plus de vraag: mag het document gedeeld worden met het **LBI (Nick van Eekeren)*
 
 | # | Topic | Kern |
 |---|---|---|
-| ET-N17 | netcongestie → **stroomnetuitbreiding** | "Niet de congestie loopt vast, maar de uitbreiding." (intro + slide) |
-| ET-N18 | **schaalvergrotigingsreflex → schaalvergrotingsreflex** | Typo, 2× (B + slide). |
+| ET-N17 ✅ | netcongestie → **stroomnetuitbreiding** | "Niet de congestie loopt vast, maar de uitbreiding." (intro + slide) |
+| ET-N18 ✅ | **schaalvergrotigingsreflex → schaalvergrotingsreflex** | Typo, 2× (B + slide). |
 | ET-N19 | **Lachgasemissies tegengaan** mist bij opgave Klimaat — bedrijf | B-tabel. |
-| ET-N20 | **"het erf schoon verlaat" → ook de percelen** | "(nitraat, fosfaat)" — D ② Doelen. |
-| ET-N21 | **"te warme percelen" onbegrijpelijk** | "Wat wordt bedoeld met te warme percelen???" — D ② Doelen. |
-| ET-N22 | **"onnodig destructief" → "nagenoeg onmogelijk"?** | Bewordingscheck D ②. |
-| ET-N23 | **③ Juridische ruimte: zin klopt niet** | Voorstel: "…Wateropslag als bedrijfsactiviteit; zaken die voor een melkveehouder nu nog omslachtig vergunningplichtig zijn omdat een veenweidecategorie in het omgevingsplan ontbreekt." |
-| ET-N24 | **WIS uitschrijven bij eerste gebruik** | Eerste vindplaats is het spoor-2-blok in akte II, vóór de definitie in F1. |
-| ET-N25 | **"even hard" → "meer"?** | Zuinige-boer-passage: raakt generieke peilfixatie laaggelegen boeren "even hard" of juist "meer"? |
-| ET-N26 | **Kostenverschuiving-kernzin** | "Het geld dat je als overheid **zou besteden aan compensatie**, zou je ook…" |
-| ET-N27 | **'Verborgen kosten' bij de infographic toelichten** | Definitie geleverd: maatschappelijke kosten die niet in marktprijzen zitten en door samenleving/toekomstige generaties worden gedragen. |
-| ET-N28 | **boerinkomen → boereninkomen** | Typo, dimensie-partial. |
-| ET-N29 | **ANLB → ANLb** | 2× (partial + slide). |
-| ET-N30 | **"rekent ze bij elkaar op" → "telt ze bij elkaar op"** | Dimensie-partial. |
-| ET-N31 | **Weidevogelbeheer geeft geen betere opbrengst** | Functionele-biodiversiteit-passage F1: kruidenrijk grasland en bloemrijke randen wel, weidevogelbeheer "lijkt me onwaarschijnlijk". |
-| ET-N32 | **Natura 2000-bullet: "zin is niet af"** | Scope-criteria in A. |
-| ET-N33 | **Bergboerenregeling uitleggen + verwijzing naar F2** | Bij "Wat er eerst gebeurt" (akte III): landafwaarderings-redenering vooruit verwijzen naar F2-cluster 3; bergboerenregeling definiëren (EU-regeling voor gebieden met natuurlijke handicaps). |
-| ET-N34 | **Infographic populatiemodel: groter lettertype, meer contrast** | "Niet grijs." |
+| ET-N20 ✅ | **"het erf schoon verlaat" → ook de percelen** | "(nitraat, fosfaat)" — D ② Doelen. |
+| ET-N21 ✅ | **"te warme percelen" onbegrijpelijk** | "Wat wordt bedoeld met te warme percelen???" — D ② Doelen. |
+| ET-N22 ✅ | **"onnodig destructief" → "nagenoeg onmogelijk"?** | Bewordingscheck D ②. |
+| ET-N23 ✅ | **③ Juridische ruimte: zin klopt niet** | Voorstel: "…Wateropslag als bedrijfsactiviteit; zaken die voor een melkveehouder nu nog omslachtig vergunningplichtig zijn omdat een veenweidecategorie in het omgevingsplan ontbreekt." |
+| ET-N24 ✅ | **WIS uitschrijven bij eerste gebruik** | Eerste vindplaats is het spoor-2-blok in akte II, vóór de definitie in F1. |
+| ET-N25 ✅ | **"even hard" → "meer"?** | Zuinige-boer-passage: raakt generieke peilfixatie laaggelegen boeren "even hard" of juist "meer"? |
+| ET-N26 ✅ | **Kostenverschuiving-kernzin** | "Het geld dat je als overheid **zou besteden aan compensatie**, zou je ook…" |
+| ET-N27 ✅ | **'Verborgen kosten' bij de infographic toelichten** | Definitie geleverd: maatschappelijke kosten die niet in marktprijzen zitten en door samenleving/toekomstige generaties worden gedragen. |
+| ET-N28 ✅ | **boerinkomen → boereninkomen** | Typo, dimensie-partial. |
+| ET-N29 ✅ | **ANLB → ANLb** | 2× (partial + slide). |
+| ET-N30 ✅ | **"rekent ze bij elkaar op" → "telt ze bij elkaar op"** | Dimensie-partial. |
+| ET-N31 ✅ | **Weidevogelbeheer geeft geen betere opbrengst** | Functionele-biodiversiteit-passage F1: kruidenrijk grasland en bloemrijke randen wel, weidevogelbeheer "lijkt me onwaarschijnlijk". |
+| ET-N32 ✅ | **Natura 2000-bullet: "zin is niet af"** | Scope-criteria in A. |
+| ET-N33 ✅ | **Bergboerenregeling uitleggen + verwijzing naar F2** *(gloss bij akte III; F2-verwijzing al gedekt via ET-N9)* | Bij "Wat er eerst gebeurt" (akte III): landafwaarderings-redenering vooruit verwijzen naar F2-cluster 3; bergboerenregeling definiëren (EU-regeling voor gebieden met natuurlijke handicaps). |
+| ET-N34 ✅ | **Infographic populatiemodel: groter lettertype, meer contrast** | "Niet grijs." |
 
 ### Al opgelost in de huidige versie ✅
 

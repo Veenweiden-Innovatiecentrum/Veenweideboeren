@@ -10,6 +10,8 @@
 > | Erik Jansen | 6 juni, 21:00 (aan Tim, Youri, Roelof) | `Reactie Erik bij Veenweidenboeren mei 2026.docx` | Reactiedocument (5 punten) |
 >
 > Bronbestanden lokaal: `/tmp/veenweideboeren-commentaar/`
+>
+> **Verwerkingsstatus** (bijgehouden vanaf 11 juni 2026): ✅ = verwerkt · ✅◐ = deels verwerkt · geen markering = open of geparkeerd
 
 ---
 
@@ -28,55 +30,55 @@
 | A1 | **Sporen vs. aktes verwarrend** | Drie sporen (overheid) en drie aktes (document) lopen voor de lezer door elkaar; op p.17 komen "akte 2" en "spoor 2" samen. Suggestie: Romeinse cijfers voor één van beide. | Structuur — zwaarstwegend |
 | A2 | **Terminologie-overload** | Begrippen zijn per hoofdstuk helder, maar gaandeweg niet meer te onthouden. Suggestie: **visuele begrippenlijst**. | Structuur |
 | A3 | **Akte 2 valt uit de lucht** (p.3) | Komt zonder introductie het verhaal binnen (mede door geprint lezen). | Structuur |
-| A4 | **"Kalveren bij de koe" als blokkade** (p.29) | Kan boeren afschrikken; WUR/KTC-ervaring: kalfjes drinken veel melk. Suggestie: "gedeeltelijk kalveren bij de koe". | Inhoud |
-| A5 | **"Zuinige boer" verkeerd te lezen** (p.17) | Leest als "op de laatste cent letten" terwijl 'lage-uitstoot-boer' wordt bedoeld? | Terminologie |
+| A4 ✅ | **"Kalveren bij de koe" als blokkade** (p.29) | Kan boeren afschrikken; WUR/KTC-ervaring: kalfjes drinken veel melk. Suggestie: "gedeeltelijk kalveren bij de koe". | Inhoud |
+| A5 ✅ | **"Zuinige boer" verkeerd te lezen** (p.17) | Leest als "op de laatste cent letten" terwijl 'lage-uitstoot-boer' wordt bedoeld? | Terminologie |
 | A6 | **Term "Veenweideboer" bestaat al** (p.5) | Hoe gaat het programma de bestaande term opnieuw laden? | Strategisch |
 | A7 | **Harde maatregelen vs. ondernemerschap** (p.17) | "Eigenlijk is er door de harde maatregelen toch niet veel ruimte voor ondernemerschap?" | Inhoudelijke vraag |
-| A8 | **Consistentie cijfers/begrippen** | 20.000 ha eerder noemen (p.2); "is dit hetzelfde als de middengroep?" (p.19); "groot binnen de middengroep toch?" (p.31). | Consistentie |
-| A9 | **Onbekende/moeilijke woorden** | p.23 ("om niet" → belangeloos?), p.27 (Nederlands woord zoeken), p.33 ("enkelvoudige?"), p.42 (→ opeenvolgend?). | Taal |
-| A10 | **Typo's & kleinigheden** | "pijlvak" → peilvak (meermaals, "zoeken en vervangen"), "hem" → hem/haar, kleidek (p.5), LVVN (p.35), oranje kleur nodig (p.23), werkte/wordt gewerkt (p.35), welk ministerie naast LVVN (p.10)? | Redactie |
+| A8 ✅◐ | **Consistentie cijfers/begrippen** | 20.000 ha eerder noemen (p.2); "is dit hetzelfde als de middengroep?" (p.19); "groot binnen de middengroep toch?" (p.31). | Consistentie |
+| A9 ✅◐ | **Onbekende/moeilijke woorden** | p.23 ("om niet" → belangeloos?), p.27 (Nederlands woord zoeken), p.33 ("enkelvoudige?"), p.42 (→ opeenvolgend?). | Taal |
+| A10 ✅◐ | **Typo's & kleinigheden** | "pijlvak" → peilvak (meermaals, "zoeken en vervangen"), "hem" → hem/haar, kleidek (p.5), LVVN (p.35), oranje kleur nodig (p.23), werkte/wordt gewerkt (p.35), welk ministerie naast LVVN (p.10)? | Redactie |
 | A11 | **Complimenten** | Plaatje p.25 "echt heel helder!!"; rolverdeling p.41 "heel helder!"; p.39 mooi antwoord op "te mooi om waar te zijn"; slides helpen begrippen begrijpen. | Positief |
 
 ### 1.3 Alle annotaties letterlijk (36 stuks, op paginavolgorde)
 
 | p. | Annotatie (letterlijk) |
 |---|---|
-| 1 | "Op slide 5 staat 'hem' geen alternatief biedt. Hem/ haar of weglaten, ivm ook vrouwelijke ondernemers. ;)" |
+| 1 ✅ | "Op slide 5 staat 'hem' geen alternatief biedt. Hem/ haar of weglaten, ivm ook vrouwelijke ondernemers. ;)" |
 | 1 | "Slides inmiddels ook gelezen. Helpt heel erg om begrippen beter te begrijpen omdat ze daar al kort en kernachtig voorbijkomen! En sowieso ziet de digitale versie er natuurlijk veel mooier uit dan de geprinte versie. :)" |
 | 2 | "Intensivering hadden we het gisteren al over gehad." |
-| 2 | "Helpt denk ik als hier 20.000 hectare staat. Omdat die later in het stuk ook zo benoemd wordt." |
+| 2 ✅ | "Helpt denk ik als hier 20.000 hectare staat. Omdat die later in het stuk ook zo benoemd wordt." |
 | 2 | *(markering zonder tekst)* |
 | 3 | "Akte 2 kwam voor mij hier uit de lucht vallen. Komt omdat ik hem geprint heb. Denk dat als je het digitaal leest je als lezer in het menu links al op zoek gaat naar wat is dat dan." |
 | 5 | "over ?" |
 | 5 | "Waar we het gisteren ook al even over hadden. Veenweidenboer is al een bestaand begrip. Hoe gaat dit programma de term opnieuw laden?" |
-| 5 | "Kleidek denk ik?" |
+| 5 ✅ | "Kleidek denk ik?" |
 | 10 | "Wordt hier een ander ministerie bedoelt naast LVVN?" |
-| 11 | "Peilvak. Kwam ik vaker tegen, dus kwestie van zoeken en vervangen denk ik ;)" |
+| 11 ✅ | "Peilvak. Kwam ik vaker tegen, dus kwestie van zoeken en vervangen denk ik ;)" |
 | 17 | "Eigenlijk is er door de harde maatregelen toch niet veel ruimte voor ondernemerschap?" |
 | 17 | "voor de boer te creeeren ipv onder de boer te leggen?" |
 | 17 | "Hier raakte ik even het spoor bijster ;) Tot nu toe heb ik het gelezen als: er zijn 3 sporen vanuit de overheid. En er zijn 3 aktes van dit visiedocument en die moet je los van elkaar zien. Wat soms best een uitdaging is in het lezen, omdat ik 1 automatisch aan 1 koppel. (ideetje: romeinse cijfers kunnen misschien helpen?) Dus duurde even voordat dat lukte. Hier komt het wel samen akte 2 en spoor 2 wat het even verwarrend maakt. Misschien ben ik de enige lezer die hiervan in de war raakt, maar dacht laat het toch even weten." |
 | 17 | *(markering zonder tekst)* |
 | 17 | *(markering zonder tekst)* |
-| 17 | "Zuinig lees ik als: de boer die op de laatste cent kijkt. Terwijl het hier denk ik om een 'lage uitstoot boer' gaat? Of wordt er iets anders bedoelt?" |
-| 17 | "In dit stukje komt pijlvak = peilvak een paar keer voorbij. Ook in meervoud." |
+| 17 ✅ | "Zuinig lees ik als: de boer die op de laatste cent kijkt. Terwijl het hier denk ik om een 'lage uitstoot boer' gaat? Of wordt er iets anders bedoelt?" |
+| 17 ✅ | "In dit stukje komt pijlvak = peilvak een paar keer voorbij. Ook in meervoud." |
 | 19 | "is dit hetzelfde als de middengroep?" |
-| 23 | "Was voor mij een nieuw term.. Toegankelijker woord: belangeloos? of dekt dat niet de lading?" |
+| 23 ✅ | "Was voor mij een nieuw term.. Toegankelijker woord: belangeloos? of dekt dat niet de lading?" |
 | 23 | *(markering zonder tekst)* |
 | 23 | "oranje kleur nodig" |
 | 25 | "Dit plaatje is echt heel helder en vat het heel mooi in beeld!! In 1 oogoplsag duidelijk." |
 | 27 | "voor akte 3 boer?" |
 | 27 | "Is hier ook een nederlands woord voor?" |
-| 29 | "Hier kunnen boeren op triggeren. Wat ik ook wel snap. Bij een experiment van WUR bij KTC en paar jaar geleden bleek dat de kalfjes heel veel melk drinken en er weinig over bleef per dag om de koe te melken. Weet de cijfers niet meer uit mijn hoofd, maar was toen voor mij wel even een realisatie moment wat het mooie beeld van kalf bij de koe in een ander daglicht zette. Misschien helpt het om hier 'gedeeltelijk kalveren bij de koe' neer te zetten. Dan is er ook ruimte voor een zoogkoe, gedeelte van de dag kalf bij de koe etc. Ik denk dat kalveren bij de koe nu voor een boer een blokkade kan zijn als hij/zij dit leest. Wat zonde is natuurlijk." |
+| 29 ✅ | "Hier kunnen boeren op triggeren. Wat ik ook wel snap. Bij een experiment van WUR bij KTC en paar jaar geleden bleek dat de kalfjes heel veel melk drinken en er weinig over bleef per dag om de koe te melken. Weet de cijfers niet meer uit mijn hoofd, maar was toen voor mij wel even een realisatie moment wat het mooie beeld van kalf bij de koe in een ander daglicht zette. Misschien helpt het om hier 'gedeeltelijk kalveren bij de koe' neer te zetten. Dan is er ook ruimte voor een zoogkoe, gedeelte van de dag kalf bij de koe etc. Ik denk dat kalveren bij de koe nu voor een boer een blokkade kan zijn als hij/zij dit leest. Wat zonde is natuurlijk." |
 | 31 | "Groot binnen de middengroep toch?" |
 | 33 | "enkelvoudige?" |
 | 33 | "Wat wordt hier bedoelt met financiën?" |
 | 33 | "Hier lopen voor mij de sporen en aktes weer even door elkaar heen." |
 | 33 | "Er worden veel afwisselende termen gebruikt. Die op zichzelf in het hoofdstuk waar ze uitgelegd worden goed te begrijpen zijn. Alleen gaandeweg is het als lezer (voor mij in ieder geval) wat lastig te onthouden wat het ook alweer was. Omdat je dan in een nieuw hoofdstuk zit. Misschien dat een visuele begrippenlijst kan helpen? En wat ik al eerder zei kan ook gewoon aan mij als lezer liggen. :)" |
-| 35 | "LVVN" |
+| 35 ✅ | "LVVN" |
 | 35 | "werkte, of wordt er nog steeds aan gewerkt?" |
 | 39 | "Deze had ik gisteren nog niet gelezen. Is mooi antwoord op mijn vraag van gisteren! 'Het lijkt bijna te mooi om waar te zijn'." |
 | 41 | "Heel heldere rolverdeling!" |
-| 42 | "Voor mij een onbekend woord. Opeenvolgend?" |
+| 42 ✅ | "Voor mij een onbekend woord. Opeenvolgend?" |
 
 *N.B. Drie annotaties zijn markeringen/highlights zonder tekst (p.2, 2× p.17, 1× p.23) — in de PDF zelf nakijken welke passages ze markeren.*
 
@@ -96,7 +98,7 @@
 | E2 | **Opgaven-tabel (B) deugt niet als duidingsinstrument** | Indeling polder/natuur/stadsrand duidt de zwaarteverschillen niet; er kloppen dingen niet (cultuur & landschap juist in stadsrand belangrijk); scores overal maken verschillen kunstmatig klein. Voorstel: opgaven noemen + paar sterke voorbeelden. **Biedt hulp aan.** | Inhoud — herwerk |
 | E3 | **D: doelen en middelen door elkaar, gebiedskoppeling klopt niet** | Stikstof speelt nabij natuur (niet algemeen); bufferbeheer is middel, geen doel; CO₂ en waterkwaliteit spelen overal; waterbuffering hoort niet automatisch bij stadsrand. **Biedt hulp aan.** | Inhoud — herwerk |
 | E4 | **-40 gws als algemene doelstelling knelt met scope** | -40 is middel, geen doel; geeft bij nat voorjaar overal problemen → scope wordt onbedoeld heel het veenweidegebied. Focus op afbraakgevoelige gebieden (daar zelfs hoger peil) én op **kwel-gebieden** waar de situatie onhoudbaar wordt — daar zijn nieuwe concepten sowieso nodig. | Inhoud |
-| E5 | **"Extreme bedrijfsconcepten" schrikt af** | Term klopt, maar duid 'extreem' als innovatief / in pure vorm / zijn tijd ver vooruit — of kies een ander woord. Boodschap: ze zijn niet zomaar te realiseren, en dat is ook de bedoeling. | Framing |
+| E5 ✅ | **"Extreme bedrijfsconcepten" schrikt af** *(bleek in v2 al "vergaande")* | Term klopt, maar duid 'extreem' als innovatief / in pure vorm / zijn tijd ver vooruit — of kies een ander woord. Boodschap: ze zijn niet zomaar te realiseren, en dat is ook de bedoeling. | Framing |
 | E6 | **F1 (toolbox-context)** | Voor de toepassing een paar aspecten kiezen die verschil maken voor de toolbox. "Moeten we samen maar even op puzzelen." | Vervolg |
 
 ### 2.3 Zijn reactie letterlijk (volledig document)
@@ -128,17 +130,17 @@
 | R1 | **Akte 1 feitelijk aanscherpen** | Slootpeilbeleid heeft weinig effect op veenoxidatie midden in percelen; koeien op stal ≠ meer methaan; zware machines ≠ meer CO₂. Juiste redenering: uitstoot blijft hetzelfde → doelen niet gehaald. Stal biedt juist kansen voor ammoniakmaatregelen. | Inhoud — herwerk |
 | R2 | **"Mest is geen waterdienst"** | Snapt de koppeling in de dimensietabel (Voedselzekerheid, Akte 1) niet. | Inhoudelijke vraag |
 | R3 | **Dimensietabel: meerdere cellen "blijft hetzelfde"** | Klimaat & bodemdaling Akte 1 en Klimaat (bedrijf): "blijft eerder hetzelfde als nu", terwijl het stuk een toename suggereert. Voer: 80% gras, 20% mais/bijproducten/soja; soja vooral issue intensief vleesvee. | Inhoud |
-| R4 | **Zuivelexport-cijfer corrigeren** | 75% blijft binnen de EU, waarvan 40% binnen Nederland; 25% naar China, VS, UK (bron: ZuivelNL Blik op Zuivel 2026). | Feit |
-| R5 | **Cijfers middengroep inconsistent** | G zegt 70-80% klem; deel A (plaatje ontwikkeling melkveehouderij tot 2040) zegt 55-70%. | Consistentie |
-| R6 | **Peilterminologie & voorbeelden** | Bij "peilverhoging" altijd benoemen: grondwaterpeil, slootwaterpeil of beide. Voorbeelden tussen haakjes (-40/Friesland) weglaten, "scheelt veel discussie". | Precisie |
+| R4 ✅ | **Zuivelexport-cijfer corrigeren** *(bulkmarkt + ZuivelNL-fiche)* | 75% blijft binnen de EU, waarvan 40% binnen Nederland; 25% naar China, VS, UK (bron: ZuivelNL Blik op Zuivel 2026). | Feit |
+| R5 ✅ | **Cijfers middengroep inconsistent** *(geen inconsistentie: 70-80% vandaag, 55-70% in 2040; tijdsanker toegevoegd)* | G zegt 70-80% klem; deel A (plaatje ontwikkeling melkveehouderij tot 2040) zegt 55-70%. | Consistentie |
+| R6 ✅ | **Peilterminologie & voorbeelden** *(+ vaste regel in richtlijnen/terminologie.md)* | Bij "peilverhoging" altijd benoemen: grondwaterpeil, slootwaterpeil of beide. Voorbeelden tussen haakjes (-40/Friesland) weglaten, "scheelt veel discussie". | Precisie |
 | R7 | **Juridisering als scenario uitwerken** | Grote bedrijven gaan beleid juridisch bestrijden: "niet meer met trekkers naar het Binnenhof maar met advocaten naar de Raad van State aan de Kneuterdijk." | Tekstvoorstel |
 | R8 | **Tweedeling + rentmeesterschap** | Uitgewerkte alinea: groot/laagkosten vs. klein/niche; middengroep verdwijnt → "Kort: margedruk vernietigt het rentmeesterschap." | Tekstvoorstel |
 | R9 | **Landbouw als nutsfunctie / drinkwater-analogie** | Betaling voor publieke diensten is geen radicale koerswijziging maar aanvulling op bestaand overheidsdenken; vergelijking met drinkwaterbedrijven dringt zich op. | Tekstvoorstel |
 | R10 | **Moreel argument voedselproductie** | Is het moreel te verdedigen voedselproductie af te wentelen op andere landen (groeiende wereldbevolking, afnemende bodemvruchtbaarheid)? En: natuurbeheer kost ook geld. | Tekstvoorstel |
 | R11 | **Toekomstperspectief i.p.v. alleen geld** | "Eigenlijk is het raar dat veel jonge boeren werken aan maatschappelijke opgaven als bedreiging ervaren. Dat zou andersom moeten zijn." | Inhoud |
-| R12 | **"Structurele inkomenszekerheid" te sterk** (F2) | Elke ondernemer kan failliet; het gaat om langjarige visie en voorspelbare overheid als opdrachtgever (geen plotselinge derogatie-/bufferstrook-verrassingen). | Nuance |
+| R12 ✅ | **"Structurele inkomenszekerheid" te sterk** (F2) | Elke ondernemer kan failliet; het gaat om langjarige visie en voorspelbare overheid als opdrachtgever (geen plotselinge derogatie-/bufferstrook-verrassingen). | Nuance |
 | R13 | **Koolstof-/biodiversiteitsmarkt scherper** (F2) | Prestaties bóven wettelijke doelen; CO₂ verwijderen, niet minder uitstoten. | Precisie |
-| R14 | **Gebiedsregie verbreden** (Organisatie) | Niet alleen agrarische collectieven in de titel: "Gebiedsregie via gebiedsorganisaties (gebiedscommissie?)". | Inhoud |
+| R14 ✅ | **Gebiedsregie verbreden** (Organisatie) | Niet alleen agrarische collectieven in de titel: "Gebiedsregie via gebiedsorganisaties (gebiedscommissie?)". | Inhoud |
 | R15 | **Structuur/leesbaarheid** | Noten voor verdieping ("te veel grijstinten moeten we niet willen"); akte 2 bij eerste noemen meteen de naam geven; overgang 7→8/16 abrupt → tussenstap met introductie drie aktes; zwarte kaders 2× slecht leesbaar; "juist het mooiste verhaal heeft nu de lelijkste opmaak" (10/16). | Vorm |
 | R16 | **Toon Akte 1 bewaken** | "De beschrijving van de opgaven is wat ongenuanceerd, dat kan een keuze zijn, besef wel wat je dan oproept. Ben benieuwd wat Barend hier bijvoorbeeld over zei." | Strategisch |
 | R17 | **Aanvullingen inhoud** | Weidegang onder druk noemen (B); paludicultuur/koolstofopslag/energie/wonen noemen (12/16); risico "geen alternatief voor inkomsten uit melk en vlees" positief benoemen als brug naar JUMP (13/16); onverkoopbare bedrijven/overname-vraag (Akte 1); Boersema & Reijnders-uitgangspunten bij sturingsprincipe (D). | Aanvulling |
@@ -148,7 +150,7 @@
 
 | # | Hangt aan | Commentaar (letterlijk) |
 |---|---|---|
-| C0 | "…het land als productiemiddel voor de **wereldmarkt**" (Akte 3, ondernemerschap) | "75% blijft binnen de EU, waarvan 40% binnen Nederland, 25% gaat naar China, VS en UK. https://zuivel-nl.files.svdcdn.com/production/images/Marktinformatie-en-Export/ZuivelNL-Blik-op-Zuivel-2026-NL.pdf" |
+| C0 ✅ | "…het land als productiemiddel voor de **wereldmarkt**" (Akte 3, ondernemerschap) | "75% blijft binnen de EU, waarvan 40% binnen Nederland, 25% gaat naar China, VS en UK. https://zuivel-nl.files.svdcdn.com/production/images/Marktinformatie-en-Export/ZuivelNL-Blik-op-Zuivel-2026-NL.pdf" |
 | C1 | Dimensietabel, **Klimaat & bodemdaling, Akte 1**: "rood — Diepe ontwatering, hoge veenoxidatie" | "Blijft eerder hetzelfde als nu" |
 | C2 | Dimensietabel, **Klimaat (bedrijf), Akte 1**: "veel **vee**, veel zware machines, hoge emissies" | "Ook hier blijft hetzelfde nu kun je erin lezen dat het toeneemt." |
 | C3 | Dimensietabel, **Voedselzekerheid, Akte 1**: "geen waterdienst aan akkerbouw — schijnzekerheid" | "Die snap ik niet? Mest is geen waterdienst." |
@@ -286,9 +288,9 @@
 2. **Opgaven-tabel (B) vervangen** door opgaven + sterke voorbeelden; samen met Erik categorieën/aspecten bepalen die voor de toolbox (F1) verschil maken.
 3. **D ontwarren**: doelen vs. middelen scheiden; gebiedskoppelingen (stikstof↔natuur, water↔niet-stadsrand) corrigeren; -40 gws herpositioneren als middel + scope beperken tot afbraakgevoelige en kwel-gebieden (Erik, met Roelofs peilterminologie).
 4. **Akte 1 feitelijk corrigeren**: slootpeil/veenoxidatie-mechanisme, methaan stal/buiten, machines/CO₂, dimensietabel-cellen, "mest als waterdienst" uitleggen of schrappen (Roelof C1–C4, R1–R3).
-5. **Cijfers gelijktrekken**: middengroep-percentage (55-70 vs 70-80), zuivelexport (ZuivelNL-bron), 20.000 ha vroeg introduceren.
+5. ✅ **Cijfers gelijktrekken**: middengroep-percentage (55-70 vs 70-80), zuivelexport (ZuivelNL-bron), 20.000 ha vroeg introduceren.
 6. **Structuur**: aktes vs. sporen visueel onderscheiden (Romeinse cijfers?), akte 2 bij eerste noeming de naam "ingrijpen zonder vangrails" geven, tussenstap vóór Akte 1, visuele begrippenlijst, evt. noten voor verdieping.
-7. **Gevoeligheden verzachten**: "extreme bedrijfsconcepten" duiden, "kalveren bij de koe" → "gedeeltelijk", "zuinige boer" herformuleren, hem → hem/haar.
+7. ✅ **Gevoeligheden verzachten**: *("extreem" bleek al opgelost)* "extreme bedrijfsconcepten" duiden, "kalveren bij de koe" → "gedeeltelijk", "zuinige boer" herformuleren, hem → hem/haar.
 8. **Tekstvoorstellen van Roelof wegen**: rentmeesterschap-alinea (5/16), juridisering (6/16), drinkwater-analogie, moreel argument, Boersema & Reijnders, "inkomenszekerheid" → langjarig opdrachtgeverschap, gebiedsorganisaties i.p.v. collectieven.
-9. **Redactie**: peilvak-typo's (zoeken & vervangen), zwarte kaders, opmaak 10/16, LVVN p.35, kleidek p.5, oranje kleur p.23.
+9. ✅◐ **Redactie**: *(peilvak, kleidek, LVVN gedaan; zwarte kaders, opmaak 10/16, oranje kleur open)* peilvak-typo's (zoeken & vervangen), zwarte kaders, opmaak 10/16, LVVN p.35, kleidek p.5, oranje kleur p.23.
 10. **Check**: de drie tekstloze markeringen in Anna's PDF (p.2, 2× p.17, p.23) in de PDF zelf nalopen.

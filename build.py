@@ -21,7 +21,7 @@ def build_document():
     template = open('templates/document/template.html', encoding='utf-8').read()
     out = template.replace('{{SECTIONS}}', '\n\n'.join(parts))
     os.makedirs('dist', exist_ok=True)
-    dest = "dist/VIC's veenweideboeren visie.html"
+    dest = "dist/VIC's Veenweideboeren visie.html"
     open(dest, 'w', encoding='utf-8').write(out)
     print(f'Gebouwd: {dest} ({len(out)//1000}k tekens)')
 

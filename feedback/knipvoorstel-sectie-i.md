@@ -1,6 +1,6 @@
 # Knipvoorstel sectie I — "De rol van het VIC"
 
-*Fase 1 van de ontvlechting (11 juni 2026). Er is nog niets verplaatst; dit is het besluitdocument. Bestemming per blok, in documentvolgorde.*
+*Fase 1 (11 juni): besluitdocument, akkoord Tim. **Fase 2 uitgevoerd 11 juni**: slot erin, sectie I uit het visiedocument, veen-grasmat-inzicht naar F1, nav en slotslide aangepast. Sectie I leeft door in de uiting Programmavoorstel. Bestemming per blok, in documentvolgorde.*
 
 **Legenda bestemmingen:**
 - **PV** = nieuwe uiting *Programmavoorstel* (eigen build-target in de repo, zelfde bron-pipeline)

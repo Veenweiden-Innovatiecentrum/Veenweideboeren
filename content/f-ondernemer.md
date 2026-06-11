@@ -20,7 +20,7 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 
 <div style="background:var(--bg2);border-left:3px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:.75rem 0 1rem;font-size:13px;line-height:1.6">
     <strong style="display:block;margin-bottom:4px;font-size:13.5px">Eerst de randvoorwaarde: zonder WIS werkt peilbeleid niet</strong>
-    De indringingsweerstand van veen is groot. Een grondwaterstand van -20 of -40 cm bereiken op een perceel zonder waterinfiltratiesysteem (WIS) is in praktijk onmogelijk. WIS is daarmee geen gewone bouwsteen tussen andere, maar een kritische randvoorwaarde: zonder WIS is doelsturing op grondwaterstand een papieren norm. De overheid die peilbeleid wil voeren, zal eerst WIS-aanleg moeten faciliteren en financieren.
+    De indringingsweerstand van veen is groot. Een grondwaterstand van -20 of -40 cm bereiken op een perceel zonder waterinfiltratiesysteem (WIS) is in praktijk onmogelijk. WIS is daarmee geen gewone bouwsteen tussen andere, maar een kritische randvoorwaarde: zonder WIS is doelsturing op grondwaterstand een papieren norm. De overheid die peilbeleid wil voeren, zal eerst WIS-aanleg moeten faciliteren en financieren. Daarbij hoort een contra-intuïtief inzicht dat het hele bedrijfsmodel pas mogelijk maakt: bij hoge grondwaterstand verslempt klei en glijdt, maar veen mét grasmat blijft koeien dragen. En omdat de grasproductie op deze gronden structureel lager ligt dan op conventionele landbouwgrond, zijn extra inkomstenstromen uit maatschappelijke diensten geen optie maar voorwaarde.
   </div>
 
 <table class="bouwsteen-table">

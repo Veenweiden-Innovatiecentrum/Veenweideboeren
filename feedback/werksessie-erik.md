@@ -1,6 +1,6 @@
 # Werksessie Erik — open punten E2, E3 en E6
 
-*Voorbereid 11 juni 2026. Status: E1, E4 (grotendeels) en E5 zijn al verwerkt; dit zijn de punten waarvoor Erik hulp aanbood.*
+*Voorbereid 11 juni 2026, voor de afspraak "Bespreken Veenweidenboeren commentaar" — dinsdag 16 juni, 11:15–12:00 (45 min). Status: E1, E4 (grotendeels) en E5 zijn al verwerkt; dit zijn de punten waarvoor Erik hulp aanbood.*
 
 ---
 
@@ -42,9 +42,8 @@
 
 ---
 
-## Voorstel sessie-opzet (90 min)
+## Voorstel sessie-opzet (45 min)
 
-1. E3 eerst (30 min) — structuurkwestie, bepaalt het kader voor de rest
-2. E2 (30 min) — vignetten kiezen, doorwerking F1/G besluiten
-3. E6 (20 min) — aspecten kiezen, koppelen aan E2-uitkomst
-4. Afspraken (10 min) — wie werkt wat uit, Claude verwerkt in de bron
+1. **E3 eerst (20 min)** — de structuurkwestie: verhouding lagen ①/②, stikstof gebiedsspecifiek, waterbuffering los van stadsrand. Dit bepaalt het kader voor de rest.
+2. **E2 (15 min)** — alleen het hoofdbesluit: tabel vervangen door opgaven-opsomming + vignetten, ja/nee? Zo ja: welke twee à drie contrasten? De doorwerking naar F1/G volgt daaruit en kan asynchroon.
+3. **E6 + afspraken (10 min)** — E6 als huiswerkafspraak meegeven: Erik denkt na over de 3–4 contextaspecten (kandidaten staan hierboven), uitwerking asynchroon of in een kort vervolg. Afsluiten met wie wat uitwerkt; verwerking in de bron loopt daarna via Tim.

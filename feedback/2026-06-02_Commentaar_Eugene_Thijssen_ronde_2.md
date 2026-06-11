@@ -48,8 +48,8 @@ Plus de vraag: mag het document gedeeld worden met het **LBI (Nick van Eekeren)*
 
 | # | Topic | Kern | Type |
 |---|---|---|---|
-| ET-N10 | **Opgave-telling inconsistent: vijf / zes / zeven** | Intro-samenvatting noemt vijf ("klimaat, water, natuur, landschap, kringloop"); stikstofblok zegt "de andere zes"; later "de zeven". "Waar komt dit vandaan? Wat is de bron?" | Consistentie |
-| ET-N11 | **Hectare-optelsom klopt niet** | 200.000 ha totaal vs. 45.000 + 90.000 + 20.000 = 155.000. "Waar is de rest?" | Feit |
+| ET-N10 ✅ | **Opgave-telling inconsistent: vijf / zes / zeven** *(vijf-lijst in B voluit naar zeven; intro verkort zonder telling; "de andere zes" 3× → "de zeven maatschappelijke opgaves" — stikstof is immers geen aparte opgave. Bron: het eigen VIC/JUMP-kader, zoals de leeswijzer al zegt)* | Intro-samenvatting noemt vijf ("klimaat, water, natuur, landschap, kringloop"); stikstofblok zegt "de andere zes"; later "de zeven". "Waar komt dit vandaan? Wat is de bron?" | Consistentie |
+| ET-N11 ✅◐ | **Hectare-optelsom klopt niet** *(zin toegevoegd: sporen ≈ 155.000 ha, overige ±45.000 ha grasland op veen — vooral klei-op-veen en al natte delen — zonder voorziene ingreep. Verklaring verifiëren bij Douwe Jonkers, bron van de sporencijfers — actie Tim)* | 200.000 ha totaal vs. 45.000 + 90.000 + 20.000 = 155.000. "Waar is de rest?" | Feit |
 | ET-N12 ✅ | **"TF LNS pijler 2" nergens te vinden** *(term niet hard te maken; vervangen door "rijksmiddelen voor het landelijk gebied")* | Toelichten in een voetnoot. | Feit |
 | ET-N13 ✅ | **"Akte 2 onder een nieuwe naam" te vroeg onbegrijpelijk** *(managementsamenvatting introduceert de drie aktes nu inhoudelijk op pagina één, naast de bestaande intro-leeswijzer)* | Alleen scherp als je weet wat akte II is; hangt aan ET-N2. *(Deels ondervangen: de intro introduceert de drie aktes inmiddels — Anna A3.)* | Consistentie |
 | ET-N14 | **Voedselzekerheid-urgentie polder/stadsrand onbegrijpelijk** | Waarom middel bij polder en hoog bij stadsrand? Vraagt toelichting. *(Toegevoegd aan de werksessie-agenda van 16 juni, E2-blok, samen met ET-N19.)* | Consistentie |

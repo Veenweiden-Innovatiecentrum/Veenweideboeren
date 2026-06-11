@@ -33,7 +33,7 @@ Akte III is geen garantie. Dezelfde goedbedoelde beleidslogica die akte II deed 
     </div>
     <div class="question-item">
       <div class="q" style="color:var(--red)">⑧ Stikstof-boemerang</div>
-      <div class="ctx">Stikstof is het politieke vehikel dat het hele dossier nu in beweging brengt. Maar als de aanpak smal blijft — alleen ammoniakreductie via minder koeien — verdwijnen precies de familieondernemers die de andere zes opgaves moeten dragen. De stikstofcijfers verbeteren op papier, terwijl sociale cohesie, landschap, kringloop en cultuur instorten omdat de dragers weg zijn. De maatschappelijke verborgen waarden die deze ondernemers gratis leverden (landbeheer, signalering, sociale aanwezigheid) komen niet terug zodra de grond in handen is van beleggers of partijen die op afstand bezitten. Stikstofbeleid zonder breder ondernemersperspectief is akte II onder een nieuwe naam.</div>
+      <div class="ctx">Stikstof is het politieke vehikel dat het hele dossier nu in beweging brengt. Maar als de aanpak smal blijft — alleen ammoniakreductie via minder koeien — verdwijnen precies de familieondernemers die de zeven opgaves moeten dragen. De stikstofcijfers verbeteren op papier, terwijl sociale cohesie, landschap, kringloop en cultuur instorten omdat de dragers weg zijn. De maatschappelijke verborgen waarden die deze ondernemers gratis leverden (landbeheer, signalering, sociale aanwezigheid) komen niet terug zodra de grond in handen is van beleggers of partijen die op afstand bezitten. Stikstofbeleid zonder breder ondernemersperspectief is akte II onder een nieuwe naam.</div>
     </div>
     <div class="question-item">
       <div class="q" style="color:var(--amber)">⑨ Half bestaand, half nieuw</div>

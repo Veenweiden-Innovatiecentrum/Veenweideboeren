@@ -6,4 +6,4 @@
 | 2 | Woordkeus per stuk | uitgevoerd (incl. hij/hem-herformulering; E5 en "om niet" waren al opgelost in v2) |
 | 3 | Feitelijke correcties Akte 1 & dimensietabel | uitgevoerd |
 | 4 | Tekstvoorstellen Roelof wegen | uitgevoerd |
-| 5 | Herwerk met Erik (E1–E3), structuur, begrippenlijst | geparkeerd |
+| 5 | Herwerk met Erik (E1–E3), structuur, begrippenlijst | deels: R15–R18 uitgevoerd; rest geparkeerd (werksessie Erik, begrippenlijst, sporen/aktes, slide 10) |

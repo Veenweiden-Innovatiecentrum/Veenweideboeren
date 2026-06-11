@@ -85,7 +85,7 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
     <tbody>
       <tr><td><strong>Rantsoen op maat</strong></td><td>Voersamenstelling afgestemd op het veenweidebedrijf</td></tr>
       <tr><td><strong>Dynamisch weiden (dynamisch draadloos weiden)</strong></td><td>Koeien vrij in het land, virtueel gestuurd zonder fysiek hek</td></tr>
-      <tr><td><strong>Koe-kalf-kudde</strong></td><td>Kalveren bij de koe, natuurlijk kuddegedrag, dierenwelzijn</td></tr>
+      <tr><td><strong>Koe-kalf-kudde</strong></td><td>Gedeeltelijk kalveren bij de koe, natuurlijk kuddegedrag, dierenwelzijn</td></tr>
       <tr><td><strong>Veenweide-ras</strong></td><td>Robuust ras dat past bij nat veenweidebedrijf met lagere veedichtheid</td></tr>
     </tbody>
   </table>

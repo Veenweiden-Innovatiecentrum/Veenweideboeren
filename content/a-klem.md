@@ -36,7 +36,7 @@ Nederland heeft circa 200.000 hectare veenweidegebied. Dit verhaal gaat *niet* o
 Wij richten ons op het deel waar reguliere melkveehouderij structureel niet meer houdbaar is. De gebieden waar de combinatie van fysieke omstandigheden, beleidsdruk en ruimtelijke claims een fundamenteel ander bedrijfsmodel vraagt. Wanneer kom je in aanmerking voor de veenweideboerencategorie? Dat zijn gebieden waar één of meer van de volgende kenmerken spelen:
 
 <ul style="margin:.75rem 0 .75rem 1.25rem;font-size:14px;line-height:1.8;color:var(--text2)">
-    <li><strong>Gebieden die structureel te nat worden</strong> — vanuit beleid (peilverhoging richting -40 cm of hoger, wat in delen van Friesland al beperkend is) of vanuit autonome vernatting waardoor reguliere bedrijfsvoering structureel onhaalbaar wordt</li>
+    <li><strong>Gebieden die structureel te nat worden</strong> — vanuit beleid (verhoging van het slootpeil) of vanuit autonome vernatting waardoor reguliere bedrijfsvoering structureel onhaalbaar wordt</li>
     <li><strong>Grenzend aan Natura 2000-gebieden</strong> — bufferzones met extra regeldruk en beperkingen op stikstof en gebruik</li>
     <li><strong>Gebieden met sterke kwel</strong> — waar waterdruk van onderaf en mogelijke verzilting de bedrijfsvoering structureel beïnvloeden</li>
     <li><strong>Stedelijke randen</strong> — waar wateropgaves, ruimtedruk en functiemenging samenkomen</li>

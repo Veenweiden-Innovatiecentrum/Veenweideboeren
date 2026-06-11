@@ -35,7 +35,7 @@ De veenweideboer is een nieuwe typologie: niet een reguliere melkveehouder met b
 
       <div style="margin-bottom:14px">
         <div style="font-weight:600;color:var(--text);font-size:13px;margin-bottom:3px">⑤ Coördinatie</div>
-        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Op twee niveaus. Gebiedsregie via collectieven: boer-boer coördinatie op polderniveau: waterpeilen afstemmen, mozaïekbeheer plannen, monitoring organiseren. Eén boer kan niet alleen het waterpeil veranderen. En overheidscoördinatie: rijk, provincie, waterschap en gemeente op één lijn, met één gebiedscontract in plaats van vier losse beleidsdossiers. Meer dan faciliteren, minder dan regie, maar wel degelijk sturen op kaders en samenhang.</div>
+        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Op twee niveaus. Gebiedsregie via gebiedsorganisaties: boer-boer coördinatie op polderniveau: waterpeilen afstemmen, mozaïekbeheer plannen, monitoring organiseren. Eén boer kan niet alleen het waterpeil veranderen. En overheidscoördinatie: rijk, provincie, waterschap en gemeente op één lijn, met één gebiedscontract in plaats van vier losse beleidsdossiers. Meer dan faciliteren, minder dan regie, maar wel degelijk sturen op kaders en samenhang.</div>
       </div>
 
       <div>

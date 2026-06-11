@@ -15,6 +15,12 @@
 2. Wat doen we met de doorwerking: F1 "Toepassing per context" en de archetypen-matrix in G gebruiken dezelfde driedeling. Vervangen, of daar de driedeling juist behouden als *illustratie* in plaats van *duiding*?
 3. Cultuur & landschap stadsrand: in elk geval corrigeren (nu ●●●●, maar Eriks punt is dat de hele scoresystematiek weg kan).
 
+**Input uit Eugènes tweede ronde (2 juni), zelfde tabel:**
+- ET-N14: de urgentie-toewijzing bij Voedselzekerheid is onbegrijpelijk — waarom middel bij polder en hoog bij stadsrand? Vraagt toelichting óf vervalt vanzelf als de scores verdwijnen.
+- ET-N19: bij de opgave Klimaat — bedrijf ontbreekt "lachgasemissies tegengaan" — meenemen in de herwerkte opgaven-beschrijvingen.
+
+Twee reviewers struikelen dus onafhankelijk van elkaar over dezelfde tabel — dat versterkt Eriks pleidooi.
+
 **Eerste denkrichting:** opgaves zonder scores presenteren; daaronder twee of drie vignetten ("een polder met sterke kwel tegen het Groene Hart", "een bufferzone tegen Natura 2000", …) die elk één balansverschuiving scherp laten zien. De vignetten kunnen hergebruikt worden als brug naar F1.
 
 ---

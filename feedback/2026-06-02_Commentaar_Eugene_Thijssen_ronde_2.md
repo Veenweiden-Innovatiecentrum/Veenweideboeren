@@ -32,7 +32,7 @@ Plus de vraag: mag het document gedeeld worden met het **LBI (Nick van Eekeren)*
 | ET-N1 ✅◐ | **Walkthrough is geen managementsamenvatting** *(echte managementsamenvatting toegevoegd: probleem – analyse – oplossing – acties, vóór de walkthrough; navigatiebug pijltjestoets nog open)* | Het lijkt er een, maar is een verkorte versie waar je overheen leest. Plus navigatieprobleem: pijltjestoets omlaag belandt in het document, niet in de 16 stappen. Voorstel: stappen aaneenhechten tot korte versie ónder een echte managementsamenvatting (probleem – analyse – oplossing, gericht op beleid én praktijk). | Structuur |
 | ET-N2 ✅◐ | **Drie aktes naar voren** (2× genoemd, ook bij sectie E) *(kapstokfunctie nu via managementsamenvatting bovenaan; sectie E bewust niet verplaatst — dramaturgie hoofddocument; kapstok-eerst-volgorde evt. voor DG-versie)* | "Goede kapstok om het verhaal aan op te hangen. Ik zou het weer vooraan plaatsen." Hangt samen met ET-N10. | Structuur |
 | ET-N3 ✅ | **Afsluiter: werkprogramma met budget i.p.v. VIC-positie** *(opgelost via ontvlechting: sectie I uit het visiedocument, vervangen door kort slot "Van visie naar uitvoering" met drie acties; VIC-rollen + werkprogramma-skelet nu in aparte uiting Programmavoorstel)* | "I — De rol van het VIC is geen wervende of sterke afsluiter. Meer een intern stuk ter contemplatie: waartoe zijn wij op aarde." Levert compleet voorbeeld: €32 mln / 8 jaar / 6 programmalijnen (zie §4). | Structuur |
-| ET-N4 | **Te lang; compacter met bijlagen; versies per doelgroep** | Sluit aan op de openstaande B2-beslissing (kortere versie). | Vorm |
+| ET-N4 ⏸ | **Te lang; compacter met bijlagen; versies per doelgroep** *(gekoppeld aan de openstaande B2-beslissing; deels al beantwoord door managementsamenvatting + afsplitsing programmavoorstel; rest ná de Erik-werksessie van 16 juni, omdat E2/E3 sectie B nog herwerken)* | Sluit aan op de openstaande B2-beslissing (kortere versie). | Vorm |
 
 ### Kernredenering & inhoud
 
@@ -52,7 +52,7 @@ Plus de vraag: mag het document gedeeld worden met het **LBI (Nick van Eekeren)*
 | ET-N11 | **Hectare-optelsom klopt niet** | 200.000 ha totaal vs. 45.000 + 90.000 + 20.000 = 155.000. "Waar is de rest?" | Feit |
 | ET-N12 | **"TF LNS pijler 2" nergens te vinden** | Toelichten in een voetnoot. | Feit |
 | ET-N13 ✅ | **"Akte 2 onder een nieuwe naam" te vroeg onbegrijpelijk** *(managementsamenvatting introduceert de drie aktes nu inhoudelijk op pagina één, naast de bestaande intro-leeswijzer)* | Alleen scherp als je weet wat akte II is; hangt aan ET-N2. *(Deels ondervangen: de intro introduceert de drie aktes inmiddels — Anna A3.)* | Consistentie |
-| ET-N14 | **Voedselzekerheid-urgentie polder/stadsrand onbegrijpelijk** | Waarom middel bij polder en hoog bij stadsrand? Vraagt toelichting. *(Raakt Eriks E2: de hele scoretabel staat ter discussie in de werksessie van 16 juni.)* | Consistentie |
+| ET-N14 | **Voedselzekerheid-urgentie polder/stadsrand onbegrijpelijk** | Waarom middel bij polder en hoog bij stadsrand? Vraagt toelichting. *(Toegevoegd aan de werksessie-agenda van 16 juni, E2-blok, samen met ET-N19.)* | Consistentie |
 | ET-N15 | **Driesporen-alinea: kleine aanscherpingen** | "dat zijn zones rond natuur…" (leesbaarheid) en "€1,3 miljard tot 2035 **los van de GLB-hectarepremie**". | Feit/tekst |
 | ET-N16 | **"Dit document gaat over de bovenste twee" — waarom niet de derde groep?** | Niet toegelicht waarom nicheboeren buiten beeld blijven. | Consistentie |
 

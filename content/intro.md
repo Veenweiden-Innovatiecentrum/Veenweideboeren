@@ -33,6 +33,11 @@ Dat is urgent. Want de ondernemers voor wie dit bedoeld is, zitten nu al klem.
     <p style="margin:0"><strong>Voor dit verhaal is stikstof zowel rugwind als risico.</strong> Rugwind, omdat het politieke gewicht en de financiering nu aanwezig zijn om de transitie in beweging te zetten. Risico, omdat een eenzijdige stikstof-focus de zeven maatschappelijke opgaves overschaduwt — en omdat het mechanisme waarmee stikstof wordt opgelost (minder koeien, dus boeren weg) precies de dragers verwijdert die nodig zijn om die opgaves overeind te houden. Het scherpst geformuleerd: <em>stikstofbeleid zonder breder ondernemersperspectief is akte II onder een nieuwe naam.</em> Stikstof verdient daarom een plek in dit verhaal — niet als aparte opgave naast de zeven, en niet als onderdeel van het driesporenbeleid, maar als zelfstandig dossier dat het veenweide-dossier deels raakt en deels overstijgt.</p>
   </div>
 
+<div style="background:var(--bg3);border:1px solid rgba(0,0,0,.08);border-left:3px solid var(--accent);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 2rem;font-size:13.5px;line-height:1.65">
+    <strong style="display:block;margin-bottom:8px;font-size:14px">Van stikstofslot naar stikstofruimte</strong>
+    <p style="margin:0">Het kabinet zoekt stikstofruimte, en snel — bouwen, het stroomnet en defensie wachten erop. Uitkoop lijkt de kortste route, maar die koopt de ruimte één keer en laat het gebied zonder beheerder achter. De veenweideboer levert dezelfde ammoniakreductie — minder vee is structureel minder stikstof — en precies waar die het meest telt: tegen Natura 2000 aan. De ruimte is blijvend, de beheerder blijft, en de zeven opgaves liften mee. Één voorwaarde: het wegvallende vee-inkomen wordt aangevuld met vergoedingen voor maatschappelijke diensten — anders is dit uitkoop in vertraagde vorm. Doorgedacht kan ammoniakreductie zelf zo’n dienst worden; een denkrichting die eerst juridische uitwerking vraagt (extern salderen, vergunningenrecht).</p>
+  </div>
+
 <!-- BEGRIPPENKADER (A2, Anna) -->
 <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.25rem 1.5rem;margin:1.5rem 0 0">
   <p style="font-family:var(--font-display);font-size:15px;font-weight:600;color:var(--text);margin:0 0 .75rem">Begrippenkader — de dragende termen in dit document</p>

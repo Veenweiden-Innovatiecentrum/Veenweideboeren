@@ -69,6 +69,11 @@ Dat is urgent. Want de ondernemers voor wie dit bedoeld is, zitten nu al klem.
     <p style="margin:0"><strong>Voor dit verhaal is stikstof zowel rugwind als risico.</strong> Rugwind, omdat het politieke gewicht en de financiering nu aanwezig zijn om de transitie in beweging te zetten. Risico, omdat een eenzijdige stikstof-focus de zeven maatschappelijke opgaves overschaduwt — en omdat het mechanisme waarmee stikstof wordt opgelost (minder koeien, dus boeren weg) precies de dragers verwijdert die nodig zijn om die opgaves overeind te houden. Het scherpst geformuleerd: <em>stikstofbeleid zonder breder ondernemersperspectief is akte II onder een nieuwe naam.</em> Stikstof verdient daarom een plek in dit verhaal — niet als aparte opgave naast de zeven, en niet als onderdeel van het driesporenbeleid, maar als zelfstandig dossier dat het veenweide-dossier deels raakt en deels overstijgt.</p>
   </div>
 
+<div style="background:var(--bg3);border:1px solid rgba(0,0,0,.08);border-left:3px solid var(--accent);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 2rem;font-size:13.5px;line-height:1.65">
+    <strong style="display:block;margin-bottom:8px;font-size:14px">Van stikstofslot naar stikstofruimte</strong>
+    <p style="margin:0">Het kabinet zoekt stikstofruimte, en snel — bouwen, het stroomnet en defensie wachten erop. Uitkoop lijkt de kortste route, maar die koopt de ruimte één keer en laat het gebied zonder beheerder achter. De veenweideboer levert dezelfde ammoniakreductie — minder vee is structureel minder stikstof — en precies waar die het meest telt: tegen Natura 2000 aan. De ruimte is blijvend, de beheerder blijft, en de zeven opgaves liften mee. Één voorwaarde: het wegvallende vee-inkomen wordt aangevuld met vergoedingen voor maatschappelijke diensten — anders is dit uitkoop in vertraagde vorm. Doorgedacht kan ammoniakreductie zelf zo’n dienst worden; een denkrichting die eerst juridische uitwerking vraagt (extern salderen, vergunningenrecht).</p>
+  </div>
+
 <!-- BEGRIPPENKADER (A2, Anna) -->
 <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.25rem 1.5rem;margin:1.5rem 0 0">
   <p style="font-family:var(--font-display);font-size:15px;font-weight:600;color:var(--text);margin:0 0 .75rem">Begrippenkader — de dragende termen in dit document</p>
@@ -774,6 +779,8 @@ Grote bouwstenen die een nieuw verdienmodel opbouwen. Maatschappelijke diensten 
   </table>
 
 <p style="font-size:13.5px;color:var(--text2);line-height:1.65;margin-top:.5rem">De drie rijen rond natuur en biodiversiteit hangen samen maar dekken drie verschillende dingen. <strong>Functionele biodiversiteit</strong> op niveau 1 (kruidenrijk grasland, bloemrijke randen) versterkt de bedrijfsvoering en levert stabielere, kwalitatief betere opbrengst; weidevogelbeheer hoort in dezelfde basislaag, maar als beheertaak — niet als opbrengstverhoger. Dat is geen verdienmodel maar een waardevolle bedrijfsbasis. <strong>Natuur als dienst</strong> gaat een stap verder: het inrichten en beheren van natuur met expliciete natuurdoelstellingen en -eigenschappen, verkoopbaar als opdracht aan overheid of marktpartij. <strong>Biodiversiteitsdienst</strong> is een nieuwere benadering waarbij biodiversiteit zelf wordt geproduceerd en verkocht, via overheidsopdracht, marktopdracht of de biodiversiteitscreditmarkt. De drie zijn nauw met elkaar verbonden maar conceptueel onderscheiden; alleen de laatste twee zijn verdienmodellen.</p>
+
+<p><strong>Stikstofruimte als dienst — denkrichting.</strong> Structurele ammoniakreductie door lagere veedichtheid kan op termijn een contracteerbare maatschappelijke dienst worden, analoog aan koolstof en water — juist waardevol nabij Natura 2000. Kanttekening: dit raakt aan extern salderen en het vergunningenrecht, juridisch het gevoeligste terrein dat er is; het hoort in de toolbox als verkenning, niet als belofte.</p>
 
 ### Drie typen, drie strategieën
 

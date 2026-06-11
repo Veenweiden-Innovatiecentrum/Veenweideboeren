@@ -1,6 +1,6 @@
 ## F1 — Ondernemerskant: de toolbox
 
-De veenweideboer bepaalt zelf hóe hij zijn doelen haalt. Dit zijn de bouwstenen: de toolbox waarmee de boer zijn doelen haalt. Niveau 1 optimaliseert het bestaande bedrijf. Niveau 2 opent nieuwe inkomstenstromen.
+De veenweideboer bepaalt zelf hóe de doelen gehaald worden. Dit zijn de bouwstenen: de toolbox waarmee de boer zijn doelen haalt. Niveau 1 optimaliseert het bestaande bedrijf. Niveau 2 opent nieuwe inkomstenstromen.
 
 De toolbox past niet bij één type boer, hij geeft juist ruimte aan verschillende typen ondernemers in verschillende contexten.
 

@@ -37,7 +37,7 @@ De middengroep die in deel A klem zat, heeft nu twee echte perspectieven: veenwe
 
 ### Wie zijn deze veenweideboeren? Drie archetypen, drie contexten
 
-<p style="font-size:13.5px;color:var(--text2);line-height:1.6">Het verhaal van dit document is niet anoniem. Achter "de middengroep" en "de veenweideboer" zitten herkenbare mensen op herkenbare plekken. Drie archetypen verschillen in karakter en bedrijfsschaal; drie contexten verschillen in fysieke uitgangssituatie. De combinatie bepaalt hoe het verhaal landt en welke route logisch is. Geen voorschrift, wel een spiegel — voor de boer die zich afvraagt waar hij staat, en voor de beleidsmaker die weet dat één maatregel nooit hetzelfde uitwerkt op alle ondernemers.</p>
+<p style="font-size:13.5px;color:var(--text2);line-height:1.6">Het verhaal van dit document is niet anoniem. Achter "de middengroep" en "de veenweideboer" zitten herkenbare mensen op herkenbare plekken. Drie archetypen verschillen in karakter en bedrijfsschaal; drie contexten verschillen in fysieke uitgangssituatie. De combinatie bepaalt hoe het verhaal landt en welke route logisch is. Geen voorschrift, wel een spiegel — voor de boer die de eigen positie zoekt, en voor de beleidsmaker die weet dat één maatregel nooit hetzelfde uitwerkt op alle ondernemers.</p>
 
 <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.25rem 1.5rem;margin:1rem 0 1.25rem;overflow-x:auto">
     <table style="width:100%;border-collapse:collapse;font-size:12.5px;line-height:1.55">
@@ -81,7 +81,7 @@ De middengroep die in deel A klem zat, heeft nu twee echte perspectieven: veenwe
     </table>
   </div>
 
-<p style="font-size:13.5px;color:var(--text2);line-height:1.6">De middengroep — over wie dit document gaat — telt al deze typen op alle drie de contexten. Wie zich in de matrix herkent, ziet ook welk pad uit sectie G voor hem het meest natuurlijk aanvoelt: de verkenners voelen vaker thuis bij <em>"geheel nieuwe activiteiten"</em>, de bouwers en pragmatici zoeken vaker naar <em>"veenweideboer worden"</em> binnen een bestaand bedrijfsmodel. Geen wet — maar wel een patroon.</p>
+<p style="font-size:13.5px;color:var(--text2);line-height:1.6">De middengroep — over wie dit document gaat — telt al deze typen op alle drie de contexten. Wie zich in de matrix herkent, ziet ook welk pad uit sectie G het meest natuurlijk aanvoelt: de verkenners voelen vaker thuis bij <em>"geheel nieuwe activiteiten"</em>, de bouwers en pragmatici zoeken vaker naar <em>"veenweideboer worden"</em> binnen een bestaand bedrijfsmodel. Geen wet — maar wel een patroon.</p>
 
 <div style="background:var(--accent-light);border-left:3px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0;font-size:13px;line-height:1.6">
     <strong style="display:block;margin-bottom:4px">De cirkel is rond</strong>

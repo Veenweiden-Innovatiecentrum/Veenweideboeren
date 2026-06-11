@@ -2,7 +2,7 @@
 
 ### Waarom dit een blokkade is voor alle opgaves
 
-Een klemzittende middengroep is niet neutraal voor de maatschappelijke opgaves; het is per definitie negatief op alle dimensies tegelijk. Niet omdat de boer het verkeerd doet, maar omdat het systeem hem alleen de verkeerde opties biedt.
+Een klemzittende middengroep is niet neutraal voor de maatschappelijke opgaves; het is per definitie negatief op alle dimensies tegelijk. Niet omdat de boer het verkeerd doet, maar omdat het systeem alleen verkeerde opties biedt.
 
 **Op korte termijn vernietigt margedruk het rentmeesterschap.** Een boer die klem zit zoekt het in kostenbeperking. Slootkantenbeheer, weidevogelbeheer, ecologisch maaien — dat zijn de eerste dingen die sneuvelen. De basiskwaliteit van natuur in het boerenland holt achteruit, niet door kwade wil maar door gebrek aan financiële ruimte.
 

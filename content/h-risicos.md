@@ -29,7 +29,7 @@ Akte 3 is geen garantie. Dezelfde goedbedoelde beleidslogica die akte 2 deed mis
     </div>
     <div class="question-item">
       <div class="q" style="color:var(--amber)">⑦ Boer als ambtenaar</div>
-      <div class="ctx">Cynisch bekeken wordt de veenweideboer een ambtenaar in dienst van de overheid, hij produceert wat de overheid bestelt. Dat frame ondermijnt draagvlak en ondernemersidentiteit. Het weerwoord: de boer houdt eigen grond, eigen keuzes en eigen risico. Hij kan altijd besluiten iets anders te doen. En produceren voor de overheid geeft juist zekerheid: langjarige contracten, stabiel inkomen, geen afhankelijkheid van de wereldmarktprijs. Dat is geen ambtenarij, dat is een prettige manier van ondernemen.</div>
+      <div class="ctx">Cynisch bekeken wordt de veenweideboer een ambtenaar in dienst van de overheid die produceert wat de overheid bestelt. Dat frame ondermijnt draagvlak en ondernemersidentiteit. Het weerwoord: de boer houdt eigen grond, eigen keuzes en eigen risico — en kan altijd besluiten iets anders te doen. En produceren voor de overheid geeft juist zekerheid: langjarige contracten, stabiel inkomen, geen afhankelijkheid van de wereldmarktprijs. Dat is geen ambtenarij, dat is een prettige manier van ondernemen.</div>
     </div>
     <div class="question-item">
       <div class="q" style="color:var(--red)">⑧ Stikstof-boemerang</div>

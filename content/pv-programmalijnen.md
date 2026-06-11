@@ -18,13 +18,24 @@
 
 ### Timeline — medio 2028 tot medio 2032
 
-<div style="margin:1.25rem 0 .5rem">
-  <div style="display:flex;width:100%;border-radius:var(--radius);overflow:hidden;font-size:12px;line-height:1.45;text-align:center;color:#fff">
-    <div style="flex:1;background:var(--blue);padding:.85rem .5rem"><strong style="display:block;font-size:12.5px">Fundament</strong>medio 2028 – medio 2029</div>
-    <div style="flex:2;background:var(--accent);padding:.85rem .5rem"><strong style="display:block;font-size:12.5px">Bewijs opbouwen</strong>medio 2029 – medio 2031</div>
-    <div style="flex:1;background:var(--amber);padding:.85rem .5rem"><strong style="display:block;font-size:12.5px">Verankeren</strong>medio 2031 – medio 2032</div>
-  </div>
-  <div style="display:flex;justify-content:space-between;font-family:var(--font-mono);font-size:11px;color:var(--text3);margin-top:4px"><span>medio 2028</span><span>medio 2029</span><span>medio 2030</span><span>medio 2031</span><span>medio 2032</span></div>
-</div>
+<p style="font-size:13px;color:var(--text2);line-height:1.6">De drie rollen lopen parallel, alle vier de jaren. Binnen rol 2 verschuift het zwaartepunt: van JUMP naar BASE wat betreft de bewijsvoering, dan het bewijs daadwerkelijk leveren, dan verankeren.</p>
 
-<p style="font-size:13px;color:var(--text2);line-height:1.6"><strong>Fundament</strong> (jaar 1): meetmethodieken opzetten, eerste business cases, beleidsagenda neerzetten, intermediairs aanhaken. <strong>Bewijs opbouwen</strong> (jaar 2–3): business cases hard maken, resultaten meten, intermediairs actief in gebieden, beleidsdialoog op tempo. <strong>Verankeren</strong> (jaar 4): overdracht aan collectieven en intermediairs, methodieken in standaarden, beleidsaanbevelingen op basis van vier jaar praktijk.</p>
+<div style="margin:1rem 0 .5rem;font-size:12px;line-height:1.4">
+  <div style="display:flex;justify-content:space-between;font-family:var(--font-mono);font-size:11px;color:var(--text3);margin:0 0 6px 110px"><span>medio 2028</span><span>medio 2029</span><span>medio 2030</span><span>medio 2031</span><span>medio 2032</span></div>
+  <div style="display:flex;align-items:stretch;gap:0;margin-bottom:6px">
+    <div style="width:110px;flex-shrink:0;display:flex;align-items:center;font-weight:600;color:var(--blue);font-size:12px">Rol 1 — Beleid</div>
+    <div style="flex:1;background:var(--blue);border-radius:var(--radius);padding:.6rem .75rem;color:#fff">Agenderen en beïnvloeden — doorlopend: gesprekken, presentaties, workshops</div>
+  </div>
+  <div style="display:flex;align-items:stretch;gap:0;margin-bottom:6px">
+    <div style="width:110px;flex-shrink:0;display:flex;align-items:center;font-weight:600;color:var(--accent2);font-size:12px">Rol 2 — Perspectief</div>
+    <div style="flex:1;display:flex;border-radius:var(--radius);overflow:hidden;color:#fff;text-align:center">
+      <div style="flex:1;background:var(--accent2);padding:.8rem .5rem;border-right:1px solid rgba(255,255,255,.4)"><strong style="display:block;font-size:12.5px">Van JUMP naar BASE</strong>bewijsvoering opzetten</div>
+      <div style="flex:2;background:var(--accent);padding:.8rem .5rem;border-right:1px solid rgba(255,255,255,.4)"><strong style="display:block;font-size:12.5px">Bewijs leveren</strong>business cases en meetmethodieken hard maken</div>
+      <div style="flex:1;background:var(--accent);opacity:.75;padding:.8rem .5rem"><strong style="display:block;font-size:12.5px">Verankeren</strong>standaarden en overdracht</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:stretch;gap:0">
+    <div style="width:110px;flex-shrink:0;display:flex;align-items:center;font-weight:600;color:var(--amber);font-size:12px">Rol 3 — Beweging</div>
+    <div style="flex:1;background:var(--amber);border-radius:var(--radius);padding:.6rem .75rem;color:#fff">Intermediairs toerusten en activeren — doorlopend: adviseurs, gebiedsmanagers, collectieven</div>
+  </div>
+</div>

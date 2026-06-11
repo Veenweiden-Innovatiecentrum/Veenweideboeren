@@ -1,6 +1,6 @@
 ## F3 — Bedrijfslevenkant: wie schuift aan
 
-Akte 3 staat of valt met meer dan overheid en boer. Het verdienmodel bestaat alleen als de markt aan de andere kant aansluit: de afnemers van melk, de financiers van de bedrijfsovergang, en — nieuw en cruciaal — de afnemers van de maatschappelijke diensten zelf. Zonder die derde laag blijft akte 3 een papieren constructie. Het bedrijfsleven is daarin geen passieve toehoorder maar actor: drie groepen schuiven aan, elk met een eigen handelingsperspectief.
+Akte III staat of valt met meer dan overheid en boer. Het verdienmodel bestaat alleen als de markt aan de andere kant aansluit: de afnemers van melk, de financiers van de bedrijfsovergang, en — nieuw en cruciaal — de afnemers van de maatschappelijke diensten zelf. Zonder die derde laag blijft akte III een papieren constructie. Het bedrijfsleven is daarin geen passieve toehoorder maar actor: drie groepen schuiven aan, elk met een eigen handelingsperspectief.
 
 <h3 style="margin-top:2rem;font-size:16px">1 — Bestaande agroketen</h3>
 
@@ -38,5 +38,5 @@ Akte 3 staat of valt met meer dan overheid en boer. Het verdienmodel bestaat all
 
 <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.08);border-left:3px solid var(--blue);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 0;font-size:13.5px;line-height:1.65">
     <strong style="display:block;margin-bottom:8px;font-size:14px">Wat dit betekent voor de doorgang</strong>
-    <p style="margin:0">Deze drie groepen lopen niet synchroon. De bestaande agroketen kan binnen 2-3 jaar bewegen — certificaten bestaan, ketenpremies kunnen schalen. Banken kunnen binnen die tijd taxatiestelsels en kredietproducten aanpassen, mits prestatiecontracten en grondbeleid stabiel zijn. De marktpartijen voor maatschappelijke diensten hebben langer nodig: sommige markten (water) zijn er deels al, andere (biodiversiteit) zijn nog in opbouw. Maar zonder cluster 3 blijft akte 3 afhankelijk van overheidsgeld; mét cluster 3 ontstaat een dragend privaat-publiek systeem.</p>
+    <p style="margin:0">Deze drie groepen lopen niet synchroon. De bestaande agroketen kan binnen 2-3 jaar bewegen — certificaten bestaan, ketenpremies kunnen schalen. Banken kunnen binnen die tijd taxatiestelsels en kredietproducten aanpassen, mits prestatiecontracten en grondbeleid stabiel zijn. De marktpartijen voor maatschappelijke diensten hebben langer nodig: sommige markten (water) zijn er deels al, andere (biodiversiteit) zijn nog in opbouw. Maar zonder cluster 3 blijft akte III afhankelijk van overheidsgeld; mét cluster 3 ontstaat een dragend privaat-publiek systeem.</p>
   </div>

@@ -1,6 +1,6 @@
 ## H — Waar het mis kan gaan
 
-Akte 3 is geen garantie. Dezelfde goedbedoelde beleidslogica die akte 2 deed mislukken, kan ook akte 3 ondermijnen, als de onderliggende systeemkrachten niet worden aangepakt. Negen risico's om scherp op te zijn.
+Akte III is geen garantie. Dezelfde goedbedoelde beleidslogica die akte II deed mislukken, kan ook akte III ondermijnen, als de onderliggende systeemkrachten niet worden aangepakt. Negen risico's om scherp op te zijn.
 
 <div class="question-list">
     <div class="question-item">
@@ -13,7 +13,7 @@ Akte 3 is geen garantie. Dezelfde goedbedoelde beleidslogica die akte 2 deed mis
     </div>
     <div class="question-item">
       <div class="q" style="color:var(--amber)">③ Selectie op grote bedrijven</div>
-      <div class="ctx">De best georganiseerde, best gefinancierde bedrijven trekken de meeste waarde naar zich toe. Regelingen die schaalneutraal lijken — generiek per hectare, vrij toegankelijk — zijn dat in de praktijk niet: aanvraagkracht en cashflow-buffer zijn schaalafhankelijk. Kleinere en middelgrote bedrijven — juist de verbonden ondernemers die akte 3 nodig heeft — vallen daardoor buiten de boot. Ontwerp tegen kaping is geen detail maar fundament.</div>
+      <div class="ctx">De best georganiseerde, best gefinancierde bedrijven trekken de meeste waarde naar zich toe. Regelingen die schaalneutraal lijken — generiek per hectare, vrij toegankelijk — zijn dat in de praktijk niet: aanvraagkracht en cashflow-buffer zijn schaalafhankelijk. Kleinere en middelgrote bedrijven — juist de verbonden ondernemers die akte III nodig heeft — vallen daardoor buiten de boot. Ontwerp tegen kaping is geen detail maar fundament.</div>
     </div>
     <div class="question-item">
       <div class="q" style="color:var(--amber)">④ Beleidsversnippering</div>
@@ -25,7 +25,7 @@ Akte 3 is geen garantie. Dezelfde goedbedoelde beleidslogica die akte 2 deed mis
     </div>
     <div class="question-item">
       <div class="q" style="color:var(--amber)">⑥ Bedrijfsoverdracht en instap</div>
-      <div class="ctx">Zonder instap- en opvolgingsinstrument werkt akte 3 alleen voor wie al in het systeem zit. Hoge grondprijzen en toegang tot kapitaal zijn drempels voor nieuwe boeren en kleinere overnames. Concreet nodig: voorkeurspositie voor gezinsbedrijven en nieuwe toetreders bij gebiedsgrond, modulaire contracten die niet alleen op grote schaal rendabel zijn, en investeringssteun voor omschakelaars.</div>
+      <div class="ctx">Zonder instap- en opvolgingsinstrument werkt akte III alleen voor wie al in het systeem zit. Hoge grondprijzen en toegang tot kapitaal zijn drempels voor nieuwe boeren en kleinere overnames. Concreet nodig: voorkeurspositie voor gezinsbedrijven en nieuwe toetreders bij gebiedsgrond, modulaire contracten die niet alleen op grote schaal rendabel zijn, en investeringssteun voor omschakelaars.</div>
     </div>
     <div class="question-item">
       <div class="q" style="color:var(--amber)">⑦ Boer als ambtenaar</div>
@@ -33,7 +33,7 @@ Akte 3 is geen garantie. Dezelfde goedbedoelde beleidslogica die akte 2 deed mis
     </div>
     <div class="question-item">
       <div class="q" style="color:var(--red)">⑧ Stikstof-boemerang</div>
-      <div class="ctx">Stikstof is het politieke vehikel dat het hele dossier nu in beweging brengt. Maar als de aanpak smal blijft — alleen ammoniakreductie via minder koeien — verdwijnen precies de familieondernemers die de andere zes opgaves moeten dragen. De stikstofcijfers verbeteren op papier, terwijl sociale cohesie, landschap, kringloop en cultuur instorten omdat de dragers weg zijn. De maatschappelijke verborgen waarden die deze ondernemers gratis leverden (landbeheer, signalering, sociale aanwezigheid) komen niet terug zodra de grond in handen is van beleggers of partijen die op afstand bezitten. Stikstofbeleid zonder breder ondernemersperspectief is akte 2 onder een nieuwe naam.</div>
+      <div class="ctx">Stikstof is het politieke vehikel dat het hele dossier nu in beweging brengt. Maar als de aanpak smal blijft — alleen ammoniakreductie via minder koeien — verdwijnen precies de familieondernemers die de andere zes opgaves moeten dragen. De stikstofcijfers verbeteren op papier, terwijl sociale cohesie, landschap, kringloop en cultuur instorten omdat de dragers weg zijn. De maatschappelijke verborgen waarden die deze ondernemers gratis leverden (landbeheer, signalering, sociale aanwezigheid) komen niet terug zodra de grond in handen is van beleggers of partijen die op afstand bezitten. Stikstofbeleid zonder breder ondernemersperspectief is akte II onder een nieuwe naam.</div>
     </div>
     <div class="question-item">
       <div class="q" style="color:var(--amber)">⑨ Half bestaand, half nieuw</div>

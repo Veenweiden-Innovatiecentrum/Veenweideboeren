@@ -7,7 +7,7 @@ Levend document. Deze regels gelden voor alle uitingsvormen.
 | **diensten** ≠ **opdrachten** | Diensten = wat de boer levert; opdrachten = het contractinstrument. |
 | **maatschappelijke opdrachten**, niet "ecosysteemdiensten" | |
 | **sporen** uitsluitend voor Rijksbeleid; **rollen** voor VIC-activiteiten | |
-| **aktes**, niet "scenario's" | Voor de drie verhaallijnen van het document. |
+| **aktes**, niet "scenario's" | Voor de drie verhaallijnen van het document. **Altijd Romeinse cijfers** (akte I, II, III); sporen altijd Arabisch (spoor 1, 2, 3). |
 | **koolstofopslag**, niet "CO₂-opslag" | Als algemene term. |
 | **lagere veedichtheid**, niet "extensief" | Voor het veenweideboer-model. |
 | **paludicultuur**, niet "paludiculture" | |

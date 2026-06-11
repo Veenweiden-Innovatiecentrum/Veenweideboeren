@@ -15,7 +15,7 @@ De veenweideboer is een nieuwe typologie: niet een reguliere melkveehouder met b
 
       <div style="margin-bottom:14px">
         <div style="font-weight:600;color:var(--text);font-size:13px;margin-bottom:3px">① Maatregelen</div>
-        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Vernatting naar -40 cm (rond natuur naar -20), stikstofnormen, KRW-waterkwaliteitseisen. Verplicht, niet-onderhandelbaar, dezelfde als in akte 2.</div>
+        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Vernatting naar -40 cm (rond natuur naar -20), stikstofnormen, KRW-waterkwaliteitseisen. Verplicht, niet-onderhandelbaar, dezelfde als in akte II.</div>
       </div>
 
       <div style="margin-bottom:14px">
@@ -40,7 +40,7 @@ De veenweideboer is een nieuwe typologie: niet een reguliere melkveehouder met b
 
       <div>
         <div style="font-weight:600;color:var(--text);font-size:13px;margin-bottom:3px">⑥ Vangnet</div>
-        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Het vangnet. Gebiedsspecifieke basisvergoeding (bergboerenlogica). Actief grondbeleid en landafwaardering. Markttoegang via veenweidezuivelketen en koolstof-/biodiversiteitsmarkt. Transitiesteun als overbrugging. In akte 2 zijn pijlers onmisbaar omdat er voor de boer geen automatisch recht op vergoeding bestaat — alleen privaatrechtelijke schadevergoeding bij onrechtmatig handelen, of vrijwillige uitkoop. In akte 3 worden ze steeds minder nodig naarmate de maatschappelijke opdrachten en prestatiecontracten structureel lopen.</div>
+        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Het vangnet. Gebiedsspecifieke basisvergoeding (bergboerenlogica). Actief grondbeleid en landafwaardering. Markttoegang via veenweidezuivelketen en koolstof-/biodiversiteitsmarkt. Transitiesteun als overbrugging. In akte II zijn pijlers onmisbaar omdat er voor de boer geen automatisch recht op vergoeding bestaat — alleen privaatrechtelijke schadevergoeding bij onrechtmatig handelen, of vrijwillige uitkoop. In akte III worden ze steeds minder nodig naarmate de maatschappelijke opdrachten en prestatiecontracten structureel lopen.</div>
       </div>
     </div>
 
@@ -60,7 +60,7 @@ De veenweideboer is een nieuwe typologie: niet een reguliere melkveehouder met b
 
       <div>
         <div style="font-weight:600;color:var(--text);font-size:13px;margin-bottom:3px">Nieuwe inkomstenstromen openen</div>
-        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Nieuwe inkomstenstromen openen: koolstofopslag, wateropslag als betaalde dienst, biodiversiteitsdiensten, natuur als dienst, paludicultuur, zorgboerderij, premium voedsel. De vergoeding loopt via overheidsopdrachten, marktopdrachten of de creditmarkt. Dit is het verdienmodel dat het verschil maakt met akte 2.</div>
+        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Nieuwe inkomstenstromen openen: koolstofopslag, wateropslag als betaalde dienst, biodiversiteitsdiensten, natuur als dienst, paludicultuur, zorgboerderij, premium voedsel. De vergoeding loopt via overheidsopdrachten, marktopdrachten of de creditmarkt. Dit is het verdienmodel dat het verschil maakt met akte II.</div>
       </div>
 
       <div style="background:var(--accent-light);border-radius:var(--radius);padding:.75rem 1rem;margin-top:14px;font-size:12px;line-height:1.5;color:var(--accent2)">
@@ -71,7 +71,7 @@ De veenweideboer is een nieuwe typologie: niet een reguliere melkveehouder met b
 
 ### Waarom veenweideboeren, en niet veenweidelandbouw?
 
-De naam is een bewuste keuze, en geen kosmetische. *Veenweidelandbouw* suggereert een afgeleide van het bestaande landbouwsysteem, een beetje vergroend, met wat extra beperkingen. Maar zodra je het landbouw noemt, sluit de juridische definitie de helft van de oplossing buiten. Wilgen planten, wateropslag aanbieden, natuur beheren als dienst, recreatieve voorzieningen, wonen bij de boer, zorg op de boerderij: dat valt buiten het GLB-begrip 'landbouw' en buiten de landbouwbestemming in het omgevingsplan. Juist de activiteiten die het meest bijdragen aan de opgaves worden door die definitie buitengesloten. Dat is geen filosofische voorkeur, het is een juridische blokkade.
+De naam is een bewuste keuze, en geen kosmetische. De term bestaat bovendien al — iedereen die op veen boert noemt zich veenweideboer. Dit document laadt hem bewust opnieuw: van geografische aanduiding naar bedrijfsmodel. *Veenweidelandbouw* suggereert een afgeleide van het bestaande landbouwsysteem, een beetje vergroend, met wat extra beperkingen. Maar zodra je het landbouw noemt, sluit de juridische definitie de helft van de oplossing buiten. Wilgen planten, wateropslag aanbieden, natuur beheren als dienst, recreatieve voorzieningen, wonen bij de boer, zorg op de boerderij: dat valt buiten het GLB-begrip 'landbouw' en buiten de landbouwbestemming in het omgevingsplan. Juist de activiteiten die het meest bijdragen aan de opgaves worden door die definitie buitengesloten. Dat is geen filosofische voorkeur, het is een juridische blokkade.
 
 *Veenweideboeren* is breder. Het gaat over de ondernemer die op veen woont en werkt, en die vanuit die positie een breed palet aan activiteiten kan ontplooien: melk, vlees, natte teelt, waterberging, natuur- en landschapsbeheer, recreatie, zorg. De ondernemer staat centraal, niet de productiemethode.
 
@@ -83,7 +83,7 @@ Maar wordt het uitgangspunt veranderd, dan verandert ook de uitkomst. Als het ve
 
 <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.25rem 1.5rem;margin:1rem 0 1.5rem">
     <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--accent2);font-weight:600;margin-bottom:10px">Niet extensief, maar meervoudig intensief</div>
-    <p style="font-size:13.5px;line-height:1.65;margin:0">Het Rijksbeleid spreekt van "extensieve melkveehouderij". Die term klopt op één dimensie: minder koeien per hectare. Maar op alle andere dimensies is wat dit document beschrijft juist <em>intensief</em>. Dezelfde hectare doet tegelijk veeteelt, waterberging, koolstofopslag, biodiversiteit, recreatie, eventueel wonen en zorg. Dat is meervoudig en gelijktijdig ruimtegebruik. In een land met de ruimteschaarste uit de Nota Ruimte is dat het tegendeel van extensief — het is de meest intensieve manier om met grond om te gaan die er bestaat. Een datacenter doet één ding. Een woonwijk doet één ding. De veenweideboer in akte 3 doet zes of zeven dingen tegelijk. Daarom: <strong>extensief in veeteelt, intensief in landgebruik</strong>. Of in één begrip: <em>meervoudig intensief ruimtegebruik</em>.</p>
+    <p style="font-size:13.5px;line-height:1.65;margin:0">Het Rijksbeleid spreekt van "extensieve melkveehouderij". Die term klopt op één dimensie: minder koeien per hectare. Maar op alle andere dimensies is wat dit document beschrijft juist <em>intensief</em>. Dezelfde hectare doet tegelijk veeteelt, waterberging, koolstofopslag, biodiversiteit, recreatie, eventueel wonen en zorg. Dat is meervoudig en gelijktijdig ruimtegebruik. In een land met de ruimteschaarste uit de Nota Ruimte is dat het tegendeel van extensief — het is de meest intensieve manier om met grond om te gaan die er bestaat. Een datacenter doet één ding. Een woonwijk doet één ding. De veenweideboer in akte III doet zes of zeven dingen tegelijk. Daarom: <strong>extensief in veeteelt, intensief in landgebruik</strong>. Of in één begrip: <em>meervoudig intensief ruimtegebruik</em>.</p>
   </div>
 
 <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.25rem 1.5rem;margin:1rem 0 1.5rem">

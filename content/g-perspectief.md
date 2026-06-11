@@ -8,7 +8,7 @@ Wat dit document probeert te doen, voorbij de analyse, is iets dat in de meeste 
 
     <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem;border-top:3px solid var(--accent)">
       <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--accent);margin-bottom:6px;font-weight:600">1 — Veenweideboer worden</div>
-      <p style="font-size:13px;color:var(--text2);line-height:1.5">Wel koeien, maar minder per hectare. Maatschappelijke diensten als tweede inkomstenstroom. Een ander bedrijfsmodel binnen het nieuwe regime, met basisvergoeding, prestatiecontracten en toegang tot de toolbox. Dit is akte 3: het pad met perspectief. De melk gaat gewoon naar Campina; het extra inkomen komt direct van de opdrachtgever.</p>
+      <p style="font-size:13px;color:var(--text2);line-height:1.5">Wel koeien, maar minder per hectare. Maatschappelijke diensten als tweede inkomstenstroom. Een ander bedrijfsmodel binnen het nieuwe regime, met basisvergoeding, prestatiecontracten en toegang tot de toolbox. Dit is akte III: het pad met perspectief. De melk gaat gewoon naar Campina; het extra inkomen komt direct van de opdrachtgever.</p>
     </div>
 
     <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem;border-top:3px solid var(--accent)">
@@ -18,7 +18,7 @@ Wat dit document probeert te doen, voorbij de analyse, is iets dat in de meeste 
 
     <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem;border-top:3px solid var(--red);opacity:0.8">
       <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--red);margin-bottom:6px;font-weight:600">3 — Doormodderen</div>
-      <p style="font-size:13px;color:var(--text2);line-height:1.5">Blijven doen wat je doet. Kosten drukken, hopen dat de marge het houdt, wachten tot het niet meer kan. Moeizaam, kwetsbaar, en voor de meesten een doodlopende weg, zeker in de gebieden die te nat worden. Dit is akte 1 en 2: het pad zonder perspectief.</p>
+      <p style="font-size:13px;color:var(--text2);line-height:1.5">Blijven doen wat je doet. Kosten drukken, hopen dat de marge het houdt, wachten tot het niet meer kan. Moeizaam, kwetsbaar, en voor de meesten een doodlopende weg, zeker in de gebieden die te nat worden. Dit is akte I en 2: het pad zonder perspectief.</p>
     </div>
 
     <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem;border-top:3px solid var(--red);opacity:0.8">
@@ -98,5 +98,5 @@ De veenweideboer-typologie wordt dan de **basiswerkwijze voor gebiedsbiedingen**
 
 <div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.25rem 0 0;font-size:13.5px;line-height:1.65">
     <strong style="display:block;margin-bottom:6px;font-size:14px">Driesporenbeleid, van drie sporen naar één gebiedsbod</strong>
-    <p style="margin:0">Het driesporenbeleid ordent het veenweidegebied vanuit het Rijk: hier intensiveren, daar peilfixeren, daar omschakelen. De veenweideboer-typologie kantelt die logica. Niet drie sporen vanuit Den Haag, maar één gebiedsbod vanuit de collectieven van veenweideboeren, dat de doelen van alle drie sporen integreert in één samenhangend bedrijfsmodel. Spoor 1, 2 en 3 zijn dan geen verschillende interventies meer, maar verschillende intensiteiten van dezelfde aanpak, gedragen door dezelfde ondernemers, gecoördineerd op polderniveau. Dat is wat akte 3 in beleidstaal betekent.</p>
+    <p style="margin:0">Het driesporenbeleid ordent het veenweidegebied vanuit het Rijk: hier intensiveren, daar peilfixeren, daar omschakelen. De veenweideboer-typologie kantelt die logica. Niet drie sporen vanuit Den Haag, maar één gebiedsbod vanuit de collectieven van veenweideboeren, dat de doelen van alle drie sporen integreert in één samenhangend bedrijfsmodel. Spoor 1, 2 en 3 zijn dan geen verschillende interventies meer, maar verschillende intensiteiten van dezelfde aanpak, gedragen door dezelfde ondernemers, gecoördineerd op polderniveau. Dat is wat akte III in beleidstaal betekent.</p>
   </div>

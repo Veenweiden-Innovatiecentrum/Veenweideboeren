@@ -8,4 +8,4 @@
 
 ## Van visie naar programma
 
-Het visiedocument <em>VIC's Veenweideboeren Visie</em> beschrijft wat er moet gebeuren in het veenweidegebied: welke aktes mogelijk zijn, welke instrumenten daarvoor nodig zijn, en welke risico's op de loer liggen. Dit programmavoorstel kijkt naar wat het VIC daarin zelf kan betekenen — wat de visie van het instituut is, welke rollen daaruit voortvloeien, en welk programma daarbij hoort voor de periode medio 2028 tot medio 2032.
+Het visiedocument *VIC's Veenweideboeren Visie* beschrijft wat er moet gebeuren in het veenweidegebied: welke aktes mogelijk zijn, welke instrumenten daarvoor nodig zijn, en welke risico's op de loer liggen. Dit programmavoorstel kijkt naar wat het VIC daarin zelf kan betekenen — wat de visie van het instituut is, welke rollen daaruit voortvloeien, en welk programma daarbij hoort voor de periode medio 2028 tot medio 2032.

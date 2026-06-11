@@ -1,0 +1,18 @@
+  <h2>Walkthrough</h2>
+  <p>Vijftien stappen. Klik door het verhaal — elke stap bouwt voort op de vorige. Ook met pijltjestoetsen of spatiebalk.</p>
+
+  <div id="wt-container" style="margin:1.5rem 0">
+    <!-- Progress bar -->
+    <div style="display:flex;gap:4px;margin-bottom:1.5rem" id="wt-progress"></div>
+
+    <!-- Slide area -->
+    <div id="wt-slide" style="min-height:340px;background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:2.5rem;position:relative;overflow:hidden;transition:background .4s ease, border-color .4s ease">
+    </div>
+
+    <!-- Navigation -->
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-top:1rem">
+      <button id="wt-prev" onclick="wtNav(-1)" style="background:var(--bg2);border:1px solid rgba(0,0,0,.1);border-radius:var(--radius);padding:8px 20px;font-family:var(--font-body);font-size:13px;color:var(--text2);cursor:pointer;transition:all .15s">← Vorige</button>
+      <span id="wt-counter" style="font-family:var(--font-mono);font-size:12px;color:var(--text3)"></span>
+      <button id="wt-next" onclick="wtNav(1)" style="background:var(--accent);border:none;border-radius:var(--radius);padding:8px 24px;font-family:var(--font-body);font-size:13px;color:#fff;cursor:pointer;font-weight:500;transition:all .15s">Volgende →</button>
+    </div>
+  </div>

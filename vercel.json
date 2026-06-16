@@ -1,8 +1,0 @@
-{
-  "buildCommand": null,
-  "outputDirectory": "dist",
-  "cleanUrls": false,
-  "redirects": [
-    { "source": "/", "destination": "/VIC%27s%20Veenweideboeren%20visie.html", "permanent": false }
-  ]
-}

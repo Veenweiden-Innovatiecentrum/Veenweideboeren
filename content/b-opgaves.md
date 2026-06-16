@@ -19,26 +19,131 @@ Dat is waarom dit verhaal drie aktes heeft. Akte I laat zien wat er gebeurt als 
 
 Welke opgaves precies, en hoe verschilt dat per plek?
 
-### De opgaves: wat vraagt Nederland van dit gebied?
+<h3>De opgaves: wat vraagt Nederland van dit gebied?<span class="fiche-wrap" style="margin-left:8px"><button class="fiche-btn" type="button" aria-label="Hoe te lezen">ⓘ</button><span class="fiche-popup"><span class="fiche-label">Hoe te lezen</span><span class="fiche-source">De stippen geven het <strong>relatieve gewicht</strong> van iedere opgave in die context — dus hoe urgent de opgave op die plek is, niet hoe goed het gebied scoort. Meer stippen = urgenter daar. De drie contexten (Polder, Stadsrand, Natuur) zijn ideaaltypisch; de meeste gebieden zijn een mengvorm.</span><span class="fiche-note">● laag · ●● middel · ●●● hoog · ●●●● zeer hoog · n.v.t. niet van toepassing in deze context.</span></span></span></h3>
 
-Het veenweidegebied staat voor tien maatschappelijke opgaves tegelijk. Ze zijn alle tien reëel en legitiem, maar niet elke opgave weegt even zwaar in elk gebied. Welke opgave het zwaarst weegt, hangt af van de bodemsamenstelling, de ligging, de omgeving en de al aanwezige druk. Er is geen nationale hiërarchie.
+Het veenweidegebied staat voor zeven maatschappelijke claims tegelijk. Ze zijn alle zeven reëel en legitiem, maar hun gewicht verschilt per context. Er is geen nationale hiërarchie: welke opgave het zwaarst weegt, hangt af van waar je bent. Klimaat, water en natuur vormen in de meeste veenweidecontexten de meest directe fysieke druk. Bij water hoort ook klimaatadaptatie: buffering bij piekbuien, zoetwaterbeschikbaarheid bij droogte, omgaan met zeespiegelstijging. Het veenweidegebied kan daar een rol in spelen, als waterberging als dienst serieus wordt genomen. De overige vier zijn even reëel, maar gevarieerder in urgentie per plek.
 
-**Klimaat & bodemdaling** — Veenoxidatie remmen, broeikasgasemissies uit de bodem verlagen, bodemdaling tegengaan. De opgave is het zwaarst in veengebieden zonder kleidek; een kleidek remt de oxidatie waardoor bodemdaling en emissies er beduidend lager zijn.
+<p style="font-size:13px;color:var(--text2);margin-bottom:1.25rem">De drie contexten die verderop in dit document terugkomen — Polder, Stadsrand, Natuur — laten zien hoe het gewicht van deze opgaves verschuift naargelang de omgeving.</p>
 
-**Klimaat — bedrijf** — Methaan en koolstofopslag uit vee, stal en machines verlagen. Deze opgave is in alle veenweidegebieden vergelijkbaar: de maatregelen en de druk zijn overal gelijk.
+<!-- OPGAVEN VISUAL -->
 
-**Water — kwaliteit** — Slootbeheer, nutriëntenbelasting, KRW-doelen. Het zwaarst in zuivere veengebieden, en nog zwaarder waar die gebieden grenzen aan natuurgebieden — uitspoeling van nutriënten heeft er direct effect op beschermde habitats.
+<div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem 1.75rem;margin:0 0 1.5rem">
 
-**Water — kwantiteit** — Waterberging, droogtebestrijding, piekopvang van regenwater. Vernatting is in alle veenweidegebieden de richting, maar de opgave is extra acuut in natuurgebieden met wegzijging en in landbouwgebieden met beperkte aanvoer vanuit rivieren.
+    <!-- Opgaven matrix -->
+    <div style="overflow-x:auto">
+      <table style="width:100%;border-collapse:collapse;font-size:12.5px">
+        <thead>
+          <tr>
+            <th style="text-align:left;padding:8px 10px 12px;font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--text3);font-weight:600;border-bottom:2px solid rgba(0,0,0,.06);width:36%">Opgave</th>
+            <th style="text-align:center;padding:8px 10px 12px;font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--text3);font-weight:600;border-bottom:2px solid rgba(0,0,0,.06);width:21%">🌾 Polder</th>
+            <th style="text-align:center;padding:8px 10px 12px;font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--text3);font-weight:600;border-bottom:2px solid rgba(0,0,0,.06);width:21%">🏘️ Stadsrand</th>
+            <th style="text-align:center;padding:8px 10px 12px;font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--text3);font-weight:600;border-bottom:2px solid rgba(0,0,0,.06);width:21%">🌿 Natuur</th>
+          </tr>
+        </thead>
+                        <tbody id="opgaven-tbody">
+          <tr style="border-bottom:1px solid rgba(0,0,0,.04);">
+            <td style="padding:10px 10px 4px">
+              <div style="font-weight:600;color:var(--text)">Klimaat &amp; bodemdaling</div>
+              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Veenoxidatie remmen, broeikasgasemissies uit de bodem verlagen, bodemdaling tegengaan</div>
+            </td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+          </tr>
+          <tr style="border-bottom:1px solid rgba(0,0,0,.04);background:rgba(0,0,0,.012)">
+            <td style="padding:10px 10px 4px">
+              <div style="font-weight:600;color:var(--text)">Klimaat — bedrijf</div>
+              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Methaan en CO₂ uit vee, stal en machines verlagen</div>
+            </td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+          </tr>
+          <tr style="border-bottom:1px solid rgba(0,0,0,.04);">
+            <td style="padding:10px 10px 4px">
+              <div style="font-weight:600;color:var(--text)">Water — kwaliteit</div>
+              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Slootbeheer, nutriëntenbelasting, KRW-doelen</div>
+            </td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+          </tr>
+          <tr style="border-bottom:1px solid rgba(0,0,0,.04);background:rgba(0,0,0,.012)">
+            <td style="padding:10px 10px 4px">
+              <div style="font-weight:600;color:var(--text)">Water — kwantiteit</div>
+              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Waterberging, droogtebestrijding, piekopvang van regenwater (zwaarder aan stadsrand)</div>
+            </td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+          </tr>
+          <tr style="border-bottom:1px solid rgba(0,0,0,.04);">
+            <td style="padding:10px 10px 4px">
+              <div style="font-weight:600;color:var(--text)">Natuur — gebieden</div>
+              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Natura 2000, stikstofdepositie, beschermde soorten. <strong>Stikstof is op dit moment het politieke vehikel</strong> waarmee deze opgave brede aandacht krijgt — en het mechanisme dat tegelijk de andere opgaves dreigt te overschaduwen.</div>
+            </td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●●</span></td>
+          </tr>
+          <tr style="border-bottom:1px solid rgba(0,0,0,.04);background:rgba(0,0,0,.012)">
+            <td style="padding:10px 10px 4px">
+              <div style="font-weight:600;color:var(--text)">Natuur — basiskwaliteit</div>
+              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Slootkanten, weidevogels, biodiversiteit in het boerenland</div>
+            </td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+          </tr>
+          <tr style="border-bottom:1px solid rgba(0,0,0,.04);">
+            <td style="padding:10px 10px 4px">
+              <div style="font-weight:600;color:var(--text)">Voedselzekerheid</div>
+              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Directe voedselproductie uit het gebied; inputs (organische mest, water) voor voedselproductie elders in Nederland; vermindering van importafhankelijkheid (voer, kunstmest)</div>
+            </td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:12px;color:var(--text3);font-style:italic">n.v.t.</span></td>
+          </tr>
+          <tr style="border-bottom:1px solid rgba(0,0,0,.04);background:rgba(0,0,0,.012)">
+            <td style="padding:10px 10px 4px">
+              <div style="font-weight:600;color:var(--text)">Cultuur &amp; landschap</div>
+              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Landschapsidentiteit, veenweide-erfgoed, beleving</div>
+            </td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+          </tr>
+          <tr style="border-bottom:1px solid rgba(0,0,0,.04);">
+            <td style="padding:10px 10px 4px">
+              <div style="font-weight:600;color:var(--text)">Grondstoffen &amp; kringloop</div>
+              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Hernieuwbare grondstoffen, minder import, gesloten kringlopen</div>
+            </td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:12px;color:var(--text3);font-style:italic">n.v.t.</span></td>
+          </tr>
+          <tr style="border-bottom:1px solid rgba(0,0,0,.04);background:rgba(0,0,0,.012)">
+            <td style="padding:10px 10px 4px">
+              <div style="font-weight:600;color:var(--text)">Wonen</div>
+              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Woningbouw, recreatiewoningen, tiny houses, functiemenging, leefbaarheid landelijk gebied</div>
+            </td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
+            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
 
-**Natuur — gebieden** — Natura 2000, stikstofdepositie, beschermde soorten. **Stikstof is op dit moment het politieke vehikel** waarmee deze opgave brede aandacht krijgt — en het mechanisme dat tegelijk de andere opgaves dreigt te overschaduwen. De opgave is het grootst in gebieden met hoge stikstofdepositie, doorgaans nabij intensieve emissiebronnen.
-
-**Natuur — basiskwaliteit** — Slootkanten, weidevogels, biodiversiteit in het boerenland. Relevant in alle veenweidegebieden — er zijn geen gebieden waar dit niet speelt.
-
-**Voedselzekerheid** — Directe voedselproductie, inputs voor voedselproductie elders in Nederland, vermindering van importafhankelijkheid. Speelt in alle veenweidegebieden, in wisselende vormen.
-
-**Cultuur & landschap** — Landschapsidentiteit, veenweide-erfgoed, beleving. De opgave is het grootst nabij steden, waar de vraag naar landschapsbeleving en recreatie het hoogst is.
-
-**Grondstoffen & kringloop** — Hernieuwbare grondstoffen, minder import, gesloten kringlopen. Speelt breed, maar de koppeling is het sterkst in gebieden naast bedrijvigheid en akkerbouwbedrijven die organische stromen kunnen afnemen.
-
-**Wonen** — Woningbouw, recreatiewoningen, tiny houses, functiemenging, zorgfunctie. De opgave is het grootst langs stadsranden, waar de druk op ruimte het hoogst is en extra diensten zoals zorgfuncties een plek zoeken.
+    <!-- Legenda + noot -->
+    <div style="display:flex;gap:16px;align-items:center;margin-top:14px;flex-wrap:wrap">
+      <div style="font-size:11px;color:var(--text3);font-weight:600;text-transform:uppercase;letter-spacing:.06em">Urgentie per context:</div>
+      <div style="display:flex;gap:14px;flex-wrap:wrap;font-size:11px;color:var(--text2)">
+        <span><span style="font-size:14px;color:#2d6a23">●</span> laag</span>
+        <span><span style="font-size:14px;color:#2d6a23">●●</span> middel</span>
+        <span><span style="font-size:14px;color:#2d6a23">●●●</span> hoog</span>
+        <span><span style="font-size:14px;color:#2d6a23">●●●●</span> zeer hoog</span>
+      </div>
+      <div style="font-size:11px;color:var(--text3);margin-left:auto;font-style:italic">Stippen = relatief gewicht van de opgave in die context, niet de prestatie van het gebied. Geen nationale hiërarchie — het gewicht hangt af van de plek.</div>
+    </div>
+  </div>

@@ -44,4 +44,6 @@ Een falende check die terecht is, krijgt hier een notitie. Anders wordt hij bij 
 
 | Check | Bestand | Waarom het hier wel mag |
 |---|---|---|
-| | | *nog leeg* |
+| Vooruitwijzing aktes | scope.md | De leeswijzer ís de ene expliciete introductie van de aktes die toetsregel 13 voorschrijft. Vóór akte III noemen mag hier, en alleen hier |
+| Voorbehoud verspreid | scope.md (4×) | Alle vier zijn "mogelijk" in de betekenis *haalbaar* ("dat mogelijk maakt", "geen vee meer mogelijk"), niet als voorbehoud. De grep kan dat verschil niet zien |
+| Driesporen | intro.md | Het driesporenkader staat er nog; het verhuist naar de bijlage in ronde 5 |

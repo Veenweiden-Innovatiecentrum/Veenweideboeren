@@ -69,6 +69,27 @@ def build_toolbox():
     open(dest, 'w', encoding='utf-8').write(out)
     print(f'Gebouwd: {dest} ({len(out)//1000}k tekens)')
 
+def build_hoofdstuk(sid):
+    """Eén hoofdstuk als losse HTML ter beoordeling — zelfde opmaak als het
+    document, zonder navigatie. Leesversie, geen publicatie."""
+    md_path = f'content/{sid}.md'
+    pt_path = f'partials/{sid}.html'
+    if os.path.exists(md_path):
+        body = R.render_md(open(md_path, encoding='utf-8').read())
+    elif os.path.exists(pt_path):
+        body = open(pt_path, encoding='utf-8').read()
+    else:
+        sys.exit(f'FOUT: geen bron voor sectie "{sid}" (content/ noch partials/)')
+    template = open('templates/document/template.html', encoding='utf-8').read()
+    head = template.split('</head>')[0] + '</head>'
+    out = (f'{head}\n<body>\n<main>\n<section id="{sid}">\n{body}\n</section>\n'
+           f'</main>\n</body>\n</html>\n')
+    os.makedirs('dist/hoofdstukken', exist_ok=True)
+    dest = f'dist/hoofdstukken/{sid}.html'
+    open(dest, 'w', encoding='utf-8').write(out)
+    print(f'Gebouwd: {dest} ({len(out)//1000}k tekens)')
+
+
 def build_tekst():
     """Alle content-MD samenvoegen tot één leesbestand (alleen ter inzage —
     bewerken gebeurt in de losse bestanden in content/)."""
@@ -97,5 +118,10 @@ if __name__ == '__main__':
         build_programmavoorstel()
     elif target == 'tekst':
         build_tekst()
+    elif target == 'hoofdstuk':
+        if len(sys.argv) < 3:
+            sys.exit('FOUT: geef het hoofdstuk mee, bv. python3 build.py hoofdstuk c-omslag')
+        build_hoofdstuk(sys.argv[2])
     else:
-        sys.exit(f'Onbekende uiting: {target} (beschikbaar: document, tekst)')
+        sys.exit(f'Onbekende uiting: {target} '
+                 '(beschikbaar: document, toolbox, programmavoorstel, tekst, hoofdstuk <id>)')

@@ -37,11 +37,20 @@ Na tekstwijzigingen: `python build.py document` en de output in `dist/` controle
 
 Om één hoofdstuk aan de gebruiker voor te leggen: `python build.py hoofdstuk <sectie-id>` → `dist/hoofdstukken/<sectie-id>.html`. Zelfde opmaak als het document, zonder navigatie. Leesversie ter beoordeling, geen publicatie.
 
-## Versies — de vorige versie blijft altijd bestaan
+## Twee documenten naast elkaar — dit is hoe de gebruiker meekijkt
 
-Bij het afronden van een ronde, vóór het samenvoegen naar `main`: `python build.py versie "na ronde N"`. Dat bouwt het document en legt het vast in `dist/versies/`, met een oplopend nummer en de datum. `dist/versies/index.html` is het overzicht.
+In `dist/vergelijk/` staan twee complete documenten. De gebruiker houdt ze in twee browserwindows naast elkaar open terwijl de herziening vordert.
 
-**Een vastgelegde versie wordt nooit overschreven, hernoemd of verwijderd** — ook niet als er later iets aan het document verandert. `v2` is het onbewerkte document van vóór de herziening; dat is de bodem. Zo kan de gebruiker elke eerdere versie openen zonder git te gebruiken.
+| Bestand | Wat het is |
+|---|---|
+| `1 — huidige visie (bevroren).html` | De visie zoals die op `main` staat. **Nooit aanraken, nooit opnieuw bouwen, nooit hernoemen.** Dit is het vergelijkingspunt |
+| `2 — herziene visie (groeit mee).html` | De herziening. `build.py document` werkt deze bij; de gebruiker ververst zijn browser en ziet de nieuwe stand |
+
+`build.py document` schrijft bestand 2 en de index automatisch — er is geen apart commando voor. Bestand 1 wordt door geen enkel buildpad geschreven.
+
+Meld na elke wijziging dat bestand 2 is bijgewerkt, zodat de gebruiker weet dat verversen zin heeft.
+
+De map `origineel/` is iets anders: dat is het aangeleverde v2-document van vóór de repo-conversie, inhoudelijk ouder dan `main`. Gebruik dat niet als vergelijkingspunt.
 
 ## Context
 

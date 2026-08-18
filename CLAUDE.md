@@ -26,6 +26,7 @@ Die website staat in `webapp/`. Op 18 augustus 2026 is zijn tekst teruggehaald n
 ## Bij het hoofdstuk zelf
 
 - **Nummer het hoofdstuk** met zijn nummer uit redactiebrief §15, en de subkoppen daarbinnen: `## 1 — Waar dit over gaat`, dan `### 1.1`, `### 1.2`. Dat gebeurt op het moment dat het hoofdstuk herzien wordt; de letters A tot H blijven tot dan staan.
+- **Lopende tekst staat altijd onder een kop.** Tussen de hoofdstukkop en de eerste `###` mag geen alinea staan; die tekst hoort in `x.1` met een kop die zegt wat er staat. Een openingskader met zijn eigen kop mag daar wel, zoals in hoofdstuk 1 (Tim, 18-8).
 - Raadpleeg `richtlijnen/bloktypen.md` voor de bestemming van elk accentkader in dit bestand.
 - Noemt het hoofdstuk het VIC, de missie of de programma's: `richtlijnen/vic-missie-en-programmas.md`. Verzin daar niets bij — de statutaire missie en de programmafeiten staan er letterlijk in.
 - Zet je een **aantal bedrijven** in de tekst: lees eerst `richtlijnen/scope-getallen-bedrijven.md`. Daar staat het te citeren getal met zijn afbakening, en vier getallen die circuleren en onbruikbaar zijn (waaronder één dat expliciet fictief is).

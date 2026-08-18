@@ -27,7 +27,7 @@ Dit is de bronrepository van de Veenweideboerenvisie. De tekst staat als Markdow
 ## Na het schrijven, vóór het afronden
 
 1. Draai `python verify.py` (checks conform redactiebrief §16.2 — nog uit te breiden; staat een check er nog niet in, voer hem dan handmatig uit met grep).
-2. Draai `python3 stijlcheck.py <bestand>.md`. Dat meet schrijfsporen tegen de bestaande hoofdstukken: em-dashes, "niet X maar Y", drieslagen, signaalwoorden, zinsritme. Wijkt het gewijzigde bestand sterk af van de nulmeting, dan klinkt het niet als de rest van het document — kijk ernaar, en meld het in de samenvatting. Het blokkeert niets en is geen verbodslijst.
+2. Draai `python3 stijlcheck.py <bestand>.md`. Dat meet schrijfsporen — em-dashes, "niet X maar Y", drieslagen, signaalwoorden, zinsritme — tegen de letterlijke citaten van de commentatoren in `feedback/`. **De hoofdstukken in `content/` zijn zelf met AI geschreven en zijn dus geen norm.** Streef naar de mensen-nulmeting, niet naar het documentgemiddelde. Meld de uitslag in de samenvatting. Het blokkeert niets en is geen verbodslijst.
 3. Doe de leescheck: de zes vragen in redactiebrief §16.3.
 4. Vink de verwerkte punten af in `richtlijnen/correctielijst.md`.
 5. Vat voor de gebruiker samen: wat is gewijzigd, welke markeringen staan open, welke checks faalden en waarom dat terecht of onterecht is.

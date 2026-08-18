@@ -80,65 +80,81 @@ def build_toolbox():
     print(f'Gebouwd: {dest} ({len(out)//1000}k tekens)')
 
 
+def template_hoofd():
+    """De <head> van het document: lettertypen en de volledige huisstijl-CSS.
+    Hergebruiken in plaats van namaken, zodat alles wat wij bouwen er
+    hetzelfde uitziet als de visie zelf."""
+    t = open('templates/document/template.html', encoding='utf-8').read()
+    return t.split('</head>')[0] + '</head>'
+
+
+def vic_logo():
+    """Het VIC-logo zoals het in de zijbalk van het document staat."""
+    t = open('templates/document/template.html', encoding='utf-8').read()
+    m = re.search(r'<div class="vic-logo">.*?</div>', t, re.S)
+    return m.group(0) if m else ''
+
+
 def schrijf_vergelijk_index():
     """Startpagina van de vergelijkmap. Zegt welke van de twee meegroeit."""
     tijd = datetime.datetime.now().strftime('%d-%m-%Y om %H:%M')
     def rij(pad, nr, titel, wat, live):
         if not os.path.exists(pad):
             return ''
-        label = ('<span class="tag live">groeit mee</span>' if live
-                 else '<span class="tag vast">bevroren</span>')
-        return (f'<li><a href="{urllib.parse.quote(os.path.basename(pad))}">'
-                f'<span class="nr">{nr}</span><span class="wat">'
-                f'<strong>{titel}</strong><span class="sub">{wat}</span></span></a>{label}</li>')
+        kleur = ('background:var(--accent);color:#fff' if live
+                 else 'background:var(--bg2);color:var(--text2)')
+        merk = 'groeit mee' if live else 'bevroren'
+        return (
+            '<li style="display:flex;align-items:center;gap:1rem;padding:1rem 0;'
+            'border-bottom:1px solid rgba(0,0,0,.06)">'
+            f'<a href="{urllib.parse.quote(os.path.basename(pad))}" '
+            'style="flex:1;display:flex;align-items:baseline;gap:1.25rem;'
+            'text-decoration:none;color:inherit">'
+            f'<span style="font-family:var(--font-mono);font-size:20px;color:var(--text3)">{nr}</span>'
+            f'<span><strong style="display:block;font-size:16px">{titel}</strong>'
+            f'<span style="display:block;font-size:13px;color:var(--text2)">{wat}</span></span></a>'
+            f'<span style="{kleur};font-size:10px;text-transform:uppercase;'
+            'letter-spacing:.08em;padding:3px 9px;border-radius:3px;'
+            f'white-space:nowrap;font-weight:500">{merk}</span></li>')
     rijen = [
         rij(HUIDIGE, '1', 'Huidige visie',
             'Zoals die op main staat. Wordt nooit opnieuw gebouwd', False),
         rij(HERZIENE, '2', 'Herziene visie',
             f'Laatst bijgewerkt {tijd}. Verversen toont de nieuwste stand', True),
     ]
-    html = f'''<!DOCTYPE html>
-<html lang="nl">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Veenweideboeren — vergelijken</title>
-<style>
-*{{margin:0;padding:0;box-sizing:border-box}}
-body{{background:#F7F5F0;color:#2A2824;font-family:'Roboto',-apple-system,sans-serif;
-font-size:15px;line-height:1.7;padding:3rem 1.5rem}}
-main{{max-width:660px;margin:0 auto}}
-h1{{font-family:'Playfair Display',Georgia,serif;font-size:32px;line-height:1.2;margin-bottom:.5rem}}
-p.uitleg{{color:#5C5A54;margin-bottom:2rem;max-width:560px}}
-ul{{list-style:none}}
-li{{display:flex;align-items:center;gap:1rem;border-top:1px solid rgba(0,0,0,.08)}}
-li:last-child{{border-bottom:1px solid rgba(0,0,0,.08)}}
-a{{flex:1;display:flex;align-items:flex-start;gap:1.25rem;padding:1rem 0;
-text-decoration:none;color:inherit}}
-a:hover strong{{color:#2d6a23}}
-.nr{{font-family:'JetBrains Mono',monospace;font-size:20px;color:#8A877F;
-min-width:1.5rem;line-height:1.4}}
-.wat strong{{display:block;font-size:16px;font-weight:600}}
-.wat .sub{{display:block;font-size:13px;color:#5C5A54;line-height:1.5}}
-.tag{{font-size:10px;text-transform:uppercase;letter-spacing:.08em;
-padding:3px 9px;border-radius:3px;white-space:nowrap;font-weight:500}}
-.tag.live{{background:#3ea635;color:#fff}}
-.tag.vast{{background:#EDEAE3;color:#5C5A54}}
-</style>
-</head>
+    html = f'''{template_hoofd()}
 <body>
+<div class="wrapper">
+<nav id="sidebar">
+{vic_logo()}
+  <div class="nav-header">
+    <h2>Veenweide&shy;boeren</h2>
+    <span class="tag">Vergelijken</span>
+  </div>
+  <div class="nav-section">
+    <div class="nav-section-title">Versies</div>
+    <a class="nav-link" href="{urllib.parse.quote(os.path.basename(HUIDIGE))}">1 — huidige visie</a>
+    <a class="nav-link" href="{urllib.parse.quote(os.path.basename(HERZIENE))}">2 — herziene visie</a>
+  </div>
+</nav>
+
 <main>
-<h1>Veenweideboeren — vergelijken</h1>
-<p class="uitleg">Open beide in een eigen browserwindow en zet ze naast elkaar.
+<h1>Twee versies <span>naast elkaar</span></h1>
+<p class="subtitle">Open beide in een eigen browservenster en zet ze naast elkaar.
 Links de visie zoals die nu is, rechts de herziening. Alleen de rechter verandert;
 verversen laat de laatste stand zien.</p>
-<ul>
+
+<div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:.5rem 1.5rem;margin:1.5rem 0">
+<ul style="list-style:none;margin:0;padding:0">
 {chr(10).join(r for r in rijen if r)}
 </ul>
+</div>
 </main>
+</div>
 </body>
 </html>
 '''
+    open(f'{VERGELIJK}/index.html', 'w', encoding='utf-8').write(html)
     open(f'{VERGELIJK}/index.html', 'w', encoding='utf-8').write(html)
     # Korte adressen, zodat /1 en /2 te onthouden en te bookmarken zijn.
     for kort, doel in (('1', HUIDIGE), ('2', HERZIENE)):
@@ -160,10 +176,17 @@ def build_hoofdstuk(sid):
         body = open(pt_path, encoding='utf-8').read()
     else:
         sys.exit(f'FOUT: geen bron voor sectie "{sid}" (content/ noch partials/)')
-    template = open('templates/document/template.html', encoding='utf-8').read()
-    head = template.split('</head>')[0] + '</head>'
-    out = (f'{head}\n<body>\n<main>\n<section id="{sid}">\n{body}\n</section>\n'
-           f'</main>\n</body>\n</html>\n')
+    kop = (
+        '<div style="border-bottom:1px solid rgba(0,0,0,.08);background:var(--bg2)">'
+        '<div style="max-width:820px;margin:0 auto;padding:1.25rem 3rem;'
+        'display:flex;align-items:center;gap:1.25rem">'
+        f'<div style="width:130px;flex:none">{vic_logo()}</div>'
+        '<div><div style="font-family:var(--font-display);font-size:16px;'
+        'font-weight:700">Veenweideboeren</div>'
+        '<div style="font-size:12px;color:var(--text2)">Los hoofdstuk ter '
+        'beoordeling — geen publicatie</div></div></div></div>')
+    out = (f'{template_hoofd()}\n<body>\n{kop}\n<main>\n<section id="{sid}">\n{body}\n'
+           f'</section>\n</main>\n</body>\n</html>\n')
     os.makedirs('dist/hoofdstukken', exist_ok=True)
     dest = f'dist/hoofdstukken/{sid}.html'
     open(dest, 'w', encoding='utf-8').write(out)

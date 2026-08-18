@@ -10,9 +10,10 @@ Die website staat in `webapp/`. Op 18 augustus 2026 is zijn tekst teruggehaald n
 
 **Daarmee zijn `content/` en de website weer één.** Bewaak dat:
 
-- `python3 build.py site visie` vergelijkt de twee en schrijft niets. Alles moet "gelijk" zijn, behalve waar je zelf net iets hebt gewijzigd.
-- Overschrijven van de website vraagt `--schrijf`. Nooit blind doen.
-- Loopt het uiteen zonder dat jij het veroorzaakte, dan is er buiten de repo om aan de site gewerkt. Stoppen en melden.
+- `bestuursversie/content-visie.js` is de bevroren tekst van 1 juli, rechtstreeks uit commit `aa559b5`. **Nooit bijwerken.** Dit is het ijkpunt.
+- `python3 build.py site visie` vergelijkt `content/` met die bevroren versie en schrijft niets. Alles moet "gelijk" zijn, behalve de hoofdstukken die je zelf hebt herzien.
+- Overschrijven van de lokale website vraagt `--schrijf`. Nooit blind doen. Let op: `webapp/site/content-visie.js` bevat ná de eerste `--schrijf` de herziening, dus vergelijk daar niet meer tegen — daarom bestaat `bestuursversie/`.
+- Wijkt een hoofdstuk af dat jij niet hebt aangeraakt, dan is er buiten de repo om gewerkt. Stoppen en melden.
 
 `dist/` en `origineel/` zijn géén waarheid. `dist/` is een bijproduct in een andere vormgeving dan het bestuur kent; `origineel/` is het aangeleverde v2-document van vóór de repo-conversie en inhoudelijk het oudst.
 
@@ -24,7 +25,10 @@ Die website staat in `webapp/`. Op 18 augustus 2026 is zijn tekst teruggehaald n
 
 ## Bij het hoofdstuk zelf
 
+- **Nummer het hoofdstuk** met zijn nummer uit redactiebrief §15, en de subkoppen daarbinnen: `## 1 — Waar dit over gaat`, dan `### 1.1`, `### 1.2`. Dat gebeurt op het moment dat het hoofdstuk herzien wordt; de letters A tot H blijven tot dan staan.
 - Raadpleeg `richtlijnen/bloktypen.md` voor de bestemming van elk accentkader in dit bestand.
+- Noemt het hoofdstuk het VIC, de missie of de programma's: `richtlijnen/vic-missie-en-programmas.md`. Verzin daar niets bij — de statutaire missie en de programmafeiten staan er letterlijk in.
+- Zet je een **aantal bedrijven** in de tekst: lees eerst `richtlijnen/scope-getallen-bedrijven.md`. Daar staat het te citeren getal met zijn afbakening, en vier getallen die circuleren en onbruikbaar zijn (waaronder één dat expliciet fictief is).
 - Raadpleeg `richtlijnen/correctielijst.md` voor de feitcorrecties van dit bestand; vink af wat verwerkt is.
 - `richtlijnen/terminologie.md` geldt doorlopend.
 - `richtlijnen/commentaar-clusters.md` is historisch — alleen lezen bij twijfel over de herkomst van een besluit.
@@ -40,11 +44,18 @@ Die website staat in `webapp/`. Op 18 augustus 2026 is zijn tekst teruggehaald n
 
 ## Na het schrijven, vóór het afronden
 
-1. Draai `python verify.py` (checks conform redactiebrief §16.2 — nog uit te breiden; staat een check er nog niet in, voer hem dan handmatig uit met grep).
-2. Draai `python3 stijlcheck.py <bestand>.md`. Dat meet schrijfsporen — em-dashes, "niet X maar Y", drieslagen, signaalwoorden, zinsritme — tegen de letterlijke citaten van de commentatoren in `feedback/`. **De hoofdstukken in `content/` zijn zelf met AI geschreven en zijn dus geen norm.** Streef naar de mensen-nulmeting, niet naar het documentgemiddelde. Meld de uitslag in de samenvatting. Het blokkeert niets en is geen verbodslijst.
-3. Doe de leescheck: de zes vragen in redactiebrief §16.3.
-4. Vink de verwerkte punten af in `richtlijnen/correctielijst.md`.
-5. Vat voor de gebruiker samen: wat is gewijzigd, welke markeringen staan open, welke checks faalden en waarom dat terecht of onterecht is.
+1. Draai `python3 verwijzingen.py`. Die doet twee dingen.
+   - **Kruisverwijzingen** ("hoofdstuk 4", "bijlage 17", "sectie D", "zie 1.3") getoetst tegen `richtlijnen/hoofdstukregister.md`. "FOUT" moet leeg zijn; "NOG NIET OP TE VOLGEN" mag, dat zijn verwijzingen die kloppen op de eindstructuur maar waarvan het hoofdstuk zijn nummer nog niet draagt.
+   - **Terugverwijzingen zonder antecedent**: abstracte woorden ("de fase", "de redenering", "de vraag") die met een bepaald lidwoord worden aangewezen zonder eerder genoemd te zijn. Dit is een kandidatenlijst met ruis, geen foutenlijst — ongeveer één op drie is echt. Loop hem langs en noem het ding bij naam waar dat nodig is.
+2. Draai `python verify.py` (checks conform redactiebrief §16.2 — nog uit te breiden; staat een check er nog niet in, voer hem dan handmatig uit met grep). **Let op:** dat script vergelijkt `dist/` met `origineel/` en is sinds de conversie achterhaald; het faalt op hoofdstukken die je niet hebt aangeraakt.
+3. Draai `python3 stijlcheck.py <bestand>.md`. Dat meet schrijfsporen — em-dashes, "niet X maar Y", drieslagen, signaalwoorden, zinsritme — tegen de letterlijke citaten van de commentatoren in `feedback/`. **De hoofdstukken in `content/` zijn zelf met AI geschreven en zijn dus geen norm.** Streef naar de mensen-nulmeting, niet naar het documentgemiddelde. Meld de uitslag in de samenvatting. Het blokkeert niets en is geen verbodslijst.
+4. Doe de leescheck: de zes vragen in redactiebrief §16.3.
+5. Vink de verwerkte punten af in `richtlijnen/correctielijst.md`.
+6. Vat voor de gebruiker samen: wat is gewijzigd, welke markeringen staan open, welke checks faalden en waarom dat terecht of onterecht is.
+7. **Lever een verantwoording per hoofdstuk, en opnieuw na elke verbeteringsslag** op datzelfde hoofdstuk. Drie delen, in deze volgorde:
+   - **Wat er beter is geworden** — je eigen oordeel, met wat het hoofdstuk eerst deed en nu doet. Ook wat er níet beter van werd.
+   - **Volgens de redactie** — welke toetsregels en besluiten uit `redactiebrief.md` en `besluitenlog.md` zijn geland, per regelnummer. En welke van toepassing waren maar niet gehaald.
+   - **Volgens de correcties** — loop het cluster in `commentaar-clusters.md` langs dat over dít hoofdstuk gaat, opmerking voor opmerking, met de naam van de commentator. Zeg per opmerking: verwerkt, deels, of niet. `correctielijst.md` dekt alleen cluster 8 (feiten), dus de andere clusters hebben geen afvinklijst en vallen anders stil. Wat je daar vindt en niet ter plekke kunt oplossen, zet je als open punt in `correctielijst.md` onder dat bestand.
 
 ## Bouwen
 
@@ -60,6 +71,12 @@ De gebruiker houdt twee browservensters naast elkaar open, allebei in de vormgev
 |---|---|
 | **de bestuursversie** | `veenweideboeren-visie.vercel.app` — onaangeroerd online. Dit is het vergelijkingspunt |
 | **de herziening** | de webapp lokaal geserveerd, met de bijgewerkte tekst |
+
+Serveren gaat met `python3 serveer.py` (poort 18620). Gebruik **niet** `python3 -m http.server`: die stuurt geen cache-regels mee en dan blijft de browser de oude tekst tonen na een herbouw. Bijwerken van de lokale versie is `python3 build.py site visie --schrijf`, altijd ná de vergelijking zonder `--schrijf`.
+
+Onder elke hoofdstukkop staat lokaal een werkstandregel met bronbestand, hoofdstuknummer, ronde en stand. Die komt uit **`richtlijnen/hoofdstukregister.md`** en wordt door `build.py site` meegeschreven; houd dus dát register bij, niet de lezer. Zet `WERKSTAND_ZICHTBAAR` in `webapp/site/v4-visie.jsx` op `false` vóór publicatie.
+
+Het register is ook de bron voor `verwijzingen.py`. Krijgt een hoofdstuk zijn nummer, dan gaan drie dingen tegelijk mee: de `##`-kop in `content/`, de kolom `nummer` in het register, en de verwijzingen die daarnaar wijzen worden opeens wél op te volgen.
 
 Meld na elke wijziging dat de herziening is bijgewerkt, zodat de gebruiker weet dat verversen zin heeft.
 

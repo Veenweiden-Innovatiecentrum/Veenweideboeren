@@ -38,8 +38,8 @@
 16. Elke sectie heeft een volledige titel, niet alleen een letter.
 
 ## Scope
-17. Breed kader, smal geld: redenering en juridische ruimte gelden voor het hele gebied, opdrachten landen op 20-30%.
-18. Waar geen vee meer mogelijk is: één zin, benoemd als buiten deze typologie.
+17. Breed kader, smal geld: redenering en juridische ruimte gelden voor het hele gebied, opdrachten landen op 20-30%. *Dat is de laag 2-formulering. In laag 3 wordt dit in fysieke termen beschreven en valt het woord "opdrachten" hier nog niet — zie besluitenlog 18-8.*
+18. Waar geen vee meer mogelijk is: één zin. *Niet "buiten deze typologie": dat is waar over het bedrijfsmodel en onwaar over de redenering. Herzien 18-8, zie besluitenlog.*
 19. Elk getal heeft een bron of een expliciet label ("eigen analyse VIC/JUMP"). Geen los cijfer.
 20. Geen percentage bij het stikstofaandeel. Kwalitatief formuleren.
 
@@ -108,11 +108,15 @@ Vier bewegingen, in deze volgorde:
 
 **Bijdrage.** Onze aanpak helpt daarbij. Minder vee is structureel minder ammoniak, en anders dan bij uitkoop blijft de beheerder op het land. Wij zijn geen alternatief voor de stikstofaanpak maar een manier om hem te laten slagen.
 
+*Die tweede zin is een laag 2-formulering en in laag 3 te compact: "minder vee" laat zich lezen als "geen vee", en "de beheerder" maakt van de ondernemer een functie. Uitgeschreven versie en reden in het besluitenlog, 18-8.*
+
 **Afbakening.** Wij vragen niets van het geld dat nu belegd is. De middelen uit het driesporenbeleid zijn toegewezen; daar doen wij geen beroep op.
 
 **Tijd.** Wat wij bouwen is wat daarná nodig is. Dat antwoord is er nog niet — JUMP en BASE hebben jaren nodig om het bewijs en het instrumentarium klaar te hebben. Wie daar pas aan begint als de stikstofopgave is opgelost, is jaren te laat.
 
-> Wij vragen geen wijziging van het huidige beleid en geen euro uit de lopende programma's. Wij vragen de ruimte om te bouwen wat er ná deze fase nodig is: het bewijs dat maatschappelijke diensten een verdienmodel kunnen zijn, en de spelregels die dat mogelijk maken. Dat kost jaren. Daarom beginnen we nu.
+> Wij vragen geen wijziging van het huidige beleid en geen euro uit de lopende programma's. Die middelen zijn toegewezen en die maatregelen worden uitgerold; dat is de ronde die nu loopt. Wij vragen de ruimte om te bouwen wat de volgende ronde nodig heeft: het bewijs dat maatschappelijke diensten een verdienmodel kunnen zijn, en de spelregels die dat mogelijk maken. Daar zijn wij al jaren mee bezig, en er zijn nog jaren nodig voordat het klaar is. Daarom moet dit werk nu doorlopen: het moet klaar zijn op het moment dat die volgende ronde wordt ingericht, niet erna.
+
+*Herzien 18-8. Er stond "Dat kost jaren. Daarom beginnen we nu", en dat was onjuist op elke laag: JUMP draait al. Het is geen startvraag maar een continuïteitsvraag. En "deze fase" werd nergens benoemd; het woord is "ronde", zie `terminologie.md`.*
 
 Twee valkuilen. "Doorpakken" kan gelezen worden als "u pakt nu niet door" — niet wij die aansporen, maar wij die iets aanreiken. En "rijdende treinen" is intern werkwoord; richting buiten klinkt het als een trein die niemand kan tegenhouden.
 
@@ -179,9 +183,11 @@ Het bestuur vroeg om een bredere reikwijdte; die is er. En wij claimen geen geld
 | Redenering | Waar de logica geldt | 200.000 ha | Compendium voor de Leefomgeving (CBS/PBL/WUR). Voetnoot: bodemkundige telling komt op 250.000–360.000 ha, afhankelijk van of moerige gronden meetellen |
 | Kader | Juridische en institutionele ruimte | 200.000 ha | Idem |
 | Opdrachten | Waar geld naartoe gaat | 20-30% | Eigen analyse VIC/JUMP op basis van gestapelde opgaves — staat al zo in de visie |
-| Geen vee mogelijk | Eigen categorie | 10.000 ha | Klimaatakkoord 2019 (Kamerstuk 35141 nr. 3). **Zonder percentage** |
+| Geen vee mogelijk | Eigen categorie | 10.000 ha | ~~Klimaatakkoord 2019 (Kamerstuk 35141 nr. 3)~~ → **eigen analyse VIC/JUMP**, zelfde bron als de 20-30% (Tim, 18-8). **Zonder percentage** |
 | Bewijs | Waar wij testen | 500 ha · 0,25% | Eigen opgave |
 | Middengroep | De doelgroep | 40-80 ha, 80-130 koeien | Eigen typologie VIC. Dit is de definitie uit het gepubliceerde stuk; de variant 60-80 ha / 100-120 koeien vervalt |
+
+*Bijgewerkt 18-8: de 10.000 ha wordt niet meer aan het Klimaatakkoord toegeschreven. De onderbouwing hieronder blijft geldig als reden om géén percentage te noemen, maar het getal draagt nu het label eigen analyse VIC/JUMP, net als de 20-30%. Reden: of het Klimaatakkoord die 10.000 ha ook omschrijft als "geen vee meer mogelijk" was van hier niet te controleren, en een label is eerlijker dan een bron die misschien iets anders meet.*
 
 **Waarom geen percentage bij "geen vee mogelijk":** 10.000 ha is 5% van 200.000, niet 10%. Het komt alleen op 10% uit met de Klimaatakkoord-subscope van 90.000 ha als noemer, en die is door de Kamerbrief van juni 2026 vermoedelijk achterhaald. Het absolute getal is bronvast, het percentage niet.
 
@@ -446,6 +452,10 @@ Drift is niet te voorkomen met oplettendheid, alleen met structuur. Achttienduiz
 **Het besluitenlogboek groeit mee.** Deze brief bevat de besluiten van vóór het schrijven. Tijdens het schrijven vallen er nieuwe: een term gekozen, een formulering vastgelegd, een cijfer opgelost. Die gaan in `besluitenlog.md`, dat elke volgende sessie als eerste leest. Dit is wat stille tegenspraak tussen hoofdstuk vier en hoofdstuk twaalf voorkomt.
 
 **Controleren is een aparte stap.** Niet tijdens het schrijven. Eerst schrijven, dan de machinale check draaien, dan de leescheck doen.
+
+**De formuleringen in deze brief staan op laag 2 — plak ze niet in laag 3.** Deze brief is een toetslijst, dus elke regel moet in één zin passen. Dat werkt voor verboden ("geen percentage bij stikstof") en niet voor nuances: een nuance die tot één zin wordt samengeperst verliest precies de kant die zij afbakent. Op 18 augustus is dat vier keer misgegaan, telkens doordat een compacte zin uit deze brief letterlijk in een laag 3-hoofdstuk werd overgenomen. **Behandel een formulering hier als de claim, niet als de zin.** §5 doet het goed en wijst de weg: daar staat "in laag 2 staat dit, en niet meer" boven de korte versie en "in laag 3 de vierdeling" boven de uitgewerkte. Waar dat label ontbreekt, is de korte versie toch laag 2.
+
+Gooi die korte versies niet weg als je ze uitschrijft. Ze zijn het zaad voor laag 2 en laag 1, die in ronde 6 uit het afgeronde geheel worden gemaakt. Wat een laag 3-sessie te compact vindt, is daar precies goed.
 
 **Volgorde: toonzettend eerst, invulwerk laatst.** Scope, aannames, C en akte III gaan voorop. Als de toon niet klopt weet je dat na tweeduizend woorden in plaats van na achttienduizend. De bijlagen zijn het meest mechanische werk en gaan achteraan — daar is verminderde scherpte het minst schadelijk.
 

@@ -3,16 +3,34 @@
 const VISIE = window.VISIE_CONTENT;
 const visieByid = Object.fromEntries(VISIE.map((s) => [s.id, s]));
 
-// hoofdstukken voor de lezer: vooraf (intro), A..H, slot
-const HOOFDSTUKKEN = [
-  { ...visieByid['intro'], letter: null, titel: 'Vooraf', intro: visieByid['intro'].intro },
-  ...VISIE.filter((s) => s.letter),
-  { ...visieByid['slot'], letter: null, titel: 'Van visie naar uitvoering' },
-];
+/* De lezer volgt de volgorde van het document zelf (volgorde.txt), min laag 1 en de
+   walkthrough. Zo verschijnt een nieuw hoofdstuk automatisch, ook als het nog geen
+   letter of nummer heeft — en dat zijn er vijf in de eindstructuur. */
+const BUITEN_DE_LEZER = new Set(['samenvatting', 'walkthrough']);
+const HOOFDSTUKKEN = VISIE.filter((s) => !BUITEN_DE_LEZER.has(s.id));
+
+/* ---- werkstand: hulpmiddel tijdens de herziening, geen onderdeel van de publicatie ----
+   Zet WERKSTAND_ZICHTBAAR op false voordat dit live gaat.
+   De inhoud komt uit richtlijnen/hoofdstukregister.md en wordt door
+   `build.py site` meegeschreven. Hier dus niets bijhouden. */
+const WERKSTAND_ZICHTBAAR = true;
+
+function Werkstand({ h }) {
+  const w = h.werkstand;
+  if (!WERKSTAND_ZICHTBAAR || !w) return null;
+  const nummer = w.nummer && w.nummer !== '—' ? ' · wordt hoofdstuk ' + w.nummer : '';
+  const ronde = w.ronde && w.ronde !== '—' ? ' · ronde ' + w.ronde : '';
+  return (
+    <p style={{ fontFamily: 'var(--font-mono, monospace)', fontSize: 11, color: 'var(--text3)',
+                margin: '-6px 0 14px', letterSpacing: '.01em' }}>
+      content/{h.id}.md{nummer}{ronde} · {w.stand}
+    </p>
+  );
+}
 
 /* sfeerfoto per hoofdstuk — alleen in de magazinevorm */
 const HOOFDSTUK_FOTO = {
-  'intro': 'assets/photos/hero-plant.jpg',
+  'scope': 'assets/photos/hero-plant.jpg',
   'a-klem': 'assets/photos/invalshoek-bedrijf.jpg',
   'b-opgaves': 'assets/photos/invalshoek-water.jpg',
   'c-omslag': 'assets/photos/activiteit-overleg-in-het-veld.jpg',
@@ -27,7 +45,7 @@ const HOOFDSTUK_FOTO = {
 
 /* pull-quotes — letterlijke zinnen uit de hoofdstukken, herhaald als inzet */
 const PULL_QUOTES = {
-  'intro': 'Geen religie, geen opgedrongen verhaal.',
+  'scope': 'Geen religie, geen opgedrongen verhaal.',
   'a-klem': 'Niet door eigen falen, maar door een systeem dat ze alleen de verkeerde opties biedt.',
   'b-opgaves': 'Op korte termijn vernietigt margedruk het rentmeesterschap.',
   'c-omslag': 'De boer is niet het probleem, de boer is de motor.',
@@ -136,6 +154,7 @@ function DocumentLezer({ openToolbox, wisselVorm }) {
                 <span>{h.letter ? h.letter + ' \u2014 ' : ''}{h.titel}</span>
                 {klap}
               </h2>
+              <Werkstand h={h}></Werkstand>
               {!isOpen && h.intro && (
                 <p onClick={() => toggle(h.id)} style={{ cursor: 'pointer', color: 'var(--text2)' }}>
                   {h.intro.slice(0, 220)}{h.intro.length > 220 ? '\u2026' : ''}

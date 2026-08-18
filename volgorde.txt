@@ -1,5 +1,6 @@
 samenvatting
 walkthrough
+scope
 intro
 a-klem
 b-opgaves
@@ -12,3 +13,4 @@ f3-bedrijfsleven
 g-perspectief
 h-risicos
 slot
+bijlage-driesporen

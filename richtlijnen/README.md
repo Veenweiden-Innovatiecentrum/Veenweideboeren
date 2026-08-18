@@ -12,6 +12,7 @@ Deze map is het complete stuurdossier voor de herziening. Hij hoort in de repo n
 | `correctielijst.md` | Feitcorrecties per bestand, afvinkbaar | Bij elk hoofdstuk; na het schrijven afvinken |
 | `commentaar-clusters.md` | De ~120 reviewopmerkingen, geclusterd naar oorzaak | Alleen bij twijfel over de herkomst van een besluit |
 | `terminologie.md` | Harde begripsregels (bestaand; wordt bijgewerkt conform redactiebrief 28a/28b en §13) | Doorlopend |
+| `vic-missie-en-programmas.md` | Afschrift uit het strategiedossier: de statutaire missie, de ambitie 2026–2032, en wat programma A en B zijn | Zodra een hoofdstuk het VIC, de missie of de programma's noemt |
 | `doorwerking-programmas.md` | Wat uit de visiediscussie doorwerkt naar programma A en B | **Niet** tijdens het schrijven — bij de programmavoorstellen |
 
 ## Werkwijze in het kort
@@ -29,5 +30,5 @@ Volgorde van de rondes: redactiebrief §16.6. Ontbreekt een getal, bron of feit:
 
 Twee werkdocumenten leven buiten de repo, bij Tim:
 
-- `dossier-vic-strategie.md` — het strategiedossier voor het bestuur (2 september). Daar hoort de visie bij als appendix, niet andersom.
-- `uitvraag-scope-getallen.md` — de onderzoeksuitvraag voor de scope-cijfers; is uitgevoerd, resultaat verwerkt in redactiebrief §5 en de correctielijst.
+- `dossier-vic-strategie.md` — het strategiedossier voor het bestuur (2 september). Daar hoort de visie bij als appendix, niet andersom. **Let op:** omdat de visie een appendix is, moet zij naar de missie en de ambitie uit dat dossier kunnen verwijzen. Die zijn daarom als afschrift in `vic-missie-en-programmas.md` gezet. Zonder dat afschrift kan een verse sessie de missie niet kennen, en dat is op 18-8 precies misgegaan.
+- `uitvraag-scope-getallen.md` — de onderzoeksuitvraag voor de scope-cijfers; is uitgevoerd, resultaat verwerkt in redactiebrief §5 en de correctielijst. **Let op, zelfde valkuil als hierboven:** de getallen in §5 zijn daar nagetrokken, maar een sessie kan dat niet controleren. Wat is nagetrokken is het gétal; of de definitie erachter klopt met hoe de visie het gebruikt, is een aparte vraag. Bij twijfel een `[[BRON]]` plaatsen en niet aannemen dat §5 sluitend is. Zie de markering bij de 10.000 ha in `content/scope.md`.

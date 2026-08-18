@@ -6,18 +6,43 @@
 
 ---
 
+## scope.md
+
+*Toegevoegd 18-8 bij het herzien van hoofdstuk 1. Dit zijn punten uit **cluster 3 (Scope)** die nooit in deze lijst waren omgezet, omdat de lijst uit cluster 8 komt. Ze bleven daardoor liggen.*
+
+- [x] Bestuur 1 juli #1: scope te smal, begin-gebied ≠ reikwijdte → breed kader, smal geld in 1.3 plus de reikwijdtetabel
+- [x] Niel punt 1: derde gebiedstype (geen koeien meer mogelijk) → eigen regel in de tabel, zonder percentage
+- [x] Niel: veenweide ligt soms **binnen** N2000 (Laag-Holland) → "ligging in of tegen Natura 2000", 2×
+- [x] Henk (hoofdpunt): op hoeveel **boeren** is dit toepasbaar → circa 2.300 melkveebedrijven, met bronfiche, plus de zin dat het aandeel binnen de 20-30% niet te tellen is. Onderzoek en de vier onbruikbare getallen staan in `scope-getallen-bedrijven.md`
+- [ ] **Aanname 5 uit §12** (de middengroep beslaat 70 tot 80% van de bedrijven) is niet bevestigd en niet weerlegd. Nodig voor hoofdstuk 2. Zie `scope-getallen-bedrijven.md`
+- [x] **De 10.000 ha "geen vee meer mogelijk"**: opgelost 18-8 door Tim. De Klimaatakkoord-verwijzing is vervallen; het getal draagt nu het label eigen analyse VIC/JUMP, dezelfde bron als de 20-30%. Achtergrond: het getal stond alleen in redactiebrief §5, niet in de bestuursversie, niet in Niels commentaar en niet in de aangekondigde veenweide-aanpak, en of het Klimaatakkoord die 10.000 ha ook zo definieert was van hier niet na te gaan
+- [ ] Henk (hoofdpunt): welk deel van de **stikstofopgave**, en de impact voor NL. Mag geen percentage worden (§5, toetsregel 20); kwalitatief formuleren hoort bij de stikstofpassage en wacht op de `[[KEUZE]]` in hoofdstuk 1
+- [ ] Niel: **"reguliere melkveehouderij" is verwarrend** — klinkt alsof daar niets verandert. In 1.3 staat nu wél "mits aan generieke milieu-, stikstof- en waterkwaliteitseisen wordt voldaan", maar de term zelf is niet vervangen. Een andere term raakt alle hoofdstukken én aanname 3 in de redactiebrief, dus dit is een besluit voor `terminologie.md`, geen losse correctie
+- [ ] Lian intro:1 en §1: waarom déze boeren belonen en andere niet. Staat in 1.3 als bijzin ("daar waar het alternatief niets is"); het volle antwoord hoort in C (hoofdstuk 8, ook ronde 1)
+- [ ] Niel: "20-30% welke?" — hij vroeg een verwijzing naar A; de tekst verwijst naar D, want daar staat de typologie. Controleren bij het herzien van D
+- [x] Missie en ambitie in het VIC-kader → statutaire missie (art. 2.1) plus de constructieve helft van de ambitie; afschrift in `vic-missie-en-programmas.md`
+- [x] Bestuur 17 juni #2: vlieg dit aan vanuit de breedte van het VIC-werk, maak de connectie met JUMP expliciet → staat nu in het VIC-kader. Zat in cluster 1 en was nergens in tekst geland
+- [x] Programma A en B geïdentificeerd: A is het Klimaat-optimaal Veenweidenbedrijf (±€18 mln), B is BASE (€15 mln), JUMP is geen van beide. Vastgelegd in `vic-missie-en-programmas.md`
+- [ ] **Identiteit: bewijslaboratorium ja of nee.** Open besluit in het strategiedossier §5.4: het VIC blijft inhoudelijk in veen maar positioneert zijn redenering als breder geldig, ook voor zand en klei. Het dossier zegt dat die zin landt in "sectie I van de visie, die de reikwijdtevraag openlaat" — maar sectie I is uit de visie en de reikwijdtevraag is **1.3 geworden**. Dus dit besluit landt hier, en het is nog niet genomen
+- [ ] Het begrippenkader (nu in de wachtkamer, wordt hoofdstuk 3 in ronde 4) zegt nog "dit document vertaalt die bouwstenen naar de komende vijf jaar". Dat is in 1.1 juist vervangen omdat het §2 tegensprak. Meenemen in ronde 4
+- [ ] **Hoofdstuk 3 (Begrippen) moet de aktes introduceren.** Toetsregel 13 vraagt één expliciete introductie vóór het eerste gebruik. Die stond in de Leeswijzer van hoofdstuk 1 en is daar op 18-8 weggehaald wegens toetsregel 15. Hoofdstuk 3 komt vóór de aktehoofdstukken, dus dat is nu de plek
+
 ## intro.md
 
-- [ ] **Driesporenpassage** (regel ~26): verhuist integraal naar de bijlage (besluit §8). Neem bij die verplaatsing mee:
-  - "intensivering" bij spoor 1 is waarschijnlijk het verkeerde woord — er wordt niet geïntensiveerd rond natuur *(Simon)* → `[[CHECK DOUWE: juiste term spoor 1]]`
-  - Spoor 1 en 3 overlappen qua gebied; €400 mln = flankerend beleid 45.000 ha, €900 mln = grondafwaardering 20.000 ha volgens CSV-methodiek *(Niel)* → `[[CHECK DOUWE]]`
-  - Spoor 2 betreft niet 90.000 ha maar het gehele veenweidegebied als basismaatregel *(Niel)* → `[[CHECK DOUWE]]`
-  - Spoor 3: de 10% ook uitschrijven in hectares (20.000) *(Niel)* — zonder percentage, zie redactiebrief §5
-  - Slootpeil "-40 cm": ontwerp-Nota Ruimte hanteert -20 tot -40 cm *(Simon)*
-- [ ] Kamerbrief 26 juni 2026 organiseert het beleid in vijf hoofdlijnen, niet drie sporen. De bijlagetekst moet dat vermelden met datum. Veenweidenbrief verwacht na de zomer.
+- [x] **Driesporenpassage** verhuisd naar `content/bijlage-driesporen.md` op 18-8 (besluit §8). Bij die verplaatsing meegenomen:
+  - [x] "intensivering" bij spoor 1 *(Simon)* → `[[CHECK DOUWE]]` geplaatst
+  - [x] Spoor 1 en 3 overlappen qua gebied; €400 mln = flankerend beleid, €900 mln = grondafwaardering volgens CSV-methodiek *(Niel)* → `[[CHECK DOUWE]]` geplaatst
+  - [x] Spoor 2 betreft het gehele veenweidegebied als basismaatregel *(Niel)* → `[[CHECK DOUWE]]` geplaatst
+  - [x] Spoor 3: percentage eruit, 20.000 ha blijft *(Niel)*
+  - [x] Slootpeil "-40 cm" → "-20 tot -40 cm" *(Simon)*
+  - [x] "extensieve, natuurinclusieve melkveehouderij" → "melkveehouderij met lagere veedichtheid" (`terminologie.md`)
+- [x] Kamerbrief 26 juni 2026: vijf hoofdlijnen, niet drie sporen — met datum vermeld in de bijlage. Plus de bevestiging van Douwe (aug 2026) dat de inhoud ongewijzigd is en de Veenweidenbrief nog komt. Dat antwoordt op een open intel-vraag in het strategiedossier
+- [ ] Het stikstofblok staat nog in de wachtkamer en noemt het driesporenbeleid 4×. Gaat in ronde 4 naar de risicosectie; die vermeldingen gaan dan mee
 
 ## a-klem.md
 
+- [ ] **Nummer dit hoofdstuk 4.** 1.1 verwijst naar "de analyse van hoofdstuk 4", en zolang de kop "A —" heet, klopt die verwijzing voor de lezer niet
+- [ ] Regel ~39: "slootpeil" → **slootwaterpeil**, en regel ~60: "Grondwaterpeil" → **grondwaterstand** (`terminologie.md`, 18-8). Dit zijn de laatste twee foute vindplaatsen in de hele tekst
 - [ ] Regel ~34: "waterstanden overal naar -40 cm" → "-20 tot -40 cm" *(Simon)*
 - [ ] Driesporenkader ("scope van spoor 3 is te smal") → bijlage, zie bloktypen.md
 
@@ -63,6 +88,10 @@
 - [ ] Gebiedsregie-passage: herformuleren conform §10 — collectieven leveren input, waterschap neemt het peilbesluit; derden via de bestaande route *(Simon)*
 - [ ] Vangrail-lijst herordenen naar moeten / mogen / betalen (§15.2); markttoegang verhuist naar "wat mag"
 
+## h-risicos.md
+
+- [ ] Regel ~36: "verborgen waarden die deze ondernemers **gratis** leverden" → **onbeprijsd**. Redactiebrief §3 maakt dat onderscheid uitdrukkelijk: "die prestaties zijn niet gratis maar onbeprijsd". Gratis suggereert zonder waarde, onbeprijsd betekent met waarde en zonder prijs. Besluit van 18-8 bij hoofdstuk 1
+
 ## samenvatting.md
 
 - [ ] Wordt laag 1, als laatste gemaakt. Datum "April 2026" vervalt dan vanzelf
@@ -71,7 +100,9 @@
 ## Doorlopend, alle bestanden
 
 - [ ] "-40 cm" als losse waarde → altijd "-20 tot -40 cm" waar het over de Nota Ruimte of generiek beleid gaat; controleer per geval of de bron een enkele waarde noemt
+- [ ] **Kaal "waterpeil" specificeren.** `terminologie.md` eist de grondwaterstand, het slootwaterpeil of beide, nooit alleen "waterpeil". Nog te doen in `d-concept` (regel ~38, 2×), `e-aktes` (regels ~14 en ~136) en `f-overheid` (regel ~64, 3×)
 - [ ] Getallen zonder bron → fiche met bron of label "eigen analyse VIC/JUMP" (regel 19)
+- [ ] **"Hij" voor de ondernemer.** Nieuwe regel in `terminologie.md` (18-8, Tim): gebruik "de ondernemer" of "hij of zij", nooit standaard "hij", "hem" of "zijn". Bij elk hoofdstuk dat herzien wordt langslopen; in de bestuursversie staat dit overal
 
 ---
 

@@ -82,7 +82,31 @@ def sectie_html(sid):
     sys.exit(f'FOUT: geen bron voor sectie "{sid}" (content/ noch partials/)')
 
 
-def ontleed_sectie(sid):
+def lees_register():
+    """id -> {nummer, ronde, stand} uit richtlijnen/hoofdstukregister.md.
+    Eén bron voor het nummer dat een hoofdstuk krijgt en hoe ver het is; de
+    website leest het hieruit in plaats van het in de lezer te herhalen."""
+    pad = 'richtlijnen/hoofdstukregister.md'
+    if not os.path.exists(pad):
+        return {}
+    reg, in_tabel = {}, False
+    for regel in open(pad, encoding='utf-8'):
+        if regel.startswith('## '):
+            in_tabel = False
+            continue
+        if not regel.startswith('|'):
+            continue
+        kolom = [k.strip() for k in regel.strip().strip('|').split('|')]
+        if kolom[0] == 'id':
+            in_tabel = True
+            continue
+        if not in_tabel or len(kolom) < 4 or set(kolom[0]) <= {'-'}:
+            continue
+        reg[kolom[0]] = {'nummer': kolom[1], 'ronde': kolom[2], 'stand': kolom[3]}
+    return reg
+
+
+def ontleed_sectie(sid, register=None):
     """Zet één sectie om naar wat de website ervan verwacht:
     een naam, een letter, een titel, een openingszin en de opgemaakte tekst.
     Letter en titel komen uit de eerste kop, de openingszin uit de eerste alinea."""
@@ -103,24 +127,41 @@ def ontleed_sectie(sid):
         if len(kaal.split()) >= 8:
             intro = kaal
             break
-    return {'id': sid, 'letter': letter, 'titel': titel, 'intro': intro, 'html': html}
+    uit = {'id': sid, 'letter': letter, 'titel': titel, 'intro': intro, 'html': html}
+    w = (register or {}).get(sid)
+    if w:
+        uit['werkstand'] = w
+    return uit
 
 
 def vergelijk_site(uiting, secties, dest):
-    """Zegt per hoofdstuk of de zichtbare tekst van de repo afwijkt van wat er
-    nu in de website staat. Zonder --schrijf gebeurt er verder niets."""
-    if not os.path.exists(dest):
-        print(f'{dest} bestaat nog niet — alles zou nieuw zijn.')
+    """Zegt per hoofdstuk of de zichtbare tekst van de repo afwijkt van de
+    bestuursversie. Zonder --schrijf gebeurt er verder niets.
+
+    Vergelijken doet hij tegen `bestuursversie/`, niet tegen `webapp/site/`.
+    Dat is het hele punt: zodra we de herziening naar webapp/ schrijven, zou een
+    vergelijking met webapp/ alleen nog onze eigen laatste schrijfactie meten en
+    altijd "gelijk" zeggen. De bevroren bestuursversie is wat het bestuur op
+    1 juli las en verandert nooit."""
+    bevroren = f'bestuursversie/{os.path.basename(dest)}'
+    ijkpunt = bevroren if os.path.exists(bevroren) else dest
+    if not os.path.exists(ijkpunt):
+        print(f'{ijkpunt} bestaat nog niet — alles zou nieuw zijn.')
         return
-    t = open(dest, encoding='utf-8').read()
+    t = open(ijkpunt, encoding='utf-8').read()
     huidig = {d['id']: d for d in json.loads(t[t.find('['):t.rfind(']') + 1])}
+    if ijkpunt == bevroren:
+        print(f'\nIjkpunt: {bevroren} (de bevroren bestuursversie van 1 juli)')
+    else:
+        print(f'\nLET OP — geen bevroren bestuursversie gevonden. Ijkpunt is '
+              f'{dest}, en dat is de herziening zelf. Deze uitslag bewijst niets.')
 
     def zichtbaar(h):
         h = re.sub(r'<(script|style|svg)\b.*?</\1>', ' ', h, flags=re.S)
         return ' '.join(re.sub(r'<[^>]+>', ' ', h).split())
 
     afwijkend = []
-    print(f'\n{"hoofdstuk":<20}{"zichtbare tekst":<20}website  repo')
+    print(f'\n{"hoofdstuk":<20}{"zichtbare tekst":<20}bestuur  repo')
     print('-' * 60)
     for s in secties:
         oud = huidig.get(s['id'])
@@ -136,9 +177,10 @@ def vergelijk_site(uiting, secties, dest):
             afwijkend.append(s['id'])
     print('-' * 60)
     if afwijkend:
-        print(f'\n{len(afwijkend)} hoofdstuk(ken) wijken af: {", ".join(afwijkend)}')
-        print('De website bevat tekst die niet uit content/ komt. Schrijven zou')
-        print('die overschrijven. Kijk eerst wat er verloren gaat.')
+        print(f'\n{len(afwijkend)} hoofdstuk(ken) wijken af van de bestuursversie: '
+              f'{", ".join(afwijkend)}')
+        print('Herzien werk hoort hier te staan. Staat er een hoofdstuk bij dat je')
+        print('niet zelf hebt aangeraakt, dan is er iets buiten de repo om gebeurd.')
     print(f'\nNiets geschreven. Wil je dat wel: python3 build.py site {uiting} --schrijf')
 
 
@@ -157,7 +199,8 @@ def build_site(uiting='visie', schrijf=False):
     volgorde, variabele, bestand = bronnen[uiting]
     order = [l.strip() for l in open(volgorde, encoding='utf-8')
              if l.strip() and not l.startswith('#')]
-    secties = [ontleed_sectie(sid) for sid in order]
+    register = lees_register()
+    secties = [ontleed_sectie(sid, register) for sid in order]
     dest = f'webapp/site/{bestand}'
     if not os.path.isdir('webapp/site'):
         sys.exit('FOUT: webapp/site ontbreekt — staat de website wel in de repo?')

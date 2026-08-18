@@ -16,7 +16,7 @@ De volgorde in dit register is de volgorde van `volgorde.txt`. Hoofdstukken die 
 | samenvatting | — | 6 | laag 1, wordt als laatste gemaakt uit het afgeronde verhaal |
 | walkthrough | — | — | leeshulp van de website, geen hoofdstuk |
 | scope | 1 | 1 | herzien |
-| aannames | 2 | 1 | nieuw geschreven, 5 markeringen open |
+| aannames | 2 | 1 | herzien; 1 markering open (onderbouwing 70-80%) |
 | intro | — | — | wachtkamer, hoort leeg te raken |
 | a-klem | 4 | 2 | nog de bestuursversie |
 | b-opgaves | 5 | 2 | nog de bestuursversie |

@@ -57,6 +57,25 @@ Die website staat in `webapp/`. Op 18 augustus 2026 is zijn tekst teruggehaald n
    - **Volgens de redactie** — welke toetsregels en besluiten uit `redactiebrief.md` en `besluitenlog.md` zijn geland, per regelnummer. En welke van toepassing waren maar niet gehaald.
    - **Volgens de correcties** — loop het cluster in `commentaar-clusters.md` langs dat over dít hoofdstuk gaat, opmerking voor opmerking, met de naam van de commentator. Zeg per opmerking: verwerkt, deels, of niet. `correctielijst.md` dekt alleen cluster 8 (feiten), dus de andere clusters hebben geen afvinklijst en vallen anders stil. Wat je daar vindt en niet ter plekke kunt oplossen, zet je als open punt in `correctielijst.md` onder dat bestand.
 
+## Delen met andere sessies — na elke wijziging, niet aan het eind
+
+`visie-tekst.md` in de wortel is **het deelbestand**: alle hoofdstuktekst uit `content/` in één bestand, in de volgorde van `volgorde.txt`, met ingebedde afbeeldingen eruit. Een Claude-sessie of persoon zonder toegang tot deze map leest daar de hele actuele tekst op één vast adres:
+
+```
+https://raw.githubusercontent.com/Veenweiden-Innovatiecentrum/Veenweideboeren/ronde-1/visie-tekst.md
+```
+
+**Dat adres is alleen zo actueel als de laatste push.** Dus hoort bij het afronden van elke wijziging, ook een kleine:
+
+```
+python3 build.py tekst        # visie-tekst.md opnieuw maken
+git add -A && git commit && git push
+```
+
+Lukt het ophalen aan de andere kant niet, dan is dat een rate limit op het IP van de fetcher en niet een verkeerd pad; de tarball van `codeload.github.com` werkt dan wel. Nooit een tweede versie van deze tekst ergens anders neerzetten: dan zijn er twee waarheden en dat is precies de fout die deze repo al een keer drie dagen heeft gekost.
+
+Voor de sessie die aan programma A werkt is er daarnaast `richtlijnen/handoff-programma-a.md`, zelfstandig leesbaar. Werk die bij als er iets verandert dat A raakt.
+
 ## Bouwen
 
 Na tekstwijzigingen: `python build.py document` en de output in `dist/` controleren. `dist/` nooit handmatig bewerken.

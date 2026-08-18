@@ -1,4 +1,4 @@
-<!-- GEGENEREERD OVERZICHT — niet bewerken; bron: content/*.md -->
+<!-- GEGENEREERD, NIET BEWERKEN. Bron: content/*.md, in de volgorde van volgorde.txt. Opnieuw maken met `python3 build.py tekst`. Ingebedde afbeeldingen zijn vervangen door een aanduiding. -->
 
 ---
 
@@ -12,7 +12,7 @@
     <span class="meta-badge">VIC / JUMP</span>
   </div>
 
-<h1>Veenweide<span>boeren</span></h1>
+<h1>Veenweide<span>boeren</span> — visie</h1>
 
 ## De ondernemer als motor voor de maatschappelijke opgaves
 
@@ -26,7 +26,123 @@
 
 ---
 
-*[sectie `walkthrough`: partial, geen tekstbestand]*
+<!-- ======== bestand: content/walkthrough.md ======== -->
+
+---
+
+## Walkthrough
+
+Zestien stappen. Klik door het verhaal — elke stap bouwt voort op de vorige. Ook met pijltjestoetsen of spatiebalk.
+
+<div id="wt-container" style="margin:1.5rem 0">
+    <!-- Progress bar -->
+    <div style="display:flex;gap:4px;margin-bottom:1.5rem" id="wt-progress"></div>
+
+    <!-- Slide area -->
+    <div id="wt-slide" style="min-height:340px;background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:2.5rem;position:relative;overflow:hidden;transition:background .4s ease, border-color .4s ease">
+    </div>
+
+    <!-- Navigation -->
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-top:1rem">
+      <button id="wt-prev" onclick="wtNav(-1)" style="background:var(--bg2);border:1px solid rgba(0,0,0,.1);border-radius:var(--radius);padding:8px 20px;font-family:var(--font-body);font-size:13px;color:var(--text2);cursor:pointer;transition:all .15s">← Vorige</button>
+      <span id="wt-counter" style="font-family:var(--font-mono);font-size:12px;color:var(--text3)"></span>
+      <button id="wt-next" onclick="wtNav(1)" style="background:var(--accent);border:none;border-radius:var(--radius);padding:8px 24px;font-family:var(--font-body);font-size:13px;color:#fff;cursor:pointer;font-weight:500;transition:all .15s">Volgende →</button>
+    </div>
+  </div>
+
+---
+
+<!-- ======== bestand: content/scope.md ======== -->
+
+---
+
+## 1 — Waar dit over gaat
+
+<div style="background:var(--bg3);border:1px solid rgba(0,0,0,.08);border-left:3px solid var(--accent);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 2rem;font-size:13.5px;line-height:1.65">
+    <strong style="display:block;margin-bottom:8px;font-size:14px">Voor wie is dit document?</strong>
+    <p style="margin:0 0 .75rem"><strong>Voor boeren</strong> — wie tevreden is met de huidige bedrijfsvoering en zijn opgaven binnen het bestaande model haalt: prima. Geen religie, geen opgedrongen verhaal. Maar wie de bui ziet hangen — een perceel dat te nat wordt, krimpende stikstofruimte, een melkprijs die het niet meer dekt — voor die ondernemer is dit een aanbod. Niet "zo moet u het gaan doen", maar "zo zou het kunnen worden, als u het wilt".</p>
+    <p style="margin:0"><strong>Voor overheden</strong> — voor de gebieden waar reguliere melkveehouderij houdbaar blijft, hoeft dit document niet leidend te zijn. Voor de gebieden waar dat niet zo is, biedt het een alternatief voor de twee routes die nu overblijven: doorgaan zoals het is, of uitkopen. De opdracht aan de overheid is daarmee scherper, niet zwaarder: schep het kader waarin het verdienmodel van de veenweideboer kan ontstaan. Wat mag kost weinig en werkt alleen als het breed geldt; wat betaalt landt smal, daar waar het nodig is.</p>
+  </div>
+
+### 1.1 Wat dit document voorstelt
+
+Dit visiedocument schetst een nieuw perspectief voor het veenweidegebied: dit gebied kan meer maatschappelijke opgaven dragen dan voedselproductie alleen. Dat vermogen zit niet in de grond, maar in de ondernemer die het land beheert. De grote maatschappelijke opgaven — van klimaat en water tot voedselzekerheid en wonen — zijn alleen haalbaar als boeren niet uitsluitend worden aangesproken op productie, maar ook worden beloond voor de publieke diensten die zij leveren. Daarmee verschuift het debat van probleemdenken naar oplossingskracht. Voor een deel van het gebied is reguliere melkveehouderij op termijn niet meer houdbaar en is een fundamenteel ander bedrijfsmodel nodig. Dit document beschrijft hoe dat eruitziet, welke condities daarvoor nodig zijn, en hoe de boer daarmee weer motor wordt van de gebiedstransitie.
+
+Dat is urgent. De ondernemers voor wie dit bedoeld is zitten nu al klem: middelgrote familiebedrijven die tegelijk landschapsbeheerder zijn, en die vastlopen op kosten en omzet, niet op vakmanschap of motivatie. Hoe die klem werkt is de analyse van hoofdstuk 4; hier is alleen van belang dat de klem nu al knelt en niet wacht op de uitkomst van dit document. Wie stopt komt niet terug, en met dat bedrijf verdwijnt het beheer waarop de opgaven rusten.
+
+<div style="background:var(--bg2);border-left:3px solid var(--text2);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 0;font-size:13.5px;line-height:1.65">
+    <div style="display:flex;align-items:center;gap:1.1rem;margin-bottom:10px">
+      <img src="[ingebedde afbeelding, hier weggelaten]" alt="Veenweiden Innovatiecentrum" style="width:132px;height:auto;flex:none;display:block">
+      <strong style="font-size:14px">Wie dit zegt, en waarom</strong>
+    </div>
+    <p style="margin:0 0 .75rem">Het Veenweiden Innovatiecentrum is een onafhankelijke kennisinstelling voor het veengebied. Onze <strong>missie</strong> staat in artikel 2.1 van onze statuten: onderzoek doen, ontwikkeling en innovatie aanjagen en kennis uitbreiden, en dat <em>voor een duurzaam en klimaatadaptief (en waar mogelijk klimaatmitigerend) én tevens vitaal veengebied in Nederland, waarin ondernemerschap bloeit binnen nieuwe maatschappelijke spelregels.</em> Dit document gaat over die laatste woorden. Ons werkgebied is statutair het hele Nederlandse veengebied, en wat wij vinden is openbaar, zonder voorrang voor wie het onderzoek betaalt.</p>
+    <p style="margin:0 0 .75rem">Onze <strong>ambitie</strong> voor de komende zes jaar is te laten zien dat er meer mogelijk is dan melkvee alleen: hetzelfde gebied kan schoon water, vastgehouden koolstof, biodiversiteit, landschap én voedsel leveren, voor de BV Nederland en voor de maatschappij Nederland. De ondernemer die die diensten levert is daarbij de motor. Die jaren zetten wij in om te bewijzen dat het werkt, en om de spelregels mogelijk te maken die daarvoor nodig zijn.</p>
+    <p style="margin:0">Daarom komen wij met deze <strong>visie</strong>. In het programma JUMP ontwikkelen wij vergaande bedrijfsconcepten voor ondernemers op veen: topvoedsel, waterdiensten, biodiversiteit, koolstofopslag, natte teelt. Wat daar blijkt is dat het knelpunt niet technisch is. De maatregelen bestaan. Wat ontbreekt is een verdienmodel eronder en een overheidskader dat dat toelaat. Dat is niet met een proefveld op te lossen, en daarom staat het hier.</p>
+  </div>
+
+### 1.2 Hoe dit zich verhoudt tot het huidige beleid
+
+Twee dossiers vormen de directe aanleiding voor dit document. Het Rijk werkt aan een gebiedsspecifieke aanpak voor het veenweidegebied; de Veenweidenbrief daarover wordt na de zomer verwacht, en de precieze inhoud zoals die nu is aangekondigd staat in bijlage 17. Daarnaast is stikstof op dit moment het politiek meest urgente dossier van Nederland, want bouwen, uitbreiding van het stroomnet en defensie-investeringen lopen vrijwel allemaal vast op stikstofruimte.
+
+De beperkingen die daaruit volgen zijn nodig, en de maatregelen zijn terecht. Die urgentie delen wij. Wat hier staat is geen alternatief voor dat beleid, maar een manier om het te laten slagen. Een lagere veedichtheid op hetzelfde areaal levert structureel minder ammoniak, terwijl het bedrijf voedsel blijft produceren. En de ondernemer blijft op het land, met al het landbeheer dat daar nu onbeprijsd bij hoort en dat anders uit publiek geld moet komen.
+
+**Wij vragen geen wijziging van het huidige beleid en geen euro uit de lopende programma's.** Die middelen zijn toegewezen en die maatregelen worden uitgerold; dat is de ronde die nu loopt. Wij vragen de ruimte om te bouwen wat de volgende ronde nodig heeft: het bewijs dat maatschappelijke diensten een verdienmodel kunnen zijn, en de spelregels die dat mogelijk maken. Daar zijn wij al jaren mee bezig, en er zijn nog jaren nodig voordat het klaar is. Daarom moet dit werk nu doorlopen: het moet klaar zijn op het moment dat die volgende ronde wordt ingericht, niet erna.
+
+### 1.3 Over welk deel van het gebied
+
+Het Nederlandse veenweidegebied beslaat ongeveer 200.000 hectare, en op het grootste deel daarvan is er geen groot probleem. Daar kan melkveehouderij op reguliere wijze doorgaan, mits aan de generieke milieu-, stikstof- en waterkwaliteitseisen wordt voldaan, zelfs bij een enigszins verhoogd slootwaterpeil.
+
+Toch is dit voor het hele gebied interessant. Ook een bedrijf dat gewoon melkvee houdt kan schoon water, vastgehouden koolstof, biodiversiteit en landschap leveren. Maatschappelijke diensten als volwaardig product naast voedsel: die redenering geldt dus voor het hele veenweidegebied, en de juridische ruimte die ervoor nodig is ook. Die ruimte kost weinig en werkt alleen als ze breed is.
+
+Waar dit document over gaat is smaller. Op ongeveer 20 tot 30% van het gebied stapelen de opgaven zich zo op dat reguliere melkveehouderij op termijn niet houdbaar is. Vier vormen van fysieke druk bepalen dat:
+
+<ul style="margin:.85rem 0 1.1rem;padding-left:1.35rem">
+    <li style="margin-bottom:.45rem"><strong>Serieuze bodemdaling.</strong> Het veen zakt en oxideert bij de peilen die nu gelden, en het antwoord daarop is het peil omhoog.</li>
+    <li style="margin-bottom:.45rem"><strong>Hoge broeikasgasemissies.</strong> Diezelfde oxidatie is de bron daarvan, dus de klimaatopgave vraagt hier hetzelfde als de bodemopgave.</li>
+    <li style="margin-bottom:.45rem"><strong>Ligging in of tegen Natura 2000.</strong> Hier is de stikstofruimte het knelpunt, en die krimpt.</li>
+    <li><strong>Toenemende verzilting.</strong> Waterdruk van onderaf beïnvloedt de bedrijfsvoering structureel, ook zonder peilmaatregel.</li>
+  </ul>
+
+Zelden is één van de vier beslissend. Het is de stapeling die het bedrijfsmodel onhoudbaar maakt, en dat is ook waarom de grens niet als een lijn op de kaart te trekken valt: hij loopt door bedrijven heen. Waar die stapeling optreedt is een fundamenteel ander bedrijfsmodel nodig, met een aanzienlijk lagere veedichtheid. De criteria zijn uitgewerkt in hoofdstuk 10. In het hele veengebied gaat het om ongeveer 2.300 melkveebedrijven{{fiche:Bron|CBS-Landbouwtelling 2023, bewerking Wageningen Economic Research, in RIVM-rapport 2024-0137, tabel B1.1. Afbakening: de Veenregio van het Landelijk Meetnet effecten Mestbeleid, waar deze bedrijven samen circa 148.000 hectare cultuurgrond gebruiken, waarvan 135.000 hectare grasland. Bedrijven onder 10 hectare of onder €25.000 standaardopbrengst vallen buiten de telling.|Dat is een andere afbakening dan de 200.000 hectare grasland op veen hierboven, die uit de emissierapportage komt. Een exacter aantal bestaat niet: de PlanMER bij het Nationaal Programma Landelijk Gebied stelt in 2023 vast dat landbouwinformatie per grondsoortgebied niet voorhanden is.}}. Hoeveel daarvan in de 20 tot 30% vallen, valt niet te tellen, en dat is geen gebrek aan statistiek maar dezelfde grens die door bedrijven heen loopt.
+
+Op een klein deel, ongeveer 10.000 hectare, is helemaal geen vee meer mogelijk. Daar zijn dezelfde vier vormen van druk nog scherper. De redenering blijft er gelden, en juist daar kunnen maatschappelijke diensten het hele product worden. Maar het bedrijfsmodel dat dit document beschrijft gaat uit van melkvee met een lagere veedichtheid, en dat houdt hier op. De vergaande concepten voor deze gebieden komen uit het programma JUMP.
+
+<div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.25rem 1.5rem;margin:1rem 0 1.5rem;overflow-x:auto">
+    <p style="font-family:var(--font-display);font-size:15px;font-weight:600;color:var(--text);margin:0 0 .75rem">Waar gaat dit over</p>
+    <table style="width:100%;border-collapse:collapse;font-size:12.5px;line-height:1.55">
+      <thead>
+        <tr style="border-bottom:1px solid rgba(0,0,0,.1)">
+          <th style="text-align:left;padding:.6rem .75rem;width:34%;font-weight:600;color:var(--text2);font-size:11px;text-transform:uppercase;letter-spacing:.05em">Deel van het gebied</th>
+          <th style="text-align:left;padding:.6rem .75rem;width:20%;font-weight:600;color:var(--text2);font-size:11px;text-transform:uppercase;letter-spacing:.05em">Omvang</th>
+          <th style="text-align:left;padding:.6rem .75rem;width:46%;font-weight:600;color:var(--text2);font-size:11px;text-transform:uppercase;letter-spacing:.05em">Bron</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom:1px solid rgba(0,0,0,.05)">
+          <td style="padding:.6rem .75rem;vertical-align:top"><strong>Het hele veenweidegebied</strong></td>
+          <td style="padding:.6rem .75rem;vertical-align:top;color:var(--text2)">circa 200.000 ha</td>
+          <td style="padding:.6rem .75rem;vertical-align:top;color:var(--text3)">Compendium voor de Leefomgeving (CBS, PBL, WUR); CBS bodemgebruik Nederland</td>
+        </tr>
+        <tr style="border-bottom:1px solid rgba(0,0,0,.05)">
+          <td style="padding:.6rem .75rem;vertical-align:top"><strong>Waar de opgaven zich stapelen</strong></td>
+          <td style="padding:.6rem .75rem;vertical-align:top;color:var(--text2)">20 tot 30% daarvan</td>
+          <td style="padding:.6rem .75rem;vertical-align:top;color:var(--text3)">Eigen analyse VIC/JUMP, op basis van de vier vormen van druk hierboven</td>
+        </tr>
+        <tr>
+          <td style="padding:.6rem .75rem;vertical-align:top"><strong>Waar geen vee meer mogelijk is</strong></td>
+          <td style="padding:.6rem .75rem;vertical-align:top;color:var(--text2)">circa 10.000 ha</td>
+          <td style="padding:.6rem .75rem;vertical-align:top;color:var(--text3)">Eigen analyse VIC/JUMP</td>
+        </tr>
+      </tbody>
+    </table>
+    <p style="font-size:11.5px;line-height:1.5;color:var(--text3);margin:.85rem 0 0">De 200.000 hectare is de statistische telling van grasland op veen; een bodemkundige telling komt hoger uit, op 250.000 tot 360.000 hectare, afhankelijk van of moerige gronden meetellen. Twee getallen die vaak in dezelfde adem vallen: de middengroep waar dit document zich op richt bestaat uit bedrijven van 40 tot 80 hectare met 80 tot 130 koeien, en het VIC test dit zelf op ongeveer 500 hectare, een kwart procent van het gebied. Beide: eigen typologie en opgave VIC.</p>
+  </div>
+
+<div style="background:var(--blue-light);border-left:3px solid var(--blue);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 0;font-size:13.5px;line-height:1.65">
+    <strong style="display:block;margin-bottom:8px;font-size:14px">Leeswijzer</strong>
+    <p style="margin:0 0 .6rem">Dit is het naslagdeel van de visie: de volledige redenering, met de cijfers, de bronnen en de afbakeningen erbij. Wie alleen de kern wil weten, kan bij de samenvatting blijven.</p>
+    <p style="margin:0">De opbouw volgt vier vragen. <strong>Waar staat dit op:</strong> waarop het verhaal rust en welke begrippen gelden. <strong>Wat is er aan de hand:</strong> waar de ondernemer klem zit, wat er van dit gebied gevraagd wordt, en waar de huidige weg op uitloopt. <strong>Wat kan er anders:</strong> wat dit gebied kan dragen, en hoe het antwoord eruitziet. En <strong>wie doet wat:</strong> de ondernemer, de overheid, de markt, en wat de boer nu al zelf kan.</p>
+  </div>
 
 ---
 
@@ -34,34 +150,15 @@
 
 ---
 
-<div style="background:var(--bg3);border:1px solid rgba(0,0,0,.08);border-left:3px solid var(--accent);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 2rem;font-size:13.5px;line-height:1.65">
-    <strong style="display:block;margin-bottom:8px;font-size:14px">Voor wie is dit document?</strong>
-    <p style="margin:0 0 .75rem"><strong>Voor boeren</strong> — wie tevreden is met de huidige bedrijfsvoering en zijn opgaven binnen het bestaande model haalt: prima. Geen religie, geen opgedrongen verhaal. Maar wie de bui ziet hangen — een perceel dat te nat wordt, krimpende stikstofruimte, een melkprijs die het niet meer dekt — voor die ondernemer is dit een aanbod. Niet "zo moet u het gaan doen", maar "zo zou het kunnen worden, als u het wilt".</p>
-    <p style="margin:0 0 .75rem"><strong>Voor overheden</strong> — voor de gebieden waar reguliere melkveehouderij houdbaar blijft, hoeft dit document niet leidend te zijn. Voor de gebieden waar dat niet zo is, biedt het een alternatief voor de twee gebruikelijke routes: doormodderen of uitkopen. De opdracht aan de overheid is daarmee scherper, niet zwaarder: schep voor die specifieke gebieden de zes lagen van het kader — maatregelen, doelen, juridische ruimte, vangnet, opdrachten en coördinatie — zodat het verdienmodel van de veenweideboer kan ontstaan. Daarbuiten verandert er weinig.</p>
-    <p style="margin:0;padding-top:.75rem;border-top:1px solid rgba(0,0,0,.08)"><strong>Over welk deel van het gebied?</strong> Het Nederlandse veenweidegebied beslaat ongeveer 200.000 hectare<span class="fiche-wrap"><button class="fiche-btn" type="button" aria-label="Bron tonen">ⓘ</button><span class="fiche-popup"><span class="fiche-label">Bron</span><span class="fiche-source">Compendium voor de Leefomgeving (CBS, PBL, WUR); CBS bodemgebruik Nederland.</span></span></span>. Dit document richt zich op die ongeveer 20–30%<span class="fiche-wrap"><button class="fiche-btn" type="button" aria-label="Bron tonen">ⓘ</button><span class="fiche-popup"><span class="fiche-label">Bron</span><span class="fiche-source">Eigen analyse VIC/JUMP op basis van gestapelde opgaves: bodemdaling, broeikasgasemissies, ligging tegen Natura 2000, en verzilting.</span></span></span> waar de fysieke druk het scherpst is: percelen met serieuze bodemdaling, hoge broeikasgasemissies, ligging tegen Natura 2000, of toenemende verzilting. Op het overgrote deel kan reguliere melkveehouderij blijven bestaan, mits aan generieke milieu-, stikstof- en waterkwaliteitseisen wordt voldaan. De gedetailleerde criteria volgen in sectie D.</p>
-  </div>
+## Wachtkamer — wat er over is van de oude intro
 
-Dit visiedocument schetst een nieuw perspectief voor het veenweidegebied: niet doormodderen, niet eenzijdige beperking, maar de boer als ondernemer van de transitie. De grote maatschappelijke opgaven — van klimaat en water tot voedselzekerheid en wonen — zijn alleen haalbaar als boeren niet uitsluitend worden aangesproken op productie, maar ook worden beloond voor de publieke diensten die zij leveren. Daarmee verschuift het debat van probleemdenken naar oplossingskracht. Voor een deel van het gebied is reguliere melkveehouderij op termijn niet meer houdbaar en is een fundamenteel ander bedrijfsmodel nodig. Dit document beschrijft hoe dat eruitziet, welke condities daarvoor nodig zijn, en hoe de boer daarmee weer motor wordt van de gebiedstransitie.
+[[TODO: dit is geen hoofdstuk maar een wachtkamer, en hij hoort aan het eind van de herziening leeg te zijn. De inleiding en de scope zijn hoofdstuk 1 geworden, het driesporenblok is bijlage 17. Wat hier nog staat, en waar het naartoe gaat:
 
-Het Veenweiden Innovatiecentrum (VIC) ontwikkelt in het programma JUMP vergaande bedrijfsconcepten voor ondernemers op veen: topvoedsel, waterdiensten, biodiversiteit, koolstofopslag, natte teelt. Vijftien tot twintig jaar vooruit. Veenweideboeren vertaalt diezelfde bouwstenen naar de praktijk van nu: concreet en toepasbaar voor de komende vijf jaar.
+- **Het stikstofdossier.** Het beschrijvende deel staat nu in 1.2 als aanleiding. Wat hier overblijft is het oordeel, en dat gaat naar de risicosectie in ronde 4: een te smalle stikstofaanpak reproduceert akte II onder een nieuwe naam. De nuance dat de stikstofaanpak even nadrukkelijk zand en klei raakt, hoort in dezelfde passage, want die houdt de claim eerlijk.
+- **Van stikstofslot naar stikstofruimte.** De kern staat al in 1.2: dezelfde ammoniakreductie, blijvend, en de beheerder blijft. Wat hier overblijft is de denkrichting dat ammoniakreductie zelf een dienst kan worden, en die vraagt eerst juridische uitwerking (extern salderen, vergunningenrecht). Dat is een fiche bij akte III of bij het overheidskader, ronde 3.
+- **Het begrippenkader.** Wordt hoofdstuk 3, ronde 4. Let op: het zegt nu nog "ingrijpen mét pijlers" en "vertaalt die bouwstenen naar de komende vijf jaar", en beide zijn in hoofdstuk 1 juist vervangen.
 
-Dat is urgent. Want de ondernemers voor wie dit bedoeld is, zitten nu al klem.
-
-<div style="background:var(--blue-light);border-left:3px solid var(--blue);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 0;font-size:13.5px;line-height:1.65">
-    <strong style="display:block;margin-bottom:8px;font-size:14px">Leeswijzer</strong>
-    <p style="margin:0 0 .6rem">Drie aktes vormen de hoofdas: akte I (de situatie nu), akte II (ingrijpen zonder pijlers), akte III (oplossingsrichting). Door alle aktes lopen drie terugkerende kaders:</p>
-    <ul style="margin:0;padding-left:1.25rem">
-      <li style="margin-bottom:.35rem">het <strong>driesporenbeleid</strong> van het kabinet, dat als extern referentiepunt dient om de eigen lijn tegen af te zetten;</li>
-      <li style="margin-bottom:.35rem">de <strong>zes lagen van het overheidskader</strong> (maatregelen, doelen, juridische ruimte, vangnet, opdrachten, coördinatie); binnen het vangnet vier pijlers — inkomen &amp; zekerheid, markttoegang, grond &amp; ruimte, organisatie &amp; financiering;</li>
-      <li><strong>zeven maatschappelijke opgaves</strong> (klimaat, water, natuur, voedselzekerheid, cultuur &amp; landschap, grondstoffen &amp; kringloop, wonen) waarop iedere akte gescoord wordt; ondernemerschap is het frame eromheen, geen aparte opgave.</li>
-    </ul>
-  </div>
-
-<div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 0;font-size:13.5px;line-height:1.65">
-    <strong style="display:block;margin-bottom:6px;font-size:14px">Aanleiding: het driesporenbeleid</strong><span class="fiche-wrap" style="margin-left:6px"><button class="fiche-btn" type="button" aria-label="Bron tonen">ⓘ</button><span class="fiche-popup"><span class="fiche-label">Bron (alle cijfers in dit blok)</span><span class="fiche-source">Douwe Jonkers (LVVN), ambtelijke voorbespreking conceptbrief gebiedsspecifieke aanpak veenweide.</span><span class="fiche-note">Nog niet publiek; bronaanduiding wordt aangevuld zodra de kamerbrief is verzonden.</span></span></span>
-    <p style="margin:0 0 .75rem">Het Rijk werkt aan een driesporenbeleid voor het veenweidegebied: (1) intensivering in urgentiegebieden — zones rond natuur en weidevogelkerngebieden, en gebieden met hoge emissies en sterke bodemdaling — op ca. 45.000 ha (€400 mln uit rijksmiddelen voor het landelijk gebied), (2) generieke fixatie van het slootpeil op -40 cm op het resterende areaal van ca. 90.000 ha, geflankeerd door een GLB-hectarepremie, en (3) omschakeling naar extensieve, natuurinclusieve melkveehouderij op ca. 10% van het gebied (20.000 ha, €900 mln voor 50% grondafwaardering). Totaal: een zichtbare claim van circa €1,3 miljard tot 2035, los van de GLB-hectarepremie. De sporen tellen samen op tot circa 155.000 ha; voor de overige circa 45.000 ha grasland op veen — vooral klei-op-veen en delen die al nat liggen — voorziet het beleid geen specifieke ingreep.</p>
-    <p style="margin:0">Deze veenweideboeren-aanpak is geschreven omdat dit beleid — hoe doordacht ook — het risico in zich draagt om precies het tegenovergestelde effect te bereiken van wat het beoogt. Peilverhoging met uitsluitend compensatie — hoe royaal ook — vervangt geen bedrijfsperspectief. Compensatie vergoedt verlies; ze geeft geen richting. Boeren die willen produceren en beheren vertrekken toch, niet omdat het financieel niet uitkomt, maar omdat er geen toekomst meer te bouwen valt. En juist die boeren zijn nodig om de opgaves daadwerkelijk te halen. Het geld is er. De vraag is of het de motor voedt, of dat het hem afzet.</p>
-  </div>
+Zodra dit bestand leeg is, gaat `intro` uit `volgorde.txt`]]
 
 <div style="background:var(--bg2);border-left:3px solid var(--text2);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1rem 0 0;font-size:13.5px;line-height:1.65">
     <strong style="display:block;margin-bottom:6px;font-size:14px">Daarnaast: het stikstofdossier, raakvlak met dit verhaal</strong>
@@ -75,6 +172,7 @@ Dat is urgent. Want de ondernemers voor wie dit bedoeld is, zitten nu al klem.
   </div>
 
 <!-- BEGRIPPENKADER (A2, Anna) -->
+
 <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.25rem 1.5rem;margin:1.5rem 0 0">
   <p style="font-family:var(--font-display);font-size:15px;font-weight:600;color:var(--text);margin:0 0 .75rem">Begrippenkader — de dragende termen in dit document</p>
   <table style="width:100%;border-collapse:collapse;font-size:13px;line-height:1.55">
@@ -187,134 +285,29 @@ Dat is waarom dit verhaal drie aktes heeft. Akte I laat zien wat er gebeurt als 
 
 Welke opgaves precies, en hoe verschilt dat per plek?
 
-<h3>De opgaves: wat vraagt Nederland van dit gebied?<span class="fiche-wrap" style="margin-left:8px"><button class="fiche-btn" type="button" aria-label="Hoe te lezen">ⓘ</button><span class="fiche-popup"><span class="fiche-label">Hoe te lezen</span><span class="fiche-source">De stippen geven het <strong>relatieve gewicht</strong> van iedere opgave in die context — dus hoe urgent de opgave op die plek is, niet hoe goed het gebied scoort. Meer stippen = urgenter daar. De drie contexten (Polder, Stadsrand, Natuur) zijn ideaaltypisch; de meeste gebieden zijn een mengvorm.</span><span class="fiche-note">● laag · ●● middel · ●●● hoog · ●●●● zeer hoog · n.v.t. niet van toepassing in deze context.</span></span></span></h3>
+### De opgaves: wat vraagt Nederland van dit gebied?
 
-Het veenweidegebied staat voor zeven maatschappelijke claims tegelijk. Ze zijn alle zeven reëel en legitiem, maar hun gewicht verschilt per context. Er is geen nationale hiërarchie: welke opgave het zwaarst weegt, hangt af van waar je bent. Klimaat, water en natuur vormen in de meeste veenweidecontexten de meest directe fysieke druk. Bij water hoort ook klimaatadaptatie: buffering bij piekbuien, zoetwaterbeschikbaarheid bij droogte, omgaan met zeespiegelstijging. Het veenweidegebied kan daar een rol in spelen, als waterberging als dienst serieus wordt genomen. De overige vier zijn even reëel, maar gevarieerder in urgentie per plek.
+Het veenweidegebied staat voor tien maatschappelijke opgaves tegelijk. Ze zijn alle tien reëel en legitiem, maar niet elke opgave weegt even zwaar in elk gebied. Welke opgave het zwaarst weegt, hangt af van de bodemsamenstelling, de ligging, de omgeving en de al aanwezige druk. Er is geen nationale hiërarchie.
 
-<p style="font-size:13px;color:var(--text2);margin-bottom:1.25rem">De drie contexten die verderop in dit document terugkomen — Polder, Stadsrand, Natuur — laten zien hoe het gewicht van deze opgaves verschuift naargelang de omgeving.</p>
+**Klimaat & bodemdaling** — Veenoxidatie remmen, broeikasgasemissies uit de bodem verlagen, bodemdaling tegengaan. De opgave is het zwaarst in veengebieden zonder kleidek; een kleidek remt de oxidatie waardoor bodemdaling en emissies er beduidend lager zijn.
 
-<!-- OPGAVEN VISUAL -->
+**Klimaat — bedrijf** — Methaan en koolstofopslag uit vee, stal en machines verlagen. Deze opgave is in alle veenweidegebieden vergelijkbaar: de maatregelen en de druk zijn overal gelijk.
 
-<div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem 1.75rem;margin:0 0 1.5rem">
+**Water — kwaliteit** — Slootbeheer, nutriëntenbelasting, KRW-doelen. Het zwaarst in zuivere veengebieden, en nog zwaarder waar die gebieden grenzen aan natuurgebieden — uitspoeling van nutriënten heeft er direct effect op beschermde habitats.
 
-    <!-- Opgaven matrix -->
-    <div style="overflow-x:auto">
-      <table style="width:100%;border-collapse:collapse;font-size:12.5px">
-        <thead>
-          <tr>
-            <th style="text-align:left;padding:8px 10px 12px;font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--text3);font-weight:600;border-bottom:2px solid rgba(0,0,0,.06);width:36%">Opgave</th>
-            <th style="text-align:center;padding:8px 10px 12px;font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--text3);font-weight:600;border-bottom:2px solid rgba(0,0,0,.06);width:21%">🌾 Polder</th>
-            <th style="text-align:center;padding:8px 10px 12px;font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--text3);font-weight:600;border-bottom:2px solid rgba(0,0,0,.06);width:21%">🏘️ Stadsrand</th>
-            <th style="text-align:center;padding:8px 10px 12px;font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--text3);font-weight:600;border-bottom:2px solid rgba(0,0,0,.06);width:21%">🌿 Natuur</th>
-          </tr>
-        </thead>
-                        <tbody id="opgaven-tbody">
-          <tr style="border-bottom:1px solid rgba(0,0,0,.04);">
-            <td style="padding:10px 10px 4px">
-              <div style="font-weight:600;color:var(--text)">Klimaat &amp; bodemdaling</div>
-              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Veenoxidatie remmen, broeikasgasemissies uit de bodem verlagen, bodemdaling tegengaan</div>
-            </td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-          </tr>
-          <tr style="border-bottom:1px solid rgba(0,0,0,.04);background:rgba(0,0,0,.012)">
-            <td style="padding:10px 10px 4px">
-              <div style="font-weight:600;color:var(--text)">Klimaat — bedrijf</div>
-              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Methaan en CO₂ uit vee, stal en machines verlagen</div>
-            </td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-          </tr>
-          <tr style="border-bottom:1px solid rgba(0,0,0,.04);">
-            <td style="padding:10px 10px 4px">
-              <div style="font-weight:600;color:var(--text)">Water — kwaliteit</div>
-              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Slootbeheer, nutriëntenbelasting, KRW-doelen</div>
-            </td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-          </tr>
-          <tr style="border-bottom:1px solid rgba(0,0,0,.04);background:rgba(0,0,0,.012)">
-            <td style="padding:10px 10px 4px">
-              <div style="font-weight:600;color:var(--text)">Water — kwantiteit</div>
-              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Waterberging, droogtebestrijding, piekopvang van regenwater (zwaarder aan stadsrand)</div>
-            </td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-          </tr>
-          <tr style="border-bottom:1px solid rgba(0,0,0,.04);">
-            <td style="padding:10px 10px 4px">
-              <div style="font-weight:600;color:var(--text)">Natuur — gebieden</div>
-              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Natura 2000, stikstofdepositie, beschermde soorten. <strong>Stikstof is op dit moment het politieke vehikel</strong> waarmee deze opgave brede aandacht krijgt — en het mechanisme dat tegelijk de andere opgaves dreigt te overschaduwen.</div>
-            </td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●●</span></td>
-          </tr>
-          <tr style="border-bottom:1px solid rgba(0,0,0,.04);background:rgba(0,0,0,.012)">
-            <td style="padding:10px 10px 4px">
-              <div style="font-weight:600;color:var(--text)">Natuur — basiskwaliteit</div>
-              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Slootkanten, weidevogels, biodiversiteit in het boerenland</div>
-            </td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-          </tr>
-          <tr style="border-bottom:1px solid rgba(0,0,0,.04);">
-            <td style="padding:10px 10px 4px">
-              <div style="font-weight:600;color:var(--text)">Voedselzekerheid</div>
-              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Directe voedselproductie uit het gebied; inputs (organische mest, water) voor voedselproductie elders in Nederland; vermindering van importafhankelijkheid (voer, kunstmest)</div>
-            </td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:12px;color:var(--text3);font-style:italic">n.v.t.</span></td>
-          </tr>
-          <tr style="border-bottom:1px solid rgba(0,0,0,.04);background:rgba(0,0,0,.012)">
-            <td style="padding:10px 10px 4px">
-              <div style="font-weight:600;color:var(--text)">Cultuur &amp; landschap</div>
-              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Landschapsidentiteit, veenweide-erfgoed, beleving</div>
-            </td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-          </tr>
-          <tr style="border-bottom:1px solid rgba(0,0,0,.04);">
-            <td style="padding:10px 10px 4px">
-              <div style="font-weight:600;color:var(--text)">Grondstoffen &amp; kringloop</div>
-              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Hernieuwbare grondstoffen, minder import, gesloten kringlopen</div>
-            </td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:12px;color:var(--text3);font-style:italic">n.v.t.</span></td>
-          </tr>
-          <tr style="border-bottom:1px solid rgba(0,0,0,.04);background:rgba(0,0,0,.012)">
-            <td style="padding:10px 10px 4px">
-              <div style="font-weight:600;color:var(--text)">Wonen</div>
-              <div style="font-size:11.5px;color:var(--text2);margin-top:2px">Woningbouw, recreatiewoningen, tiny houses, functiemenging, leefbaarheid landelijk gebied</div>
-            </td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●●●</span></td>
-            <td style="text-align:center;padding:10px"><span style="font-size:14px;color:#2d6a23;letter-spacing:2px">●</span></td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
+**Water — kwantiteit** — Waterberging, droogtebestrijding, piekopvang van regenwater. Vernatting is in alle veenweidegebieden de richting, maar de opgave is extra acuut in natuurgebieden met wegzijging en in landbouwgebieden met beperkte aanvoer vanuit rivieren.
 
-    <!-- Legenda + noot -->
-    <div style="display:flex;gap:16px;align-items:center;margin-top:14px;flex-wrap:wrap">
-      <div style="font-size:11px;color:var(--text3);font-weight:600;text-transform:uppercase;letter-spacing:.06em">Urgentie per context:</div>
-      <div style="display:flex;gap:14px;flex-wrap:wrap;font-size:11px;color:var(--text2)">
-        <span><span style="font-size:14px;color:#2d6a23">●</span> laag</span>
-        <span><span style="font-size:14px;color:#2d6a23">●●</span> middel</span>
-        <span><span style="font-size:14px;color:#2d6a23">●●●</span> hoog</span>
-        <span><span style="font-size:14px;color:#2d6a23">●●●●</span> zeer hoog</span>
-      </div>
-      <div style="font-size:11px;color:var(--text3);margin-left:auto;font-style:italic">Stippen = relatief gewicht van de opgave in die context, niet de prestatie van het gebied. Geen nationale hiërarchie — het gewicht hangt af van de plek.</div>
-    </div>
-  </div>
+**Natuur — gebieden** — Natura 2000, stikstofdepositie, beschermde soorten. **Stikstof is op dit moment het politieke vehikel** waarmee deze opgave brede aandacht krijgt — en het mechanisme dat tegelijk de andere opgaves dreigt te overschaduwen. De opgave is het grootst in gebieden met hoge stikstofdepositie, doorgaans nabij intensieve emissiebronnen.
+
+**Natuur — basiskwaliteit** — Slootkanten, weidevogels, biodiversiteit in het boerenland. Relevant in alle veenweidegebieden — er zijn geen gebieden waar dit niet speelt.
+
+**Voedselzekerheid** — Directe voedselproductie, inputs voor voedselproductie elders in Nederland, vermindering van importafhankelijkheid. Speelt in alle veenweidegebieden, in wisselende vormen.
+
+**Cultuur & landschap** — Landschapsidentiteit, veenweide-erfgoed, beleving. De opgave is het grootst nabij steden, waar de vraag naar landschapsbeleving en recreatie het hoogst is.
+
+**Grondstoffen & kringloop** — Hernieuwbare grondstoffen, minder import, gesloten kringlopen. Speelt breed, maar de koppeling is het sterkst in gebieden naast bedrijvigheid en akkerbouwbedrijven die organische stromen kunnen afnemen.
+
+**Wonen** — Woningbouw, recreatiewoningen, tiny houses, functiemenging, zorgfunctie. De opgave is het grootst langs stadsranden, waar de druk op ruimte het hoogst is en extra diensten zoals zorgfuncties een plek zoeken.
 
 ---
 
@@ -346,7 +339,7 @@ Akte I lijkt te werken omdat er nog niks is gebeurd. Het is geen stabiele toesta
 
 De waarde-argumenten tot dusver gaan over wat er *in* het veenweidegebied gebeurt: klimaat, water, natuur, kringloop, voedselzekerheid, cultuur en wonen. Allemaal opgaves binnen het gebied zelf. Maar het verhaal kan een stap groter. Het veenweidegebied is niet alleen een gebied dat hulp behoeft, het is ook een gebied dat *oplossingen levert* aan andere sectoren en regio's.
 
-<p>Drie concrete voorbeelden maken dat tastbaar. <strong>CO₂-compensatie voor de akkerbouw.</strong> Akkerbouwgebieden produceren voedsel met aanzienlijke CO₂-uitstoot en zoeken compensatieroutes om aan klimaatdoelen te voldoen. In plaats van het planten van bos op een polder of het inrichten van compensatieprojecten elders, kan een aanzienlijk deel van die compensatie veel efficiënter plaatsvinden in het veenweidegebied. De CO₂-voorraad in het veen is enorm; het remmen van veenoxidatie en het stimuleren van paludicultuur leveren per geïnvesteerde euro mogelijk meer CO₂-reductie op dan bosaanplant op zandgrond. <strong>Organische mest voor de akkerbouw.</strong> Veenweidebedrijven produceren mest in een hoeveelheid en kwaliteit die akkerbouwgebieden juist missen, zeker in een context van kunstmestbeperking en bodemverbetering. Wat in de huidige logica nog regelmatig als mestoverschotprobleem wordt geframed, wordt in deze logica een gebiedsoverstijgende dienstenstroom: van veengebied naar akkerbouwgebied, met economische en bodembiologische winst aan beide kanten. De strakkere mestnormen van na de derogatie maken deze stroom voorwaardelijker — minder ruimte per hectare, preciezere balans van stikstof en fosfaat — maar de complementariteit zelf blijft: veen heeft de organische stof die de akkerbouw mist. <strong>Waterbuffer voor de akkerbouw.</strong> Wat in akte III op het veenweidebedrijf gebeurt — wateropslag op het eigen land, dynamisch peilbeheer, sloten en greppels als opslag- en infiltratiesysteem — is ruimtelijk veel meer dan een bedrijfsbouwsteen. Het maakt het gebied tot een buffer voor de omliggende regio: in natte winters vangt het veenweidegebied piekafvoer op die anders akkerland onder water zet, in droge zomers levert het water terug aan een akkerbouw die steeds vaker droogtestress kent. Dat is een dienst aan andere voedselproducenten die de akkerbouw zelf niet kan organiseren — en die in een klimaat met grotere extremen alleen maar belangrijker wordt. En dat is geen hypothetische rol: I&W stuurt sinds 2026 op waterzelfvoorzienendheid van veenweidegebieden, met aanzienlijke ruimteclaims voor waterberging als logisch gevolg.</p>
+Drie concrete voorbeelden maken dat tastbaar. **CO₂-compensatie voor de akkerbouw.** Akkerbouwgebieden produceren voedsel met aanzienlijke CO₂-uitstoot en zoeken compensatieroutes om aan klimaatdoelen te voldoen. In plaats van het planten van bos op een polder of het inrichten van compensatieprojecten elders, kan een aanzienlijk deel van die compensatie veel efficiënter plaatsvinden in het veenweidegebied. De CO₂-voorraad in het veen is enorm; het remmen van veenoxidatie en het stimuleren van paludicultuur leveren per geïnvesteerde euro mogelijk meer CO₂-reductie op dan bosaanplant op zandgrond. **Organische mest voor de akkerbouw.** Veenweidebedrijven produceren mest in een hoeveelheid en kwaliteit die akkerbouwgebieden juist missen, zeker in een context van kunstmestbeperking en bodemverbetering. Wat in de huidige logica nog regelmatig als mestoverschotprobleem wordt geframed, wordt in deze logica een gebiedsoverstijgende dienstenstroom: van veengebied naar akkerbouwgebied, met economische en bodembiologische winst aan beide kanten. De strakkere mestnormen van na de derogatie maken deze stroom voorwaardelijker — minder ruimte per hectare, preciezere balans van stikstof en fosfaat — maar de complementariteit zelf blijft: veen heeft de organische stof die de akkerbouw mist. **Waterbuffer voor de akkerbouw.** Wat in akte III op het veenweidebedrijf gebeurt — wateropslag op het eigen land, dynamisch peilbeheer, sloten en greppels als opslag- en infiltratiesysteem — is ruimtelijk veel meer dan een bedrijfsbouwsteen. Het maakt het gebied tot een buffer voor de omliggende regio: in natte winters vangt het veenweidegebied piekafvoer op die anders akkerland onder water zet, in droge zomers levert het water terug aan een akkerbouw die steeds vaker droogtestress kent. Dat is een dienst aan andere voedselproducenten die de akkerbouw zelf niet kan organiseren — en die in een klimaat met grotere extremen alleen maar belangrijker wordt. En dat is geen hypothetische rol: I&W stuurt sinds 2026 op waterzelfvoorzienendheid van veenweidegebieden, met aanzienlijke ruimteclaims voor waterberging als logisch gevolg.
 
 Deze kanteling verandert ook wie er aan tafel komt. Naast LVVN voor de veenweideboer worden ook andere agrarische sectoren (akkerbouw), de industrie, waterschappen en partijen die elders compensatieoplossingen zoeken relevante gesprekspartners. Het maatschappelijke debat over veenweide verschuift van een binnen-gebied probleem naar een gebiedsoverstijgende strategische bron. Institutioneel vraagt dit wel het nodige: bestaande markten zijn er nog niet voor — een akkerbouwer kan niet zomaar CO₂ compenseren door geld naar een Friese veenweideboer over te maken, een organische-mest-marktplaats die kwaliteit en hoeveelheid borgt bestaat niet kant-en-klaar, en betalingsarrangementen voor regionale waterdiensten zijn nog nauwelijks ontwikkeld. Een veenweide-zuivelketen, een organische-mest-platform, een CO₂-certificatensysteem op veen en een waterdienst-vergoeding tussen veen- en akkerbouwgebieden vragen alle vier eigen institutionele inrichting. Precies het type vraagstukken waar het VIC een rol in kan spelen.
 
@@ -379,13 +372,13 @@ De veenweideboer is een nieuwe typologie: niet een reguliere melkveehouder met b
       <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--blue);font-weight:600;margin-bottom:14px">Het kader en de ruimte — wat de overheid doet</div>
 
       <div style="margin-bottom:14px">
-        <div style="font-weight:600;color:var(--text);font-size:13px;margin-bottom:3px">① Maatregelen</div>
-        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Vernatting, stikstofnormen, KRW-waterkwaliteitseisen. Verplicht en niet-onderhandelbaar, dezelfde als in akte II — maar het peil is het middel, niet het doel: gedifferentieerd per peilvak, met het hoogste peil in de meest afbraakgevoelige gebieden en rust waar het al nat ligt.</div>
+        <div style="font-weight:600;color:var(--text);font-size:13px;margin-bottom:3px">① Doelen — een ladder, geen keuze</div>
+        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Per context en per bedrijf, in opgaande ladder. Eerst op bedrijfsniveau — een vieze sloot mag bestaan zolang het water het erf én de percelen schoon verlaat (nitraat, fosfaat); percelen met meer uitstoot mogen bestaan zolang elders genoeg koolstof wordt vastgehouden. Daarna op polderniveau — wat de ene boer niet haalt, kan een ander binnen hetzelfde peilvak compenseren tegen vergoeding. Daarna op collectiefniveau, waar de totale opgave wordt afgerekend. Bedrijfsniveau alleen werkt niet: ongelijke percelen en veendiktes maken individuele afrekening met één generieke norm onuitvoerbaar en onevenredig hard.</div>
       </div>
 
       <div style="margin-bottom:14px">
-        <div style="font-weight:600;color:var(--text);font-size:13px;margin-bottom:3px">② Doelen — een ladder, geen keuze</div>
-        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Per context en per bedrijf, in opgaande ladder. Eerst op bedrijfsniveau — een vieze sloot mag bestaan zolang het water het erf én de percelen schoon verlaat (nitraat, fosfaat); percelen met meer uitstoot mogen bestaan zolang elders genoeg koolstof wordt vastgehouden. Daarna op polderniveau — wat de ene boer niet haalt, kan een ander binnen hetzelfde peilvak compenseren tegen vergoeding. Daarna op collectiefniveau, waar de totale opgave wordt afgerekend. Bedrijfsniveau alleen werkt niet: ongelijke percelen en veendiktes maken individuele afrekening met één generieke norm onuitvoerbaar en onevenredig hard.</div>
+        <div style="font-weight:600;color:var(--text);font-size:13px;margin-bottom:3px">② Maatregelen</div>
+        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Vernatting tot 30 cm onder het maaiveld in het midden van het perceel. Verplicht en niet-onderhandelbaar, dezelfde als in akte II — maar het peil is het middel, niet het doel: gedifferentieerd per peilvak, met het hoogste peil in de meest afbraakgevoelige gebieden en rust waar het al nat ligt.</div>
       </div>
 
       <div style="margin-bottom:14px">
@@ -420,7 +413,7 @@ De veenweideboer is een nieuwe typologie: niet een reguliere melkveehouder met b
 
       <div style="margin-bottom:14px">
         <div style="font-weight:600;color:var(--text);font-size:13px;margin-bottom:3px">Bedrijf optimaliseren</div>
-        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Een toolbox specifiek voor veenweideboeren: ecologisch slootbeheer, greppelinfiltratie, dynamisch peilbeheer, kruidenrijk grasland, koe-kalf-kudde, precisiebemesting, natuurlijke oevers — geen nieuw inkomen, wel lagere kosten en bijdrage aan de doelen.</div>
+        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Een toolbox specifiek voor veenweideboeren: slootmaaibeheer, greppelinfiltratie, dynamisch peilbeheer, kruidenrijk grasland, koe-kalf-kudde, weidevogelbeheer, natuurvriendelijke oevers — geen nieuw inkomen, wel lagere kosten en bijdrage aan de doelen.</div>
       </div>
 
       <div>
@@ -565,10 +558,10 @@ Drie aktes voor het veenweidegebied. Niet drie gelijkwaardige scenario's, maar d
     <p>De lokale rentmeesters verdwijnen. Hun land wordt ingenomen door grote boeren die misschien niet eens in het gebied zitten, bedrijven vanuit de kleigebieden met een enorme grondhonger. De schaalvergroting in combinatie met de grondgebondenheidsregel maakt dat ze vele hectares nodig hebben, en het vrijkomende veenweideland is goedkoop. Of het land gaat naar grondspeculanten en institutionele investeerders die wachten op betere tijden.</p>
     <p>En dan keert de beweging. De grote boeren op afstand hebben geen binding met het land. Geen liefde voor het veenweidelandschap, geen zorg voor de slootkanten, geen oog voor de weidevogels. Ze beheren op efficiëntie, niet op rentmeesterschap. De verbeteringen die de harde maatregelen even opleverden — klimaat, water, natuur — worden weer teruggedraaid doordat de zorg voor het landschap verdwijnt met de mensen die het kenden.</p>
     <p>De doelsturing werkt op papier. In de praktijk stuurt het de rentmeesters het gebied uit en vervangt het ze door beheerders op afstand.
-    <div style="background:var(--blue-light);border-left:3px solid var(--blue);border-radius:var(--radius);padding:.875rem 1rem;margin:1rem 0;font-size:13px;line-height:1.6">
+    </p><div style="background:var(--blue-light);border-left:3px solid var(--blue);border-radius:var(--radius);padding:.875rem 1rem;margin:1rem 0;font-size:13px;line-height:1.6">
       <strong style="display:block;margin-bottom:3px">Let op: ook koploper-familieondernemers worden geraakt</strong>
       Grove maatregelen zonder maatwerk treffen niet alleen de schaaloptimaliseerders. Familieondernemers die al verder zijn in de transitie — biologisch of anderszins, precies de mensen die de maatschappij wil behouden — vallen onder dezelfde normering. Het risico is reëel dat je met akte II precies degenen wegdrukt die je nodig hebt voor akte III.
-    </div></p>
+    </div><p></p>
 
     <div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1rem 0;font-size:13.5px;line-height:1.65">
       <strong style="display:block;margin-bottom:6px;font-size:14px">Driesporenbeleid, hectarepremie GLB versus zakelijke transactie</strong>
@@ -604,7 +597,7 @@ Drie aktes voor het veenweidegebied. Niet drie gelijkwaardige scenario's, maar d
     <div class="dim-list">
       <div class="dim-item"><span class="dot green"></span><span class="name">Klimaat &amp; bodemdaling</span><span class="desc">Waterpeil omhoog omdat het loont, koolstofopslag als verdienmodel</span></div>
       <div class="dim-item"><span class="dot green"></span><span class="name">Klimaat (bedrijf)</span><span class="desc">Lagere veedichtheid: minder vee, lagere emissies per hectare</span></div>
-      <div class="dim-item"><span class="dot green"></span><span class="name">Water (kwaliteit)</span><span class="desc">Ecologisch slootbeheer is nu rendabel, kwaliteit verbetert structureel</span></div>
+      <div class="dim-item"><span class="dot green"></span><span class="name">Water (kwaliteit)</span><span class="desc">Ecologisch sloot- en oeverbeheer is nu rendabel, kwaliteit verbetert structureel</span></div>
       <div class="dim-item"><span class="dot amber"></span><span class="name">Water (kwantiteit)</span><span class="desc">Wateropslag als betaalde dienst helpt, maar de totale watervraag bij vernatting blijft een ruimtelijk vraagstuk</span></div>
       <div class="dim-item"><span class="dot green"></span><span class="name">Natuur (gebieden)</span><span class="desc">Minder depositie + actief bufferbeheer rond Natura 2000 als betaalde dienst</span></div>
       <div class="dim-item"><span class="dot green"></span><span class="name">Natuur (basiskwaliteit)</span><span class="desc">Rentmeesterschap terug: weidevogels, slootkanten, biodiversiteit als verdienmodel</span></div>
@@ -652,7 +645,7 @@ De toolbox past niet bij één type boer, hij geeft juist ruimte aan verschillen
 
 ### Niveau 1 — Interne optimalisatie
 
-Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lagere kosten, betere bedrijfsvoering en bijdrage aan de opgaves.
+Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lagere kosten, betere bedrijfsvoering en bijdrage aan de opgaves. De indeling volgt het werkdocument <em>VIC's Veenweideboeren toolbox</em>: 35 bouwstenen in tien categorieën. Elke bouwsteen hieronder linkt naar de volledige uitwerking daar — wat het is, wat we weten, wanneer het toepasbaar is, met bronnen.
 
 #### Waterbeheer op het bedrijf
 
@@ -664,10 +657,11 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong>Waterinfiltratiesysteem (WIS / AWIS)</strong></td><td>Kritische randvoorwaarde: zonder WIS werkt grondwaterstand-sturing niet. Gecontroleerd water infiltreren in de bodem via drains.</td></tr>
-      <tr><td><strong>Greppelinfiltratie</strong></td><td>Waterpeil verhogen in percelen via greppels</td></tr>
-      <tr><td><strong>Dynamisch peilbeheer</strong></td><td>Flexibel sturen op waterstanden per seizoen</td></tr>
-      <tr><td><strong>Waterbuffering op eigen percelen</strong></td><td>Opslag voor droge periodes, opvang bij piekbuien, intern, niet als betaalde dienst</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#greppelinfiltratie" style="color:var(--accent2);text-decoration:none">Greppelinfiltratie</a></strong></td><td>Greppels in de zomer permanent watervoerend houden, zodat water het perceel intrekt</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#dynamisch-peilbeheer" style="color:var(--accent2);text-decoration:none">Dynamisch peilbeheer</a></strong></td><td>Slootpeil actief sturen binnen boven- en ondergrens, op grondwaterstand, bodemvocht en weersverwachting</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#pwis-en-awis" style="color:var(--accent2);text-decoration:none">PWIS en AWIS</a></strong></td><td>Kritische randvoorwaarde: gecontroleerd water infiltreren via drains — passief (PWIS) of actief gestuurd (AWIS)</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#druppelinfiltratie-dis" style="color:var(--accent2);text-decoration:none">Druppelinfiltratie (DIS)</a></strong></td><td>Experimentele vernattingstechniek met druppelslangen; pilots lopen</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#bevloeiing" style="color:var(--accent2);text-decoration:none">Bevloeiing</a></strong></td><td>Percelen bevloeien bij droogte; geen structurele bedrijfsmaatregel</td></tr>
     </tbody>
   </table>
 
@@ -676,10 +670,12 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong>Ecologisch slootbeheer</strong></td><td>Timing, gefaseerd maaien, niet alles tegelijk</td></tr>
-      <tr><td><strong>Natuurlijke oevers</strong></td><td>Flauwe taluds, begroeiing, stabilisatie</td></tr>
-      <tr><td><strong>Helofytenfilter</strong></td><td>Zuivering via rietachtige planten</td></tr>
-      <tr><td><strong>Onbemeste bufferstroken</strong></td><td>Stroken langs sloten zonder bemesting</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#slootmaaibeheer" style="color:var(--accent2);text-decoration:none">Slootmaaibeheer</a></strong></td><td>Watervegetatie gefaseerd en gedeeltelijk maaien in plaats van alles in één keer</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#baggerbeheer" style="color:var(--accent2);text-decoration:none">Baggerbeheer</a></strong></td><td>Slib verwijderen met aandacht voor timing, frequentie en licht materieel</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#oeverbeheer" style="color:var(--accent2);text-decoration:none">Oeverbeheer</a></strong></td><td>Talud maaien, oever beschermen tegen vertrapping, inrichting van de overgangszone</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#natuurvriendelijke-oevers" style="color:var(--accent2);text-decoration:none">Natuurvriendelijke oevers</a></strong></td><td>Flauwe taluds en oeverbegroeiing; op veen beperkter toepasbaar dan op klei of zand</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#helofytenfilter" style="color:var(--accent2);text-decoration:none">Helofytenfilter</a></strong></td><td>Zuivering via rietachtige oeverplanten in een strook of filterbekken</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#rivierkreeftenbestrijding" style="color:var(--accent2);text-decoration:none">Rivierkreeftenbestrijding</a></strong></td><td>Invasieve kreeften wegvangen die oevers en waterplanten vernielen</td></tr>
     </tbody>
   </table>
 
@@ -688,21 +684,22 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong>Bodem- en watermonitoring</strong></td><td>Grondwatermeetnet, continu inzicht in bodemproces</td></tr>
-      <tr><td><strong>Bodemleven bevorderen</strong></td><td>Ruige mest, minder zware machines, langere rustperiodes, condities scheppen voor wormen, schimmels en microbioom</td></tr>
-      <tr><td><strong>Licht materieel op natte bodem</strong></td><td>Lichter materieel, minder bodemdruk en insporing op nat veen</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#bodembeheer-en-bewaking" style="color:var(--accent2);text-decoration:none">Bodembeheer en bewaking</a></strong></td><td>Zes bodemdimensies samenhangend beheren en monitoren, van organische stof tot beworteling</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#draagkrachtbeheer" style="color:var(--accent2);text-decoration:none">Draagkrachtbeheer</a></strong></td><td>Sturen op het draagvermogen van natte veenbodem voor vee en machines</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#bekalken" style="color:var(--accent2);text-decoration:none">Bekalken</a></strong></td><td>De pH verhogen op van nature verzurend veen</td></tr>
     </tbody>
   </table>
 
-#### Gewas en voer
+#### Grasland
 
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong>Kruidenrijk grasland</strong></td><td>Klaver, kruiden en grassen als biodiverser voer; ook N₂O-emissie (lachgas) wordt verlaagd</td></tr>
-      <tr><td><strong>Vers gras en hooi</strong></td><td>Minder afhankelijk van krachtvoer, voerkwaliteit verhogen</td></tr>
-      <tr><td><strong>Eigen ruwvoer op grasbasis</strong></td><td>Eigen voerproductie op blijvend grasland, geen scheuren (mais en granen geven op veen veel CO₂- en nitraatuitstoot)</td></tr>
-      <tr><td><strong>Natte teelten (eigen gebruik)</strong></td><td>Lisdodde, riet, sphagnum als strooisel, bouw- en isolatiemateriaal of substraat</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#beweidingssystemen" style="color:var(--accent2);text-decoration:none">Beweidingssystemen</a></strong></td><td>Omweiden, stripgrazen of kurzrasen, afgestemd op draagkracht en grasaanbod</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#grasrassen-en-doorzaaien" style="color:var(--accent2);text-decoration:none">Grasrassen en doorzaaien</a></strong></td><td>De zode versterken zonder scheuren; doorzaaien met passende rassen</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#kruidenrijk-grasland" style="color:var(--accent2);text-decoration:none">Kruidenrijk grasland</a></strong></td><td>Klaver en productieve kruiden naast gras: biodiverser voer, minder kunstmest, minder lachgas</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#maaibeheer" style="color:var(--accent2);text-decoration:none">Maaibeheer</a></strong></td><td>Timing, frequentie en hoogte van maaien, voor voederwinning én graslandkwaliteit</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#rijpaden-en-licht-materieel" style="color:var(--accent2);text-decoration:none">Rijpaden en licht materieel</a></strong></td><td>Vaste rijpaden en lagere bodemdruk tegen verdichting en insporing</td></tr>
     </tbody>
   </table>
 
@@ -711,8 +708,20 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong>Precisiebemesting</strong></td><td>Op maat bemesten, minder uitspoeling</td></tr>
-      <tr><td><strong>Mest- en reststroombenutting</strong></td><td>Eigen mest verwerken, maaisel composteren, reststromen uit natte teelt terugbrengen op het land</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#stikstofbemesting" style="color:var(--accent2);text-decoration:none">Stikstofbemesting</a></strong></td><td>Bemesten op basis van wat de veenbodem zelf al levert (NLV)</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#andere-mestsoorten-en-organische-stof" style="color:var(--accent2);text-decoration:none">(Andere) mestsoorten en organische stof</a></strong></td><td>Mestsoort kiezen op effect op bodemleven, organische stof en weidevogelhabitat</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#fosfaatbeheer" style="color:var(--accent2);text-decoration:none">Fosfaatbeheer</a></strong></td><td>Fosfaattoestand per perceel sturen, voor nutriëntenbenutting én waterkwaliteit</td></tr>
+    </tbody>
+  </table>
+
+#### Gewas en voer
+
+<table class="bouwsteen-table">
+    <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
+    <tbody>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#voederwinning-en-conservering" style="color:var(--accent2);text-decoration:none">Voederwinning en conservering</a></strong></td><td>Maaien, drogen en inkuilen afgestemd op later gemaaid en kruidenrijk gras</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#eiwit-van-eigen-land" style="color:var(--accent2);text-decoration:none">Eiwit van eigen land</a></strong></td><td>Het aandeel eigen eiwit in het rantsoen verhogen, minder aangekocht krachtvoer</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#rantsoen-op-maat" style="color:var(--accent2);text-decoration:none">Rantsoen op maat</a></strong></td><td>Voersamenstelling afgestemd op de kenmerken van het veenweidebedrijf</td></tr>
     </tbody>
   </table>
 
@@ -721,10 +730,9 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong>Rantsoen op maat</strong></td><td>Voersamenstelling afgestemd op het veenweidebedrijf</td></tr>
-      <tr><td><strong>Dynamisch weiden (dynamisch draadloos weiden)</strong></td><td>Koeien vrij in het land, virtueel gestuurd zonder fysiek hek</td></tr>
-      <tr><td><strong>Koe-kalf-kudde</strong></td><td>Gedeeltelijk kalveren bij de koe, natuurlijk kuddegedrag, dierenwelzijn</td></tr>
-      <tr><td><strong>Veenweide-ras</strong></td><td>Robuust ras dat past bij nat veenweidebedrijf met lagere veedichtheid</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#koe-kalf-kudde" style="color:var(--accent2);text-decoration:none">Koe-kalf-kudde</a></strong></td><td>Koe en kalf langer bij elkaar, natuurlijk kuddegedrag, dierenwelzijn</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#dynamisch-draadloos-weiden" style="color:var(--accent2);text-decoration:none">Dynamisch draadloos weiden</a></strong></td><td>Koeien virtueel gestuurd zonder fysiek hek (virtual fencing)</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#passende-koe" style="color:var(--accent2);text-decoration:none">Passende koe</a></strong></td><td>Raskeuze passend bij nat veen en lagere veedichtheid, in plaats van de standaard-Holstein</td></tr>
     </tbody>
   </table>
 
@@ -733,8 +741,7 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong>Emissiebeperking op stal</strong></td><td>Technieken om methaan- en ammoniakuitstoot te verlagen</td></tr>
-      <tr><td><strong>Mobiele melkrobot</strong></td><td>Melken in het veld, koeien hoeven niet naar stal</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#ammoniakemissie" style="color:var(--accent2);text-decoration:none">Ammoniakemissie</a></strong></td><td>NH₃-uitstoot beperken in stal, mestopslag, toediening en beweiding</td></tr>
     </tbody>
   </table>
 
@@ -743,10 +750,10 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong>Weidevogelbeheer</strong></td><td>Nestbescherming, uitgesteld maaien, plas-dras</td></tr>
-      <tr><td><strong>Mozaïekbeheer</strong></td><td>Gevarieerd maaien per perceel, rustperiodes voor flora en fauna</td></tr>
-      <tr><td><strong>Insectenbeheer</strong></td><td>Bloemrijke randen, poelen, habitats voor bestuivers</td></tr>
-      <tr><td><strong>Landschapselementen onderhouden</strong></td><td>Geriefhoutbosjes, erfbeplanting, houtwallen onderhouden</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#weidevogelbeheer" style="color:var(--accent2);text-decoration:none">Weidevogelbeheer</a></strong></td><td>Nestbescherming, uitgesteld maaien en plas-dras voor grutto, kievit en tureluur</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#insectenbeheer" style="color:var(--accent2);text-decoration:none">Insectenbeheer</a></strong></td><td>Bloemrijke randen en habitats voor insecten, als voedselbasis voor weidevogels</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#mozaïekbeheer" style="color:var(--accent2);text-decoration:none">Mozaïekbeheer</a></strong></td><td>Beheer per perceel variëren zodat gebiedsbreed een gevarieerd mozaïek ontstaat</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#landschapselementen-onderhouden" style="color:var(--accent2);text-decoration:none">Landschapselementen onderhouden</a></strong></td><td>Geriefhoutbosjes, erfbeplanting en natte elementen onderhouden</td></tr>
     </tbody>
   </table>
 
@@ -755,8 +762,8 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
 <table class="bouwsteen-table">
     <thead><tr><th>Bouwsteen</th><th>Wat het doet</th></tr></thead>
     <tbody>
-      <tr><td><strong>Elektrificatie werktuigen</strong></td><td>Minder fossiele brandstof, minder bedrijfsemissies</td></tr>
-      <tr><td><strong>Eigen energieopwekking</strong></td><td>Zonnepanelen, kleine windturbine, biogasinstallatie</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#elektrificatie" style="color:var(--accent2);text-decoration:none">Elektrificatie</a></strong></td><td>Diesel- en gasprocessen vervangen door elektrisch aangedreven equivalenten</td></tr>
+      <tr><td><strong><a href="VIC's%20Veenweideboeren%20toolbox.html#eigen-energieopwekking" style="color:var(--accent2);text-decoration:none">Eigen energieopwekking</a></strong></td><td>Zonnepanelen op stal- en erfdaken, eventueel een kleine windturbine</td></tr>
     </tbody>
   </table>
 
@@ -780,7 +787,7 @@ Grote bouwstenen die een nieuw verdienmodel opbouwen. Maatschappelijke diensten 
 
 <p style="font-size:13.5px;color:var(--text2);line-height:1.65;margin-top:.5rem">De drie rijen rond natuur en biodiversiteit hangen samen maar dekken drie verschillende dingen. <strong>Functionele biodiversiteit</strong> op niveau 1 (kruidenrijk grasland, bloemrijke randen) versterkt de bedrijfsvoering en levert stabielere, kwalitatief betere opbrengst; weidevogelbeheer hoort in dezelfde basislaag, maar als beheertaak — niet als opbrengstverhoger. Dat is geen verdienmodel maar een waardevolle bedrijfsbasis. <strong>Natuur als dienst</strong> gaat een stap verder: het inrichten en beheren van natuur met expliciete natuurdoelstellingen en -eigenschappen, verkoopbaar als opdracht aan overheid of marktpartij. <strong>Biodiversiteitsdienst</strong> is een nieuwere benadering waarbij biodiversiteit zelf wordt geproduceerd en verkocht, via overheidsopdracht, marktopdracht of de biodiversiteitscreditmarkt. De drie zijn nauw met elkaar verbonden maar conceptueel onderscheiden; alleen de laatste twee zijn verdienmodellen.</p>
 
-<p><strong>Stikstofruimte als dienst — denkrichting.</strong> Structurele ammoniakreductie door lagere veedichtheid kan op termijn een contracteerbare maatschappelijke dienst worden, analoog aan koolstof en water — juist waardevol nabij Natura 2000. Kanttekening: dit raakt aan extern salderen en het vergunningenrecht, juridisch het gevoeligste terrein dat er is; het hoort in de toolbox als verkenning, niet als belofte.</p>
+**Stikstofruimte als dienst — denkrichting.** Structurele ammoniakreductie door lagere veedichtheid kan op termijn een contracteerbare maatschappelijke dienst worden, analoog aan koolstof en water — juist waardevol nabij Natura 2000. Kanttekening: dit raakt aan extern salderen en het vergunningenrecht, juridisch het gevoeligste terrein dat er is; het hoort in de toolbox als verkenning, niet als belofte.
 
 ### Drie typen, drie strategieën
 
@@ -816,7 +823,7 @@ De toolbox verschilt per context. Welke bouwstenen beschikbaar zijn en welke doe
         <li>Wonen bij de boer aantrekkelijk</li>
         <li>Korte keten — directe afzetmarkt</li>
         <li>Recreatie en zorgboerderij als inkomsten</li>
-        <li>Wateropslag zeer relevant (stadsoverstromingen)</li>
+        <li>Waterbuffering relevant</li>
       </ul>
     </div>
     <div class="context-card">
@@ -1137,3 +1144,23 @@ Dit document begon bij de boer die klem zit, en eindigt bij de ondernemer die de
 Drie acties bepalen of akte III werkelijkheid wordt. Voer het gesprek over de juridische status van maatschappelijke diensten als primair landbouwproduct — in de eerste fase, niet de laatste. Zet de circa €1,3 miljard om van compensatielogica naar langjarig, voorspelbaar opdrachtgeverschap. En creëer de veenweidecategorie in het omgevingsplan, zodat de activiteiten die de opgaves dragen ook juridisch kunnen bestaan.
 
 Perspectief bieden aan ondernemers in het veenweidegebied — daar begon dit document. De veenweideboer als toekomstbestendige ondernemer die maatschappelijke diensten levert: dát is het perspectief. Voor de uitvoering ontwikkelt het Veenweiden Innovatiecentrum een afzonderlijk programmavoorstel.
+
+---
+
+<!-- ======== bestand: content/bijlage-driesporen.md ======== -->
+
+---
+
+## 17 — Bijlage: de aangekondigde veenweide-aanpak, gelezen door de aktes
+
+**Stand van zaken op 18 augustus 2026.** Dit is de precieze inhoud van de gebiedsspecifieke aanpak waarnaar 1.2 verwijst: het driesporenbeleid zoals het is aangekondigd, en dat de Veenweidenbrief na de zomer moet bevestigen. Deze bijlage past de leesbril van de drie aktes daarop toe. Het is een diagnose van een specifiek moment, geen standpunt over het beleid: wij lezen mee om te leren hoe de volgende ronde beter kan worden ingericht, niet om deze ronde te herzien. De middelen die nu belegd zijn, zijn belegd.
+
+De aanpak is nog niet gepubliceerd. De Kamerbrief van 26 juni 2026 ordent het beleid voor het landelijk gebied in vijf hoofdlijnen en niet in drie sporen; de Veenweidenbrief wordt na de zomer verwacht. Navraag bij LVVN in augustus 2026 bevestigt dat de inhoud van de gebiedsspecifieke aanpak sindsdien niet is gewijzigd en dat de drie sporen nog staan. Zolang de brief er niet is, zijn de bedragen hieronder niet in publieke Kamerstukken terug te vinden en blijven ze staan met die bronaanduiding.
+
+<div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 0;font-size:13.5px;line-height:1.65">
+    <strong style="display:block;margin-bottom:6px;font-size:14px">De drie sporen, zoals aangekondigd</strong><span class="fiche-wrap" style="margin-left:6px"><button class="fiche-btn" type="button" aria-label="Bron tonen">ⓘ</button><span class="fiche-popup"><span class="fiche-label">Bron (alle cijfers in dit blok)</span><span class="fiche-source">Douwe Jonkers (LVVN), ambtelijke voorbespreking conceptbrief gebiedsspecifieke aanpak veenweide.</span><span class="fiche-note">Nog niet publiek; bronaanduiding wordt aangevuld zodra de kamerbrief is verzonden.</span></span></span>
+    <p style="margin:0 0 .75rem">Het Rijk werkt aan een driesporenbeleid voor het veenweidegebied: (1) intensivering [[CHECK DOUWE: juiste term voor spoor 1. Rond natuur wordt niet geïntensiveerd, dus dit woord klopt waarschijnlijk niet — Simon]] in urgentiegebieden, zones rond natuur en weidevogelkerngebieden, en gebieden met hoge emissies en sterke bodemdaling, op ca. 45.000 ha (€400 mln uit rijksmiddelen voor het landelijk gebied), (2) generieke fixatie van het slootwaterpeil op -20 tot -40 cm op het resterende areaal van ca. 90.000 ha [[CHECK DOUWE: spoor 2 betreft volgens de Unie van Waterschappen niet 90.000 ha maar het gehele veenweidegebied, als basismaatregel — Niel]], geflankeerd door een GLB-hectarepremie, en (3) omschakeling naar melkveehouderij met lagere veedichtheid op ca. 20.000 ha (€900 mln voor 50% grondafwaardering). Totaal: een zichtbare claim van circa €1,3 miljard tot 2035, los van de GLB-hectarepremie. De sporen tellen samen op tot circa 155.000 ha; voor de overige circa 45.000 ha grasland op veen, vooral klei-op-veen en delen die al nat liggen, voorziet het beleid geen specifieke ingreep. [[CHECK DOUWE: spoor 1 en 3 overlappen qua gebied. €400 mln is flankerend beleid op 45.000 ha, €900 mln is grondafwaardering op 20.000 ha volgens de CSV-methodiek — Niel]]</p>
+    <p style="margin:0">Deze veenweideboeren-aanpak is geschreven omdat dit beleid, hoe doordacht ook, het risico in zich draagt om precies het tegenovergestelde effect te bereiken van wat het beoogt. Peilverhoging met uitsluitend compensatie, hoe royaal ook, vervangt geen bedrijfsperspectief. Compensatie vergoedt verlies; ze geeft geen richting. Boeren die willen produceren en beheren vertrekken toch, niet omdat het financieel niet uitkomt, maar omdat er geen toekomst meer te bouwen valt. En juist die boeren zijn nodig om de opgaves daadwerkelijk te halen. Het geld is er. De vraag is of het de motor voedt, of dat het hem afzet.</p>
+  </div>
+
+[[TODO: ronde 5. Deze bijlage bevat nu één van de negen driesporenblokken uit `bloktypen.md`. De andere acht staan nog in a-klem, e-aktes (5×), f-overheid en g-perspectief en komen hier bij elkaar, waarna de negen tot één doorlopende bijlage worden samengevoegd. De tweede alinea hierboven is nu nog geschreven als stellingname en moet dan de vorm van een diagnose krijgen: wat dit ons leert over de inrichting van de volgende ronde]]

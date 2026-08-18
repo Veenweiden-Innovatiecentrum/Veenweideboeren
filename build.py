@@ -258,22 +258,35 @@ def build_hoofdstuk(sid):
 
 
 def build_tekst():
-    """Alle content-MD samenvoegen tot één leesbestand (alleen ter inzage —
-    bewerken gebeurt in de losse bestanden in content/)."""
+    """Alle hoofdstuktekst in één bestand: `visie-tekst.md` in de repo-wortel.
+
+    Dit is het deelbestand. Een sessie of persoon zonder toegang tot deze map
+    kan er de hele actuele tekst in één keer lezen, op één vast adres. Daarom
+    staat het in de wortel en niet in dist/: het is geen bijproduct om te
+    controleren maar een uitgifte om te delen.
+
+    Ingebedde afbeeldingen gaan eruit. Eén data-URI van een logo is 32 kB en
+    dat is meer dan alle tekst van een hoofdstuk; voor wie dit leest is het ruis.
+    Bewerken gebeurt nooit hier, altijd in de losse bestanden in content/."""
     order = [l.strip() for l in open('volgorde.txt', encoding='utf-8')
              if l.strip() and not l.startswith('#')]
-    parts = ['<!-- GEGENEREERD OVERZICHT — niet bewerken; bron: content/*.md -->']
+    kop = ('<!-- GEGENEREERD, NIET BEWERKEN. Bron: content/*.md, in de volgorde van '
+           'volgorde.txt. Opnieuw maken met `python3 build.py tekst`. Ingebedde '
+           'afbeeldingen zijn vervangen door een aanduiding. -->')
+    parts = [kop]
     for sid in order:
         md_path = f'content/{sid}.md'
         if not os.path.exists(md_path):
             parts.append(f'*[sectie `{sid}`: partial, geen tekstbestand]*')
             continue
+        tekst = open(md_path, encoding='utf-8').read().rstrip('\n')
+        tekst = re.sub(r'data:image/[a-z+]+;base64,[A-Za-z0-9+/=\s]+',
+                       '[ingebedde afbeelding, hier weggelaten]', tekst)
         parts.append(f'<!-- ======== bestand: content/{sid}.md ======== -->')
-        parts.append(open(md_path, encoding='utf-8').read().rstrip('\n'))
-    os.makedirs('dist', exist_ok=True)
-    dest = 'dist/alles.md'
+        parts.append(tekst)
+    dest = 'visie-tekst.md'
     open(dest, 'w', encoding='utf-8').write('\n\n---\n\n'.join(parts) + '\n')
-    print(f'Gebouwd: {dest}')
+    print(f'Gebouwd: {dest} ({os.path.getsize(dest) // 1024} kB)')
 
 if __name__ == '__main__':
     target = sys.argv[1] if len(sys.argv) > 1 else 'document'

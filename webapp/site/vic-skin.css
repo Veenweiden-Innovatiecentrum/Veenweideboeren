@@ -1,0 +1,81 @@
+/* ============================================================
+   VIC-skin — legt de VIC-huisstijl over de documentstijl heen.
+   Laden NÁ document-styles.css en ../styles.css (tokens).
+   De inhoud verwijst naar var(--bg/--text/--accent/--font-*);
+   hier krijgen die de huisstijlwaarden.
+   ============================================================ */
+
+:root {
+  /* vlakken: wit, met lichtgroene tinten */
+  --bg: var(--vic-white);
+  --bg2: var(--vic-green-pale);
+  --bg3: #f5f6f4;            /* tekstcontainers: heel licht grijs */
+
+  /* tekst */
+  --text: var(--vic-black);
+  --text2: #44463f;
+  --text3: var(--vic-grey);
+
+  /* accenten — huisstijlkleuren */
+  --accent: var(--vic-green);
+  --accent2: #338a2c;
+  --accent-light: var(--vic-green-pale);
+  --blue: var(--vic-blue);
+  --blue-light: #e5e9f3;
+
+  /* typografie: alles Roboto */
+  --font-display: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  --font-heading: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  --font-body: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text-body);
+  font-size: 15.5px;
+}
+
+/* Koppen volgens huisstijl: H1 kapitalen groen; H2 groen; H3 blauw */
+h1 {
+  font-family: var(--font-sans);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-caps);
+  color: var(--text-heading);
+  font-size: 40px;
+}
+h1 span { color: var(--vic-blue); }
+
+h2 {
+  font-family: var(--font-sans);
+  color: var(--text-heading);
+  font-size: 28px;
+  line-height: var(--leading-snug);
+  border-top-color: var(--vic-border);
+}
+
+h3 {
+  color: var(--text-heading-alt);
+}
+
+h4 { color: var(--vic-black); }
+
+a { color: var(--link); }
+a:hover { color: var(--link-hover); }
+
+::selection { background: var(--vic-green-soft); color: var(--vic-black); }
+
+/* tabellen: subtiele huisstijllijnen */
+section table th { border-bottom-color: var(--vic-green); color: var(--vic-blue); }
+section table td { border-bottom-color: var(--vic-border); }
+
+/* vlaksysteem — instelbaar via Tweaks:
+   .v4-plane omhult de inhoud van élke pagina; --v4-article-bg = groot vlak.
+   Binnen de plane krijgt --bg3 de binnenvlak-tint (--v4-box-bg), zodat
+   alleen tekstcontainers meekleuren — knoppen/pillen staan vast op wit. */
+.v4-plane {
+  background: var(--v4-article-bg, transparent);
+  border-radius: var(--radius-lg);
+  padding: 28px 32px 44px;
+  --bg3: var(--v4-box-bg, #f5f6f4);
+}
+.v4-doc { background: transparent; }

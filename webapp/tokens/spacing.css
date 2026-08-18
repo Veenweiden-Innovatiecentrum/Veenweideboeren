@@ -1,0 +1,30 @@
+/* ============================================================
+   VIC maatvoering — spacing, radii, schaduwen, layout
+   Nuchtere, vlakke stijl: weinig afronding, nauwelijks schaduw.
+   ============================================================ */
+:root {
+  /* spacing (4px-basis) */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+  --space-9: 96px;
+
+  /* hoeken — de huisstijl is vlak en rechtlijnig */
+  --radius-none: 0px;
+  --radius-sm: 4px;       /* knoppen, inputs */
+  --radius-md: 8px;       /* kaarten, foto's op web */
+  --radius-pill: 999px;   /* zelden */
+
+  /* schaduwen — zeer terughoudend */
+  --shadow-card: 0 1px 3px rgba(29, 49, 118, 0.08), 0 4px 16px rgba(29, 49, 118, 0.07);
+  --shadow-pop: 0 8px 32px rgba(29, 49, 118, 0.16);
+
+  /* layout */
+  --container: 1140px;
+  --container-narrow: 760px;
+}

@@ -1,1 +1,7 @@
 __pycache__/
+.playwright-mcp/
+
+# Geheimen en lokale koppelingen — nooit vastleggen
+.env*
+.vercel
+.DS_Store

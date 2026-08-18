@@ -1,0 +1,128 @@
+/* Magazine-opmaak — generiek voor alle hoofdstukken. Scope: .magh
+   Werkt samen met v4-mag-c.css (hergebruikt magc-opener/kicker). */
+
+.magh { max-width: 1020px; margin: 0 auto; padding-top: clamp(72px, 9vw, 128px); }
+.magh--eerste { padding-top: 40px; }
+
+/* ---- openers ---- */
+.magh-opener-typo {
+  max-width: 880px; margin: 0 auto clamp(28px, 4vw, 44px);
+  padding-top: clamp(20px, 3vw, 36px);
+  border-top: 4px solid var(--vic-green);
+}
+.magh-titel-donker, .magh-titel-donker span {
+  font-family: var(--font-display); font-weight: 900;
+  font-size: clamp(34px, 4.8vw, 64px); line-height: 1.02;
+  letter-spacing: -0.015em; color: var(--vic-blue);
+  margin: 12px 0 0; text-wrap: balance;
+}
+.magh-titel-donker span { font-size: inherit; line-height: inherit; }
+
+.magh-opener-split {
+  display: grid; grid-template-columns: 1.15fr 0.85fr;
+  gap: clamp(28px, 4.5vw, 64px); align-items: end;
+  margin-bottom: clamp(32px, 4.5vw, 52px);
+}
+.magh-opener-split > div {
+  padding: clamp(20px, 3vw, 36px) 0 clamp(8px, 1.5vw, 18px);
+  border-top: 4px solid var(--vic-green);
+}
+.magh-split-foto {
+  width: 100%; aspect-ratio: 4 / 3; object-fit: cover;
+  border-radius: var(--radius-lg); display: block;
+}
+
+.magh-opener-vol { margin-bottom: clamp(32px, 4.5vw, 52px); height: 54vh; min-height: 380px; max-height: 560px; }
+.magh-vol-titel, .magh-vol-titel span {
+  font-family: var(--font-display); font-weight: 900; color: #fff;
+  font-size: clamp(34px, 4.8vw, 66px); line-height: 1.0;
+  letter-spacing: -0.015em; margin: 14px 0 0; text-wrap: balance;
+}
+.magh-vol-titel span { font-size: inherit; line-height: inherit; }
+
+/* ---- lead: eerste alinea groot, evt. met drop cap ---- */
+.magh .magh-lead { max-width: 760px; margin: 0 auto clamp(24px, 3vw, 36px); }
+.magh .magh-lead p {
+  font-size: clamp(19px, 2vw, 22px); line-height: 1.66;
+  color: var(--text); margin: 0;
+}
+.magh .magh-heeft-dropcap p::first-letter {
+  font-family: var(--font-display); font-weight: 900; float: left;
+  font-size: 68px; line-height: 0.8; padding: 5px 11px 0 0; color: var(--vic-green);
+}
+
+/* ---- pull-quote: letterlijke zin, herhaald als inzet ---- */
+.magh .magh-pq {
+  max-width: 880px; margin: clamp(36px, 5vw, 56px) auto;
+  padding: 24px 0 0; border: none; border-top: 4px solid var(--vic-green);
+  background: none;
+  font-family: var(--font-display); font-weight: 800;
+  font-size: clamp(25px, 2.9vw, 40px); line-height: 1.16;
+  letter-spacing: -0.01em; color: var(--vic-blue); text-wrap: balance;
+}
+
+/* ---- leeskolom ---- */
+.magh .magh-body { max-width: none; }
+.magh .magh-body > section > * { max-width: 720px; margin-left: auto; margin-right: auto; }
+.magh .magh-body > section > p { font-size: 17.5px; line-height: 1.78; }
+.magh .magh-body > section > h3, .magh .magh-body > section > h3 span {
+  font-family: var(--font-display); font-weight: 900;
+  font-size: clamp(26px, 3.2vw, 40px); line-height: 1.06; letter-spacing: -0.012em;
+  color: var(--vic-blue); border: none; padding: 0;
+  margin-top: clamp(48px, 6vw, 76px); margin-bottom: 18px; text-wrap: balance;
+}
+.magh .magh-body > section > h3 span { font-size: inherit; margin: 0; }
+.magh .magh-body > section > h4 {
+  font-family: var(--font-sans); font-size: 13px; font-weight: 700;
+  letter-spacing: 0.14em; text-transform: uppercase; color: var(--vic-green);
+  margin-top: 40px; margin-bottom: 10px;
+}
+
+/* tabellen breken breder uit dan de leeskolom */
+@media (min-width: 1000px) {
+  .magh .magh-body > section > table { max-width: 880px; width: 880px; }
+}
+
+/* ---- callouts: kaders uit het document, editoriaal gezet ---- */
+.magh .magh-callout {
+  max-width: 880px !important;
+  margin: clamp(36px, 5vw, 56px) auto !important;
+  padding: clamp(26px, 3.2vw, 38px) clamp(28px, 3.4vw, 46px) !important;
+  border: none !important;
+  border-radius: var(--radius-lg) !important;
+  font-size: 16.5px !important; line-height: 1.7 !important;
+}
+.magh .magh-callout p { font-size: 16.5px !important; line-height: 1.7 !important; }
+.magh .magh-callout div[style*="uppercase"] {
+  font-size: 12px !important; letter-spacing: 0.12em !important;
+  font-weight: 700 !important; margin-bottom: 14px !important;
+}
+.magh .magh-callout--groen { background: var(--vic-green-pale, #e8f2e5) !important; }
+.magh .magh-callout--groen div[style*="uppercase"] { color: var(--vic-green) !important; }
+.magh .magh-callout--blauw { background: #eaeff7 !important; }
+.magh .magh-callout--blauw div[style*="uppercase"] { color: var(--vic-blue) !important; }
+.magh .magh-callout--amber { background: #f7eed9 !important; }
+.magh .magh-callout--amber div[style*="uppercase"] { color: #8a6612 !important; }
+.magh .magh-callout--rood { background: #f8e9e6 !important; }
+.magh .magh-callout--rood div[style*="uppercase"] { color: var(--vic-red, #cd1719) !important; }
+.magh .magh-callout--neutraal { background: #f3f4f1 !important; }
+
+/* ---- bijzondere blokken behouden hun breedte ---- */
+.magh .magh-body > section > .akte,
+.magh .magh-body > section > .context-grid,
+.magh .magh-body > section > .question-list,
+.magh .magh-body > section > .vangrail-list { max-width: 880px; }
+
+/* ---- akte-viewer en toolbox-kaart binnen het ritme ---- */
+.magh .magh-akteviewer { max-width: 880px; margin: 0 auto clamp(32px, 4vw, 48px); }
+.magh .magh-nabody { max-width: 760px; margin: clamp(24px, 3vw, 36px) auto 0; }
+
+/* ---- slotfoto: beeld als afsluiting ---- */
+.magh .magh-slotfoto {
+  display: block; width: 100%; height: 320px; object-fit: cover;
+  border-radius: var(--radius-lg); margin-top: clamp(36px, 5vw, 56px);
+}
+
+@media (max-width: 860px) {
+  .magh-opener-split { grid-template-columns: 1fr; align-items: start; }
+}

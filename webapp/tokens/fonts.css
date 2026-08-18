@@ -1,0 +1,6 @@
+/* VIC webfonts.
+   Huisstijl: Roboto (flyers/brochures/web) en Calibri (kantoortoepassingen).
+   Roboto wordt geladen via Google Fonts (exacte match).
+   Calibri is geen webfont; Carlito (metrisch compatibel) wordt meegeladen
+   als vervanging voor documentachtige toepassingen. */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&family=Carlito:wght@400;700&display=swap');

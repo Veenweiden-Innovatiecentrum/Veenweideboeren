@@ -1,0 +1,94 @@
+{
+  "keys": 4,
+  "data": {
+    "vwb:nt:968bbb48-74ad-49c1-96c1-0a5f1e041ff0": {
+      "type": "hash",
+      "value": [
+        "intro:4",
+        "{\"id\":\"3ab3e267-7ef0-4b81-bb44-764cc6cc81bf\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"intro:4\",\"tekst\":\"ik zou na driesporenbeleid ook kort toevoegen wat de kern is, net zoals je bij de andere twee bullits hebt gedaan.\\nIk begrijp de zin als extern....zetten niet goed, wat bedoel je hiermee?\\n\\nLaatste zin ... ondernemerschap.... komt wat uit de lucht vallen.\",\"aangemaakt\":\"2026-06-16T08:52:58.242Z\",\"gewijzigd\":\"2026-06-16T08:55:36.821Z\"}",
+        "a-klem:14",
+        "{\"id\":\"4ec0df11-b94f-4997-bb11-72a1bea8d4bc\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"a-klem:14\",\"tekst\":\"Door de twee blokken hierboven, ben je kwijt waar je naar welke uitdaging je verwijst als je het hebt over de aard van de uitdaging.\\n\\nIn eerste zin toevoegen uitdaging - stikstof of grondwaterpeil- verschilt overigens per opgave.\",\"aangemaakt\":\"2026-06-16T09:33:55.035Z\",\"gewijzigd\":\"2026-06-16T09:36:15.110Z\"}",
+        "a-klem:2",
+        "{\"id\":\"fb719f40-0f6f-455c-bd69-06c4cda881c4\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"a-klem:2\",\"tekst\":\"eruit vallen klink wel negatief.\\ndie klem zitten en een oplossing zoeken.\",\"aangemaakt\":\"2026-06-16T09:14:19.472Z\",\"gewijzigd\":\"2026-06-16T09:14:41.985Z\"}",
+        "a-klem:9",
+        "{\"id\":\"89bf3354-10b5-404f-8094-7f89c1e3c85d\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"a-klem:9\",\"tekst\":\"kom je in aanmerking....categorie?\\nWanneer spreek je over veenweideboeren?\\nDat zijn boeren in gebieden....\",\"aangemaakt\":\"2026-06-16T09:23:06.033Z\",\"gewijzigd\":\"2026-06-16T09:23:05.930Z\"}",
+        "b-opgaves:5",
+        "{\"id\":\"90c0d27a-04e2-49b9-aeb4-62a08adb581c\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"b-opgaves:5\",\"tekst\":\"Ik zou als lezer wel iets meer willen weten over de learnings uit vorige beleidscycli.\",\"aangemaakt\":\"2026-06-16T09:43:31.226Z\",\"gewijzigd\":\"2026-06-16T09:44:14.499Z\"}",
+        "d-concept:10",
+        "{\"id\":\"06013749-5512-4b51-95cd-f04de8b4f76e\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"d-concept:10\",\"tekst\":\"Zou harde return toevoegen voor beiden zijn legitiem.\",\"aangemaakt\":\"2026-06-16T10:10:36.225Z\",\"gewijzigd\":\"2026-06-16T10:10:36.331Z\"}",
+        "a-klem:13",
+        "{\"id\":\"3a14fa44-2722-418b-92f5-fddd2531bbdc\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"a-klem:13\",\"tekst\":\"Vind de laatste zin wat lastig, wat wil je hier bereiken. Je zegt hier dat het driesporenbeleid niet klopt.\",\"aangemaakt\":\"2026-06-16T09:31:18.262Z\",\"gewijzigd\":\"2026-06-16T09:32:42.655Z\"}",
+        "b-opgaves:9",
+        "{\"id\":\"d03ee8e9-b044-4875-be9d-31c3f81f3dae\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"b-opgaves:9\",\"tekst\":\"Kun je hier nog koppeling leggen met de kaart die Eric heeft gemaakt van alle veenweidegebieden?\",\"aangemaakt\":\"2026-06-16T09:49:24.049Z\",\"gewijzigd\":\"2026-06-16T09:49:24.090Z\"}",
+        "c-omslag:0",
+        "{\"id\":\"0c5cc90f-fd6a-4354-91d1-18a2a6185a45\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"c-omslag:0\",\"tekst\":\"motor van? \\nhet vandaag als bedreiging ervaren, het?\\n\\nMaak dit concreter, waar duid je op.\",\"aangemaakt\":\"2026-06-16T09:51:47.820Z\",\"gewijzigd\":\"2026-06-16T09:51:47.860Z\"}",
+        "intro:2",
+        "{\"id\":\"65c7bb94-c6bb-4fc9-94d1-97f3ebaa90a5\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"intro:2\",\"tekst\":\"verwijzing naar bouwstenen is niet duidelijk\",\"aangemaakt\":\"2026-06-16T08:50:46.437Z\",\"gewijzigd\":\"2026-06-16T08:50:46.087Z\"}",
+        "b-opgaves:0",
+        "{\"id\":\"4a52ba77-1942-4a9d-a988-af2911dafd71\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"b-opgaves:0\",\"tekst\":\"wat bedoel je met dimensies\",\"aangemaakt\":\"2026-06-16T09:37:49.518Z\",\"gewijzigd\":\"2026-06-16T09:37:49.509Z\"}",
+        "d-concept:1",
+        "{\"id\":\"ee64789a-5720-4356-bc5a-4281341fafda\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"d-concept:1\",\"tekst\":\"Ik vind het vreemd dat je begint met twee zinnen over de veenweideboer en dan direct over stringsmechanismen en kaders begint. \\n\\nMeer typering van wat je bedoelt met veenweideboer en pas dan overstappen naar  het kader: wat betekent dat voor de overheid en wat voor de ondernemer.\\n\\nIk vind de uitleg in het kader sturingsprincipe niet duidelijk en normerend.\",\"aangemaakt\":\"2026-06-16T10:03:01.338Z\",\"gewijzigd\":\"2026-06-16T10:05:42.851Z\"}",
+        "c-omslag:3",
+        "{\"id\":\"2e639881-7ad9-405a-9c98-d78c563ad739\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"c-omslag:3\",\"tekst\":\"Ik vind dit kader verwarrend, ik heb akte III nog niet gelezen.\\n\\nWat bedoel je precies met claimantenrij.\",\"aangemaakt\":\"2026-06-16T09:54:26.113Z\",\"gewijzigd\":\"2026-06-16T09:55:40.903Z\"}",
+        "intro:0",
+        "{\"id\":\"26007808-68d7-4ed0-9a6a-302a3e2df930\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"intro:0\",\"tekst\":\"boeren: is wel afhankelijk van actie van overheid, dus niet alleen als u  het wilt.\\n\\nOverheid of overheden, consistent gebruik. \\n\\nje spreekt hier over het kader, maar dat wordt niet verder uitgelegd kader, waarvoor.\\nIk vind dit al wel inhoudelijk voor onder het kopje: voor wie is dit document.\",\"aangemaakt\":\"2026-06-16T08:39:18.640Z\",\"gewijzigd\":\"2026-06-16T08:44:22.114Z\"}",
+        "a-klem:11",
+        "{\"id\":\"267c9d7b-01a5-4765-80f2-aed757b4f59e\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"a-klem:11\",\"tekst\":\"Dat  maakt ... is voor mij meer onderdeel van oplossing dan analyse.Voegt het hier iets toe?\",\"aangemaakt\":\"2026-06-16T09:25:06.888Z\",\"gewijzigd\":\"2026-06-16T09:25:29.113Z\"}",
+        "keuze:s1:0",
+        "{\"id\":\"2ddd9d92-3004-43fa-8c0a-6a347901d77a\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"keuze\",\"anker\":\"keuze:s1:0\",\"tekst\":\"Voor mij voelt akte 3 niet als een analyse maar al als een oplossingsrichting.\\n\\nSyncen van kader met definities onder visie: \\nDe drie verhaallijnen van dit document: doorgaan op de huidige weg (I), ingrijpen zonder pijlers (II), ingrijpen mét pijlers (III). Romeinse cijfers, altijd.\",\"aangemaakt\":\"2026-06-16T08:37:03.297Z\",\"gewijzigd\":\"2026-06-16T09:10:32.286Z\"}",
+        "a-klem:5",
+        "{\"id\":\"1641cf88-e000-4678-93d7-86e9d7215067\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"a-klem:5\",\"tekst\":\"Beleidskader vind ik de laatste zin verwarrend, wat bedoel je hiermee?\\n\\nKetenstructuur: de nichemarken zijn er wel, maar zijn nog kleinschalig in omvang.\",\"aangemaakt\":\"2026-06-16T09:17:21.506Z\",\"gewijzigd\":\"2026-06-16T09:19:18.614Z\"}",
+        "a-klem:7",
+        "{\"id\":\"dc4a4a80-fa95-4fb1-b095-d0d94a9c32f0\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"a-klem:7\",\"tekst\":\"Ik zou deze alinea naar voren halen.\",\"aangemaakt\":\"2026-06-16T09:19:46.596Z\",\"gewijzigd\":\"2026-06-16T09:22:49.158Z\"}",
+        "b-opgaves:4",
+        "{\"id\":\"8ffbe1d3-9613-4646-b4ad-f14dbf03a7b5\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"b-opgaves:4\",\"tekst\":\"wat zijn de eerste kwetsbare jaren? Je spreekt hier over lange termijn.\\n\\nkan op lange termijn de boer eigenaar blijven van de grond of komen er andere spelers op de markt. Wat is verwachting van aantal stoppers vs doormodderaars.\",\"aangemaakt\":\"2026-06-16T09:40:39.609Z\",\"gewijzigd\":\"2026-06-16T09:44:45.984Z\"}",
+        "e-aktes:3",
+        "{\"id\":\"312edf2f-060b-4353-8ac3-6611f361e1ee\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"e-aktes:3\",\"tekst\":\"ik begrijp in driesporenbeleid niet wat je bedoelt met ondernemers het land uitduwen via opkoop.\\n\\nDe alinea over wat het voor de boer betekent, vind ik heel waardevol en mag ook al eerder in het document naar voren komen. Een transitie draait om mensen.\",\"aangemaakt\":\"2026-06-16T11:15:02.544Z\",\"gewijzigd\":\"2026-06-16T11:17:34.849Z\"}",
+        "intro:7",
+        "{\"id\":\"3fda4d35-5a61-4bd3-b42c-715641baaf5b\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"intro:7\",\"tekst\":\"Ik verwacht nu meer uitleg n.a.v.  de leeswijzer maar vind hier een oplossingsrichting. Qua structuur is dat verwarrend.\",\"aangemaakt\":\"2026-06-16T09:05:41.978Z\",\"gewijzigd\":\"2026-06-16T09:05:41.786Z\"}",
+        "b-opgaves:1",
+        "{\"id\":\"40f24616-24dd-4dde-9370-e215f6939f91\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"b-opgaves:1\",\"tekst\":\"je legt het probleem nu bij systeem, maar hoe zit het met ondernemerschap?\",\"aangemaakt\":\"2026-06-16T09:38:45.371Z\",\"gewijzigd\":\"2026-06-16T09:38:45.337Z\"}",
+        "c-omslag:9",
+        "{\"id\":\"09ba5b58-6578-48d9-a047-995d49751268\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"c-omslag:9\",\"tekst\":\"mis uitleg over de industrie in het stuk  hierboven. welke industrie bedoel je.\",\"aangemaakt\":\"2026-06-16T09:59:57.853Z\",\"gewijzigd\":\"2026-06-16T09:59:57.929Z\"}",
+        "e-aktes:0",
+        "{\"id\":\"78266be7-ad1c-4e11-911d-96ab5e101259\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"e-aktes:0\",\"tekst\":\"Je komt pas hier met de echte uitleg van de drie aktes, terwijl je in de stukken tekst hiervoor meerdere keren al verwezen hebt naar aktes of erop voorsorteert. Ik vind dat als neutrale lezer best ingewikkeld om de redenering en structuur te blijven herkennen.\",\"aangemaakt\":\"2026-06-16T10:12:51.153Z\",\"gewijzigd\":\"2026-06-16T10:12:51.241Z\"}",
+        "intro:1",
+        "{\"id\":\"58fde8e8-d198-43e6-bcf9-130e5b4d2231\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"intro:1\",\"tekst\":\"Nog een keer scherp neerzetten dat je het over de 20-30% hebt.\\n\\nIk mis hierin nog waarom deze boeren wel beloond zouden moeten worden en alle andere boeren in Nederland niet.\",\"aangemaakt\":\"2026-06-16T08:47:54.704Z\",\"gewijzigd\":\"2026-06-16T08:48:53.524Z\"}",
+        "intro:6",
+        "{\"id\":\"5a15c7d1-dcba-4c4e-b7ac-d237189ee122\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"intro:6\",\"tekst\":\"Ik vind het verwarrend dat stikstof hierbij komt, maar niet in de opsomming erboven staat. Kun je bij eerste bullit  van leeswijzer zeggen: driesporenbeleid en stikstofdossier\\n\\nJe verwijst naar Akte 2 maar daar ben je me kwijt.\",\"aangemaakt\":\"2026-06-16T09:00:12.500Z\",\"gewijzigd\":\"2026-06-16T09:04:32.077Z\"}",
+        "intro:8",
+        "{\"id\":\"26bcf0c7-16e6-4e2b-8e41-92bba64b05e0\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"intro:8\",\"tekst\":\"veenweideboer: vreemde definitie, het gaat hier over een persoon en zijn bedrijfsmodel: heb je het over 20-30%? Ik vind verwarrend dat hier ook een oplossing bij staat. \\n\\ndriesporenbeleid rijk ook toelichten.\\n\\nonduidelijk waar F2 en F1 naar toe verwijzen\\n\\nJump: je spreekt over bedrijfsconcepten, innovatief toevoegen, en daarna over bouwstenen. Is verwarrend.\",\"aangemaakt\":\"2026-06-16T09:06:19.550Z\",\"gewijzigd\":\"2026-06-16T09:12:55.252Z\"}",
+        "e-aktes:2",
+        "{\"id\":\"c2473092-971f-4ff9-8989-b531cbce5292\",\"bezoekerId\":\"968bbb48-74ad-49c1-96c1-0a5f1e041ff0\",\"naam\":\"Lian\",\"pagina\":\"visie\",\"anker\":\"e-aktes:2\",\"tekst\":\"Kun je toelichten wat je met de tweede zin bedoeld. Welke oplossing en hoe nodig?\\n\\nHelemaal aan eind: vind de tekst over boeren met juristen wat opruiend, nodig?\",\"aangemaakt\":\"2026-06-16T10:14:46.153Z\",\"gewijzigd\":\"2026-06-16T10:21:53.347Z\"}"
+      ]
+    },
+    "vwb:nt:aa37d7b7-f4f8-470c-862f-8e1728b811bc": {
+      "type": "hash",
+      "value": [
+        "keuze:s1:0",
+        "{\"id\":\"622591b2-5694-4f59-9e8e-3284630176b4\",\"bezoekerId\":\"aa37d7b7-f4f8-470c-862f-8e1728b811bc\",\"naam\":\"Tim\",\"pagina\":\"keuze\",\"anker\":\"keuze:s1:0\",\"tekst\":\"daasd. fsdfsdf saf sf sfs\",\"aangemaakt\":\"2026-06-12T13:52:42.252Z\",\"gewijzigd\":\"2026-06-12T13:52:42.425Z\"}"
+      ]
+    },
+    "vwb:nt:bezoekers": {
+      "type": "set",
+      "value": [
+        "968bbb48-74ad-49c1-96c1-0a5f1e041ff0",
+        "aa37d7b7-f4f8-470c-862f-8e1728b811bc",
+        "dde0932e-8d04-42d1-8bd0-1e888ddb7238"
+      ]
+    },
+    "vwb:nt:dde0932e-8d04-42d1-8bd0-1e888ddb7238": {
+      "type": "hash",
+      "value": [
+        "a-klem:5",
+        "{\"id\":\"e51cb84d-172f-42f8-92cd-e96dc54e8408\",\"bezoekerId\":\"dde0932e-8d04-42d1-8bd0-1e888ddb7238\",\"naam\":\"Costas Papaikonomou\",\"pagina\":\"visie\",\"anker\":\"a-klem:5\",\"tekst\":\"Zou je kunnen stellen dat historisch is gestuurd op schaal, wat geleid heeft tot vervuiling (m.n. stikstof, mest) waarmee nu op krimp gestuurd wordt. Dus het gaspedaal IS de rem geworden, wat de gevergde omslag zo ingrijpend maakt.\",\"aangemaakt\":\"2026-06-15T13:52:28.289Z\",\"gewijzigd\":\"2026-06-15T13:52:29.436Z\"}",
+        "f-overheid:6",
+        "{\"id\":\"2abd3d63-c6aa-4d8f-a68b-6574e5736119\",\"bezoekerId\":\"dde0932e-8d04-42d1-8bd0-1e888ddb7238\",\"naam\":\"Costas Papaikonomou\",\"pagina\":\"visie\",\"anker\":\"f-overheid:6\",\"tekst\":\"Hier zit een tweede (voor de boer) noemenswaardig voordeel in. Bij een contract van meer dan een paar jaar, en zeker bij 10-20 jaar, kan een boer zijn aanpak optimaliseren. De geleverde dienst wordt na verloop van tijd béter en met meer marge geleverd. Nog een Win-Win.\",\"aangemaakt\":\"2026-06-15T14:09:39.427Z\",\"gewijzigd\":\"2026-06-15T14:09:40.509Z\"}",
+        "g-perspectief:3",
+        "{\"id\":\"a92cd73d-1a96-4b1e-b3aa-278f2f1b1fc8\",\"bezoekerId\":\"dde0932e-8d04-42d1-8bd0-1e888ddb7238\",\"naam\":\"Costas Papaikonomou\",\"pagina\":\"visie\",\"anker\":\"g-perspectief:3\",\"tekst\":\"Kunnen we hier aanstippen dat de transitie naar veenweideboer ook kan gebeuren in kader van toekomstbestendig maken voor de volgende generatie? Een reëel alternatief beiden ipv 'stoppen'\",\"aangemaakt\":\"2026-06-15T14:15:06.230Z\",\"gewijzigd\":\"2026-06-15T14:15:07.287Z\"}",
+        "h-risicos:1",
+        "{\"id\":\"aec2e929-e57f-408b-9987-cd35a0763378\",\"bezoekerId\":\"dde0932e-8d04-42d1-8bd0-1e888ddb7238\",\"naam\":\"Costas Papaikonomou\",\"pagina\":\"visie\",\"anker\":\"h-risicos:1\",\"tekst\":\"Wellicht bij punt (8) en 't omgekeerde van versnippering: sturen op gemiddelden. De fameuze 'tabel' van de slappe bodem mafia. \\nDe concepten in combinatie met de veengrond contexten geven een mooie spectrum aan oplossingen ongeacht veentype & omgeving.\",\"aangemaakt\":\"2026-06-15T14:17:44.879Z\",\"gewijzigd\":\"2026-06-15T14:17:46.070Z\"}"
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+/* ============================================================
+   VIC kleuren — bron: "VIC huisstijl 2024.pdf" (Logo handboek)
+   ============================================================ */
+:root {
+  /* --- Basiskleuren --- */
+  --vic-green: #3ea635;        /* VIC groen — primair */
+  --vic-blue: #1d3176;         /* VIC donkerblauw — primair */
+  --vic-red: #cd1719;          /* VIC rood — accent (de punt op de i); spaarzaam */
+
+  /* --- Steunkleuren --- */
+  --vic-green-mid: #81bb63;    /* middengroen */
+  --vic-green-soft: #d9e7ce;   /* zachtgroen */
+  --vic-green-pale: #e8f2e5;   /* lichtste groen — vlakken/tinten */
+  --vic-brown: #75280e;        /* roodbruin — spaarzaam */
+
+  /* --- Neutralen --- */
+  --vic-white: #ffffff;
+  --vic-black: #1d1d1b;        /* platte tekst zwart */
+  --vic-grey: #6b7280;         /* alleen voor metadata/captions */
+  --vic-border: #e2e8de;       /* subtiele lijnen */
+
+  /* --- Semantische aliassen --- */
+  --text-body: var(--vic-black);          /* platte tekst: zwart óf donkerblauw */
+  --text-body-blue: var(--vic-blue);
+  --text-heading: var(--vic-green);       /* titels: groen of blauw */
+  --text-heading-alt: var(--vic-blue);
+  --text-inverse: var(--vic-white);       /* op donkerblauw of donkere foto */
+  --text-muted: var(--vic-grey);
+
+  --surface-page: var(--vic-white);
+  --surface-tint: var(--vic-green-pale);  /* lichte sectie-achtergrond */
+  --surface-tint-strong: var(--vic-green-soft);
+  --surface-dark: var(--vic-blue);        /* donkere vlakken; logo in wit */
+  --surface-card: var(--vic-white);
+
+  --accent: var(--vic-red);
+  --link: var(--vic-green);
+  --link-hover: #338a2c;                  /* groen, iets donkerder */
+  --button-primary: var(--vic-green);
+  --button-primary-hover: #338a2c;
+  --button-secondary: var(--vic-blue);
+  --button-secondary-hover: #16265c;
+
+  --focus-ring: 0 0 0 3px rgba(62, 166, 53, 0.35);
+}

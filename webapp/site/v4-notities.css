@@ -1,0 +1,117 @@
+/* Notitielaag — markers, popover, widget, paneel, admin (demo) */
+
+.nt-laag { position: absolute; top: 0; left: 0; width: 0; height: 0; }
+
+.nt-knop {
+  position: absolute; z-index: 60;
+  width: 26px; height: 26px; border-radius: 50%;
+  border: 1.5px solid var(--vic-border, #dfe6dc);
+  background: #fff; color: var(--vic-green, #3ea635);
+  font-size: 15px; line-height: 1; font-weight: 700;
+  cursor: pointer; padding: 0;
+  /* altijd een heel lichte hint zichtbaar, vol bij hover */
+  opacity: 0.28;
+  transition: opacity 120ms ease-out, transform 120ms ease-out;
+  box-shadow: 0 2px 6px rgba(0,0,0,.08);
+}
+.nt-knop.nt-zicht, .nt-knop:hover, .nt-knop:focus-visible { opacity: 1; }
+.nt-knop:hover { transform: scale(1.12); }
+.nt-knop.nt-heeft {
+  opacity: 1;
+  background: #f4c542; border-color: #d9a92a; color: #5c4a08;
+  font-size: 13px;
+}
+
+.nt-popover {
+  position: fixed; z-index: 220; width: 360px;
+  background: #fff; border: 1px solid var(--vic-border, #dfe6dc);
+  border-radius: 12px; box-shadow: 0 16px 44px rgba(0,0,0,.18);
+  padding: 16px 18px; display: flex; flex-direction: column; gap: 10px;
+  font-family: var(--font-sans, sans-serif);
+}
+.nt-pop-kop { font-weight: 700; font-size: 14px; color: var(--vic-blue, #1d3176); }
+.nt-pop-waar { font-weight: 400; color: #6b6f6a; font-size: 12.5px; }
+.nt-popover input, .nt-popover textarea {
+  font-family: inherit; font-size: 14px; color: inherit;
+  border: 1px solid var(--vic-border, #dfe6dc); border-radius: 8px;
+  padding: 8px 10px; resize: vertical;
+}
+.nt-popover input:focus, .nt-popover textarea:focus { outline: 2px solid var(--vic-green, #3ea635); outline-offset: -1px; }
+.nt-popover .nt-fout { border-color: var(--vic-red, #cd1719); outline: 2px solid var(--vic-red, #cd1719); outline-offset: -1px; }
+.nt-pop-rij { display: flex; gap: 8px; }
+.nt-pop-rij button {
+  font-family: inherit; font-size: 13px; font-weight: 700;
+  border-radius: 8px; padding: 7px 14px; cursor: pointer;
+  border: 1.5px solid transparent;
+}
+.nt-bewaar { background: var(--vic-green, #3ea635); color: #fff; }
+.nt-bewaar:hover { background: var(--vic-green-hover, #36932e); }
+.nt-wis { background: #fff; border-color: var(--vic-border, #dfe6dc) !important; color: var(--vic-red, #cd1719); }
+.nt-sluit { background: #fff; border-color: var(--vic-border, #dfe6dc) !important; color: #6b6f6a; margin-left: auto; }
+.nt-privacy { margin: 0; font-size: 11.5px; color: #8a8e89; line-height: 1.5; }
+
+.nt-widget {
+  position: fixed; right: 22px; bottom: 22px; z-index: 200;
+  font-family: var(--font-sans, sans-serif); font-size: 13.5px; font-weight: 700;
+  background: var(--vic-blue, #1d3176); color: #fff;
+  border: none; border-radius: 999px; padding: 11px 18px; cursor: pointer;
+  box-shadow: 0 6px 18px rgba(29,49,118,.3);
+}
+.nt-widget:hover { background: #16275f; }
+
+.nt-paneel {
+  position: fixed; right: 22px; bottom: 72px; z-index: 210;
+  width: 380px; max-height: 60vh; overflow: auto;
+  background: #fff; border: 1px solid var(--vic-border, #dfe6dc);
+  border-radius: 14px; box-shadow: 0 16px 44px rgba(0,0,0,.18);
+  padding: 18px 20px; display: flex; flex-direction: column; gap: 12px;
+  font-family: var(--font-sans, sans-serif);
+}
+.nt-paneel-kop { font-weight: 700; font-size: 15px; color: var(--vic-blue, #1d3176); }
+.nt-paneel-body { display: flex; flex-direction: column; gap: 12px; }
+.nt-item { border-top: 1px solid var(--vic-border, #dfe6dc); padding-top: 10px; }
+.nt-item-kop { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--vic-green, #3ea635); margin-bottom: 4px; }
+.nt-item p { margin: 0; font-size: 13.5px; line-height: 1.55; }
+.nt-leeg { margin: 0; font-size: 13px; color: #6b6f6a; line-height: 1.55; }
+.nt-paneel-voet { display: flex; gap: 8px; }
+.nt-paneel-voet button {
+  font-family: inherit; font-size: 12.5px; font-weight: 700;
+  border: 1.5px solid var(--vic-border, #dfe6dc); background: #fff;
+  border-radius: 8px; padding: 7px 12px; cursor: pointer; color: var(--vic-blue, #1d3176);
+}
+.nt-paneel-voet button:hover { border-color: var(--vic-blue, #1d3176); }
+.nt-adm { margin-left: auto; color: #6b6f6a !important; }
+
+.nt-admin-scrim {
+  position: fixed; inset: 0; z-index: 300;
+  background: rgba(20, 30, 15, .45);
+  display: flex; align-items: center; justify-content: center; padding: 32px;
+}
+.nt-admin {
+  width: 720px; max-width: 100%; max-height: 80vh; overflow: auto;
+  background: #fff; border-radius: 16px; padding: 26px 30px;
+  display: flex; flex-direction: column; gap: 14px;
+  font-family: var(--font-sans, sans-serif);
+}
+.nt-admin-login { width: 420px; gap: 12px; }
+.nt-admin-wachtwoord {
+  font-family: inherit; font-size: 14px;
+  border: 1px solid var(--vic-border, #dfe6dc); border-radius: 8px; padding: 9px 11px;
+}
+.nt-admin-wachtwoord:focus { outline: 2px solid var(--vic-green, #3ea635); outline-offset: -1px; }
+.nt-admin-wachtwoord.nt-fout { border-color: var(--vic-red, #cd1719); outline: 2px solid var(--vic-red, #cd1719); outline-offset: -1px; }
+
+.nt-admin-groep { border-top: 1px solid var(--vic-border, #dfe6dc); padding-top: 12px; }
+.nt-admin-rij { margin: 8px 0 0; }
+.nt-wie { font-size: 12px; font-weight: 700; color: var(--vic-blue, #1d3176); }
+.nt-admin-rij p { margin: 2px 0 0; font-size: 13.5px; line-height: 1.55; }
+.nt-admin-sluit {
+  align-self: flex-end;
+  font-family: inherit; font-size: 13px; font-weight: 700;
+  border: 1.5px solid var(--vic-border, #dfe6dc); background: #fff;
+  border-radius: 8px; padding: 7px 16px; cursor: pointer; color: #6b6f6a;
+}
+
+@media print {
+  .nt-knop, .nt-widget, .nt-paneel, .nt-popover, .nt-admin-scrim { display: none !important; }
+}

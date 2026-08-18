@@ -152,13 +152,9 @@ Op een klein deel, ongeveer 10.000 hectare, is helemaal geen vee meer mogelijk. 
 
 Zes aannames dragen dit verhaal, en bij elk ervan staat een deel vast en een deel niet. Ze staan hier bij elkaar, vooraan, zodat de rest van het document zijn beweringen kan neerzetten zonder er bij elke zin een voorbehoud bij te maken. Zo'n voorbehoud per zin maakt een stuk namelijk onleesbaar, en het verbergt welke onzekerheden echt tellen: als alles onder voorbehoud staat, staat niets dat. De zes hieronder zijn dan ook even stellig geformuleerd als de rest van het document. Het verschil is dat hier staat wat eronder ligt.
 
-### 2.1 Feit, standpunt en aanname
-
 Een feit, een standpunt en een aanname zijn in dit document op drie manieren kenbaar. Bij een **feit** staat de bron in een fiche, en bij elk getal staat de bron of het label erbij; waar wij zelf gerekend hebben, heet dat eigen analyse. Een **standpunt** is als standpunt te herkennen, aan formuleringen als "onze analyse" en "wij vinden". Een **aanname** staat in dit hoofdstuk.
 
-De meeste aannames in een stuk als dit zijn onschuldig. Dat grond in het westen van Nederland duur is, betwist niemand. Hieronder staan de zes aannames waarop het verhaal rust en waarover een deskundige lezer valt. Bij elk van de zes staat een deel vast en een deel niet, en dat is precies waarom de twee programma's aan het eind van dit hoofdstuk bestaan.
-
-### 2.2 De zes aannames
+### 2.1 De zes aannames
 
 **Aanname 1. Maatschappelijke diensten kunnen een verdienmodel dragen.** Hierop staat de rest: dat een bedrijf een substantieel en langjarig deel van zijn inkomen kan halen uit wat het aan de samenleving levert, naast voedsel. Wat al vaststaat, is dat betaling voor een geleverde dienst bestaat. Voor weidevogelbeheer wordt vandaag al betaald, via het Agrarisch Natuur- en Landschapsbeheer. [[BRON: dat voor weidevogelbeheer al betaald wordt via het Agrarisch Natuur- en Landschapsbeheer]] Wat niet vaststaat, is de prijs en de looptijd: of de vergoeding groot genoeg is om weggevallen melkomzet te vervangen, of een opdrachtgever langjarig wil vastleggen wat een ondernemer langjarig moet investeren, en of het meten en beoordelen van een dienst niet zoveel kost dat er van de dienst weinig overblijft. Aan een contract met een prijs, een looptijd en een afrekenbare prestatie op een echt bedrijf is te zien of deze aanname klopt.
 
@@ -172,7 +168,7 @@ De meeste aannames in een stuk als dit zijn onschuldig. Dat grond in het westen 
 
 **Aanname 6. Een zakelijk dienstverleningscontract is binnen de Europese kaders in te richten.** Dit is de enige aanname waarbij dit document positie kiest tegen een advies in, en daarom hoort zij hier en niet in een voetnoot achterin. De juridische toets bij deze visie wijst erop dat een echt dienstverleningscontract tussen overheid en ondernemer onder de Europese aanbestedingsverplichtingen valt, en dat een directe betaling daarbuiten het risico loopt als staatssteun te worden aangemerkt. De praktische route binnen de bestaande kaders is dan een slim ingerichte subsidieregeling, met een lange looptijd en afrekenbare prestatievoorwaarden. Juristen wijzen daar terecht op. Dit document kiest toch voor het contract, omdat de subsidieroute de definitie in stand houdt die hier ter discussie staat: de ondernemer die landbouwt en daarnaast incidenteel iets voor de samenleving doet. De uitwerking van die keuze, en het alternatief ernaast, staan in hoofdstuk 12.
 
-### 2.3 Waar dit getoetst wordt
+### 2.2 Waar dit getoetst wordt
 
 Zes aannames zijn zes onderzoeksvragen, en zij verklaren waarom het VIC met programma's werkt en niet met een pleidooi. In JUMP worden nu de vergaande bedrijfsconcepten ontwikkeld voor de gebieden waar de druk het hoogst is. Deze aanpak levert de bewijslast daaronder: wat een dienst kost, wat zij opbrengt en wat een ondernemer eraan overhoudt. BASE moet aantonen dat er voor die diensten ook betaald wordt, door de overheid en door de markt. Dat is de reden dat dit werk jaren duurt, en de reden dat het nu doorloopt in plaats van later begint.
 

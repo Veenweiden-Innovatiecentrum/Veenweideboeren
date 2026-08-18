@@ -346,6 +346,8 @@ De meeste aannames in het document zijn onschuldig — niemand betwist dat grond
 
 Dat is eerlijker dan verspreide voorbehouden en sterker, want het laat zien dat we weten waar we staan. En het verklaart in één keer waarom JUMP en BASE nodig zijn: dit is precies wat daar getoetst wordt.
 
+> **Vervallen voor hoofdstuk 2, 18-8 (Tim).** Het hoofdstuk had hiervoor een slotsectie ("wat wij doen om dit te bewijzen") en die is geschrapt: de sectie legde niet uit wat zij deed. Hoofdstuk 2 is nu alleen 2.1 het onderscheid feit-standpunt-aanname en 2.2 de vier aannames. **De verbinding met de programma's landt in het slot, hoofdstuk 16, ronde 4** — zie `correctielijst.md`. JUMP blijft genoemd in het VIC-kader van hoofdstuk 1; BASE komt in de visie nu niet meer voor.
+
 Buiten die sectie mag de tekst stellig zijn.
 
 

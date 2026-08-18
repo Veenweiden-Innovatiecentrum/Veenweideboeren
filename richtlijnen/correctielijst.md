@@ -106,6 +106,10 @@
 
 - [ ] Regel ~36: "verborgen waarden die deze ondernemers **gratis** leverden" → **onbeprijsd**. Redactiebrief §3 maakt dat onderscheid uitdrukkelijk: "die prestaties zijn niet gratis maar onbeprijsd". Gratis suggereert zonder waarde, onbeprijsd betekent met waarde en zonder prijs. Besluit van 18-8 bij hoofdstuk 1
 
+## slot.md
+
+- [ ] **De verbinding tussen de aannames en de programma's landt hier** (ronde 4). Redactiebrief §12 legde die bij het aannamehoofdstuk: "het verklaart in één keer waarom JUMP en BASE nodig zijn". Hoofdstuk 2 heeft op Tims verzoek geen slotsectie meer, dus die verbinding staat nu nergens: JUMP ontwikkelt de vergaande bedrijfsconcepten, deze aanpak levert de bewijslast eronder, BASE moet aantonen dat er voor de diensten betaald wordt. Let op: **JUMP zelf blijft wel genoemd** in het VIC-kader van hoofdstuk 1, dus bestuurspunt 2 van 17 juni is nog gedekt; **BASE komt in de hele visie niet meer voor**
+
 ## samenvatting.md
 
 - [ ] Wordt laag 1, als laatste gemaakt. Datum "April 2026" vervalt dan vanzelf

@@ -186,10 +186,6 @@ Een feit, een standpunt en een aanname zijn in dit document op drie manieren ken
     <strong>Wat er moet gebeuren om dit te laten werken.</strong> De wet en de kaders moeten worden aangepast, zodat een overheid een maatschappelijke dienst als opdracht kan inkopen. Zolang dat niet zo is, blijft de subsidieroute de tweede weg; beide staan in hoofdstuk 12.
   </p>
 
-### 2.3 Wat wij doen om dit te bewijzen
-
-Aan alle vier werkt het VIC zelf, met programma's in plaats van met een pleidooi. In JUMP worden nu de vergaande bedrijfsconcepten ontwikkeld voor de gebieden waar de druk het hoogst is. Deze aanpak levert de bewijslast daaronder: wat een dienst kost, wat zij opbrengt en wat een ondernemer eraan overhoudt. BASE moet aantonen dat er voor die diensten ook betaald wordt, door de overheid en door de markt. Dat is de reden dat dit werk jaren duurt, en de reden dat het nu doorloopt in plaats van later begint.
-
 ---
 
 <!-- ======== bestand: content/intro.md ======== -->

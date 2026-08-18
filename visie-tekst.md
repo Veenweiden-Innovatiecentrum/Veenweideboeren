@@ -154,8 +154,6 @@ Op een klein deel, ongeveer 10.000 hectare, is helemaal geen vee meer mogelijk. 
 
 Vier aannames dragen dit verhaal. Wij denken dat ze kloppen, en hieronder staat per aanname wat wij zien en wat er moet gebeuren om het waar te maken. Ze staan bij elkaar en vooraan, zodat de rest van het document zijn beweringen kan neerzetten zonder er bij elke zin een voorbehoud bij te maken. Zo'n voorbehoud per zin maakt een stuk namelijk onleesbaar, en het verbergt welke onzekerheden echt tellen: als alles onder voorbehoud staat, staat niets dat. Blijkt een van deze vier niet te kloppen, dan moet dit verhaal op dat punt om.
 
-In 2.3 staan twee dingen die erop lijken en het niet zijn: een schatting en een wetmatigheid. Wie die voor aanname houdt, maakt dit verhaal onzekerder dan het is.
-
 Een feit, een standpunt en een aanname zijn in dit document op drie manieren kenbaar. Bij een **feit** staat de bron in een fiche, en bij elk getal staat de bron of het label erbij; waar wij zelf gerekend hebben, heet dat eigen analyse. Een **standpunt** is als standpunt te herkennen, aan formuleringen als "onze analyse" en "wij vinden". Een **aanname** staat in dit hoofdstuk.
 
 ### 2.2 De vier aannames
@@ -188,23 +186,7 @@ Een feit, een standpunt en een aanname zijn in dit document op drie manieren ken
     <strong>Wat er moet gebeuren om dit te laten werken.</strong> De wet en de kaders moeten worden aangepast, zodat een overheid een maatschappelijke dienst als opdracht kan inkopen. Zolang dat niet zo is, blijft de subsidieroute de tweede weg; beide staan in hoofdstuk 12.
   </p>
 
-### 2.3 Wat geen aanname is
-
-<p style="margin:0 0 1.4rem">
-    <strong>Een schatting · op 20 tot 30% van het gebied is reguliere melkveehouderij op termijn niet houdbaar</strong><br>
-    Dit is geen aanname maar een schatting, en wij geven hem bewust als orde van grootte.<br>
-    <strong>Wat wij zien.</strong> Eigen analyse VIC/JUMP op de vier vormen van fysieke druk, en vooral op hun stapeling. Preciezer kan niet, en dat ligt niet aan ons: de grens loopt door bedrijven heen, en het Rijk stelt zelf vast dat landbouwinformatie per grondsoort niet voorhanden is. Een schijnbaar exact getal zou hier zwakker staan, want dat is met één tegenvraag onderuit te halen.<br>
-    <strong>Wat er moet gebeuren.</strong> Er moeten criteria op bedrijfsniveau komen waaraan een ondernemer kan zien of hij of zij hierbij hoort. Daaraan werkt JUMP, en de typologie staat in hoofdstuk 10. Valt het aandeel lager uit, dan is de opgave kleiner; valt het hoger uit, dan is zij urgenter. De redenering verandert niet, en dat is precies waarom dit geen aanname is.
-  </p>
-
-<p style="margin:0 0 1.4rem">
-    <strong>Een wetmatigheid · een lagere veedichtheid leidt zonder betaalde prestatie ernaast tot een lager inkomen</strong><br>
-    Minder koeien per hectare betekent minder melk per hectare, terwijl grond, gebouwen en financiering hetzelfde blijven kosten. Dat is rekenkunde en geen aanname. Wij zetten het er wel bij, want het is de reden dat dit document over geld gaat en niet over goede wil.<br>
-    <strong>Wat wij zien.</strong> Het volume-effect is niet in geschil. Dat het gat te groot is om binnen het bestaande bedrijfsmodel te dichten met lagere voer- en kunstmestkosten en een hogere prijs per liter, leiden wij af uit de kostenstructuur van hoofdstuk 4: dure grond en een hoge financieringslast maken de marge per hectare beslissend.<br>
-    <strong>Wat er moet gebeuren.</strong> Het gat moet worden doorgerekend, per bedrijf en over de jaren van de omschakeling. [[CIJFER: het inkomensgat per bedrijf bij een lagere veedichtheid zonder aanvullende inkomsten, over de jaren van de omschakeling]] Dat is geen detail: is het kleiner dan gedacht, dan is er minder nodig; is het groter, dan verandert het tempo.
-  </p>
-
-### 2.4 Waar dit getoetst wordt
+### 2.3 Waar dit getoetst wordt
 
 Deze vier aannames zijn werkhypothesen met een programmalijn erachter. Zij verklaren waarom het VIC met programma's werkt en niet met een pleidooi. In JUMP worden nu de vergaande bedrijfsconcepten ontwikkeld voor de gebieden waar de druk het hoogst is. Deze aanpak levert de bewijslast daaronder: wat een dienst kost, wat zij opbrengt en wat een ondernemer eraan overhoudt. BASE moet aantonen dat er voor die diensten ook betaald wordt, door de overheid en door de markt. Dat is de reden dat dit werk jaren duurt, en de reden dat het nu doorloopt in plaats van later begint.
 

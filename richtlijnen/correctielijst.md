@@ -31,9 +31,9 @@
 
 *Toegevoegd 18-8 bij het schrijven van hoofdstuk 2. Punten uit **cluster 8** en **cluster 5** die aan de aannames hangen en die nergens anders een afvinklijst hebben.*
 
-- [x] Lian (cluster 8): "weinig bronnen; onduidelijk wat feit, aanname of mening is" → sectie 2.1 zegt expliciet hoe het document die drie kenbaar maakt, en 2.2 zet de vier dragende aannames bij elkaar, met in 2.3 de schatting en de wetmatigheid die geen aanname zijn
+- [x] Lian (cluster 8): "weinig bronnen; onduidelijk wat feit, aanname of mening is" → sectie 2.1 zegt expliciet hoe het document die drie kenbaar maakt, en 2.2 zet de vier dragende aannames bij elkaar
 - [ ] **Aanname 3** (was 5 in de brief): het aandeel van de middengroep. `[[CIJFER]]` en `[[KEUZE]]` staan in de tekst; zie de regel bij `scope.md` hierboven
-- [ ] **De wetmatigheid in 2.3** (was aanname 4 in de brief): het inkomensgat is nooit doorgerekend. `[[CIJFER]]` in de tekst; de doorrekening moet uit JUMP komen
+- [ ] **Verhuisd naar `a-klem.md` (hoofdstuk 4), ronde 2:** de wetmatigheid dat een lagere veedichtheid zonder betaalde prestatie ernaast tot een lager inkomen leidt, plus het ontbrekende cijfer voor de omvang van dat gat. Stond 18-8 kort in hoofdstuk 2 en is daar op Tims verzoek weggehaald, want het is geen aanname
 - [x] **Aanname 1**: de bewering dat er via het ANLb al voor een geleverde dienst wordt betaald, is 18-8 **onjuist bevonden en rechtgezet**, met bron in een fiche. De regeling vergoedt kosten, gederfde inkomsten en transactiekosten. Redactiebrief §6 heeft een correctieblok gekregen
 - [ ] **Volgt hieruit, voor §6 en de aktes:** blijven weidevogels het sterkste bewijsvoorbeeld van de omkering, of gaat die rol naar water? Besluit voor Tim, raakt `b-opgaves` (ronde 2) en akte III (ronde 1)
 - [ ] **Aanname 2**: dat de vraag bij de drinkwaterbedrijven concreet is, staat er zonder bron. `[[BRON]]` in de tekst. Dunea en Oasen zijn de partijen; zie ook de open regel bij `f-overheid.md`
@@ -54,6 +54,7 @@
 
 ## a-klem.md
 
+- [ ] **De wetmatigheid hoort hier**, niet in het aannamehoofdstuk: een lagere veedichtheid leidt zonder betaalde prestatie ernaast tot een lager inkomen, want minder koeien per hectare geeft minder melk per hectare terwijl grond, gebouwen en financiering hetzelfde blijven kosten. Dit is de reden dat de visie over geld gaat en niet over goede wil, en het sluit aan op de kostenstructuur die dit hoofdstuk al beschrijft. Erbij: `[[CIJFER: het inkomensgat per bedrijf bij een lagere veedichtheid zonder aanvullende inkomsten, over de jaren van de omschakeling]]`, doorrekening uit JUMP
 - [ ] **Nummer dit hoofdstuk 4.** 1.1 verwijst naar "de analyse van hoofdstuk 4", en zolang de kop "A —" heet, klopt die verwijzing voor de lezer niet
 - [ ] Regel ~39: "slootpeil" → **slootwaterpeil**, en regel ~60: "Grondwaterpeil" → **grondwaterstand** (`terminologie.md`, 18-8). Dit zijn de laatste twee foute vindplaatsen in de hele tekst
 - [ ] Regel ~34: "waterstanden overal naar -40 cm" → "-20 tot -40 cm" *(Simon)*

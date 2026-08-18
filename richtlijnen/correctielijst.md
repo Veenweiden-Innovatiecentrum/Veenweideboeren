@@ -14,7 +14,7 @@
 - [x] Niel punt 1: derde gebiedstype (geen koeien meer mogelijk) → eigen regel in de tabel, zonder percentage
 - [x] Niel: veenweide ligt soms **binnen** N2000 (Laag-Holland) → "ligging in of tegen Natura 2000", 2×
 - [x] Henk (hoofdpunt): op hoeveel **boeren** is dit toepasbaar → circa 2.300 melkveebedrijven, met bronfiche, plus de zin dat het aandeel binnen de 20-30% niet te tellen is. Onderzoek en de vier onbruikbare getallen staan in `scope-getallen-bedrijven.md`
-- [ ] **Aanname 5 uit §12** (de middengroep beslaat 70 tot 80% van de bedrijven) is niet bevestigd en niet weerlegd. Zie `scope-getallen-bedrijven.md`. **Stand 18-8:** staat nu als `[[CIJFER]]` in hoofdstuk 2, met daarnaast een `[[KEUZE]]` omdat het getal in twee betekenissen wordt gebruikt (bedrijven of areaal). Blijft open tot het getal er is of het besluit valt
+- [ ] **Aanname 5 uit §12** (in hoofdstuk 2 aanname 3: de middengroep beslaat 70 tot 80%) is niet bevestigd en niet weerlegd. Zie `scope-getallen-bedrijven.md`. **Stand 18-8:** staat nu als `[[CIJFER]]` in hoofdstuk 2, met daarnaast een `[[KEUZE]]` omdat het getal in twee betekenissen wordt gebruikt (bedrijven of areaal). Blijft open tot het getal er is of het besluit valt
 - [x] **De 10.000 ha "geen vee meer mogelijk"**: opgelost 18-8 door Tim. De Klimaatakkoord-verwijzing is vervallen; het getal draagt nu het label eigen analyse VIC/JUMP, dezelfde bron als de 20-30%. Achtergrond: het getal stond alleen in redactiebrief §5, niet in de bestuursversie, niet in Niels commentaar en niet in de aangekondigde veenweide-aanpak, en of het Klimaatakkoord die 10.000 ha ook zo definieert was van hier niet na te gaan
 - [ ] Henk (hoofdpunt): welk deel van de **stikstofopgave**, en de impact voor NL. Mag geen percentage worden (§5, toetsregel 20); kwalitatief formuleren hoort bij de stikstofpassage en wacht op de `[[KEUZE]]` in hoofdstuk 1
 - [ ] Niel: **"reguliere melkveehouderij" is verwarrend** — klinkt alsof daar niets verandert. In 1.3 staat nu wél "mits aan generieke milieu-, stikstof- en waterkwaliteitseisen wordt voldaan", maar de term zelf is niet vervangen. Een andere term raakt alle hoofdstukken én aanname 3 in de redactiebrief, dus dit is een besluit voor `terminologie.md`, geen losse correctie
@@ -31,14 +31,14 @@
 
 *Toegevoegd 18-8 bij het schrijven van hoofdstuk 2. Punten uit **cluster 8** en **cluster 5** die aan de aannames hangen en die nergens anders een afvinklijst hebben.*
 
-- [x] Lian (cluster 8): "weinig bronnen; onduidelijk wat feit, aanname of mening is" → sectie 2.1 zegt expliciet hoe het document die drie kenbaar maakt, en 2.2 zet de zes dragende aannames bij elkaar
-- [ ] **Aanname 5**: het aandeel van de middengroep. `[[CIJFER]]` en `[[KEUZE]]` staan in de tekst; zie de regel bij `scope.md` hierboven
-- [ ] **Aanname 4**: het inkomensgat is nooit doorgerekend. `[[CIJFER]]` in de tekst; de doorrekening moet uit JUMP komen
+- [x] Lian (cluster 8): "weinig bronnen; onduidelijk wat feit, aanname of mening is" → sectie 2.1 zegt expliciet hoe het document die drie kenbaar maakt, en 2.2 zet de vier dragende aannames bij elkaar, met in 2.3 de schatting en de wetmatigheid die geen aanname zijn
+- [ ] **Aanname 3** (was 5 in de brief): het aandeel van de middengroep. `[[CIJFER]]` en `[[KEUZE]]` staan in de tekst; zie de regel bij `scope.md` hierboven
+- [ ] **De wetmatigheid in 2.3** (was aanname 4 in de brief): het inkomensgat is nooit doorgerekend. `[[CIJFER]]` in de tekst; de doorrekening moet uit JUMP komen
 - [x] **Aanname 1**: de bewering dat er via het ANLb al voor een geleverde dienst wordt betaald, is 18-8 **onjuist bevonden en rechtgezet**, met bron in een fiche. De regeling vergoedt kosten, gederfde inkomsten en transactiekosten. Redactiebrief §6 heeft een correctieblok gekregen
 - [ ] **Volgt hieruit, voor §6 en de aktes:** blijven weidevogels het sterkste bewijsvoorbeeld van de omkering, of gaat die rol naar water? Besluit voor Tim, raakt `b-opgaves` (ronde 2) en akte III (ronde 1)
 - [ ] **Aanname 2**: dat de vraag bij de drinkwaterbedrijven concreet is, staat er zonder bron. `[[BRON]]` in de tekst. Dunea en Oasen zijn de partijen; zie ook de open regel bij `f-overheid.md`
 - [ ] Niel (cluster 8): **kosten van monitoring en beoordeling** als beperkende factor. Staat nu in aanname 1 benoemd als iets dat de dienst kan opeten; de uitwerking hoort bij hoofdstuk 12, waar de correctielijst hem al heeft staan onder `d-concept`
-- [ ] **Bij het herzien van `f-overheid` (hoofdstuk 12):** het kader "Het juridische frame moet meekantelen" ís aanname 6 en staat nu twee keer in het document. Hoofdstuk 2 houdt de aanname en het advies waar tegenin wordt gegaan; hoofdstuk 12 houdt de uitwerking en plan B, en verwijst terug in plaats van de redenering opnieuw op te bouwen
+- [ ] **Bij het herzien van `f-overheid` (hoofdstuk 12):** het kader "Het juridische frame moet meekantelen" ís aanname 4 en staat nu twee keer in het document. Hoofdstuk 2 houdt de aanname en het advies waar tegenin wordt gegaan; hoofdstuk 12 houdt de uitwerking en plan B, en verwijst terug in plaats van de redenering opnieuw op te bouwen
 
 ## intro.md
 

@@ -67,7 +67,7 @@ Deze kaders bevatten geen zijstap maar de kern van hun hoofdstuk. In kadervorm l
 | b-opgaves | Zonder perspectief geen opgaves | Dit ís de conclusie van B |
 | c-omslag | Het frame kantelt | Dit ís de omslag waar het hoofdstuk naar toewerkt |
 | d-concept | Het sturingsprincipe: hardere uitkomsten, vrijere middelen | Draagt de hele ordening van het overheidskader |
-| f-overheid | Het juridische frame moet meekantelen | Bewuste positiekeuze, en aanname 6. Hoort in de tekst, niet ernaast |
+| f-overheid | Het juridische frame moet meekantelen | Bewuste positiekeuze, en aanname 4 van hoofdstuk 2. Hoort in de tekst, niet ernaast |
 | g-perspectief | De cirkel is rond | Sluit het verhaal — dat is geen terzijde |
 
 ### Naar een fiche — verdieping (8)

@@ -98,7 +98,7 @@ De herschrijfopgave voor A zoals die in het strategiedossier staat: kanteling ho
 - **Identiteit: bewijslaboratorium ja of nee.** Het VIC blijft inhoudelijk in veen maar positioneert zijn *redenering* als breder geldig, ook voor zand en klei. De bijbehorende pitch: financier het veenwerk, want dat is de snelste en goedkoopste manier om een model te testen dat straks ook op zand en klei nodig is. Die zin landt in beide programmavoorstellen. Nog niet genomen.
 - **Nieuwe naam en positionering van A.** Nog niet genomen.
 - **De afbakening tussen A en B.** Nog niet genomen, en het is één besluit voor twee documenten.
-- **Aanname 5 uit de redactiebrief:** dat de middengroep 70 tot 80% van de bedrijven beslaat. Niet bevestigd en niet weerlegd met CBS-cijfers.
+- **Aanname 5 uit de redactiebrief**, in hoofdstuk 2 van de visie aanname 3: dat de middengroep 70 tot 80% van de bedrijven beslaat. Niet bevestigd en niet weerlegd met CBS-cijfers.
 
 ## 8. Waar de volledige teksten staan
 

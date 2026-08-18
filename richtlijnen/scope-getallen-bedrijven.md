@@ -49,6 +49,6 @@ Zuid-Holland rekent moerige gronden mee mits landbouwkundig gebruikt, Utrecht en
 
 ## Nog open
 
-- **Aanname 5 uit redactiebrief §12** — dat de middengroep 70 tot 80% van de bedrijven beslaat — is niet bevestigd en niet weerlegd. Nodig voor hoofdstuk 2.
+- **Aanname 5 uit redactiebrief §12**, in hoofdstuk 2 aanname 3 — dat de middengroep 70 tot 80% van de bedrijven beslaat — is niet bevestigd en niet weerlegd. Nodig voor hoofdstuk 2.
 - Eén kandidaatbron is niet geopend: **WLR Openbaar Rapport 1511**, de onderbouwing van de Compensatie Systematiek Veenweiden Fryslân. Dat is de meest waarschijnlijke plek voor een toerekening op bedrijfsniveau.
 - Fryslân als voorbeeld van hoe mis het kan gaan: het Veenweideprogramma 2021-2030 noemt in de hoofdtekst circa 900 melkveehouderijen en in de voetnoot 800 (RVO-basisadministratie 2018), met 900 als de variant inclusief moerige gronden. Eén programma, twee getallen. Citeer de voetnoot, die is eenduidig.

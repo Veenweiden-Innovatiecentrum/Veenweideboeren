@@ -51,7 +51,13 @@ Die website staat in `webapp/`. Op 18 augustus 2026 is zijn tekst teruggehaald n
 3. Draai `python3 stijlcheck.py <bestand>.md`. Dat meet schrijfsporen — em-dashes, "niet X maar Y", drieslagen, signaalwoorden, zinsritme — tegen de letterlijke citaten van de commentatoren in `feedback/`. **De hoofdstukken in `content/` zijn zelf met AI geschreven en zijn dus geen norm.** Streef naar de mensen-nulmeting, niet naar het documentgemiddelde. Meld de uitslag in de samenvatting. Het blokkeert niets en is geen verbodslijst.
 4. Doe de leescheck: de zes vragen in redactiebrief §16.3.
 5. Vink de verwerkte punten af in `richtlijnen/correctielijst.md`.
-6. Vat voor de gebruiker samen: wat is gewijzigd, welke markeringen staan open, welke checks faalden en waarom dat terecht of onterecht is.
+6. **Rapporteer in deze vorm, en houd het kort.** Wij schrijven een inhoudelijk stuk, geen software; het verslag hoort daarbij te passen. Vier delen, in deze volgorde:
+   - **De uitkomst, bovenaan.** Eén of twee zinnen: wat is nu de conclusie? Niet wat je hebt gedaan, maar wat er nu geldt.
+   - **Dan de uitleg.** Kort en in gewone taal. Geen bestandsnamen, regelnummers of gereedschap tenzij de gebruiker ernaar vraagt. Wat er veranderde en waarom het beter is. Openstaande markeringen en gefaalde checks horen hier, in één regel, niet als tabel.
+   - **Dan de actiezin, precies één.** Letterlijk wat de gebruiker moet doen. Geen menu van mogelijkheden.
+   - **Onderaan een korte samenvatting**: in twee of drie regels wat dit stuk nu precies is.
+
+   Lange tabellen, diffs en toolgeklets horen niet in het verslag. Vraagt de gebruiker naar het hoe, dan geef je het dan.
 7. **Lever een verantwoording per hoofdstuk, en opnieuw na elke verbeteringsslag** op datzelfde hoofdstuk. Drie delen, in deze volgorde:
    - **Wat er beter is geworden** — je eigen oordeel, met wat het hoofdstuk eerst deed en nu doet. Ook wat er níet beter van werd.
    - **Volgens de redactie** — welke toetsregels en besluiten uit `redactiebrief.md` en `besluitenlog.md` zijn geland, per regelnummer. En welke van toepassing waren maar niet gehaald.

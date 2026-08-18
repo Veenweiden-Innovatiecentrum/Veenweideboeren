@@ -34,7 +34,8 @@
 - [x] Lian (cluster 8): "weinig bronnen; onduidelijk wat feit, aanname of mening is" → sectie 2.1 zegt expliciet hoe het document die drie kenbaar maakt, en 2.2 zet de zes dragende aannames bij elkaar
 - [ ] **Aanname 5**: het aandeel van de middengroep. `[[CIJFER]]` en `[[KEUZE]]` staan in de tekst; zie de regel bij `scope.md` hierboven
 - [ ] **Aanname 4**: het inkomensgat is nooit doorgerekend. `[[CIJFER]]` in de tekst; de doorrekening moet uit JUMP komen
-- [ ] **Aanname 1**: dat er via het Agrarisch Natuur- en Landschapsbeheer al voor een geleverde dienst wordt betaald, staat er zonder bron. `[[BRON]]` in de tekst
+- [x] **Aanname 1**: de bewering dat er via het ANLb al voor een geleverde dienst wordt betaald, is 18-8 **onjuist bevonden en rechtgezet**, met bron in een fiche. De regeling vergoedt kosten, gederfde inkomsten en transactiekosten. Redactiebrief §6 heeft een correctieblok gekregen
+- [ ] **Volgt hieruit, voor §6 en de aktes:** blijven weidevogels het sterkste bewijsvoorbeeld van de omkering, of gaat die rol naar water? Besluit voor Tim, raakt `b-opgaves` (ronde 2) en akte III (ronde 1)
 - [ ] **Aanname 2**: dat de vraag bij de drinkwaterbedrijven concreet is, staat er zonder bron. `[[BRON]]` in de tekst. Dunea en Oasen zijn de partijen; zie ook de open regel bij `f-overheid.md`
 - [ ] Niel (cluster 8): **kosten van monitoring en beoordeling** als beperkende factor. Staat nu in aanname 1 benoemd als iets dat de dienst kan opeten; de uitwerking hoort bij hoofdstuk 12, waar de correctielijst hem al heeft staan onder `d-concept`
 - [ ] **Bij het herzien van `f-overheid` (hoofdstuk 12):** het kader "Het juridische frame moet meekantelen" ís aanname 6 en staat nu twee keer in het document. Hoofdstuk 2 houdt de aanname en het advies waar tegenin wordt gegaan; hoofdstuk 12 houdt de uitwerking en plan B, en verwijst terug in plaats van de redenering opnieuw op te bouwen

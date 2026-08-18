@@ -98,9 +98,14 @@
 ## f-overheid.md
 
 - [ ] "Weidemerk" → "Weidemelk" *(Henk)*
-- [ ] Markttoegang-instrumenten: **Oasen** toevoegen naast de zuivelketen — de drinkwaterpartij in Alblasserwaard en Krimpenerwaard *(Henk)*. Dunea komt daar ook te staan (redactiebrief §7); geen van beide staat nu ergens in de tekst
+- [ ] Markttoegang-instrumenten: **Oasen** toevoegen naast de zuivelketen — de drinkwaterpartij in Alblasserwaard en Krimpenerwaard *(Henk)*. **Let op, 18-8 uitgezocht:** Oasen betaalt vandaag alleen wettelijk verplichte droogteschade en geen dienst, en is partij in een massaclaim daarover; **Dunea hoort hier niet** want die zit met zijn bronbescherming buiten het veen. Voeg **Waternet** toe (Bethunepolder, een derde van hun drinkwater). Zie het correctieblok bij §7
 - [ ] Gebiedsregie-passage: herformuleren conform §10 — collectieven leveren input, waterschap neemt het peilbesluit; derden via de bestaande route *(Simon)*
 - [ ] Vangrail-lijst herordenen naar moeten / mogen / betalen (§15.2); markttoegang verhuist naar "wat mag"
+
+## f3-bedrijfsleven.md
+
+- [ ] **Bij het uitbouwen van dit hoofdstuk (ronde 3), gebruik de feitencheck van 18-8** in het correctieblok bij redactiebrief §7. Drie dingen: Dunea is in dit gebied niet de drinkwaterpartij, Oasen betaalt alleen schade en heeft nu een juridisch conflict met agrariërs over droogteschade, en Waternet ontbreekt terwijl de Bethunepolder een derde van hun drinkwater levert. De enige echte betaalde waterdiensten in Nederland zitten bij Vitens, op zandgrond
+- [ ] Europese voorbeelden Vittel en München staan in de tekst; Vittel is in de LEI-studie van 2009 het contrast met de Nederlandse praktijk (individuele contracten mét vergoeding tegenover kennis zonder vergoeding). Bruikbaar, maar niet als bewijs dat het hier al zo werkt
 
 ## h-risicos.md
 

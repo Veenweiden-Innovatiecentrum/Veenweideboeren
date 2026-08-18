@@ -188,7 +188,7 @@ Een feit, een standpunt en een aanname zijn in dit document op drie manieren ken
 
 ### 2.3 Waar dit getoetst wordt
 
-Deze vier aannames zijn werkhypothesen met een programmalijn erachter. Zij verklaren waarom het VIC met programma's werkt en niet met een pleidooi. In JUMP worden nu de vergaande bedrijfsconcepten ontwikkeld voor de gebieden waar de druk het hoogst is. Deze aanpak levert de bewijslast daaronder: wat een dienst kost, wat zij opbrengt en wat een ondernemer eraan overhoudt. BASE moet aantonen dat er voor die diensten ook betaald wordt, door de overheid en door de markt. Dat is de reden dat dit werk jaren duurt, en de reden dat het nu doorloopt in plaats van later begint.
+Deze vier aannames verklaren waarom het VIC met programma's werkt en niet met een pleidooi. In JUMP worden nu de vergaande bedrijfsconcepten ontwikkeld voor de gebieden waar de druk het hoogst is. Deze aanpak levert de bewijslast daaronder: wat een dienst kost, wat zij opbrengt en wat een ondernemer eraan overhoudt. BASE moet aantonen dat er voor die diensten ook betaald wordt, door de overheid en door de markt. Dat is de reden dat dit werk jaren duurt, en de reden dat het nu doorloopt in plaats van later begint.
 
 ---
 

@@ -35,6 +35,9 @@
 | 17-8 | overheid (opdrachten) | Langjarig contract als win-win voor de boer toevoegen (Costas): bij 10-20 jaar kan de boer optimaliseren, dienst wordt beter, marge groter | Spiegelbeeld van de tempo-synchronisatie, vanuit de boer geredeneerd |
 | 17-8 | g-perspectief | Transitie als toekomstbestendig maken voor de volgende generatie (Costas): reëel alternatief voor stoppen | Sluit aan op bedrijfsopvolging in akte I: daar het probleem, hier het perspectief |
 | 17-8 | e-aktes | De motor-kaders krijgen één vaste kop: **"De motor"** — als terugkerende alinea aan het eind van elke akte | Drie verschillende koppen voor hetzelfde refrein; één kop maakt het herkenbaar |
+| 18-8 | alle | **Geen em-dash waar een komma of punt kan.** In eigen nieuwe tekst; bestaande zinnen van de auteurs blijven zoals ze zijn | De hoofdstukken zijn zelf met AI geschreven en zitten op 16 em-dashes per 1000 woorden tegen 6 in de mensentekst uit `feedback/`. Weghalen kost geen betekenis. Getest op scope.md: 12,8 → 5,7 |
+| 18-8 | alle | Spreiding in zinslengte is een **informatieve** maat, geen stuurmaat | Bij passages van 150 woorden te ruisgevoelig; twee gerichte pogingen maakten het slechter (15,2 → 12,5 → 14,2). De mensen-nulmeting is bovendien e-mailregister, met opsommingen en losse kreten |
+| 18-8 | scope | "niet X maar Y" en signaalwoorden blijven staan waar ze uit de oorspronkelijke tekst komen | Drie van de vier treffers in scope.md staan letterlijk in `intro.md` op main. Ze wegwerken is de auteurs herschrijven, en dat verbiedt §16.3 vraag 6 |
 
 ---
 

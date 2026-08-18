@@ -338,7 +338,7 @@ De meeste aannames in het document zijn onschuldig — niemand betwist dat grond
 5. De middengroep beslaat werkelijk 70 tot 80 procent.
 6. Een zakelijk dienstverleningscontract is binnen de Europese kaders voor aanbesteding en staatssteun in te richten. Het document kiest hier bewust positie tegen het juridische advies in; dat moet zichtbaar zijn.
 
-**Deze vijf krijgen een eigen korte sectie: waarop dit verhaal rust en wat er nog bewezen moet worden.**
+**Deze zes krijgen een eigen korte sectie: waarop dit verhaal rust en wat er nog bewezen moet worden.** *Er stond "vijf": aanname 6 is later toegevoegd vanuit §9 en de opsomming is niet meegeteld. Gecorrigeerd 18-8 bij het schrijven van hoofdstuk 2.*
 
 Dat is eerlijker dan verspreide voorbehouden en sterker, want het laat zien dat we weten waar we staan. En het verklaart in één keer waarom JUMP en BASE nodig zijn: dit is precies wat daar getoetst wordt.
 

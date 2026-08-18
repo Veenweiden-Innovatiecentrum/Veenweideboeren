@@ -14,7 +14,7 @@
 - [x] Niel punt 1: derde gebiedstype (geen koeien meer mogelijk) → eigen regel in de tabel, zonder percentage
 - [x] Niel: veenweide ligt soms **binnen** N2000 (Laag-Holland) → "ligging in of tegen Natura 2000", 2×
 - [x] Henk (hoofdpunt): op hoeveel **boeren** is dit toepasbaar → circa 2.300 melkveebedrijven, met bronfiche, plus de zin dat het aandeel binnen de 20-30% niet te tellen is. Onderzoek en de vier onbruikbare getallen staan in `scope-getallen-bedrijven.md`
-- [ ] **Aanname 5 uit §12** (de middengroep beslaat 70 tot 80% van de bedrijven) is niet bevestigd en niet weerlegd. Nodig voor hoofdstuk 2. Zie `scope-getallen-bedrijven.md`
+- [ ] **Aanname 5 uit §12** (de middengroep beslaat 70 tot 80% van de bedrijven) is niet bevestigd en niet weerlegd. Zie `scope-getallen-bedrijven.md`. **Stand 18-8:** staat nu als `[[CIJFER]]` in hoofdstuk 2, met daarnaast een `[[KEUZE]]` omdat het getal in twee betekenissen wordt gebruikt (bedrijven of areaal). Blijft open tot het getal er is of het besluit valt
 - [x] **De 10.000 ha "geen vee meer mogelijk"**: opgelost 18-8 door Tim. De Klimaatakkoord-verwijzing is vervallen; het getal draagt nu het label eigen analyse VIC/JUMP, dezelfde bron als de 20-30%. Achtergrond: het getal stond alleen in redactiebrief §5, niet in de bestuursversie, niet in Niels commentaar en niet in de aangekondigde veenweide-aanpak, en of het Klimaatakkoord die 10.000 ha ook zo definieert was van hier niet na te gaan
 - [ ] Henk (hoofdpunt): welk deel van de **stikstofopgave**, en de impact voor NL. Mag geen percentage worden (§5, toetsregel 20); kwalitatief formuleren hoort bij de stikstofpassage en wacht op de `[[KEUZE]]` in hoofdstuk 1
 - [ ] Niel: **"reguliere melkveehouderij" is verwarrend** — klinkt alsof daar niets verandert. In 1.3 staat nu wél "mits aan generieke milieu-, stikstof- en waterkwaliteitseisen wordt voldaan", maar de term zelf is niet vervangen. Een andere term raakt alle hoofdstukken én aanname 3 in de redactiebrief, dus dit is een besluit voor `terminologie.md`, geen losse correctie
@@ -26,6 +26,18 @@
 - [ ] **Identiteit: bewijslaboratorium ja of nee.** Open besluit in het strategiedossier §5.4: het VIC blijft inhoudelijk in veen maar positioneert zijn redenering als breder geldig, ook voor zand en klei. Het dossier zegt dat die zin landt in "sectie I van de visie, die de reikwijdtevraag openlaat" — maar sectie I is uit de visie en de reikwijdtevraag is **1.3 geworden**. Dus dit besluit landt hier, en het is nog niet genomen
 - [ ] Het begrippenkader (nu in de wachtkamer, wordt hoofdstuk 3 in ronde 4) zegt nog "dit document vertaalt die bouwstenen naar de komende vijf jaar". Dat is in 1.1 juist vervangen omdat het §2 tegensprak. Meenemen in ronde 4
 - [ ] **Hoofdstuk 3 (Begrippen) moet de aktes introduceren.** Toetsregel 13 vraagt één expliciete introductie vóór het eerste gebruik. Die stond in de Leeswijzer van hoofdstuk 1 en is daar op 18-8 weggehaald wegens toetsregel 15. Hoofdstuk 3 komt vóór de aktehoofdstukken, dus dat is nu de plek
+
+## aannames.md
+
+*Toegevoegd 18-8 bij het schrijven van hoofdstuk 2. Punten uit **cluster 8** en **cluster 5** die aan de aannames hangen en die nergens anders een afvinklijst hebben.*
+
+- [x] Lian (cluster 8): "weinig bronnen; onduidelijk wat feit, aanname of mening is" → sectie 2.1 zegt expliciet hoe het document die drie kenbaar maakt, en 2.2 zet de zes dragende aannames bij elkaar
+- [ ] **Aanname 5**: het aandeel van de middengroep. `[[CIJFER]]` en `[[KEUZE]]` staan in de tekst; zie de regel bij `scope.md` hierboven
+- [ ] **Aanname 4**: het inkomensgat is nooit doorgerekend. `[[CIJFER]]` in de tekst; de doorrekening moet uit JUMP komen
+- [ ] **Aanname 1**: dat er via het Agrarisch Natuur- en Landschapsbeheer al voor een geleverde dienst wordt betaald, staat er zonder bron. `[[BRON]]` in de tekst
+- [ ] **Aanname 2**: dat de vraag bij de drinkwaterbedrijven concreet is, staat er zonder bron. `[[BRON]]` in de tekst. Dunea en Oasen zijn de partijen; zie ook de open regel bij `f-overheid.md`
+- [ ] Niel (cluster 8): **kosten van monitoring en beoordeling** als beperkende factor. Staat nu in aanname 1 benoemd als iets dat de dienst kan opeten; de uitwerking hoort bij hoofdstuk 12, waar de correctielijst hem al heeft staan onder `d-concept`
+- [ ] **Bij het herzien van `f-overheid` (hoofdstuk 12):** het kader "Het juridische frame moet meekantelen" ís aanname 6 en staat nu twee keer in het document. Hoofdstuk 2 houdt de aanname en het advies waar tegenin wordt gegaan; hoofdstuk 12 houdt de uitwerking en plan B, en verwijst terug in plaats van de redenering opnieuw op te bouwen
 
 ## intro.md
 
@@ -102,6 +114,7 @@
 - [ ] "-40 cm" als losse waarde → altijd "-20 tot -40 cm" waar het over de Nota Ruimte of generiek beleid gaat; controleer per geval of de bron een enkele waarde noemt
 - [ ] **Kaal "waterpeil" specificeren.** `terminologie.md` eist de grondwaterstand, het slootwaterpeil of beide, nooit alleen "waterpeil". Nog te doen in `d-concept` (regel ~38, 2×), `e-aktes` (regels ~14 en ~136) en `f-overheid` (regel ~64, 3×)
 - [ ] Getallen zonder bron → fiche met bron of label "eigen analyse VIC/JUMP" (regel 19)
+- [ ] **Verspreide voorbehouden naar hoofdstuk 2.** Nu hoofdstuk 2 bestaat, geldt toetsregel 11a scherp: buiten dat hoofdstuk is de tekst stellig. Bij elk hoofdstuk dat herzien wordt "mogelijk", "naar verwachting", "wij veronderstellen" en "in principe" langslopen. Nu nog één vindplaats: `f-overheid` regel ~31 ("in principe")
 - [ ] **"Hij" voor de ondernemer.** Nieuwe regel in `terminologie.md` (18-8, Tim): gebruik "de ondernemer" of "hij of zij", nooit standaard "hij", "hem" of "zijn". Bij elk hoofdstuk dat herzien wordt langslopen; in de bestuursversie staat dit overal
 
 ---

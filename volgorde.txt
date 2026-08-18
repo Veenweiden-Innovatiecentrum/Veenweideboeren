@@ -1,6 +1,7 @@
 samenvatting
 walkthrough
 scope
+aannames
 intro
 a-klem
 b-opgaves

@@ -144,6 +144,40 @@ Op een klein deel, ongeveer 10.000 hectare, is helemaal geen vee meer mogelijk. 
 
 ---
 
+<!-- ======== bestand: content/aannames.md ======== -->
+
+---
+
+## 2 — Waarop dit rust
+
+Dit document is stellig geschreven, en dat vraagt om één plek waar staat waar de stelligheid ophoudt. Een voorbehoud bij elke zin maakt een stuk onleesbaar en verbergt welke onzekerheden echt tellen: als alles onder voorbehoud staat, staat niets dat. Daarom staan de dragende aannames hier bij elkaar, vooraan, en is de tekst daarna stellig.
+
+### 2.1 Feit, standpunt en aanname
+
+Het document maakt die drie op drie manieren kenbaar. Bij een feit staat de bron in een fiche, en bij elk getal staat de bron of het label erbij; waar wij zelf gerekend hebben, heet dat eigen analyse. Een standpunt is als standpunt te herkennen, aan formuleringen als "onze analyse" en "wij vinden". Een aanname staat in dit hoofdstuk.
+
+De meeste aannames in een stuk als dit zijn onschuldig. Dat grond in het westen van Nederland duur is, betwist niemand. Hieronder staan de zes aannames waarop het verhaal rust en waarover een deskundige lezer valt. Bij elk van de zes staat een deel vast en een deel niet, en dat is precies waarom de twee programma's aan het eind van dit hoofdstuk bestaan.
+
+### 2.2 De zes aannames
+
+**Aanname 1. Maatschappelijke diensten kunnen een verdienmodel dragen.** Hierop staat de rest: dat een bedrijf een substantieel en langjarig deel van zijn inkomen kan halen uit wat het aan de samenleving levert, naast voedsel. Wat al vaststaat, is dat betaling voor een geleverde dienst bestaat. Voor weidevogelbeheer wordt vandaag al betaald, via het Agrarisch Natuur- en Landschapsbeheer. [[BRON: dat voor weidevogelbeheer al betaald wordt via het Agrarisch Natuur- en Landschapsbeheer]] Wat niet vaststaat, is de prijs en de looptijd: of de vergoeding groot genoeg is om weggevallen melkomzet te vervangen, of een opdrachtgever langjarig wil vastleggen wat een ondernemer langjarig moet investeren, en of het meten en beoordelen van een dienst niet zoveel kost dat er van de dienst weinig overblijft. Aan een contract met een prijs, een looptijd en een afrekenbare prestatie op een echt bedrijf is te zien of deze aanname klopt.
+
+**Aanname 2. De markt voor die diensten ontwikkelt zich.** Dit document zet de markt neer als volwaardige tweede geldstroom naast de overheid, en dat is een richting die zich nog moet bewijzen. Bij de drinkwaterbedrijven in dit gebied is de vraag concreet. [[BRON: bestaande betaalde afspraken tussen drinkwaterbedrijven en agrarische ondernemers in het veenweidegebied]] Daarbuiten is de markt dun. Voor biodiversiteit is nauwelijks een afnemer, en de zuivelketen en de banken spreken hun steun voor een lagere veedichtheid uit zonder dat duidelijk is met welk instrument. Komt deze tweede geldstroom er niet, dan komt al het geld van de overheid, en dan houdt het weerwoord stand dat dit subsidie met een ander etiket is en dat de ondernemer zijn zelfstandigheid inlevert. Dat weerwoord staat zelf als risico in hoofdstuk 15. Eén private partij die betaalt, weerlegt het beter dan welke formulering ook.
+
+**Aanname 3. Twintig tot dertig procent is de juiste orde van grootte.** Hoofdstuk 1 zegt dat op 20 tot 30% van het gebied reguliere melkveehouderij op termijn niet houdbaar is. Dat is eigen analyse VIC/JUMP, gebaseerd op de vier vormen van fysieke druk en vooral op hun stapeling, en het is geen telling: de grens loopt door bedrijven heen, en landbouwinformatie per grondsoort is niet voorhanden. Het is dus een maatvoering en geen kantelpunt. Valt het aandeel lager uit, dan is de opgave kleiner en blijft overeind dat maatschappelijke diensten een volwaardig product zijn naast voedsel; valt het hoger uit, dan wordt die redenering urgenter. Wat nog moet komen, zijn criteria op bedrijfsniveau waarmee een ondernemer kan zien of hij of zij tot deze groep hoort. Daaraan werkt JUMP; de typologie van de bedrijven waar dit document over gaat staat in hoofdstuk 10.
+
+**Aanname 4. Een lagere veedichtheid leidt zonder aanvullende inkomsten tot een lager inkomen.** Minder koeien per hectare betekent minder melk per hectare, terwijl grond, gebouwen en financiering hetzelfde blijven kosten. Dat volume-effect is rekenkundig en niet in geschil. Wat wij aannemen, is de omvang: dat het gat te groot is om binnen het bestaande bedrijfsmodel te dichten met lagere voer- en kunstmestkosten en met een hogere prijs per liter. Hoe groot dat gat is, per bedrijf en over de jaren van de omschakeling, is nog niet doorgerekend. [[CIJFER: het inkomensgat per bedrijf bij een lagere veedichtheid zonder aanvullende inkomsten, over de jaren van de omschakeling]] Dat is geen detail: is het gat kleiner dan gedacht, dan is er minder nodig; is het groter, dan verandert het tempo waarin dit kan.
+
+**Aanname 5. De middengroep beslaat 70 tot 80 procent.** Dit document gaat over de familiebedrijven van 40 tot 80 hectare met 80 tot 130 koeien (eigen typologie VIC, uitgewerkt in hoofdstuk 10) en noemt die groep 70 tot 80 procent. [[CIJFER: onderbouwing van het aandeel van de middengroep, 70 tot 80 procent; niet bevestigd en niet weerlegd]] Twee dingen zijn daarbij eerlijk te melden. Het getal is nooit onderbouwd, en het wordt in twee betekenissen gebruikt: het aandeel in het aantal bedrijven en het aandeel in het areaal dat die bedrijven beheren. Die twee zijn niet hetzelfde. [[KEUZE: geldt de 70 tot 80 procent het aantal bedrijven of het beheerde areaal? Het document gebruikt nu beide]] Wat er ook uitkomt, de reden om over deze groep te gaan blijft staan: de bedrijven boven en onder deze maten hebben een werkend bedrijfsmodel, de groep ertussen niet.
+
+**Aanname 6. Een zakelijk dienstverleningscontract is binnen de Europese kaders in te richten.** Dit is de enige aanname waarbij dit document positie kiest tegen een advies in, en daarom hoort zij hier en niet in een voetnoot achterin. De juridische toets bij deze visie wijst erop dat een echt dienstverleningscontract tussen overheid en ondernemer onder de Europese aanbestedingsverplichtingen valt, en dat een directe betaling daarbuiten het risico loopt als staatssteun te worden aangemerkt. De praktische route binnen de bestaande kaders is dan een slim ingerichte subsidieregeling, met een lange looptijd en afrekenbare prestatievoorwaarden. Juristen wijzen daar terecht op. Dit document kiest toch voor het contract, omdat de subsidieroute de definitie in stand houdt die hier ter discussie staat: de ondernemer die landbouwt en daarnaast incidenteel iets voor de samenleving doet. De uitwerking van die keuze, en het alternatief ernaast, staan in hoofdstuk 12.
+
+### 2.3 Waar dit getoetst wordt
+
+Zes aannames zijn zes onderzoeksvragen, en zij verklaren waarom het VIC met programma's werkt en niet met een pleidooi. In JUMP worden nu de vergaande bedrijfsconcepten ontwikkeld voor de gebieden waar de druk het hoogst is. Deze aanpak levert de bewijslast daaronder: wat een dienst kost, wat zij opbrengt en wat een ondernemer eraan overhoudt. BASE moet aantonen dat er voor die diensten ook betaald wordt, door de overheid en door de markt. Dat is de reden dat dit werk jaren duurt, en de reden dat het nu doorloopt in plaats van later begint.
+
+---
+
 <!-- ======== bestand: content/intro.md ======== -->
 
 ---

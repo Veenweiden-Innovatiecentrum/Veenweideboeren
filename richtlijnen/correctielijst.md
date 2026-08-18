@@ -14,7 +14,7 @@
 - [x] Niel punt 1: derde gebiedstype (geen koeien meer mogelijk) → eigen regel in de tabel, zonder percentage
 - [x] Niel: veenweide ligt soms **binnen** N2000 (Laag-Holland) → "ligging in of tegen Natura 2000", 2×
 - [x] Henk (hoofdpunt): op hoeveel **boeren** is dit toepasbaar → circa 2.300 melkveebedrijven, met bronfiche, plus de zin dat het aandeel binnen de 20-30% niet te tellen is. Onderzoek en de vier onbruikbare getallen staan in `scope-getallen-bedrijven.md`
-- [ ] **Aanname 5 uit §12** (in hoofdstuk 2 aanname 3: de middengroep beslaat 70 tot 80%) is niet bevestigd en niet weerlegd. Zie `scope-getallen-bedrijven.md`. **Stand 18-8:** staat nu als `[[CIJFER]]` in hoofdstuk 2, met daarnaast een `[[KEUZE]]` omdat het getal in twee betekenissen wordt gebruikt (bedrijven of areaal). Blijft open tot het getal er is of het besluit valt
+- [ ] **Aanname 5 uit §12** (in hoofdstuk 2 aanname 3: de middengroep beslaat 70 tot 80%) is niet bevestigd en niet weerlegd. Zie `scope-getallen-bedrijven.md`. **Stand 18-8:** de `[[KEUZE]]` is beslist, het gaat om het **aantal bedrijven** en niet om het areaal (regel in `terminologie.md`). Het `[[CIJFER]]` staat nog open in hoofdstuk 2: de onderbouwing ontbreekt
 - [x] **De 10.000 ha "geen vee meer mogelijk"**: opgelost 18-8 door Tim. De Klimaatakkoord-verwijzing is vervallen; het getal draagt nu het label eigen analyse VIC/JUMP, dezelfde bron als de 20-30%. Achtergrond: het getal stond alleen in redactiebrief §5, niet in de bestuursversie, niet in Niels commentaar en niet in de aangekondigde veenweide-aanpak, en of het Klimaatakkoord die 10.000 ha ook zo definieert was van hier niet na te gaan
 - [ ] Henk (hoofdpunt): welk deel van de **stikstofopgave**, en de impact voor NL. Mag geen percentage worden (§5, toetsregel 20); kwalitatief formuleren hoort bij de stikstofpassage en wacht op de `[[KEUZE]]` in hoofdstuk 1
 - [ ] Niel: **"reguliere melkveehouderij" is verwarrend** — klinkt alsof daar niets verandert. In 1.3 staat nu wél "mits aan generieke milieu-, stikstof- en waterkwaliteitseisen wordt voldaan", maar de term zelf is niet vervangen. Een andere term raakt alle hoofdstukken én aanname 3 in de redactiebrief, dus dit is een besluit voor `terminologie.md`, geen losse correctie
@@ -32,7 +32,7 @@
 *Toegevoegd 18-8 bij het schrijven van hoofdstuk 2. Punten uit **cluster 8** en **cluster 5** die aan de aannames hangen en die nergens anders een afvinklijst hebben.*
 
 - [x] Lian (cluster 8): "weinig bronnen; onduidelijk wat feit, aanname of mening is" → sectie 2.1 zegt expliciet hoe het document die drie kenbaar maakt, en 2.2 zet de vier dragende aannames bij elkaar
-- [ ] **Aanname 3** (was 5 in de brief): het aandeel van de middengroep. `[[CIJFER]]` en `[[KEUZE]]` staan in de tekst; zie de regel bij `scope.md` hierboven
+- [ ] **Aanname 3** (was 5 in de brief): het aandeel van de middengroep. De `[[KEUZE]]` is 18-8 beslist (aantal bedrijven); het `[[CIJFER]]` voor de onderbouwing staat nog open. Zie de regel bij `scope.md` hierboven
 - [ ] **Verhuisd naar `a-klem.md` (hoofdstuk 4), ronde 2:** de wetmatigheid dat een lagere veedichtheid zonder betaalde prestatie ernaast tot een lager inkomen leidt, plus het ontbrekende cijfer voor de omvang van dat gat. Stond 18-8 kort in hoofdstuk 2 en is daar op Tims verzoek weggehaald, want het is geen aanname
 - [x] **Aanname 1**: de bewering dat er via het ANLb al voor een geleverde dienst wordt betaald, is 18-8 **onjuist bevonden en rechtgezet**, met bron in een fiche. De regeling vergoedt kosten, gederfde inkomsten en transactiekosten. Redactiebrief §6 heeft een correctieblok gekregen
 - [x] **Volgt hieruit, voor §6 en de aktes: water wordt het voorbeeld waar al voor een dienst betaald wordt, niet de weidevogel.** Besloten 18-8. Weidevogels blijven het bewijs dat het gebied de dienst kan leveren (toetsregel 23), maar niet het bewijs dat er betaald wordt, want de ANLb-onderbouwing daarvoor is onjuist gebleken. Uitvoeren bij akte III (ronde 1) en meenemen in `b-opgaves` (ronde 2)
@@ -118,6 +118,7 @@
 ## samenvatting.md
 
 - [ ] Wordt laag 1, als laatste gemaakt. Datum "April 2026" vervalt dan vanzelf
+- [ ] **"de familieondernemers die 70–80% van het gebied beheren" moet om:** het gaat om 70 tot 80 procent van het **aantal bedrijven** (besluit 18-8, `terminologie.md`). Dit is de enige vindplaats met de areaal-lezing; `b-opgaves` en `g-perspectief` zeggen al "van de boeren"
 - [ ] €1,3 miljard (2×) uit de tekst — redenering blijft, bedrag naar de bijlage (§8)
 
 ## Doorlopend, alle bestanden

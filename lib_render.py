@@ -32,6 +32,21 @@ def fiche_html(label, source, note=''):
         h += f'<span class="fiche-note">{esc_text(note)}</span>'
     return h + '</span></span>'
 
+def fiche_uit_payload(payload):
+    """'label|bron|note' -> fiche-HTML. Ook bruikbaar buiten render_inline."""
+    parts = payload.split('|')
+    label = parts[0] if len(parts) > 1 else 'Bron'
+    src   = parts[1] if len(parts) > 1 else parts[0]
+    note  = parts[2] if len(parts) > 2 else ''
+    return fiche_html(label, src, note)
+
+def render_macros(s):
+    """Alleen de fiche-macro's omzetten, de omringende HTML onaangeroerd laten.
+    Nodig in raw-HTML-blokken: die gaan ongewijzigd door de renderer, dus zonder
+    dit staat er letterlijk {{fiche:...}} in de tekst."""
+    s = re.sub(r'\{\{fiche:(.+?)\}\}', lambda m: fiche_uit_payload(m.group(1)), s)
+    return re.sub(r'\{\{bron:(.+?)\}\}', lambda m: fiche_html('Bron', m.group(1)), s)
+
 def render_inline(s, partials=None):
     # placeholders eerst beschermen
     toks = []
@@ -39,11 +54,7 @@ def render_inline(s, partials=None):
         toks.append(html_frag); return f'\x00{len(toks)-1}\x00'
     # fiches
     def _fiche(m):
-        parts = m.group(1).split('|')
-        label = parts[0] if len(parts) > 1 else 'Bron'
-        src   = parts[1] if len(parts) > 1 else parts[0]
-        note  = parts[2] if len(parts) > 2 else ''
-        return stash(fiche_html(label, src, note))
+        return stash(fiche_uit_payload(m.group(1)))
     s = re.sub(r'\{\{fiche:(.+?)\}\}', _fiche, s)
     s = re.sub(r'\{\{bron:(.+?)\}\}', lambda m: stash(fiche_html('Bron', m.group(1))), s)
     # links
@@ -100,7 +111,7 @@ def split_blocks(md):
 
 def render_block(kind, text, partials_dir):
     if kind == 'raw':
-        return text
+        return render_macros(text)
     t = text.strip()
     m = re.match(r'\{\{partial:([\w.-]+)\}\}$', t)
     if m:

@@ -136,7 +136,6 @@ Bouwstenen die binnen het bestaande bedrijf passen. Geen nieuw inkomen, wel lage
     </tbody>
   </table>
 
-
 ### Niveau 2 — Nieuwe inkomstenstromen
 
 Grote bouwstenen die een nieuw verdienmodel opbouwen. Maatschappelijke diensten als business.
@@ -157,7 +156,7 @@ Grote bouwstenen die een nieuw verdienmodel opbouwen. Maatschappelijke diensten 
 
 <p style="font-size:13.5px;color:var(--text2);line-height:1.65;margin-top:.5rem">De drie rijen rond natuur en biodiversiteit hangen samen maar dekken drie verschillende dingen. <strong>Functionele biodiversiteit</strong> op niveau 1 (kruidenrijk grasland, bloemrijke randen) versterkt de bedrijfsvoering en levert stabielere, kwalitatief betere opbrengst; weidevogelbeheer hoort in dezelfde basislaag, maar als beheertaak — niet als opbrengstverhoger. Dat is geen verdienmodel maar een waardevolle bedrijfsbasis. <strong>Natuur als dienst</strong> gaat een stap verder: het inrichten en beheren van natuur met expliciete natuurdoelstellingen en -eigenschappen, verkoopbaar als opdracht aan overheid of marktpartij. <strong>Biodiversiteitsdienst</strong> is een nieuwere benadering waarbij biodiversiteit zelf wordt geproduceerd en verkocht, via overheidsopdracht, marktopdracht of de biodiversiteitscreditmarkt. De drie zijn nauw met elkaar verbonden maar conceptueel onderscheiden; alleen de laatste twee zijn verdienmodellen.</p>
 
-<p><strong>Stikstofruimte als dienst — denkrichting.</strong> Structurele ammoniakreductie door lagere veedichtheid kan op termijn een contracteerbare maatschappelijke dienst worden, analoog aan koolstof en water — juist waardevol nabij Natura 2000. Kanttekening: dit raakt aan extern salderen en het vergunningenrecht, juridisch het gevoeligste terrein dat er is; het hoort in de toolbox als verkenning, niet als belofte.</p>
+**Stikstofruimte als dienst — denkrichting.** Structurele ammoniakreductie door lagere veedichtheid kan op termijn een contracteerbare maatschappelijke dienst worden, analoog aan koolstof en water — juist waardevol nabij Natura 2000. Kanttekening: dit raakt aan extern salderen en het vergunningenrecht, juridisch het gevoeligste terrein dat er is; het hoort in de toolbox als verkenning, niet als belofte.
 
 ### Drie typen, drie strategieën
 
@@ -193,7 +192,7 @@ De toolbox verschilt per context. Welke bouwstenen beschikbaar zijn en welke doe
         <li>Wonen bij de boer aantrekkelijk</li>
         <li>Korte keten — directe afzetmarkt</li>
         <li>Recreatie en zorgboerderij als inkomsten</li>
-        <li>Wateropslag zeer relevant (stadsoverstromingen)</li>
+        <li>Waterbuffering relevant</li>
       </ul>
     </div>
     <div class="context-card">

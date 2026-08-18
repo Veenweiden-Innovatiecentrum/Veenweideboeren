@@ -2,6 +2,20 @@
 
 Dit is de bronrepository van de Veenweideboerenvisie. De tekst staat als Markdown in `content/`; die wordt herzien volgens een vastgelegd stuurdossier in `richtlijnen/`.
 
+## De waarheid: de website die het bestuur gelezen heeft
+
+De geldige tekst is de website op `veenweideboeren-visie.vercel.app`, want dát is wat het bestuur op 1 juli las. Al het commentaar in `feedback/` gaat daarover.
+
+Die website staat in `webapp/`. Op 18 augustus 2026 is zijn tekst teruggehaald naar `content/*.md` met `importeer.py`, verliesvrij: alle veertien hoofdstukken bouwen woordelijk terug naar wat er online staat.
+
+**Daarmee zijn `content/` en de website weer één.** Bewaak dat:
+
+- `python3 build.py site visie` vergelijkt de twee en schrijft niets. Alles moet "gelijk" zijn, behalve waar je zelf net iets hebt gewijzigd.
+- Overschrijven van de website vraagt `--schrijf`. Nooit blind doen.
+- Loopt het uiteen zonder dat jij het veroorzaakte, dan is er buiten de repo om aan de site gewerkt. Stoppen en melden.
+
+`dist/` en `origineel/` zijn géén waarheid. `dist/` is een bijproduct in een andere vormgeving dan het bestuur kent; `origineel/` is het aangeleverde v2-document van vóór de repo-conversie en inhoudelijk het oudst.
+
 ## Verplicht bij elke sessie, vóór elke wijziging
 
 1. Lees `richtlijnen/redactiebrief.md` **volledig** — deel I is de toetslijst, deel II de toelichting.
@@ -38,20 +52,16 @@ Na tekstwijzigingen: `python build.py document` en de output in `dist/` controle
 
 Om één hoofdstuk aan de gebruiker voor te leggen: `python build.py hoofdstuk <sectie-id>` → `dist/hoofdstukken/<sectie-id>.html`. Zelfde opmaak als het document, zonder navigatie. Leesversie ter beoordeling, geen publicatie.
 
-## Twee documenten naast elkaar — dit is hoe de gebruiker meekijkt
+## Twee versies naast elkaar — dit is hoe de gebruiker meekijkt
 
-In `dist/vergelijk/` staan twee complete documenten. De gebruiker houdt ze in twee browserwindows naast elkaar open terwijl de herziening vordert.
+De gebruiker houdt twee browservensters naast elkaar open, allebei in de vormgeving die het bestuur kent:
 
-| Bestand | Wat het is |
+| Venster | Wat het is |
 |---|---|
-| `1 — huidige visie (bevroren).html` | De visie zoals die op `main` staat. **Nooit aanraken, nooit opnieuw bouwen, nooit hernoemen.** Dit is het vergelijkingspunt |
-| `2 — herziene visie (groeit mee).html` | De herziening. `build.py document` werkt deze bij; de gebruiker ververst zijn browser en ziet de nieuwe stand |
+| **de bestuursversie** | `veenweideboeren-visie.vercel.app` — onaangeroerd online. Dit is het vergelijkingspunt |
+| **de herziening** | de webapp lokaal geserveerd, met de bijgewerkte tekst |
 
-`build.py document` schrijft bestand 2 en de index automatisch — er is geen apart commando voor. Bestand 1 wordt door geen enkel buildpad geschreven.
-
-Meld na elke wijziging dat bestand 2 is bijgewerkt, zodat de gebruiker weet dat verversen zin heeft.
-
-De map `origineel/` is iets anders: dat is het aangeleverde v2-document van vóór de repo-conversie, inhoudelijk ouder dan `main`. Gebruik dat niet als vergelijkingspunt.
+Meld na elke wijziging dat de herziening is bijgewerkt, zodat de gebruiker weet dat verversen zin heeft.
 
 ## Context
 

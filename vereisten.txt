@@ -1,0 +1,4 @@
+# Alleen nodig voor convert.py, importeer.py en verify.py.
+# Installeren:  python3 -m venv .venv && .venv/bin/pip install -r vereisten.txt
+beautifulsoup4
+lxml

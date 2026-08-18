@@ -37,7 +37,8 @@
 | 17-8 | e-aktes | De motor-kaders krijgen één vaste kop: **"De motor"** — als terugkerende alinea aan het eind van elke akte | Drie verschillende koppen voor hetzelfde refrein; één kop maakt het herkenbaar |
 | 18-8 | alle | **Geen em-dash waar een komma of punt kan.** In eigen nieuwe tekst; bestaande zinnen van de auteurs blijven zoals ze zijn | De hoofdstukken zijn zelf met AI geschreven en zitten op 16 em-dashes per 1000 woorden tegen 6 in de mensentekst uit `feedback/`. Weghalen kost geen betekenis. Getest op scope.md: 12,8 → 5,7 |
 | 18-8 | alle | Spreiding in zinslengte is een **informatieve** maat, geen stuurmaat | Bij passages van 150 woorden te ruisgevoelig; twee gerichte pogingen maakten het slechter (15,2 → 12,5 → 14,2). De mensen-nulmeting is bovendien e-mailregister, met opsommingen en losse kreten |
-| 18-8 | scope | "niet X maar Y" en signaalwoorden blijven staan waar ze uit de oorspronkelijke tekst komen | Drie van de vier treffers in scope.md staan letterlijk in `intro.md` op main. Ze wegwerken is de auteurs herschrijven, en dat verbiedt §16.3 vraag 6 |
+| 18-8 | alle | "niet X maar Y" en signaalwoorden blijven staan waar ze uit de oorspronkelijke tekst komen | Ze wegwerken is de auteurs herschrijven, en dat verbiedt §16.3 vraag 6 |
+| 18-8 | **alle** | **De gepubliceerde website is de enige geldige tekst.** Die is met `importeer.py` teruggehaald naar `content/*.md`; het eerder herziene `scope.md` is ingetrokken en ronde 1 begint opnieuw | Het bestuur las op 1 juli de website, niet de repo-bouw. Al het commentaar in `feedback/` gaat daarover. De repo was op 16 juni om 14:30 blijven staan terwijl er tot 17:08 in de website is doorgewerkt |
 
 ---
 
@@ -47,6 +48,5 @@ Een falende check die terecht is, krijgt hier een notitie. Anders wordt hij bij 
 
 | Check | Bestand | Waarom het hier wel mag |
 |---|---|---|
-| Vooruitwijzing aktes | scope.md | De leeswijzer ís de ene expliciete introductie van de aktes die toetsregel 13 voorschrijft. Vóór akte III noemen mag hier, en alleen hier |
-| Voorbehoud verspreid | scope.md (4×) | Alle vier zijn "mogelijk" in de betekenis *haalbaar* ("dat mogelijk maakt", "geen vee meer mogelijk"), niet als voorbehoud. De grep kan dat verschil niet zien |
+| Voorbehoud verspreid | alle | "mogelijk" in de betekenis *haalbaar* ("dat mogelijk maakt", "geen vee meer mogelijk") is geen voorbehoud. De grep kan dat verschil niet zien |
 | Driesporen | intro.md | Het driesporenkader staat er nog; het verhuist naar de bijlage in ronde 5 |

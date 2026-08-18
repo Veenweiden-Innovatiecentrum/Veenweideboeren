@@ -99,10 +99,10 @@ Drie aktes voor het veenweidegebied. Niet drie gelijkwaardige scenario's, maar d
     <p>De lokale rentmeesters verdwijnen. Hun land wordt ingenomen door grote boeren die misschien niet eens in het gebied zitten, bedrijven vanuit de kleigebieden met een enorme grondhonger. De schaalvergroting in combinatie met de grondgebondenheidsregel maakt dat ze vele hectares nodig hebben, en het vrijkomende veenweideland is goedkoop. Of het land gaat naar grondspeculanten en institutionele investeerders die wachten op betere tijden.</p>
     <p>En dan keert de beweging. De grote boeren op afstand hebben geen binding met het land. Geen liefde voor het veenweidelandschap, geen zorg voor de slootkanten, geen oog voor de weidevogels. Ze beheren op efficiëntie, niet op rentmeesterschap. De verbeteringen die de harde maatregelen even opleverden — klimaat, water, natuur — worden weer teruggedraaid doordat de zorg voor het landschap verdwijnt met de mensen die het kenden.</p>
     <p>De doelsturing werkt op papier. In de praktijk stuurt het de rentmeesters het gebied uit en vervangt het ze door beheerders op afstand.
-    <div style="background:var(--blue-light);border-left:3px solid var(--blue);border-radius:var(--radius);padding:.875rem 1rem;margin:1rem 0;font-size:13px;line-height:1.6">
+    </p><div style="background:var(--blue-light);border-left:3px solid var(--blue);border-radius:var(--radius);padding:.875rem 1rem;margin:1rem 0;font-size:13px;line-height:1.6">
       <strong style="display:block;margin-bottom:3px">Let op: ook koploper-familieondernemers worden geraakt</strong>
       Grove maatregelen zonder maatwerk treffen niet alleen de schaaloptimaliseerders. Familieondernemers die al verder zijn in de transitie — biologisch of anderszins, precies de mensen die de maatschappij wil behouden — vallen onder dezelfde normering. Het risico is reëel dat je met akte II precies degenen wegdrukt die je nodig hebt voor akte III.
-    </div></p>
+    </div><p></p>
 
     <div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1rem 0;font-size:13.5px;line-height:1.65">
       <strong style="display:block;margin-bottom:6px;font-size:14px">Driesporenbeleid, hectarepremie GLB versus zakelijke transactie</strong>

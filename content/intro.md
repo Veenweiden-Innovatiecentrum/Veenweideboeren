@@ -1,16 +1,31 @@
-<!-- DOORGANGSBESTAND — de scope, opening en leeswijzer zijn verhuisd naar content/scope.md (ronde 1).
-     Wat hier nog staat wacht op een eigen ronde:
-       · driesporenkader  → bijlage, ronde 5 (besluit §8, bloktypen.md)
-       · twee stikstofkaders → herzien conform §6, bestemming nog open (zie markering)
-       · begrippenkader   → content/begrippen.md, ronde 4 -->
+<div style="background:var(--bg3);border:1px solid rgba(0,0,0,.08);border-left:3px solid var(--accent);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 2rem;font-size:13.5px;line-height:1.65">
+    <strong style="display:block;margin-bottom:8px;font-size:14px">Voor wie is dit document?</strong>
+    <p style="margin:0 0 .75rem"><strong>Voor boeren</strong> — wie tevreden is met de huidige bedrijfsvoering en zijn opgaven binnen het bestaande model haalt: prima. Geen religie, geen opgedrongen verhaal. Maar wie de bui ziet hangen — een perceel dat te nat wordt, krimpende stikstofruimte, een melkprijs die het niet meer dekt — voor die ondernemer is dit een aanbod. Niet "zo moet u het gaan doen", maar "zo zou het kunnen worden, als u het wilt".</p>
+    <p style="margin:0 0 .75rem"><strong>Voor overheden</strong> — voor de gebieden waar reguliere melkveehouderij houdbaar blijft, hoeft dit document niet leidend te zijn. Voor de gebieden waar dat niet zo is, biedt het een alternatief voor de twee gebruikelijke routes: doormodderen of uitkopen. De opdracht aan de overheid is daarmee scherper, niet zwaarder: schep voor die specifieke gebieden de zes lagen van het kader — maatregelen, doelen, juridische ruimte, vangnet, opdrachten en coördinatie — zodat het verdienmodel van de veenweideboer kan ontstaan. Daarbuiten verandert er weinig.</p>
+    <p style="margin:0;padding-top:.75rem;border-top:1px solid rgba(0,0,0,.08)"><strong>Over welk deel van het gebied?</strong> Het Nederlandse veenweidegebied beslaat ongeveer 200.000 hectare<span class="fiche-wrap"><button class="fiche-btn" type="button" aria-label="Bron tonen">ⓘ</button><span class="fiche-popup"><span class="fiche-label">Bron</span><span class="fiche-source">Compendium voor de Leefomgeving (CBS, PBL, WUR); CBS bodemgebruik Nederland.</span></span></span>. Dit document richt zich op die ongeveer 20–30%<span class="fiche-wrap"><button class="fiche-btn" type="button" aria-label="Bron tonen">ⓘ</button><span class="fiche-popup"><span class="fiche-label">Bron</span><span class="fiche-source">Eigen analyse VIC/JUMP op basis van gestapelde opgaves: bodemdaling, broeikasgasemissies, ligging tegen Natura 2000, en verzilting.</span></span></span> waar de fysieke druk het scherpst is: percelen met serieuze bodemdaling, hoge broeikasgasemissies, ligging tegen Natura 2000, of toenemende verzilting. Op het overgrote deel kan reguliere melkveehouderij blijven bestaan, mits aan generieke milieu-, stikstof- en waterkwaliteitseisen wordt voldaan. De gedetailleerde criteria volgen in sectie D.</p>
+  </div>
+
+Dit visiedocument schetst een nieuw perspectief voor het veenweidegebied: niet doormodderen, niet eenzijdige beperking, maar de boer als ondernemer van de transitie. De grote maatschappelijke opgaven — van klimaat en water tot voedselzekerheid en wonen — zijn alleen haalbaar als boeren niet uitsluitend worden aangesproken op productie, maar ook worden beloond voor de publieke diensten die zij leveren. Daarmee verschuift het debat van probleemdenken naar oplossingskracht. Voor een deel van het gebied is reguliere melkveehouderij op termijn niet meer houdbaar en is een fundamenteel ander bedrijfsmodel nodig. Dit document beschrijft hoe dat eruitziet, welke condities daarvoor nodig zijn, en hoe de boer daarmee weer motor wordt van de gebiedstransitie.
+
+Het Veenweiden Innovatiecentrum (VIC) ontwikkelt in het programma JUMP vergaande bedrijfsconcepten voor ondernemers op veen: topvoedsel, waterdiensten, biodiversiteit, koolstofopslag, natte teelt. Vijftien tot twintig jaar vooruit. Veenweideboeren vertaalt diezelfde bouwstenen naar de praktijk van nu: concreet en toepasbaar voor de komende vijf jaar.
+
+Dat is urgent. Want de ondernemers voor wie dit bedoeld is, zitten nu al klem.
+
+<div style="background:var(--blue-light);border-left:3px solid var(--blue);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 0;font-size:13.5px;line-height:1.65">
+    <strong style="display:block;margin-bottom:8px;font-size:14px">Leeswijzer</strong>
+    <p style="margin:0 0 .6rem">Drie aktes vormen de hoofdas: akte I (de situatie nu), akte II (ingrijpen zonder pijlers), akte III (oplossingsrichting). Door alle aktes lopen drie terugkerende kaders:</p>
+    <ul style="margin:0;padding-left:1.25rem">
+      <li style="margin-bottom:.35rem">het <strong>driesporenbeleid</strong> van het kabinet, dat als extern referentiepunt dient om de eigen lijn tegen af te zetten;</li>
+      <li style="margin-bottom:.35rem">de <strong>zes lagen van het overheidskader</strong> (maatregelen, doelen, juridische ruimte, vangnet, opdrachten, coördinatie); binnen het vangnet vier pijlers — inkomen &amp; zekerheid, markttoegang, grond &amp; ruimte, organisatie &amp; financiering;</li>
+      <li><strong>zeven maatschappelijke opgaves</strong> (klimaat, water, natuur, voedselzekerheid, cultuur &amp; landschap, grondstoffen &amp; kringloop, wonen) waarop iedere akte gescoord wordt; ondernemerschap is het frame eromheen, geen aparte opgave.</li>
+    </ul>
+  </div>
 
 <div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 0;font-size:13.5px;line-height:1.65">
     <strong style="display:block;margin-bottom:6px;font-size:14px">Aanleiding: het driesporenbeleid</strong><span class="fiche-wrap" style="margin-left:6px"><button class="fiche-btn" type="button" aria-label="Bron tonen">ⓘ</button><span class="fiche-popup"><span class="fiche-label">Bron (alle cijfers in dit blok)</span><span class="fiche-source">Douwe Jonkers (LVVN), ambtelijke voorbespreking conceptbrief gebiedsspecifieke aanpak veenweide.</span><span class="fiche-note">Nog niet publiek; bronaanduiding wordt aangevuld zodra de kamerbrief is verzonden.</span></span></span>
     <p style="margin:0 0 .75rem">Het Rijk werkt aan een driesporenbeleid voor het veenweidegebied: (1) intensivering in urgentiegebieden — zones rond natuur en weidevogelkerngebieden, en gebieden met hoge emissies en sterke bodemdaling — op ca. 45.000 ha (€400 mln uit rijksmiddelen voor het landelijk gebied), (2) generieke fixatie van het slootpeil op -40 cm op het resterende areaal van ca. 90.000 ha, geflankeerd door een GLB-hectarepremie, en (3) omschakeling naar extensieve, natuurinclusieve melkveehouderij op ca. 10% van het gebied (20.000 ha, €900 mln voor 50% grondafwaardering). Totaal: een zichtbare claim van circa €1,3 miljard tot 2035, los van de GLB-hectarepremie. De sporen tellen samen op tot circa 155.000 ha; voor de overige circa 45.000 ha grasland op veen — vooral klei-op-veen en delen die al nat liggen — voorziet het beleid geen specifieke ingreep.</p>
     <p style="margin:0">Deze veenweideboeren-aanpak is geschreven omdat dit beleid — hoe doordacht ook — het risico in zich draagt om precies het tegenovergestelde effect te bereiken van wat het beoogt. Peilverhoging met uitsluitend compensatie — hoe royaal ook — vervangt geen bedrijfsperspectief. Compensatie vergoedt verlies; ze geeft geen richting. Boeren die willen produceren en beheren vertrekken toch, niet omdat het financieel niet uitkomt, maar omdat er geen toekomst meer te bouwen valt. En juist die boeren zijn nodig om de opgaves daadwerkelijk te halen. Het geld is er. De vraag is of het de motor voedt, of dat het hem afzet.</p>
   </div>
-
-[[KEUZE: waar de twee stikstofkaders hieronder landen — als voorkant-passage in "Waar dit over gaat" (scope), of als eigen aanleiding-hoofdstuk. `bloktypen.md` zegt "herzien, dan plaatsen" maar noemt geen hoofdstuk; §15.1 kent ze geen plek toe]]
 
 <div style="background:var(--bg2);border-left:3px solid var(--text2);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1rem 0 0;font-size:13.5px;line-height:1.65">
     <strong style="display:block;margin-bottom:6px;font-size:14px">Daarnaast: het stikstofdossier, raakvlak met dit verhaal</strong>
@@ -24,6 +39,7 @@
   </div>
 
 <!-- BEGRIPPENKADER (A2, Anna) -->
+
 <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.25rem 1.5rem;margin:1.5rem 0 0">
   <p style="font-family:var(--font-display);font-size:15px;font-weight:600;color:var(--text);margin:0 0 .75rem">Begrippenkader — de dragende termen in dit document</p>
   <table style="width:100%;border-collapse:collapse;font-size:13px;line-height:1.55">

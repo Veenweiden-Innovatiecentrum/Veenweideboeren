@@ -4,7 +4,7 @@
     <span class="meta-badge">VIC / JUMP</span>
   </div>
 
-<h1>Veenweide<span>boeren</span></h1>
+<h1>Veenweide<span>boeren</span> — visie</h1>
 
 ## De ondernemer als motor voor de maatschappelijke opgaves
 

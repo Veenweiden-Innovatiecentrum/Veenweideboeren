@@ -1,7 +1,8 @@
-  <h2>Walkthrough</h2>
-  <p>Zestien stappen. Klik door het verhaal — elke stap bouwt voort op de vorige. Ook met pijltjestoetsen of spatiebalk.</p>
+## Walkthrough
 
-  <div id="wt-container" style="margin:1.5rem 0">
+Zestien stappen. Klik door het verhaal — elke stap bouwt voort op de vorige. Ook met pijltjestoetsen of spatiebalk.
+
+<div id="wt-container" style="margin:1.5rem 0">
     <!-- Progress bar -->
     <div style="display:flex;gap:4px;margin-bottom:1.5rem" id="wt-progress"></div>
 

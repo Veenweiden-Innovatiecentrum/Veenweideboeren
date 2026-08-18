@@ -4,9 +4,6 @@ Gebruik: python3 build.py document"""
 import os, sys, re, json, shutil, datetime, urllib.parse
 import lib_render as R
 
-VERGELIJK = 'dist/vergelijk'
-HUIDIGE = f'{VERGELIJK}/1 — huidige visie (bevroren).html'
-HERZIENE = f'{VERGELIJK}/2 — herziene visie (groeit mee).html'
 
 def build_document():
     order = [l.strip() for l in open('volgorde.txt', encoding='utf-8')
@@ -28,12 +25,6 @@ def build_document():
     dest = "dist/VIC's Veenweideboeren visie.html"
     open(dest, 'w', encoding='utf-8').write(out)
     print(f'Gebouwd: {dest} ({len(out)//1000}k tekens)')
-    # De herziene versie in dist/vergelijk/ groeit hiermee mee, zodat een
-    # geopend browserwindow altijd de laatste stand toont na verversen.
-    os.makedirs(VERGELIJK, exist_ok=True)
-    open(HERZIENE, 'w', encoding='utf-8').write(out)
-    schrijf_vergelijk_index()
-    print(f'Bijgewerkt: {HERZIENE}')
 
 
 def build_programmavoorstel():
@@ -193,75 +184,6 @@ def vic_logo():
     m = re.search(r'<div class="vic-logo">.*?</div>', t, re.S)
     return m.group(0) if m else ''
 
-
-def schrijf_vergelijk_index():
-    """Startpagina van de vergelijkmap. Zegt welke van de twee meegroeit."""
-    tijd = datetime.datetime.now().strftime('%d-%m-%Y om %H:%M')
-    def rij(pad, nr, titel, wat, live):
-        if not os.path.exists(pad):
-            return ''
-        kleur = ('background:var(--accent);color:#fff' if live
-                 else 'background:var(--bg2);color:var(--text2)')
-        merk = 'groeit mee' if live else 'bevroren'
-        return (
-            '<li style="display:flex;align-items:center;gap:1rem;padding:1rem 0;'
-            'border-bottom:1px solid rgba(0,0,0,.06)">'
-            f'<a href="{urllib.parse.quote(os.path.basename(pad))}" '
-            'style="flex:1;display:flex;align-items:baseline;gap:1.25rem;'
-            'text-decoration:none;color:inherit">'
-            f'<span style="font-family:var(--font-mono);font-size:20px;color:var(--text3)">{nr}</span>'
-            f'<span><strong style="display:block;font-size:16px">{titel}</strong>'
-            f'<span style="display:block;font-size:13px;color:var(--text2)">{wat}</span></span></a>'
-            f'<span style="{kleur};font-size:10px;text-transform:uppercase;'
-            'letter-spacing:.08em;padding:3px 9px;border-radius:3px;'
-            f'white-space:nowrap;font-weight:500">{merk}</span></li>')
-    rijen = [
-        rij(HUIDIGE, '1', 'Huidige visie',
-            'Zoals die op main staat. Wordt nooit opnieuw gebouwd', False),
-        rij(HERZIENE, '2', 'Herziene visie',
-            f'Laatst bijgewerkt {tijd}. Verversen toont de nieuwste stand', True),
-    ]
-    html = f'''{template_hoofd()}
-<body>
-<div class="wrapper">
-<nav id="sidebar">
-{vic_logo()}
-  <div class="nav-header">
-    <h2>Veenweide&shy;boeren</h2>
-    <span class="tag">Vergelijken</span>
-  </div>
-  <div class="nav-section">
-    <div class="nav-section-title">Versies</div>
-    <a class="nav-link" href="{urllib.parse.quote(os.path.basename(HUIDIGE))}">1 — huidige visie</a>
-    <a class="nav-link" href="{urllib.parse.quote(os.path.basename(HERZIENE))}">2 — herziene visie</a>
-  </div>
-</nav>
-
-<main>
-<h1>Twee versies <span>naast elkaar</span></h1>
-<p class="subtitle">Open beide in een eigen browservenster en zet ze naast elkaar.
-Links de visie zoals die nu is, rechts de herziening. Alleen de rechter verandert;
-verversen laat de laatste stand zien.</p>
-
-<div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:.5rem 1.5rem;margin:1.5rem 0">
-<ul style="list-style:none;margin:0;padding:0">
-{chr(10).join(r for r in rijen if r)}
-</ul>
-</div>
-</main>
-</div>
-</body>
-</html>
-'''
-    open(f'{VERGELIJK}/index.html', 'w', encoding='utf-8').write(html)
-    open(f'{VERGELIJK}/index.html', 'w', encoding='utf-8').write(html)
-    # Korte adressen, zodat /1 en /2 te onthouden en te bookmarken zijn.
-    for kort, doel in (('1', HUIDIGE), ('2', HERZIENE)):
-        if os.path.exists(doel):
-            open(f'{VERGELIJK}/{kort}.html', 'w', encoding='utf-8').write(
-                '<!DOCTYPE html><html lang="nl"><head><meta charset="UTF-8">'
-                f'<meta http-equiv="refresh" content="0; url={urllib.parse.quote(os.path.basename(doel))}">'
-                '</head><body></body></html>\n')
 
 
 def build_hoofdstuk(sid):

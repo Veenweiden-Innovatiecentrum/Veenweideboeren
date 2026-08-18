@@ -14,13 +14,13 @@ De veenweideboer is een nieuwe typologie: niet een reguliere melkveehouder met b
       <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--blue);font-weight:600;margin-bottom:14px">Het kader en de ruimte — wat de overheid doet</div>
 
       <div style="margin-bottom:14px">
-        <div style="font-weight:600;color:var(--text);font-size:13px;margin-bottom:3px">① Maatregelen</div>
-        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Vernatting, stikstofnormen, KRW-waterkwaliteitseisen. Verplicht en niet-onderhandelbaar, dezelfde als in akte II — maar het peil is het middel, niet het doel: gedifferentieerd per peilvak, met het hoogste peil in de meest afbraakgevoelige gebieden en rust waar het al nat ligt.</div>
+        <div style="font-weight:600;color:var(--text);font-size:13px;margin-bottom:3px">① Doelen — een ladder, geen keuze</div>
+        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Per context en per bedrijf, in opgaande ladder. Eerst op bedrijfsniveau — een vieze sloot mag bestaan zolang het water het erf én de percelen schoon verlaat (nitraat, fosfaat); percelen met meer uitstoot mogen bestaan zolang elders genoeg koolstof wordt vastgehouden. Daarna op polderniveau — wat de ene boer niet haalt, kan een ander binnen hetzelfde peilvak compenseren tegen vergoeding. Daarna op collectiefniveau, waar de totale opgave wordt afgerekend. Bedrijfsniveau alleen werkt niet: ongelijke percelen en veendiktes maken individuele afrekening met één generieke norm onuitvoerbaar en onevenredig hard.</div>
       </div>
 
       <div style="margin-bottom:14px">
-        <div style="font-weight:600;color:var(--text);font-size:13px;margin-bottom:3px">② Doelen — een ladder, geen keuze</div>
-        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Per context en per bedrijf, in opgaande ladder. Eerst op bedrijfsniveau — een vieze sloot mag bestaan zolang het water het erf én de percelen schoon verlaat (nitraat, fosfaat); percelen met meer uitstoot mogen bestaan zolang elders genoeg koolstof wordt vastgehouden. Daarna op polderniveau — wat de ene boer niet haalt, kan een ander binnen hetzelfde peilvak compenseren tegen vergoeding. Daarna op collectiefniveau, waar de totale opgave wordt afgerekend. Bedrijfsniveau alleen werkt niet: ongelijke percelen en veendiktes maken individuele afrekening met één generieke norm onuitvoerbaar en onevenredig hard.</div>
+        <div style="font-weight:600;color:var(--text);font-size:13px;margin-bottom:3px">② Maatregelen</div>
+        <div style="color:var(--text2);font-size:12.5px;line-height:1.5">Vernatting tot 30 cm onder het maaiveld in het midden van het perceel. Verplicht en niet-onderhandelbaar, dezelfde als in akte II — maar het peil is het middel, niet het doel: gedifferentieerd per peilvak, met het hoogste peil in de meest afbraakgevoelige gebieden en rust waar het al nat ligt.</div>
       </div>
 
       <div style="margin-bottom:14px">

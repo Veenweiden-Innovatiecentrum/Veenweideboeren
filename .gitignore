@@ -1,5 +1,6 @@
 __pycache__/
 .playwright-mcp/
+.venv/
 
 # Geheimen en lokale koppelingen — nooit vastleggen
 .env*

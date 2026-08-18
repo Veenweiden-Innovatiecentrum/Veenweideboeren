@@ -103,12 +103,12 @@
     <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem;margin:1rem 0 1.5rem;overflow-x:auto">
       <svg viewBox="0 0 780 420" style="width:100%;display:block" xmlns="http://www.w3.org/2000/svg">
         <defs>
-          <marker id="arUp" markerWidth="7" markerHeight="5" refX="3.5" refY="0" orient="auto"><path d="M0,5 L3.5,0 L7,5" fill="#5C5A54"/></marker>
-          <marker id="arDn" markerWidth="7" markerHeight="5" refX="3.5" refY="5" orient="auto"><path d="M0,0 L3.5,5 L7,0" fill="#5C5A54"/></marker>
+          <marker id="arUp" markerWidth="7" markerHeight="5" refX="3.5" refY="0" orient="auto"><path d="M0,5 L3.5,0 L7,5" fill="#5C5A54"></path></marker>
+          <marker id="arDn" markerWidth="7" markerHeight="5" refX="3.5" refY="5" orient="auto"><path d="M0,0 L3.5,5 L7,0" fill="#5C5A54"></path></marker>
           <!-- Rood gearceerd: verborgen kosten -->
-          <pattern id="diagRed" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="2" height="6" fill="rgba(181,68,46,.2)"/></pattern>
+          <pattern id="diagRed" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="2" height="6" fill="rgba(181,68,46,.2)"></rect></pattern>
           <!-- Groen gearceerd: nieuwe waarden -->
-          <pattern id="diagGreen" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="2" height="6" fill="rgba(59,122,87,.25)"/></pattern>
+          <pattern id="diagGreen" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="2" height="6" fill="rgba(59,122,87,.25)"></rect></pattern>
         </defs>
 
         <!-- Baseline labels -->
@@ -124,21 +124,21 @@
         <text x="90" y="68" font-size="16">👤</text>
         <text x="110" y="68" font-size="16">👤</text>
         <text x="130" y="68" font-size="16" opacity="0.3">👤</text>
-        <line x1="133" y1="55" x2="143" y2="72" stroke="#B5442E" stroke-width="2"/>
+        <line x1="133" y1="55" x2="143" y2="72" stroke="#B5442E" stroke-width="2"></line>
         <text x="150" y="68" font-size="16" opacity="0.3">👤</text>
-        <line x1="153" y1="55" x2="163" y2="72" stroke="#B5442E" stroke-width="2"/>
+        <line x1="153" y1="55" x2="163" y2="72" stroke="#B5442E" stroke-width="2"></line>
 
         <!-- Kostenkolom -->
-        <rect x="65" y="90" width="52" height="170" rx="2" fill="#B5442E" opacity="0.1" stroke="#B5442E" stroke-width="1.5"/>
+        <rect x="65" y="90" width="52" height="170" rx="2" fill="#B5442E" opacity="0.1" stroke="#B5442E" stroke-width="1.5"></rect>
         <text x="91" y="185" text-anchor="middle" font-family="var(--font-body)" font-size="11" fill="#B5442E" font-weight="600" transform="rotate(-90,91,185)">KOSTEN</text>
 
         <!-- Opbrengstkolom (melk) -->
-        <rect x="127" y="80" width="52" height="180" rx="2" fill="#C49A1E" opacity="0.12" stroke="#C49A1E" stroke-width="1.5"/>
+        <rect x="127" y="80" width="52" height="180" rx="2" fill="#C49A1E" opacity="0.12" stroke="#C49A1E" stroke-width="1.5"></rect>
         <text x="153" y="180" text-anchor="middle" font-family="var(--font-body)" font-size="11" fill="#C49A1E" font-weight="600" transform="rotate(-90,153,180)">MELK</text>
 
         <!-- Winst -->
-        <rect x="127" y="80" width="52" height="10" rx="2" fill="#C49A1E" opacity="0.06"/>
-        <line x1="63" y1="90" x2="181" y2="90" stroke="rgba(0,0,0,.12)" stroke-width="1" stroke-dasharray="3 2"/>
+        <rect x="127" y="80" width="52" height="10" rx="2" fill="#C49A1E" opacity="0.06"></rect>
+        <line x1="63" y1="90" x2="181" y2="90" stroke="rgba(0,0,0,.12)" stroke-width="1" stroke-dasharray="3 2"></line>
         <text x="185" y="88" font-family="var(--font-body)" font-size="10" fill="#C49A1E" font-weight="600">winst</text>
         <text x="185" y="100" font-family="var(--font-body)" font-size="8" fill="#8A877F" font-style="italic">(dun)</text>
 
@@ -146,16 +146,16 @@
         <text x="187" y="175" font-family="var(--font-body)" font-size="8" fill="#8A877F" transform="rotate(90,187,175)">OPBRENGSTEN</text>
 
         <!-- Baseline -->
-        <line x1="55" y1="260" x2="200" y2="260" stroke="rgba(0,0,0,.2)" stroke-width="1.5"/>
+        <line x1="55" y1="260" x2="200" y2="260" stroke="rgba(0,0,0,.2)" stroke-width="1.5"></line>
 
         <!-- Verborgen kosten: ROOD gearceerd, alleen onder kostenkolom, GROOT -->
-        <rect x="65" y="265" width="52" height="55" rx="2" fill="url(#diagRed)" stroke="#B5442E" stroke-width="1" opacity="0.8"/>
+        <rect x="65" y="265" width="52" height="55" rx="2" fill="url(#diagRed)" stroke="#B5442E" stroke-width="1" opacity="0.8"></rect>
         <text x="91" y="290" text-anchor="middle" font-family="var(--font-body)" font-size="8" fill="#B5442E" font-weight="500">verborgen</text>
         <text x="91" y="300" text-anchor="middle" font-family="var(--font-body)" font-size="8" fill="#B5442E">kosten</text>
         <text x="91" y="313" text-anchor="middle" font-family="var(--font-body)" font-size="8" fill="#B5442E" font-weight="600">(groot)</text>
 
         <!-- Scheidslijn -->
-        <line x1="250" y1="40" x2="250" y2="380" stroke="rgba(0,0,0,.06)" stroke-width="1" stroke-dasharray="4 4"/>
+        <line x1="250" y1="40" x2="250" y2="380" stroke="rgba(0,0,0,.06)" stroke-width="1" stroke-dasharray="4 4"></line>
 
 
         <!-- ═══════════ AKTE 2 ═══════════ -->
@@ -166,36 +166,36 @@
         <text x="330" y="68" font-size="16">👤</text>
         <text x="350" y="68" font-size="16">👤</text>
         <text x="370" y="68" font-size="16" opacity="0.3">👤</text>
-        <line x1="373" y1="55" x2="383" y2="72" stroke="#B5442E" stroke-width="2"/>
+        <line x1="373" y1="55" x2="383" y2="72" stroke="#B5442E" stroke-width="2"></line>
         <text x="390" y="68" font-size="16" opacity="0.3">👤</text>
-        <line x1="393" y1="55" x2="403" y2="72" stroke="#B5442E" stroke-width="2"/>
+        <line x1="393" y1="55" x2="403" y2="72" stroke="#B5442E" stroke-width="2"></line>
         <text x="410" y="68" font-size="16" opacity="0.3">👤</text>
-        <line x1="413" y1="55" x2="423" y2="72" stroke="#B5442E" stroke-width="2"/>
+        <line x1="413" y1="55" x2="423" y2="72" stroke="#B5442E" stroke-width="2"></line>
 
         <!-- Kostenkolom — stijgt -->
-        <rect x="325" y="75" width="52" height="185" rx="2" fill="#B5442E" opacity="0.12" stroke="#B5442E" stroke-width="1.5"/>
+        <rect x="325" y="75" width="52" height="185" rx="2" fill="#B5442E" opacity="0.12" stroke="#B5442E" stroke-width="1.5"></rect>
         <text x="351" y="175" text-anchor="middle" font-family="var(--font-body)" font-size="11" fill="#B5442E" font-weight="600" transform="rotate(-90,351,175)">KOSTEN</text>
-        <line x1="351" y1="73" x2="351" y2="83" stroke="#5C5A54" stroke-width="1.5" marker-start="url(#arUp)"/>
+        <line x1="351" y1="73" x2="351" y2="83" stroke="#5C5A54" stroke-width="1.5" marker-start="url(#arUp)"></line>
 
         <!-- Opbrengstkolom (melk) — krimpt -->
-        <rect x="387" y="115" width="52" height="145" rx="2" fill="#C49A1E" opacity="0.1" stroke="#C49A1E" stroke-width="1.5" stroke-dasharray="4 2"/>
+        <rect x="387" y="115" width="52" height="145" rx="2" fill="#C49A1E" opacity="0.1" stroke="#C49A1E" stroke-width="1.5" stroke-dasharray="4 2"></rect>
         <text x="413" y="195" text-anchor="middle" font-family="var(--font-body)" font-size="11" fill="#C49A1E" font-weight="500" transform="rotate(-90,413,195)">MELK ↓</text>
-        <line x1="413" y1="112" x2="413" y2="122" stroke="#5C5A54" stroke-width="1.5" marker-end="url(#arDn)"/>
+        <line x1="413" y1="112" x2="413" y2="122" stroke="#5C5A54" stroke-width="1.5" marker-end="url(#arDn)"></line>
 
         <!-- Geen winst -->
-        <line x1="325" y1="115" x2="441" y2="115" stroke="rgba(0,0,0,.15)" stroke-width="1" stroke-dasharray="3 3"/>
+        <line x1="325" y1="115" x2="441" y2="115" stroke="rgba(0,0,0,.15)" stroke-width="1" stroke-dasharray="3 3"></line>
         <text x="448" y="113" font-family="var(--font-body)" font-size="9" fill="#B5442E" font-weight="600">geen winst</text>
 
         <!-- Baseline -->
-        <line x1="315" y1="260" x2="460" y2="260" stroke="rgba(0,0,0,.2)" stroke-width="1.5"/>
+        <line x1="315" y1="260" x2="460" y2="260" stroke="rgba(0,0,0,.2)" stroke-width="1.5"></line>
 
         <!-- Verborgen kosten: ROOD gearceerd, alleen onder kostenkolom, KLEINER -->
-        <rect x="325" y="265" width="52" height="35" rx="2" fill="url(#diagRed)" stroke="#B5442E" stroke-width="1" opacity="0.8"/>
+        <rect x="325" y="265" width="52" height="35" rx="2" fill="url(#diagRed)" stroke="#B5442E" stroke-width="1" opacity="0.8"></rect>
         <text x="351" y="282" text-anchor="middle" font-family="var(--font-body)" font-size="7" fill="#B5442E" font-weight="500">verborgen</text>
         <text x="351" y="292" text-anchor="middle" font-family="var(--font-body)" font-size="7" fill="#B5442E">kosten ↓</text>
 
         <!-- Scheidslijn -->
-        <line x1="510" y1="40" x2="510" y2="380" stroke="rgba(0,0,0,.06)" stroke-width="1" stroke-dasharray="4 4"/>
+        <line x1="510" y1="40" x2="510" y2="380" stroke="rgba(0,0,0,.06)" stroke-width="1" stroke-dasharray="4 4"></line>
 
 
         <!-- ═══════════ AKTE 3 ═══════════ -->
@@ -208,41 +208,41 @@
         <text x="650" y="68" font-size="16">👤</text>
 
         <!-- Kostenkolom — lager door low-input -->
-        <rect x="575" y="110" width="52" height="150" rx="2" fill="#3ea635" opacity="0.08" stroke="#3ea635" stroke-width="1.5"/>
+        <rect x="575" y="110" width="52" height="150" rx="2" fill="#3ea635" opacity="0.08" stroke="#3ea635" stroke-width="1.5"></rect>
         <text x="601" y="195" text-anchor="middle" font-family="var(--font-body)" font-size="11" fill="#3ea635" font-weight="600" transform="rotate(-90,601,195)">KOSTEN</text>
         <!-- Stippellijn waar kosten in akte I waren -->
-        <line x1="573" y1="90" x2="629" y2="90" stroke="rgba(0,0,0,.1)" stroke-width="1" stroke-dasharray="3 3"/>
+        <line x1="573" y1="90" x2="629" y2="90" stroke="rgba(0,0,0,.1)" stroke-width="1" stroke-dasharray="3 3"></line>
         <text x="555" y="100" font-family="var(--font-body)" font-size="8" fill="#3ea635" text-anchor="end">low input:</text>
         <text x="555" y="110" font-family="var(--font-body)" font-size="8" fill="#3ea635" text-anchor="end">kosten ↓</text>
 
         <!-- Opbrengstkolom GESTAPELD -->
         <!-- Melk (kleiner) -->
-        <rect x="637" y="155" width="52" height="105" rx="0 0 2 2" fill="#C49A1E" opacity="0.12" stroke="#C49A1E" stroke-width="1.5"/>
+        <rect x="637" y="155" width="52" height="105" rx="0 0 2 2" fill="#C49A1E" opacity="0.12" stroke="#C49A1E" stroke-width="1.5"></rect>
         <text x="663" y="215" text-anchor="middle" font-family="var(--font-body)" font-size="10" fill="#C49A1E" font-weight="500" transform="rotate(-90,663,215)">melk</text>
 
         <!-- Maatschappelijke diensten (bovenop) -->
-        <rect x="637" y="55" width="52" height="100" rx="2 2 0 0" fill="#3ea635" opacity="0.15" stroke="#3ea635" stroke-width="1.5"/>
+        <rect x="637" y="55" width="52" height="100" rx="2 2 0 0" fill="#3ea635" opacity="0.15" stroke="#3ea635" stroke-width="1.5"></rect>
         <text x="663" y="105" text-anchor="middle" font-family="var(--font-body)" font-size="10" fill="#3ea635" font-weight="600" transform="rotate(-90,663,105)">maatschappelijke diensten</text>
 
         <!-- Scheidslijn melk/diensten -->
-        <line x1="637" y1="155" x2="689" y2="155" stroke="#3ea635" stroke-width="1" stroke-dasharray="2 2"/>
+        <line x1="637" y1="155" x2="689" y2="155" stroke="#3ea635" stroke-width="1" stroke-dasharray="2 2"></line>
 
         <!-- Winst terug -->
-        <line x1="573" y1="110" x2="691" y2="110" stroke="rgba(0,0,0,.12)" stroke-width="1" stroke-dasharray="3 2"/>
-        <rect x="637" y="55" width="52" height="55" rx="2 2 0 0" fill="#3ea635" opacity="0.05"/>
+        <line x1="573" y1="110" x2="691" y2="110" stroke="rgba(0,0,0,.12)" stroke-width="1" stroke-dasharray="3 2"></line>
+        <rect x="637" y="55" width="52" height="55" rx="2 2 0 0" fill="#3ea635" opacity="0.05"></rect>
         <text x="698" y="63" font-family="var(--font-body)" font-size="10" fill="#3ea635" font-weight="600">winst terug</text>
         <text x="698" y="76" font-family="var(--font-body)" font-size="8" fill="#3ea635">uit diensten +</text>
         <text x="698" y="87" font-family="var(--font-body)" font-size="8" fill="#3ea635">lagere kosten</text>
 
         <!-- Baseline -->
-        <line x1="565" y1="260" x2="705" y2="260" stroke="rgba(0,0,0,.2)" stroke-width="1.5"/>
+        <line x1="565" y1="260" x2="705" y2="260" stroke="rgba(0,0,0,.2)" stroke-width="1.5"></line>
 
         <!-- Verborgen kosten: ROOD gearceerd, alleen onder kostenkolom, HEEL DUN -->
-        <rect x="575" y="265" width="52" height="10" rx="2" fill="url(#diagRed)" stroke="#B5442E" stroke-width="0.5" opacity="0.5"/>
+        <rect x="575" y="265" width="52" height="10" rx="2" fill="url(#diagRed)" stroke="#B5442E" stroke-width="0.5" opacity="0.5"></rect>
         <text x="601" y="288" text-anchor="middle" font-family="var(--font-body)" font-size="7" fill="#B5442E">≈ 0</text>
 
         <!-- Nieuwe waarden: GROEN gearceerd, onder opbrengstenkolom -->
-        <rect x="637" y="265" width="52" height="40" rx="2" fill="url(#diagGreen)" stroke="#3ea635" stroke-width="1.5"/>
+        <rect x="637" y="265" width="52" height="40" rx="2" fill="url(#diagGreen)" stroke="#3ea635" stroke-width="1.5"></rect>
         <text x="663" y="282" text-anchor="middle" font-family="var(--font-body)" font-size="8" fill="#3ea635" font-weight="500">nieuwe</text>
         <text x="663" y="292" text-anchor="middle" font-family="var(--font-body)" font-size="8" fill="#3ea635" font-weight="500">waarden</text>
         <text x="698" y="278" font-family="var(--font-body)" font-size="7" fill="#3ea635">overheid investeert</text>
@@ -259,9 +259,9 @@
         <text x="645" y="357" text-anchor="middle" font-family="var(--font-body)" font-size="9" fill="#3ea635">verborgen kosten → nieuwe waarden</text>
 
         <!-- Legenda -->
-        <rect x="55" y="385" width="12" height="8" rx="1" fill="url(#diagRed)" stroke="#B5442E" stroke-width="0.5"/>
+        <rect x="55" y="385" width="12" height="8" rx="1" fill="url(#diagRed)" stroke="#B5442E" stroke-width="0.5"></rect>
         <text x="72" y="393" font-family="var(--font-body)" font-size="8" fill="#8A877F">verborgen kosten (overheid)</text>
-        <rect x="250" y="385" width="12" height="8" rx="1" fill="url(#diagGreen)" stroke="#3ea635" stroke-width="0.5"/>
+        <rect x="250" y="385" width="12" height="8" rx="1" fill="url(#diagGreen)" stroke="#3ea635" stroke-width="0.5"></rect>
         <text x="267" y="393" font-family="var(--font-body)" font-size="8" fill="#8A877F">nieuwe waarden (bewuste investering)</text>
 
       </svg>

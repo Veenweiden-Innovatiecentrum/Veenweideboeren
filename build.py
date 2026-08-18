@@ -140,6 +140,13 @@ verversen laat de laatste stand zien.</p>
 </html>
 '''
     open(f'{VERGELIJK}/index.html', 'w', encoding='utf-8').write(html)
+    # Korte adressen, zodat /1 en /2 te onthouden en te bookmarken zijn.
+    for kort, doel in (('1', HUIDIGE), ('2', HERZIENE)):
+        if os.path.exists(doel):
+            open(f'{VERGELIJK}/{kort}.html', 'w', encoding='utf-8').write(
+                '<!DOCTYPE html><html lang="nl"><head><meta charset="UTF-8">'
+                f'<meta http-equiv="refresh" content="0; url={urllib.parse.quote(os.path.basename(doel))}">'
+                '</head><body></body></html>\n')
 
 
 def build_hoofdstuk(sid):

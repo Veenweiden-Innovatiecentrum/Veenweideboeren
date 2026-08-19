@@ -61,6 +61,7 @@ Zestien stappen. Klik door het verhaal — elke stap bouwt voort op de vorige. O
 <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.08);border-left:3px solid var(--accent);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 2rem;font-size:13.5px;line-height:1.65">
     <strong style="display:block;margin-bottom:8px;font-size:14px">Voor wie is dit document?</strong>
     <p style="margin:0 0 .75rem"><strong>Voor boeren</strong> — wie tevreden is met de huidige bedrijfsvoering en zijn opgaven binnen het bestaande model haalt: prima. Geen religie, geen opgedrongen verhaal. Maar wie de bui ziet hangen — een perceel dat te nat wordt, krimpende stikstofruimte, een melkprijs die het niet meer dekt — voor die ondernemer is dit een aanbod. Niet "zo moet u het gaan doen", maar "zo zou het kunnen worden, als u het wilt".</p>
+    <p style="margin:0 0 .75rem"><strong>Veenweideboer is dan ook geen categorie waarin u wel of niet valt, maar een schaal waarop u zelf een plek kiest.</strong> Iedereen die op veen boert is veenweideboer. Aan de ene kant van de schaal staat melk, met het landbeheer dat er nu al bij hoort zonder dat iemand ervoor betaalt. Aan de andere kant staat een bedrijf zonder koeien, waar maatschappelijke diensten het hele product zijn. Daartussen ligt alles, en elke plek is een goede plek. Sommige ondernemers schuiven omdat zij er kansen in zien, andere omdat de omstandigheden hun geen keuze laten en zij die dwang omzetten in iets dat wél iets oplevert. Wat wij vragen is dat dat schuiven mogelijk wordt — niet dat er geschoven wordt.</p>
     <p style="margin:0 0 .75rem"><strong>Voor overheden</strong> — voor de gebieden waar reguliere melkveehouderij houdbaar blijft, hoeft dit document niet leidend te zijn. Voor de gebieden waar dat niet zo is, biedt het een alternatief voor de twee routes die nu overblijven: doorgaan zoals het is, of uitkopen. De opdracht aan de overheid is daarmee scherper, niet zwaarder: schep het kader waarin het verdienmodel van de veenweideboer kan ontstaan. Wat mag kost weinig en werkt alleen als het breed geldt; wat betaalt landt smal, daar waar het nodig is.</p>
     <div style="padding-top:.85rem;border-top:1px solid rgba(0,0,0,.08)">
       <strong style="display:block;margin-bottom:8px;font-size:14px">Wat voor soort document is dit?</strong>
@@ -307,7 +308,7 @@ Die rekensom geldt voor elk bedrijf dat de veedichtheid verlaagt. Het verschil z
     <li><strong>Dunne veenpakketten met hydrologische functie</strong> — gebieden waar het veen als kurk op de fles functioneert. Verdwijning beïnvloedt regionale grondwaterstromen (bijv. Fries plateau)</li>
   </ul>
 
-Deze gebieden liggen niet als aaneengesloten blokken op de kaart. Vernatting valt als hagelslag: delen van percelen, niet hele bedrijven. En waar geen van deze kenmerken speelt, is een ander bedrijfsmodel ook niet nodig.{{fiche:Tegenvoorbeeld|Een polder in Friesland met een kleidek op het veen, geen Natura 2000 in de buurt, nauwelijks kwel en beperkte bodemdaling. Daar kan een melkveehouder prima door met een aangepast bedrijf. Doelsturing op stikstof en waterkwaliteit geldt er gewoon, maar een fundamenteel ander bedrijfsmodel is er niet nodig.|Het onderscheid doet werk: niet elk bedrijf op veen heeft een ander bedrijfsmodel nodig. Het gaat om de gebieden waar de reguliere weg doodloopt.}}
+Deze gebieden liggen niet als aaneengesloten blokken op de kaart. Vernatting valt als hagelslag: delen van percelen, niet hele bedrijven. En waar geen van deze kenmerken speelt, is een ander bedrijfsmodel ook niet nodig: op een polder met een kleidek op het veen, weinig kwel en geen Natura 2000 in de buurt kan een melkveehouder prima door met een aangepast bedrijf.{{fiche:Tegenvoorbeeld|Zo'n polder ligt bijvoorbeeld in Friesland: kleidek op het veen, geen Natura 2000 in de buurt, nauwelijks kwel en beperkte bodemdaling. Doelsturing op stikstof en waterkwaliteit geldt er gewoon, maar een fundamenteel ander bedrijfsmodel is er niet nodig.|Het onderscheid doet werk: niet elk bedrijf op veen heeft een ander bedrijfsmodel nodig. Het gaat om de gebieden waar de reguliere weg doodloopt.}}
 
 **Het scherpst is het waar die vormen van druk samenkomen**, want zij werken niet op dezelfde schaal. De grondwaterstand is per perceel te regelen: vernatten waar dat moet, en op het droge deel doorgaan met melkvee. Stikstof niet, want vee, voer en stal zijn niet per perceel te verlagen; dat raakt het bedrijf in één keer. Zulke verspreide vernatting is dus te dragen, zolang stikstof niet óók klemt. **In en tegen Natura 2000 klemmen ze samen**, en daar is stikstof het doorslaggevende dossier dat reguliere melkveehouderij onhoudbaar maakt. Hoeveel hectares per bedrijf het raakt is sterk plaatsgebonden en niet in algemene termen te kwantificeren.
 
@@ -707,6 +708,27 @@ De veenweideboer is een nieuwe typologie: niet een reguliere melkveehouder met b
       </div>
     </div>
   </div>
+
+### Veenweideboer is een schaal, geen categorie
+
+Iedereen die op veen boert is veenweideboer. Dat is geen concessie maar het uitgangspunt: dit document maakt van de term geen keurmerk waar je in of buiten valt, maar een schaal waarop de ondernemer zelf een plek kiest. En die schaal begint niet bij nul. Vrijwel elk bedrijf op veen levert nu al beheer waarvoor niemand betaalt: sloten schoonhouden, het landschap onderhouden, een perceel dat later gemaaid wordt voor de vogels. Het verschil tussen de posities is dus niet óf er iets geleverd wordt, maar hoeveel, en of er een prijs op staat.
+
+<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:1.25rem 0 .5rem">
+    <div class="decision-card"><div class="label">waar vrijwel elk bedrijf staat</div><div class="title">Melk, met onbeprijsd beheer</div><div class="why">Het bedrijf leeft van melk. Het beheer dat erbij hoort levert niets op, of niet meer dan een vergoeding van de kosten.</div></div>
+    <div class="decision-card"><div class="label">een eerste stap</div><div class="title">Melk, met een betaalde dienst erbij</div><div class="why">Een enkel perceel levert iets waarvoor een contract bestaat: weidevogelbeheer, water bergen op de laagste hoek. Melk blijft de basis.</div></div>
+    <div class="decision-card"><div class="label">het model van dit hoofdstuk</div><div class="title">Melk als één van meerdere producten</div><div class="why">Een lagere veedichtheid, en daarnaast water, koolstof, biodiversiteit of landschap als betaald product.</div></div>
+    <div class="decision-card"><div class="label">het uiterste eind</div><div class="title">Geen koeien, diensten als heel product</div><div class="why">Waar vee niet meer kan, wordt de dienst het bedrijf: natte teelt, natuurbeheer, waterberging. Zie de 10.000 hectare in hoofdstuk 1.</div></div>
+  </div>
+
+<div style="display:flex;align-items:center;gap:12px;margin:0 0 1.5rem;font-family:var(--font-sans);font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--text3)">
+    <span>voedsel</span>
+    <div style="flex:1;height:4px;border-radius:2px;background:linear-gradient(90deg,var(--accent),var(--blue))"></div>
+    <span>maatschappelijke diensten</span>
+  </div>
+
+Waaróm een ondernemer schuift, verschilt. De een ziet een kans en pakt die. De ander heeft geen keuze meer omdat de plek het dicteert, en zet die dwang om in iets dat wél iets oplevert. Dat zijn twee schalen die niet samenvallen: hoe hard de plek drukt, en hoeveel de ondernemer ermee wil. Waar zij samenvallen is er geen keuze meer. Waar zij uiteenlopen ligt een kans zonder dwang, en dat is wat dit document aanbiedt.
+
+Daarom hoeft de grens ook niet op de kaart getrokken te worden. De betaling volgt de dienst en niet de naam: wie levert, wordt betaald, en wie niets levert, hoeft niets.
 
 ### Waarom veenweideboeren, en niet veenweidelandbouw?
 

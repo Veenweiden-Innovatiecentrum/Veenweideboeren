@@ -25,7 +25,7 @@ De volgorde in dit register is de volgorde van `volgorde.txt`. Hoofdstukken die 
 | c-omslag | 5 | 1 | herzien; **markeringen 19-8 uit de tekst gehaald, drie bronnen en één getal nog toe te voegen** — de lijst staat in `correctielijst.md` onder c-omslag |
 | e-aktes | 6, 7 | 2 | nog de bestuursversie; akte III is 19-8 eruit gehaald naar `akte-3.md` |
 | akte-3 | 8 | 1 | herzien; open punt in de correctielijst: tweede pijl voor de markt in het kernbeeld, beeldwerk |
-| d-concept | 9 | 3 | nog de bestuursversie |
+| d-concept | 9 | 3 | bestuursversie, met één nieuwe sectie vooraan: "veenweideboer is een schaal, geen categorie" (19-8) |
 | f-ondernemer | 10 | 3 | nog de bestuursversie |
 | f-overheid | 11 | 3 | nog de bestuursversie |
 | f3-bedrijfsleven | 12 | 3 | nog de bestuursversie, groeit naar een volwaardig hoofdstuk |

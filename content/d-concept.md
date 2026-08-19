@@ -69,6 +69,27 @@ De veenweideboer is een nieuwe typologie: niet een reguliere melkveehouder met b
     </div>
   </div>
 
+### Veenweideboer is een schaal, geen categorie
+
+Iedereen die op veen boert is veenweideboer. Dat is geen concessie maar het uitgangspunt: dit document maakt van de term geen keurmerk waar je in of buiten valt, maar een schaal waarop de ondernemer zelf een plek kiest. En die schaal begint niet bij nul. Vrijwel elk bedrijf op veen levert nu al beheer waarvoor niemand betaalt: sloten schoonhouden, het landschap onderhouden, een perceel dat later gemaaid wordt voor de vogels. Het verschil tussen de posities is dus niet óf er iets geleverd wordt, maar hoeveel, en of er een prijs op staat.
+
+<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:1.25rem 0 .5rem">
+    <div class="decision-card"><div class="label">waar vrijwel elk bedrijf staat</div><div class="title">Melk, met onbeprijsd beheer</div><div class="why">Het bedrijf leeft van melk. Het beheer dat erbij hoort levert niets op, of niet meer dan een vergoeding van de kosten.</div></div>
+    <div class="decision-card"><div class="label">een eerste stap</div><div class="title">Melk, met een betaalde dienst erbij</div><div class="why">Een enkel perceel levert iets waarvoor een contract bestaat: weidevogelbeheer, water bergen op de laagste hoek. Melk blijft de basis.</div></div>
+    <div class="decision-card"><div class="label">het model van dit hoofdstuk</div><div class="title">Melk als één van meerdere producten</div><div class="why">Een lagere veedichtheid, en daarnaast water, koolstof, biodiversiteit of landschap als betaald product.</div></div>
+    <div class="decision-card"><div class="label">het uiterste eind</div><div class="title">Geen koeien, diensten als heel product</div><div class="why">Waar vee niet meer kan, wordt de dienst het bedrijf: natte teelt, natuurbeheer, waterberging. Zie de 10.000 hectare in hoofdstuk 1.</div></div>
+  </div>
+
+<div style="display:flex;align-items:center;gap:12px;margin:0 0 1.5rem;font-family:var(--font-sans);font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--text3)">
+    <span>voedsel</span>
+    <div style="flex:1;height:4px;border-radius:2px;background:linear-gradient(90deg,var(--accent),var(--blue))"></div>
+    <span>maatschappelijke diensten</span>
+  </div>
+
+Waaróm een ondernemer schuift, verschilt. De een ziet een kans en pakt die. De ander heeft geen keuze meer omdat de plek het dicteert, en zet die dwang om in iets dat wél iets oplevert. Dat zijn twee schalen die niet samenvallen: hoe hard de plek drukt, en hoeveel de ondernemer ermee wil. Waar zij samenvallen is er geen keuze meer. Waar zij uiteenlopen ligt een kans zonder dwang, en dat is wat dit document aanbiedt.
+
+Daarom hoeft de grens ook niet op de kaart getrokken te worden. De betaling volgt de dienst en niet de naam: wie levert, wordt betaald, en wie niets levert, hoeft niets.
+
 ### Waarom veenweideboeren, en niet veenweidelandbouw?
 
 De naam is een bewuste keuze, en geen kosmetische. De term bestaat bovendien al — iedereen die op veen boert noemt zich veenweideboer. Dit document laadt hem bewust opnieuw: van geografische aanduiding naar bedrijfsmodel. *Veenweidelandbouw* suggereert een afgeleide van het bestaande landbouwsysteem, een beetje vergroend, met wat extra beperkingen. Maar zodra je het landbouw noemt, sluit de juridische definitie de helft van de oplossing buiten. Wilgen planten, wateropslag aanbieden, natuur beheren als dienst, recreatieve voorzieningen, wonen bij de boer, zorg op de boerderij: dat valt buiten het GLB-begrip 'landbouw' en buiten de landbouwbestemming in het omgevingsplan. Juist de activiteiten die het meest bijdragen aan de opgaves worden door die definitie buitengesloten. Dat is geen filosofische voorkeur, het is een juridische blokkade.

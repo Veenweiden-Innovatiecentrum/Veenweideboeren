@@ -29,6 +29,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ### 1.1 Wat dit document voorstelt
 - dit gebied kan meer maatschappelijke opgaven dragen dan voedsel alleen, en dat vermogen zit in de ondernemer `[tekst · auteurs]`
+- **in het openingskader, bij "voor boeren": veenweideboer is geen categorie maar een schaal**, van melk met onbeprijsd beheer tot diensten als heel product, en elke plek erop is goed. Wij vragen dat schuiven mogelijk wordt, niet dat er geschoven wordt `[kader · nieuw]` Tim, 19-8; de uitwerking staat in 9.2
 - wie dit zegt en waarom: het VIC, de statutaire missie, de ambitie, JUMP `[kader]`
 - de urgentie: deze ondernemers zitten nu al klem, en wie stopt komt niet terug `[tekst · nieuw]`
 
@@ -217,15 +218,22 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - geen melkveehouder met beperkingen, maar een bedrijf dat voedsel levert én betaald wordt voor wat het aan de samenleving levert `[tekst · auteurs]`
 - drie bronnen van inkomen: vee houden met een lagere veedichtheid, het bedrijf optimaliseren, en nieuwe inkomstenstromen openen `[tekst · auteurs]`
 
-### 9.2 Wie de veenweideboer is
+### 9.2 Veenweideboer is een schaal, geen categorie
+*Nieuw, 19-8 (Tim). Dit is het antwoord op de vraag die de titel oproept: gaat dit over mij? Iedereen die op veen boert is veenweideboer; het verschil zit in hoeveel er naast het vee gebeurt en of dat betaald wordt. Zonder deze sectie leest het document als een categorie waarin je wel of niet valt, en dat is het niet — de grens loopt door bedrijven heen (1.3).*
+- **de schaal begint niet bij nul**, en dat is het punt: vrijwel elk bedrijf op veen levert al beheer waarvoor niemand betaalt. De vier posities van melk-met-onbeprijsd-beheer tot diensten-als-heel-product `[kaarten · nieuw]` decision-card, vier gelijkvormige blokken met een as eronder
+- **twee schalen die niet samenvallen:** de plek dwingt, de ondernemer kiest. Waar ze samenvallen is er geen keuze meer; waar ze uiteenlopen is er een kans zonder dwang. Gedwongen omstandigheden zijn om te zetten in een kans, en dat is wat dit document aanbiedt `[tekst · nieuw]`
+- **de betaling volgt de dienst, niet de naam.** Daarom hoeft de grens niet op de kaart getrokken te worden: dat is breed kader, smal geld, toegepast op de identiteit `[tekst · nieuw]` één regel, en het antwoord op de begrotingsvraag
+
+### 9.3 Wie de dragende groep is
 - het familiebedrijf van 40 tot 80 hectare met 80 tot 130 koeien, de middengroep uit hoofdstuk 3 `[tabel · auteurs]`
 - de ondernemer die op veen woont en werkt, en die dit zelf wil `[tekst · auteurs]`
 
-### 9.3 Waarom veenweideboeren en niet veenweidelandbouw
+### 9.4 Waarom veenweideboeren en niet veenweidelandbouw
 - de ondernemer staat centraal, niet de productiemethode `[tekst · auteurs]`
+- de term bestaat al en wordt hier opnieuw geladen: van geografische aanduiding naar bedrijfsmodel `[tekst · auteurs]` — staat er al in de bestuursversie en is de opmaat naar 9.2
 - verander het uitgangspunt en de uitkomst verandert `[tekst · auteurs]`
 
-### 9.4 Twee aanscherpingen
+### 9.5 Twee aanscherpingen
 - niet extensief, maar meervoudig intensief `[tekst · auteurs]`
 - "natuurinclusief" is twee verschillende dingen `[tekst · auteurs]`
 
@@ -308,7 +316,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 > Vier routes: veenweideboer worden, iets nieuws erbij doen, doorgaan zoals het is, of stoppen. Dit is het enige hoofdstuk dat de ondernemer direct aanspreekt, met drie archetypen waarin hij zich kan herkennen. Erkenning eerst, dan een bod.
 
 ### 13.1 Vier routes
-- veenweideboer worden · nieuwe activiteiten ontwikkelen · doorgaan zoals het is · stoppen `[kaarten · auteurs]`
+- veenweideboer worden · nieuwe activiteiten ontwikkelen · doorgaan zoals het is · stoppen `[kaarten · auteurs]` — **expliciet koppelen aan de schaal uit 9.2**: dit zijn dezelfde posities, nu als keuze van de ondernemer in plaats van als definitie (Tim, 19-8). "Veenweideboer worden" kan dan niet meer als aparte route heten, want dat is de lezer al
 - de transitie als het bedrijf toekomstbestendig maken voor de volgende generatie `[tekst · nieuw]` besluit 17-8
 
 ### 13.2 Drie archetypen: hoe verschillende ondernemers het invullen

@@ -50,7 +50,7 @@ function Skelet({ h }) {
           <p style={{ margin: '0 0 8px', fontFamily: 'var(--font-sans)', fontSize: 11,
                       textTransform: 'uppercase', letterSpacing: '.07em', color: 'var(--accent2)',
                       fontWeight: 600 }}>
-            skelet · {b.nummer} — {b.titel}{b.stand ? ' · ' + b.stand : ''}
+            skelet · {b.deel ? b.deel + ' · ' : ''}{b.nummer} — {b.titel}{b.stand ? ' · ' + b.stand : ''}
           </p>
           {b.secties.map((s) => (
             <div key={s.kop} style={{ margin: '0 0 8px' }}>

@@ -17,6 +17,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
+# Deel I — Vooraf
+
 ## 1 — Waar dit over gaat · bron: scope · ronde 1 · af
 
 ### 1.1 Wat dit document voorstelt
@@ -48,6 +50,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - per aanname: wat wij zien, en wat er moet gebeuren om het te laten werken `[kaarten]`
 
 ---
+
+# Deel II — Wat er aan de hand is
 
 ## 3 — Waarom de ondernemer klem zit (A — De ondernemer klem) · bron: a-klem · ronde 2
 
@@ -106,6 +110,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
+# Deel III — Hoe het kan lopen
+
 ## 6 — Wat er gebeurt als het zo doorgaat (akte I — doorgaan) · bron: e-aktes · ronde 2
 
 ### 6.1 Wat er gebeurt als het systeem niet verandert
@@ -157,7 +163,9 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 9 — De veenweideboer (D) · bron: d-concept · ronde 3
+# Deel IV — Veenweideboeren
+
+## 9 — Het bedrijfsmodel (D — De veenweideboer) · bron: d-concept · ronde 3
 
 ### 9.1 Wie de veenweideboer is
 - geen melkveehouder met beperkingen, maar een ondernemer met een ander bedrijfsmodel `[tekst · auteurs]`
@@ -252,6 +260,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - niet de overheid die oplegt, maar de ondernemer die biedt `[tekst · auteurs]`
 
 ---
+
+# Deel V — Sluitstukken
 
 ## 14 — Waar het mis kan gaan (H — Risico's) · bron: h-risicos · ronde 4
 

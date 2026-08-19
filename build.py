@@ -116,13 +116,17 @@ def lees_skelet():
     pad = 'richtlijnen/skelet.md'
     if not os.path.exists(pad):
         return {}
-    skelet, nu, sectie = {}, None, None
+    skelet, nu, sectie, deel = {}, None, None, ''
     for regel in open(pad, encoding='utf-8'):
         r = regel.rstrip()
+        m = re.match(r'# (Deel .+)$', r)
+        if m:
+            deel = m.group(1)
+            continue
         m = re.match(r'## (\d+) — (.+?)(?: · bron: (\S+))?(?: · (.+))?$', r)
         if m:
             nu = {'nummer': m.group(1), 'titel': m.group(2), 'bron': m.group(3) or '',
-                  'stand': m.group(4) or '', 'secties': [], 'noot': ''}
+                  'stand': m.group(4) or '', 'deel': deel, 'secties': [], 'noot': ''}
             skelet[m.group(1)] = nu
             sectie = None
             continue
@@ -135,11 +139,11 @@ def lees_skelet():
             continue
         m = re.match(r'- (.*?)\s*`\[(.*?)\]`\s*(.*)$', r)
         if m and sectie is not None:
-            deel = [d.strip() for d in m.group(2).split('·')]
+            vorm = [d.strip() for d in m.group(2).split('·')]
             sectie['elementen'].append({
                 't': m.group(1).strip(),
-                'v': deel[0],
-                'h': deel[1] if len(deel) > 1 else '',
+                'v': vorm[0],
+                'h': vorm[1] if len(vorm) > 1 else '',
                 'n': m.group(3).strip(),
             })
             continue

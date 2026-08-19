@@ -125,7 +125,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 *Deze sectie is 19-8 teruggebracht tot de opening en de tabel. Drie alinea's zijn naar 5.3 verhuisd, want zij zeggen waarom er betaald zou moeten worden en dat is de rechtvaardiging, niet de waarneming (Tim: "dan zijn we allerlei dingen al aan het beschrijven die in 5.3 moeten komen").*
 
-### 5.2 Wat deze hectare nog meer kan leveren
+### 5.2 Waar deze opgaven een product kunnen worden
+- **de opening zegt waar de kans zit, en dat is niet "nog meer":** de zeven opgaven staan nog open, en drie ervan zijn niet alleen een opgave maar ook een product, met een afnemer buiten het gebied die een eigen belang en een eigen begroting heeft `[tekst · nieuw]` Tim, 19-8: koolstof, biodiversiteit en water zijn precies de antwoorden op die zeven opgaven, dus "daarnaast valt er meer te leveren" leest als herhaling van hoofdstuk 4. De kern is dat er nu een kans staat dat die opgaven wél vervuld worden
 - **één keer vooraf:** dit zijn richtingen die in JUMP verkend worden en die nog niet zijn uitgekristalliseerd; daarmee kan het voorbehoud per stuk weg `[tekst · nieuw]` Tim, 19-8
 - CO₂-compensatie voor de akkerbouw, met vermeden uitstoot en vastlegging apart `[tekst · auteurs]`
 - biodiversiteit **verbouwen** in plaats van ontzien, met drie soorten afnemers, en met de landbouwstatus als harde voorwaarde `[tekst + fiche · nieuw]` uit JUMP-concept 4a, Biodivers Veen (Tim, 19-8)
@@ -133,7 +134,6 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ### 5.3 Waarom betalen, en waarom deze ondernemers
 - **waarom uit publieke middelen:** niet omdat zij het moeilijk hebben maar omdat zij een publieke dienst leveren, en dat is geen radicale koerswijziging want de nutsfunctie van de landbouw wordt alleen breder `[tekst · auteurs · verhuisd]` uit 5.1, Tim 19-8
-- **het vermogen om dat te leveren zit bij de ondernemer:** de opgaven worden pas bereikbaar als hij of zij er een verdienmodel in ziet, en werken aan de opgaven moet de overlevingskans van het bedrijf vergroten in plaats van bedreigen `[tekst · auteurs · verhuisd]` uit 5.1. **De verdedigende openingszin is eruit:** "de boer is niet het probleem, de boer is de motor" weerlegt een verwijt dat dit document nergens maakt (Tim, 19-8), en hoofdstuk 3 zegt dat het zwaar is voor de ondernemer, niet dat hij het probleem is
 - **waarom hier:** geen exclusiviteit, want water bergen kan op klei ook; het verschil zit in het alternatief, dat hier geen landbouw is; en de tegenwerping "maak er dan helemaal natuur van" wordt weerlegd `[tekst · auteurs + nieuw]`
 - **het slot is de ruimtedruk:** uitzonderlijk is dit gebied niet, wel honderdduizenden hectares waarvan één product wordt afgerekend, en wat er met die ruimte gebeurt wordt de komende jaren beslist `[tekst · verhuisd]` uit 5.1
 
@@ -146,7 +146,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 ### 5.5 En dit gaat niet op vrijwilligheid
 - wat er vandaag al gebeurt, gebeurt onverplicht: het beheer staat in geen contract, er wordt wél om gevraagd, en het is niet gratis want het wordt betaald uit de marge van een melkveebedrijf `[tekst · verhuisd]` uit het oude 4.2
 - daarom een ondernemer en geen vrijwilliger of beheerder op afstand: het valt samen met werk dat toch al gebeurt, dus het is fijnmazig en goedkoop `[tekst · verhuisd]` uit het oude 4.2
-- maar koolstof vasthouden en water bergen kunnen niet uit die marge komen, want die grijpen in de bedrijfsvoering in en kosten productie. Dus geen liefhebberij erbij: zonder verdienmodel kan een bedrijf dit niet dragen `[tekst · verhuisd + nieuw]` de slotzin is de opstap naar de aktes
+- maar koolstof vasthouden en water bergen kunnen niet uit die marge komen, want die grijpen in de bedrijfsvoering in en kosten productie `[tekst · verhuisd + nieuw]`
+- **het slot: dit is geen liefhebberij erbij.** De opgaven worden pas bereikbaar als de ondernemer er een verdienmodel in ziet, en dat is méér dan geld: werken aan de opgaven moet de overlevingskans van het bedrijf vergroten in plaats van bedreigen. Niet ondanks ondernemerschap maar dankzij, mits de overheid de juiste condities schept `[tekst · auteurs · verhuisd]` de motor-alinea uit 5.1, hierheen omdat de verdienmodel-conclusie hier hoort en niet twee secties eerder (Tim, 19-8). Dit is de laatste zin van de analyse en de opstap naar de aktes
 
 *Deze sectie is Tims stap 4 en zij is 19-8 uit hoofdstuk 4 hierheen verhuisd. **Waarom hier en niet daar:** het antwoord op "waarom een ondernemer" kan pas vallen als de kansen op tafel liggen. Ervoor gezet is het een pleidooi voor iemand die gratis werk blijft doen. En zij staat achter de drie horden, zodat de laatste zin van de hele analyse is dat hier een ondernemer met een verdienmodel voor nodig is. Dat is de opstap naar de aktes, die precies dat testen.*
 

@@ -38,9 +38,9 @@ Dat is veel om op één bedrijf te laten landen. En toch gebeurt er op dat land 
     </table>
   </div>
 
-### 5.2 Wat deze hectare nog meer kan leveren
+### 5.2 Waar deze opgaven een product kunnen worden
 
-De zeven opgaven in hoofdstuk 4 zijn wat Nederland van dit gebied vraagt. Daarnaast valt er meer te leveren, en bij elk van die drie zit de afnemer buiten het gebied. Dat is de minst benoemde kant van dit verhaal: dit gebied heeft niet alleen iets nodig, het heeft ook iets te bieden. Alle drie zijn richtingen die in JUMP verkend worden en die nog niet zijn uitgekristalliseerd.
+De zeven opgaven uit hoofdstuk 4 staan nog open, want dat is wat ze tot opgave maakt. De kans die dit gebied biedt, is dat drie ervan niet alleen een opgave zijn maar ook een product: koolstof, biodiversiteit en water hebben een afnemer buiten het gebied, een partij met een eigen belang en een eigen begroting. Dat is de minst benoemde kant van dit verhaal, want dit gebied heeft niet alleen iets nodig, het heeft ook iets te bieden. Alle drie zijn richtingen die in JUMP verkend worden en die nog niet zijn uitgekristalliseerd.
 
 **CO₂-compensatie voor de akkerbouw.** Akkerbouwgebieden produceren voedsel met aanzienlijke CO₂-uitstoot en zoeken compensatieroutes om aan klimaatdoelen te voldoen. In plaats van het planten van bos op een polder of het inrichten van compensatieprojecten elders, kan een aanzienlijk deel van die compensatie in het veenweidegebied plaatsvinden. De CO₂-voorraad in het veen is enorm. Twee dingen moeten daarbij uit elkaar blijven, want voor wie ervoor betaalt zijn het twee producten: het remmen van veenoxidatie is *vermeden uitstoot*, en *vastlegging* komt van paludicultuur en actieve veenaanmaak. Beide leveren per geïnvesteerde euro mogelijk meer CO₂-reductie op dan bosaanplant op zandgrond.
 
@@ -63,15 +63,13 @@ Waarom zouden veenweideboeren voor die prestaties uit publieke middelen betaald 
 
 Het is ook geen radicale koerswijziging, maar een aanvulling op bestaand overheidsdenken. Landbouw is beleidsmatig altijd al deels nutsfunctie geweest, de samenleving voorzien van betaalbaar, gezond en veilig voedsel, en deels economische activiteit. Nieuw is alleen dat die nutsfunctie breder wordt: naast voedsel ook water, koolstof en landschap.
 
-Het vermogen om dat te leveren zit bij de ondernemer. Waterkwaliteit, biodiversiteit, broeikasgasreductie: ze worden pas bereikbaar als de ondernemer er een verdienmodel in ziet. Verdienmodel betekent hier méér dan geld: het gaat om toekomstperspectief, want werken aan de opgaven moet de overlevingskans van het bedrijf vergroten in plaats van bedreigen. Dat veel jonge boeren het vandaag als bedreiging ervaren, is precies de omkering die deze visie wil maken. Niet ondanks ondernemerschap, maar dankzij. Mits de overheid de juiste condities schept.
-
 Daarmee is nog niet gezegd waarom déze ondernemers voor maatschappelijke diensten betaald zouden worden en andere boeren in Nederland niet. Ons antwoord is niet dat dit gebied iets kan wat elders onmogelijk is. Water bergen kan op klei ook en koolstof vastleggen in bos op zand ook.
 
 Het verschil zit in het alternatief. Op het grootste deel van de Nederlandse landbouwgrond is het alternatief voor het huidige bedrijf: anders boeren. Op het deel van het veenweidegebied waar dit document over gaat, daar waar de vier vormen van fysieke druk uit hoofdstuk 1 zich stapelen, is het alternatief geen boeren. De reële opties zijn daar natuur, uitkoop, of beheer op afstand door een partij die doet wat er in het contract staat. Dat zijn verdedigbare routes en ze worden ook gelopen. Onze analyse is dat er in datzelfde gebied nog een route bij komt, waarin het beheer een verdienmodel houdt en de ondernemer blijft.
 
 "Maar maak er dan helemaal natuur van", die tegenwerping is logisch en moet expliciet weerlegd worden. Pure natuur zou betekenen: voedselproductie verplaatsen naar elders, met alle import-, transport- en klimaatkosten van dien. De veenweideboer levert juist meerdere producten op één plek: voedsel én water én koolstofopslag én biodiversiteit én landschap. Dat is geen tweederangs natuur en geen tweederangs landbouw. Strategisch is voedselproductie in eigen gebied een waarde op zich, zeker in een wereld waarin geopolitiek voedsel weer een schaarste-issue wordt. En wie er natuur van maakt, is niet goedkoper uit: natuurbeheer kost óók publiek geld — maar dan zonder voedsel, zonder ondernemerschap en zonder beheerder met eigen belang bij het resultaat. Het meerproducten-frame is daarmee niet een compromis tussen natuur en landbouw, maar een meerwaarde die beide overstijgt.
 
-Daar komt de ruimtedruk bij. De Ontwerp-Nota Ruimte schetst een land waarin wonen, defensie, datacenters, energie-infrastructuur, voedselproductie, bouwmaterialen en handelsroutes aanspraak maken op dezelfde vierkante meters. Ook die functies vullen vaak meer dan één opgave in: een woonwijk wordt via de Landelijke maatlat op groen en water ontworpen en Defensie beheert natuur op zijn terreinen. Uitzonderlijk is dit gebied dus niet. Wat het onderscheidt is de omvang: honderdduizenden hectares waarvan vandaag één product wordt afgerekend, terwijl er meer van komt. Wat er met die ruimte gebeurt, wordt de komende jaren beslist, met of zonder een verhaal uit dit gebied zelf.
+Daar komt de ruimtedruk bij. De Ontwerp-Nota Ruimte schetst een land waarin wonen, defensie, datacenters, energie-infrastructuur, voedselproductie, bouwmaterialen en handelsroutes aanspraak maken op dezelfde vierkante meters. Ook die functies vullen vaak meer dan één opgave in: een woonwijk wordt via de Landelijke maatlat op groen en water ontworpen en Defensie beheert natuur op zijn terreinen. Uitzonderlijk is dit gebied dus niet. Wat het onderscheidt is de omvang: honderdduizenden hectares. Wat er met die ruimte gebeurt, wordt de komende jaren beslist, met of zonder een verhaal uit dit gebied zelf.
 
 ### 5.4 Wat kan, is er nog niet
 
@@ -88,7 +86,7 @@ Alles hierboven is wat dit gebied kán leveren. Dat het kan, betekent niet dat h
     </div>
     <div class="question-item">
       <div class="q">Wordt het gewild?</div>
-      <div class="ctx">Het lastigst te beprijzen is wat altijd gratis kwam. Dit is de derde horde en de grootste. Een overheid die decennialang met subsidies en vergoedingen heeft gewerkt, moet dan betalen voor een prestatie van een ondernemer die er zelf aan verdient, terwijl een deel van dat werk nu al gebeurt zonder dat er iets voor wordt betaald. Dat is geen technische wijziging maar een andere verhouding, en de gewoonte, de instrumenten en de cultuur daarvoor bestaan nog niet. Wat er nodig is staat in hoofdstuk 14.</div>
+      <div class="ctx">Het lastigst te beprijzen is wat altijd gratis kwam. Dit is de derde horde en de grootste. Een overheid die decennialang met subsidies en vergoedingen heeft gewerkt, moet dan betalen voor een prestatie van een ondernemer die er zelf aan verdient. Dat is geen technische wijziging maar een andere verhouding, en de gewoonte, de instrumenten en de cultuur daarvoor bestaan nog niet. Wat er nodig is staat in hoofdstuk 14.</div>
     </div>
   </div>
 
@@ -100,4 +98,4 @@ Alles hierboven is wat dit gebied kán leveren. Dat het kan, betekent niet dat h
 
 **Maar koolstof vasthouden en water bergen kunnen niet uit die marge komen.** Een oever die netjes blijft en een slootkant die gespaard wordt, liepen tot nu toe mee met het werk dat er toch al was. Water werkelijk vasthouden vraagt een andere inrichting van het land, en de koolstof in de bodem houden vraagt een hogere grondwaterstand, op de zwaarste plekken met minder koeien per hectare. Dat gebeurt niet naast het bedrijf: het grijpt in de bedrijfsvoering in en het kost productie. Zulk werk verkleint precies de marge waaruit het kleine beheer tot nu toe betaald werd.
 
-Dit is dus geen liefhebberij erbij. Het zijn activiteiten die investeringen, grond en jaren vragen, en zonder verdienmodel kan een bedrijf ze niet dragen. Daarom is hier een ondernemer voor nodig, en kan die ondernemer niet zonder verdienmodel.
+Dit is dus geen liefhebberij erbij. Het zijn activiteiten die investeringen, grond en jaren vragen. Waterkwaliteit, biodiversiteit en broeikasgasreductie worden pas bereikbaar als de ondernemer er een verdienmodel in ziet, en dat betekent hier méér dan geld: werken aan de opgaven moet de overlevingskans van het bedrijf vergroten in plaats van bedreigen. Dat veel jonge boeren het vandaag als bedreiging ervaren, is precies de omkering die deze visie wil maken. Niet ondanks ondernemerschap, maar dankzij. Mits de overheid de juiste condities schept.

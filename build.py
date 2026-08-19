@@ -106,7 +106,50 @@ def lees_register():
     return reg
 
 
-def ontleed_sectie(sid, register=None):
+def lees_skelet():
+    """nummer -> {titel, stand, secties} uit richtlijnen/skelet.md.
+
+    Het skelet is de grote lijn vóór de woorden: per sectie maximaal drie
+    elementen, met de vorm en de herkomst erbij. De lezer toont het boven de
+    tekst van het hoofdstuk, zodat de koppeling tussen plan en tekst zichtbaar
+    blijft. Eén bron, dus hier niets herhalen (afspraak met Tim, 19-8)."""
+    pad = 'richtlijnen/skelet.md'
+    if not os.path.exists(pad):
+        return {}
+    skelet, nu, sectie = {}, None, None
+    for regel in open(pad, encoding='utf-8'):
+        r = regel.rstrip()
+        m = re.match(r'## (\d+) — (.+?)(?: · (.+))?$', r)
+        if m:
+            nu = {'nummer': m.group(1), 'titel': m.group(2),
+                  'stand': m.group(3) or '', 'secties': [], 'noot': ''}
+            skelet[m.group(1)] = nu
+            sectie = None
+            continue
+        if nu is None:
+            continue
+        m = re.match(r'### (.+)$', r)
+        if m:
+            sectie = {'kop': m.group(1), 'elementen': []}
+            nu['secties'].append(sectie)
+            continue
+        m = re.match(r'- (.*?)\s*`\[(.*?)\]`\s*(.*)$', r)
+        if m and sectie is not None:
+            deel = [d.strip() for d in m.group(2).split('·')]
+            sectie['elementen'].append({
+                't': m.group(1).strip(),
+                'v': deel[0],
+                'h': deel[1] if len(deel) > 1 else '',
+                'n': m.group(3).strip(),
+            })
+            continue
+        m = re.match(r'\*(.+)\*$', r)
+        if m and not r.startswith('**'):
+            nu['noot'] = m.group(1)
+    return skelet
+
+
+def ontleed_sectie(sid, register=None, skelet=None):
     """Zet één sectie om naar wat de website ervan verwacht:
     een naam, een letter, een titel, een openingszin en de opgemaakte tekst.
     Letter en titel komen uit de eerste kop, de openingszin uit de eerste alinea."""
@@ -131,6 +174,12 @@ def ontleed_sectie(sid, register=None):
     w = (register or {}).get(sid)
     if w:
         uit['werkstand'] = w
+    if skelet and w:
+        # de kolom `nummer` kan meer hoofdstukken bevatten (e-aktes wordt 6, 7 en 9)
+        blokken = [skelet[n] for n in re.findall(r'\d+', w.get('nummer', ''))
+                   if n in skelet]
+        if blokken:
+            uit['skelet'] = blokken
     return uit
 
 
@@ -200,7 +249,22 @@ def build_site(uiting='visie', schrijf=False):
     order = [l.strip() for l in open(volgorde, encoding='utf-8')
              if l.strip() and not l.startswith('#')]
     register = lees_register()
-    secties = [ontleed_sectie(sid, register) for sid in order]
+    skelet = lees_skelet() if uiting == 'visie' else {}
+    secties = [ontleed_sectie(sid, register, skelet) for sid in order]
+    if skelet:
+        # Een hoofdstuk uit het skelet dat nog geen bestand heeft (hoofdstuk 3,
+        # Begrippen) zou onzichtbaar blijven. Hang het achter het hoogste
+        # hoofdstuk dat er wél is en ervoor komt, zodat de grote lijn heel blijft.
+        geclaimd = {}
+        for s in secties:
+            for b in s.get('skelet', []):
+                geclaimd[int(b['nummer'])] = s
+        for n in sorted(int(k) for k in skelet):
+            if n in geclaimd:
+                continue
+            eerder = [m for m in geclaimd if m < n]
+            if eerder:
+                geclaimd[max(eerder)].setdefault('skelet', []).append(skelet[str(n)])
     dest = f'webapp/site/{bestand}'
     if not os.path.isdir('webapp/site'):
         sys.exit('FOUT: webapp/site ontbreekt — staat de website wel in de repo?')

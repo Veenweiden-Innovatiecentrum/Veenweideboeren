@@ -28,6 +28,54 @@ function Werkstand({ h }) {
   );
 }
 
+/* ---- skelet: de grote lijn vóór de woorden ----
+   Komt uit richtlijnen/skelet.md en wordt door `build.py site` meegeschreven.
+   Staat boven de tekst zodat de koppeling tussen plan en tekst zichtbaar is.
+   Verdwijnt met dezelfde schakelaar als de werkstandregel. */
+const VORM_KLEUR = {
+  tekst: 'var(--text3)', tabel: 'var(--blue, #3a5a9b)', lijst: 'var(--blue, #3a5a9b)',
+  kaarten: 'var(--blue, #3a5a9b)', fiche: 'var(--accent2)', kader: 'var(--amber, #b8860b)',
+  beeld: 'var(--accent2)', '—': 'var(--text3)',
+};
+
+function Skelet({ h }) {
+  const blokken = h.skelet;
+  if (!WERKSTAND_ZICHTBAAR || !blokken || !blokken.length) return null;
+  return (
+    <div style={{ margin: '0 0 22px', padding: '14px 16px', background: 'var(--bg3)',
+                  border: '1px solid rgba(0,0,0,.06)', borderLeft: '3px solid var(--accent2)',
+                  borderRadius: 'var(--radius)' }}>
+      {blokken.map((b) => (
+        <div key={b.nummer} style={{ marginBottom: 10 }}>
+          <p style={{ margin: '0 0 8px', fontFamily: 'var(--font-sans)', fontSize: 11,
+                      textTransform: 'uppercase', letterSpacing: '.07em', color: 'var(--accent2)',
+                      fontWeight: 600 }}>
+            skelet · {b.nummer} — {b.titel}{b.stand ? ' · ' + b.stand : ''}
+          </p>
+          {b.secties.map((s) => (
+            <div key={s.kop} style={{ margin: '0 0 8px' }}>
+              <p style={{ margin: '0 0 2px', fontSize: 12.5, fontWeight: 600 }}>{s.kop}</p>
+              {s.elementen.map((e, i) => (
+                <p key={i} style={{ margin: '0 0 1px', paddingLeft: 12, fontSize: 12.5,
+                                    lineHeight: 1.5, color: 'var(--text2)' }}>
+                  · {e.t}
+                  <span style={{ fontFamily: 'var(--font-mono, monospace)', fontSize: 10.5,
+                                 color: VORM_KLEUR[e.v] || 'var(--text3)', marginLeft: 6 }}>
+                    [{e.v}{e.h ? ' · ' + e.h : ''}]
+                  </span>
+                  {e.n && <span style={{ fontSize: 11, color: 'var(--text3)' }}> {e.n}</span>}
+                </p>
+              ))}
+            </div>
+          ))}
+          {b.noot && <p style={{ margin: '4px 0 0', fontSize: 11.5, fontStyle: 'italic',
+                                 color: 'var(--text3)' }}>{b.noot}</p>}
+        </div>
+      ))}
+    </div>
+  );
+}
+
 /* sfeerfoto per hoofdstuk — alleen in de magazinevorm */
 const HOOFDSTUK_FOTO = {
   'scope': 'assets/photos/hero-plant.jpg',
@@ -167,6 +215,7 @@ function DocumentLezer({ openToolbox, wisselVorm }) {
               )}
               {isOpen && (
                 <div className="v4-doc-inline">
+                  <Skelet h={h}></Skelet>
                   {isAktes && <div style={{ margin: '6px 0 26px' }}><AkteViewer></AkteViewer></div>}
                   <Html html={h.html}></Html>
                   {isToolbox && (

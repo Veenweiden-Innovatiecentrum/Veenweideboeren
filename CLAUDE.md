@@ -23,6 +23,21 @@ Die website staat in `webapp/`. Op 18 augustus 2026 is zijn tekst teruggehaald n
 2. Lees `richtlijnen/besluitenlog.md` **volledig** — besluiten die na de brief zijn gevallen.
 3. Werk aan **één hoofdstuk per sessie**. Welk hoofdstuk, zegt de gebruiker; de volgorde staat in redactiebrief §16.6.
 
+## Eerst het skelet, dan de woorden (Tim, 19 augustus 2026)
+
+`richtlijnen/skelet.md` is de grote lijn van het hele document: per sectie maximaal drie elementen, met de vorm en de herkomst erbij. **Werk in deze orde:**
+
+1. Lees het skelet van het hoofdstuk dat aan de beurt is.
+2. Klopt de lijn niet, of ontbreekt er een element? Eerst het skelet aanpassen en voorleggen. Nooit een alinea schrijven die niet als element is aangekondigd.
+3. Schrijf per keer één sectie, niet een heel hoofdstuk.
+4. `[· auteurs]` betekent wijzigen, niet herschrijven. `[· nieuw]` is het duurste werk: nieuwe woorden die de gebruiker moet keuren. Houd dat zo klein mogelijk.
+
+**Waarom.** Op 19 augustus liep hoofdstuk 8 uit de hand: 80 procent van de woorden was nieuw, en de gebruiker moest ze allemaal doorakkeren. Een element afwijzen kost één regel, een alinea afwijzen kost honderdvijftig woorden lezen. Meet het desnoods: `git show <commit>:content/<x>.md` tegen de huidige tekst.
+
+**Het verslag gaat mee omlaag.** Per stap drie regels. De verantwoording in drie delen alleen bij het afsluiten van een hoofdstuk, niet na elke slag.
+
+`build.py site` schrijft het skelet in de lezer, boven de tekst van het hoofdstuk. Eén bron: pas `skelet.md` aan, nooit de lezer.
+
 ## Bij het hoofdstuk zelf
 
 - **Nummer het hoofdstuk** met zijn nummer uit redactiebrief §15, en de subkoppen daarbinnen: `## 1 — Waar dit over gaat`, dan `### 1.1`, `### 1.2`. Dat gebeurt op het moment dat het hoofdstuk herzien wordt; de letters A tot H blijven tot dan staan.

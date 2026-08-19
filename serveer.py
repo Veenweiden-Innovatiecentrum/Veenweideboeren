@@ -12,6 +12,13 @@ Daarnaast serveert deze server `/__stamp`: de nieuwste wijzigingstijd van de
 gebouwde inhoud en de lezer. De pagina vraagt die elke seconde op en herlaadt
 zichzelf zodra hij verandert (Tim, 19-8: geen Command-Shift-R meer). Op Vercel
 bestaat dat pad niet, dus daar stopt de lus vanzelf.
+
+En deze server zet in de pagina die hij uitlevert de vlag `VIC_HERZIENING`.
+Daarop opent de lezer meteen op de visie in plaats van op het keuzescherm
+(Tim, 19-8). Dezelfde `index.html` gaat ook naar Vercel, waar het bestuur wél
+op de startpagina hoort te beginnen; die vlag komt daar niet langs, want zij
+wordt hier bij het uitleveren toegevoegd en staat niet in het bestand. Zo is er
+niets wat vóór publicatie met de hand omgezet moet worden.
 """
 import functools, http.server, os, socket, socketserver, sys
 
@@ -20,6 +27,9 @@ GEVOLGD = ('webapp/site/content-visie.js', 'webapp/site/content-programma.js',
            'webapp/site/content-toolbox.js', 'webapp/site/v4-visie.jsx',
            'webapp/site/v4-shared.jsx', 'webapp/site/document-styles.css',
            'webapp/index.html')
+
+INDEX = 'webapp/index.html'
+VLAG = '<script>window.VIC_HERZIENING = true;</script>\n'
 
 
 def stempel():
@@ -30,7 +40,8 @@ def stempel():
 
 class GeenCache(http.server.SimpleHTTPRequestHandler):
     def do_GET(self):
-        if self.path.split('?')[0] == '/__stamp':
+        pad = self.path.split('?')[0]
+        if pad == '/__stamp':
             body = stempel().encode()
             self.send_response(200)
             self.send_header('Content-Type', 'text/plain; charset=utf-8')
@@ -38,7 +49,24 @@ class GeenCache(http.server.SimpleHTTPRequestHandler):
             self.end_headers()
             self.wfile.write(body)
             return
+        if pad in ('/', '/index.html'):
+            self.stuur_index()
+            return
         super().do_GET()
+
+    def stuur_index(self):
+        """De pagina met de herzieningsvlag erin, vóór `</head>`."""
+        try:
+            html = open(INDEX, encoding='utf-8').read()
+        except OSError:
+            self.send_error(404, 'webapp/index.html niet gevonden')
+            return
+        body = html.replace('</head>', VLAG + '</head>', 1).encode('utf-8')
+        self.send_response(200)
+        self.send_header('Content-Type', 'text/html; charset=utf-8')
+        self.send_header('Content-Length', str(len(body)))
+        self.end_headers()
+        self.wfile.write(body)
 
     def end_headers(self):
         self.send_header('Cache-Control', 'no-store, must-revalidate')

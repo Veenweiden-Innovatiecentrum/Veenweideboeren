@@ -81,7 +81,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - daarom gaat deze visie over geld en niet over goede wil `[tekst · nieuw]` één zin, en de brug naar de rest van het document
 
 ### 3.4 Waar de uitdaging het scherpst is
-- de zeven kenmerken waaraan je het gebied herkent, als uitwerking van de vier vormen van druk uit 1.3 `[lijst · auteurs]` — hier de volledige lijst, want dit is laag 3; hoofdstuk 1 houdt de vier hoofdvormen. **Openstaand:** de twee lijsten moeten hetzelfde zeggen
+- de zeven kenmerken waaraan je het gebied herkent `[lijst · auteurs]` — **hier staan de vormen van fysieke druk, volledig** (Tim, 19-8). Hoofdstuk 1 noemt de vier die het zwaarst wegen, niet als complete set, en verwijst hierheen
 - tegenvoorbeeld: waar het níet over gaat `[fiche · auteurs]` — nu een accentkader
 - vernatting valt als hagelslag over de percelen, en de aard van de uitdaging verschilt per opgave: de grondwaterstand is per perceel hanteerbaar, stikstof raakt het bedrijf integraal `[tekst · auteurs]` — zonder de coördinatie-conclusie, want dat is oplossing en hoort in hoofdstuk 11 (Lian a-klem:11)
 

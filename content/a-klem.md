@@ -1,14 +1,16 @@
-## A — Grote uitdaging voor de meeste ondernemers in dit gebied
+## 3 — Waarom de ondernemer vastloopt op kosten en omzet
 
-In het Nederlandse veenweidegebied zit de overgrote meerderheid van de boeren klem. Niet door eigen falen, maar door een systeem dat ze alleen de verkeerde opties biedt. Wie zit klem, en waarom?
+### 3.1 Om welke bedrijven het gaat
+
+In het Nederlandse veenweidegebied loopt de overgrote meerderheid van de melkveebedrijven vast op kosten en omzet. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo. Wie loopt vast, en waarom?
 
 <!-- POPULATIEMODEL SVG -->
 
 {{partial:a-klem-populatiemodel}}
 
-Een kleine groep hele grote boeren (meer dan 250 koeien, schaalgedreven, gericht op de bulkmarkt) groeit vanzelf, schaalvergroting duwt ze richting 500+ koeien. Een relatief kleine groep nicheboeren (minder dan 70 koeien, een lage veedichtheid, gericht op specifieke markten) groeit alleen als het beleid dat mogelijk maakt. Zij hebben al een werkend bedrijfsmodel; dit document gaat daarom over de groep die dat niet heeft — al profiteren ook nicheboeren van de condities uit akte III. De middengroep — de 40-80 hectare bedrijven met 80-130 koeien — krimpt hoe dan ook. De vraag is niet óf ze krimpt, maar wat er met de boeren gebeurt die eruit vallen.
+Een kleine groep hele grote boeren (meer dan 250 koeien, schaalgedreven, gericht op de bulkmarkt) groeit vanzelf, schaalvergroting duwt ze richting 500+ koeien. Een relatief kleine groep nicheboeren (minder dan 70 koeien, een lage veedichtheid, gericht op specifieke markten) groeit alleen als het beleid dat mogelijk maakt. Zij hebben al een werkend bedrijfsmodel; dit document gaat daarom over de groep die dat niet heeft. De middengroep — de 40-80 hectare bedrijven met 80-130 koeien — krimpt hoe dan ook. De vraag is niet óf ze krimpt, maar welke toekomst er is voor de ondernemers die de schaalsprong niet willen of kunnen maken.
 
-### Waarom zit de middengroep klem? Drie systeemcondities
+### 3.2 Waarom de rekening niet meer rond komt
 
 Dat de middengroep klem zit is geen toeval en geen persoonlijk falen. Vergelijking met andere Europese landen — zoals Oostenrijk, Frankrijk en Noord-Italië — laat zien dat de richting van de melkveehouderij in elk land bepaald wordt door drie samenhangende condities: de grondmarkt, het beleidskader en de ketenstructuur. Nederland is daarin een extreme variant, niet het gemiddelde.
 
@@ -29,7 +31,7 @@ Dat de middengroep klem zit is geen toeval en geen persoonlijk falen. Vergelijki
 
 <p style="font-size:13px;color:var(--text2)">Het huidige systeem loopt ook intern vast: opvolging wordt onbetaalbaar bij kapitaalintensieve bedrijven, de grondmarkt raakt minder liquide, externe investeerders komen in beeld. Het is niet alleen slecht voor de opgaves; het is ook niet vol te houden als bedrijfsmodel.</p>
 
-### In welke gebieden valt de uitdaging het scherpst?
+### 3.4 Waar de uitdaging het scherpst is
 
 Nederland heeft circa 200.000 hectare veenweidegebied. Dit verhaal gaat *niet* over dat hele gebied. Ook als de waterstanden overal naar -20 tot -40 cm gaan, kun je op veel plekken nog gewoon reguliere melkveehouderij bedrijven, aangepast, maar herkenbaar. Dat is een legitieme en waardevolle keuze. Op die plekken blijft doelsturing op stikstof, waterkwaliteit en emissies gewoon van toepassing, maar daar gaat dit verhaal niet over.
 
@@ -53,3 +55,5 @@ Hoe groot dit deel precies is, is onderwerp van discussie, schattingen lopen uit
   </div>
 
 De aard van de uitdaging verschilt overigens per opgave. De grondwaterstand is per perceel hanteerbaar — een ondernemer kan op een deel van de percelen vernatten en op het droge deel met melkvee doorgaan. Stikstof raakt het bedrijf integraal: vee, voer en stal zijn niet per perceel te verlagen. Daaruit volgt een nuance: hagelslag-vernatting is hanteerbaar mits stikstof niet ook klemt. In Natura 2000-bufferzones klemt beide; daar is stikstof het doorslaggevende dossier dat reguliere melkveehouderij onhoudbaar maakt. Hoeveel hectares per bedrijf het raakt is sterk plaatsgebonden en niet in algemene termen te kwantificeren.
+
+[[TODO: ronde 2, vervolg. 3.1 is herzien. 3.2 en 3.4 staan er nog als bestuursversie en 3.3 "Wat een andere koers kost" moet nog gemaakt worden. Wat er per sectie moet gebeuren staat in `richtlijnen/skelet.md`; de openstaande punten in `correctielijst.md` onder a-klem]]

@@ -226,7 +226,11 @@ function Keuzescherm({ kiesVorm, ga }) {
 function App() {
   const [t, setTweak] = useTweaks(TWEAK_DEFAULTS);
   const [route, setRoute] = React.useState(() => {
-    return { page: 'keuze' }; // publieke demo: altijd openen op start
+    // Achter serveer.py, waar de herziening wordt gelezen, meteen de visie: daar
+    // wordt in gewerkt en het keuzescherm staat er alleen maar tussen. Die vlag
+    // wordt door de server bij het uitleveren toegevoegd, dus op Vercel opent de
+    // publieke demo nog altijd op start.
+    return window.VIC_HERZIENING ? { page: 'visie' } : { page: 'keuze' };
   });
   const [vorm, setVorm] = React.useState(() => localStorage.getItem('vic-v4-vorm') || 'doc');
 

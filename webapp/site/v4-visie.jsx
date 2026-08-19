@@ -135,7 +135,7 @@ const HOOFDSTUK_FOTO = {
 /* pull-quotes — letterlijke zinnen uit de hoofdstukken, herhaald als inzet */
 const PULL_QUOTES = {
   'scope': 'Geen religie, geen opgedrongen verhaal.',
-  'a-klem': 'Niet door eigen falen, maar door een systeem dat ze alleen de verkeerde opties biedt.',
+  'a-klem': 'De vraag is niet óf de middengroep krimpt, maar welke toekomst er is voor de ondernemers die de schaalsprong niet willen of kunnen maken.',
   'b-opgaves': 'Op korte termijn vernietigt margedruk het rentmeesterschap.',
   'c-omslag': 'De boer is niet het probleem, de boer is de motor.',
   'd-concept': 'Het is niet strenger én slechter, het is anders én beter.',

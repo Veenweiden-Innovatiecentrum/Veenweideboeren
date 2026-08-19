@@ -473,11 +473,9 @@ Alles hierboven is wat dit gebied kán leveren. Dat het kan, betekent niet dat h
     </div>
     <div class="question-item">
       <div class="q">Wordt het gewild?</div>
-      <div class="ctx">De derde horde, en de grootste. Een overheid die decennialang met subsidies en vergoedingen heeft gewerkt, moet dan betalen voor een prestatie van een ondernemer die er zelf aan verdient, terwijl een deel van dat werk nu al gebeurt zonder dat er iets voor wordt betaald. Dat is geen technische wijziging maar een andere verhouding, en de gewoonte, de instrumenten en de cultuur daarvoor bestaan nog niet. Wat er nodig is staat in hoofdstuk 14.</div>
+      <div class="ctx">Het lastigst te beprijzen is wat altijd gratis kwam. Dit is de derde horde en de grootste. Een overheid die decennialang met subsidies en vergoedingen heeft gewerkt, moet dan betalen voor een prestatie van een ondernemer die er zelf aan verdient, terwijl een deel van dat werk nu al gebeurt zonder dat er iets voor wordt betaald. Dat is geen technische wijziging maar een andere verhouding, en de gewoonte, de instrumenten en de cultuur daarvoor bestaan nog niet. Wat er nodig is staat in hoofdstuk 14.</div>
     </div>
   </div>
-
-Het lastigst te beprijzen is namelijk wat altijd gratis kwam.
 
 ---
 

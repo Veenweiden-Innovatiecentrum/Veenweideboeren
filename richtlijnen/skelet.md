@@ -127,7 +127,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 ### 5.4 Wat kan, is er nog niet
 - alles hierboven is wat dit gebied kán leveren; dat het kan betekent niet dat het er is `[tekst · nieuw]` Tim, 19-8
 - **drie horden, los van elkaar en elk met hun adres** `[lijst · nieuw]`: of het **kan** (de praktijk, JUMP), of het **mag** (het recht, hoofdstuk 11), en of het **gewild wordt** (de gewoonte, hoofdstuk 14)
-- het lastigst te beprijzen is wat altijd gratis kwam `[tekst · nieuw]` sluit aan op §3, onbeprijsd en niet gratis
+- "het lastigst te beprijzen is wat altijd gratis kwam" staat als eerste zin bij de derde horde, niet als losse slotregel `[tekst · nieuw]` sluit aan op §3, onbeprijsd en niet gratis
 
 ---
 

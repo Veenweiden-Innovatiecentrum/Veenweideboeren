@@ -29,7 +29,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ### 1.1 Wat dit document voorstelt
 - dit gebied kan meer maatschappelijke opgaven dragen dan voedsel alleen, en dat vermogen zit in de ondernemer `[tekst · auteurs]`
-- **in het openingskader, bij "voor boeren": veenweideboer is geen categorie maar een schaal**, van melk met onbeprijsd beheer tot diensten als heel product, en elke plek erop is goed. Wij vragen dat schuiven mogelijk wordt, niet dat er geschoven wordt `[kader · nieuw]` Tim, 19-8; de uitwerking staat in 9.2
+- **het openingskader zegt in één alinea voor wie dit is en wie veenweideboer is**: iedereen die in het veenweidegebied boert, want het is geen categorie maar een schaal — van melk met onbeprijsd beheer tot diensten als heel product, en elke plek erop is goed. Met de bestaande erkenning erin (wie tevreden is: prima, geen religie) en de slotregel: wij vragen dat schuiven mogelijk wordt, niet dat er geschoven wordt `[kader · auteurs + nieuw]` Tim, 19-8: de "voor wie"-vraag en de schaal zijn één antwoord, dus één alinea. De uitwerking staat in 9.2
 - wie dit zegt en waarom: het VIC, de statutaire missie, de ambitie, JUMP `[kader]`
 - de urgentie: deze ondernemers zitten nu al klem, en wie stopt komt niet terug `[tekst · nieuw]`
 

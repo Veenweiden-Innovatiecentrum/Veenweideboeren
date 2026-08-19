@@ -80,7 +80,7 @@ Twee van deze tien zijn voor dit kabinet de directe aanleiding om in dit gebied 
 
 Wat Nederland hier vraagt is reëel, en op één punt wordt er ook al aan geleverd: er ligt weidevogelbeheer, er zijn pakketten en er zijn collectieven die ze uitvoeren. Dat is het deel waarvoor een regeling bestaat.
 
-**Maar het meeste beheer op dit land staat in geen enkel contract.** Het gebeurt onverplicht, uit vakmanschap, uit rentmeesterschap en uit liefde voor het landschap. Niemand vraagt erom en niemand betaalt ervoor, en toch hangt de hele tabel hierboven eraan. De voorwaarde is dus zwaarder dan dat er een ondernemer op het land staat: hij of zij moet het onbetaalde deel van dat werk kunnen blijven doen.
+**Maar het meeste beheer op dit land staat in geen enkel contract.** Het gebeurt onverplicht, uit vakmanschap, uit rentmeesterschap en uit liefde voor het landschap. Er wordt wél om gevraagd: de basiskwaliteit van natuur, het landschap en de kwaliteit van het slootwater zijn drie van de opgaven die Nederland stelt. Alleen draagt niemand dit werk op en betaalt niemand ervoor. De voorwaarde is dus zwaarder dan dat er een ondernemer op het land staat: hij of zij moet het onbetaalde deel van dat werk kunnen blijven doen.
 
 En dat is het eerste wat wegvalt. Werk waarvoor niets betaald wordt, is niet vol te houden op een bedrijf dat het zakelijk niet meer rond krijgt, en dat is waar hoofdstuk 3 over gaat. Een klemzittende middengroep is daarom niet neutraal voor de maatschappelijke opgaven: het werkt op alle dimensies tegelijk negatief, en niet omdat de boer het verkeerd doet.
 

@@ -29,7 +29,7 @@ De volgorde in dit register is de volgorde van `volgorde.txt`. Hoofdstukken die 
 | f-ondernemer | 10 | 3 | nog de bestuursversie |
 | f-overheid | 11 | 3 | nog de bestuursversie |
 | f3-bedrijfsleven | 12 | 3 | nog de bestuursversie, groeit naar een volwaardig hoofdstuk |
-| g-perspectief | 13 | 3 | nog de bestuursversie |
+| g-perspectief | 13 | 3 | bestuursversie, met de routes omgebouwd naar drie (19-8) |
 | h-risicos | 14 | 4 | nog de bestuursversie |
 | slot | 15 | 4 | nog de bestuursversie, wordt herschreven |
 | bijlage-driesporen | 16 | 5 | in aanbouw, 3 van de 9 blokken verhuisd |

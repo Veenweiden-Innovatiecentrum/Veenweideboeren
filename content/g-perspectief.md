@@ -1,34 +1,29 @@
 ## G — Terug naar de boer: wat kun je nu doen?
 
-In deel A zagen we dat de middengroep klem zit, 70-80% van de boeren in het veenweidegebied vandaag, zonder perspectief. Alles daartussen was het bewijs en het instrumentarium. Nu de vraag: wat biedt dit de boer van vandaag? Twee echte perspectieven, en twee doodlopende wegen.
+In hoofdstuk 3 zagen we dat de middengroep klem zit, 70-80% van de boeren in het veenweidegebied vandaag, zonder perspectief. Alles daartussen was het bewijs en het instrumentarium. Nu de vraag: wat biedt dit de boer van vandaag? Er liggen drie routes open, en één daarvan is nieuw.
 
-Wat dit document probeert te doen, voorbij de analyse, is iets dat in de meeste beleidsstukken ontbreekt: erkenning. Erkenning van het feit dat de middengroep niet faalt, maar klem zit in een systeem dat haar maar twee opties biedt. Pas als die erkenning wordt gevoeld, ontstaat ruimte om iets los te laten en iets nieuws te beginnen. De twee perspectieven hieronder zijn niet bedoeld als opgelegd alternatief, maar als een aanbod aan wie zelf de uitdaging ziet aankomen.
+Wat dit document probeert te doen, voorbij de analyse, is iets dat in de meeste beleidsstukken ontbreekt: erkenning. Erkenning van het feit dat de middengroep niet faalt, maar klem zit in een systeem dat haar maar twee opties biedt. Pas als die erkenning wordt gevoeld, ontstaat ruimte om iets los te laten en iets nieuws te beginnen. De derde route hieronder is niet bedoeld als opgelegd alternatief, maar als een aanbod aan wie zelf de uitdaging ziet aankomen.
 
-<div style="display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin:1.5rem 0">
+<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:1.5rem 0">
 
-    <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem;border-top:3px solid var(--accent)">
-      <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--accent);margin-bottom:6px;font-weight:600">1 — Veenweideboer worden</div>
-      <p style="font-size:13px;color:var(--text2);line-height:1.5">Wel koeien, maar minder per hectare. Maatschappelijke diensten als tweede inkomstenstroom. Een ander bedrijfsmodel binnen het nieuwe regime, met basisvergoeding, prestatiecontracten en toegang tot de toolbox. Dit is akte III: het pad met perspectief. De melk gaat gewoon naar Campina; het extra inkomen komt direct van de opdrachtgever.</p>
+    <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem;border-top:3px solid var(--amber)">
+      <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--text3);margin-bottom:6px;font-weight:600">1 — Doorgaan zoals het is</div>
+      <p style="font-size:13px;color:var(--text2);line-height:1.5">Blijven doen wat je doet, en dat volhouden: kosten drukken en hopen dat de marge het houdt. Op het grootste deel van het veenweidegebied kan dat gewoon, en dan is het een goede keuze. Waar de opgaven zich stapelen wordt het kwetsbaar, en is volhouden op een gegeven moment tegen de stroom in roeien.</p>
+    </div>
+
+    <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem;border-top:3px solid var(--text3)">
+      <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--text3);margin-bottom:6px;font-weight:600">2 — Stoppen</div>
+      <p style="font-size:13px;color:var(--text2);line-height:1.5">Het bedrijf beëindigen. Grond verkopen, een andere weg inslaan. Voor sommige ondernemers een bewuste, legitieme keuze — niet elk bedrijf leent zich voor omvorming, en dat is geen falen. Wie stopt omdat er geen opvolger is, kan het bedrijf ook eerst toekomstbestendig maken en het dán overdragen. De zorg ligt bij het grondbeleid: zonder actieve regie verdwijnt de grond naar grootschalige kopers van buiten het gebied.</p>
     </div>
 
     <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem;border-top:3px solid var(--accent)">
-      <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--accent);margin-bottom:6px;font-weight:600">2 — Nieuwe activiteiten ontwikkelen</div>
-      <p style="font-size:13px;color:var(--text2);line-height:1.5">Het zwaartepunt verschuift van melk naar nieuwe activiteiten: natte teelt, wateropslag, paludicultuur, natuurbeheer als hoofdactiviteit, recreatie. De JUMP-concepten — mét en zonder dieren — bieden de invulling voor 2040–2045; dit document vertaalt de eerste stappen naar de komende vijf jaar. Dit is het verste pad, en voor sommige boeren het meest kansrijke.</p>
-    </div>
-
-    <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem;border-top:3px solid var(--red);opacity:0.8">
-      <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--red);margin-bottom:6px;font-weight:600">3 — Doormodderen</div>
-      <p style="font-size:13px;color:var(--text2);line-height:1.5">Blijven doen wat je doet. Kosten drukken, hopen dat de marge het houdt, wachten tot het niet meer kan. Moeizaam, kwetsbaar, en voor de meesten een doodlopende weg, zeker in de gebieden die te nat worden. Dit is akte I en 2: het pad zonder perspectief.</p>
-    </div>
-
-    <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem;border-top:3px solid var(--red);opacity:0.8">
-      <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--red);margin-bottom:6px;font-weight:600">4 — Stoppen</div>
-      <p style="font-size:13px;color:var(--text2);line-height:1.5">Het bedrijf beëindigen. Grond verkopen, een andere weg inslaan. Voor sommige boeren een bewuste, legitieme keuze — niet elk veehouderschap leent zich voor omvorming, en dat is geen falen. De zorg ligt bij het grondbeleid: zonder actieve regie verdwijnt de grond naar grootschalige kopers van buiten het gebied, en verliest het veenweidegebied zijn ondernemers definitief.</p>
+      <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--accent);margin-bottom:6px;font-weight:600">3 — Diensten erbij, van één perceel tot het hele bedrijf</div>
+      <p style="font-size:13px;color:var(--text2);line-height:1.5">Naast het vee iets doen waarvoor betaald wordt. Dat kan klein beginnen: één perceel weidevogelbeheer met een contract, water bergen op de laagste hoek. Het kan verder gaan, tot melk één van meerdere producten is bij een lagere veedichtheid. En het kan helemaal doorlopen, tot een bedrijf zonder koeien waar de diensten het product zijn. Waar je op die schaal gaat staan, bepaal je zelf; de posities staan in hoofdstuk 9.</p>
     </div>
 
   </div>
 
-De middengroep die in deel A klem zat, heeft nu twee echte perspectieven: veenweideboer worden of geheel nieuwe activiteiten ontwikkelen. Beide draaien op hetzelfde principe: inkomen verdienen zonder schaalvergroting — meer waarde per hectare, niet meer hectares. Daarnaast zijn er twee doodlopende wegen: doormodderen of stoppen. Dit document gaat over de bovenste twee, de paden waar toekomst in zit.
+De eerste twee routes bestaan al: dat zijn precies de twee die hoofdstuk 1 noemt, doorgaan zoals het is of uitkopen. De derde is wat dit document toevoegt, en die draait op één principe: inkomen verdienen zonder schaalvergroting — meer waarde per hectare, niet meer hectares. Waar een bedrijf op die schaal terechtkomt, hangt af van de plek en van de ondernemer, en beide bewegen.
 
 <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.08);border-left:3px solid var(--text2);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0;font-size:13px;line-height:1.6">
     <strong style="display:block;margin-bottom:4px">Niet iedereen wíl meebewegen — en dat is geen verzet, dat is verlangen</strong>
@@ -81,7 +76,7 @@ De middengroep die in deel A klem zat, heeft nu twee echte perspectieven: veenwe
     </table>
   </div>
 
-<p style="font-size:13.5px;color:var(--text2);line-height:1.6">De middengroep — over wie dit document gaat — telt al deze typen op alle drie de contexten. Wie zich in de matrix herkent, ziet ook welk pad uit sectie G het meest natuurlijk aanvoelt: de verkenners voelen vaker thuis bij <em>"geheel nieuwe activiteiten"</em>, de bouwers en pragmatici zoeken vaker naar <em>"veenweideboer worden"</em> binnen een bestaand bedrijfsmodel. Geen wet — maar wel een patroon.</p>
+<p style="font-size:13.5px;color:var(--text2);line-height:1.6">De middengroep — over wie dit document gaat — telt al deze typen op alle drie de contexten. Wie zich in de matrix herkent, ziet ook waar op de derde route hij of zij het meest natuurlijk staat: de verkenners voelen zich vaker thuis aan het verste eind, waar de diensten het product worden, en de bouwers en pragmatici zoeken het eerder in melk als één van meerdere producten. Geen wet — maar wel een patroon.</p>
 
 <div style="background:var(--accent-light);border-left:3px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0;font-size:13px;line-height:1.6">
     <strong style="display:block;margin-bottom:4px">De cirkel is rond</strong>

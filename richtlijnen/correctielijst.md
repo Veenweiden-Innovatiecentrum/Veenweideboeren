@@ -94,7 +94,19 @@
 - [ ] **De vier routes horen niet in een analysehoofdstuk** (toetsregel 12) en staan dubbel: hoofdstuk 13 heeft dezelfde vier. **Voorstel:** uit de visual halen, zodat die toont wat hij moet tonen — de populatie-ontwikkeling tot 2040 — en de routes in 13.1 aanscherpen langs de schaal uit 9.2
 - [ ] **De vier routes en de vier posities van de schaal zijn bijna hetzelfde, maar niet helemaal.** Doorgaan = positie 1, nieuwe activiteiten = positie 2, veenweideboer worden = positie 3, en **positie 4 (diensten als heel product) ontbreekt in de routes**. Stoppen staat buiten de schaal. Aanscherpen in 13.1, met de zin van Costas erbij: het bedrijf toekomstbestendig maken voor de volgende generatie is het reële alternatief voor stoppen
 
+## g-perspectief.md
+
+*Toegevoegd 19-8 bij het ombouwen van de routes. Dit hoofdstuk is verder nog de bestuursversie; de rest volgt in ronde 3.*
+
+- [x] **Vier routes zijn drie routes geworden** (Tim, 19-8): doorgaan zoals het is · stoppen · diensten erbij van één perceel tot het hele bedrijf. "Veenweideboer worden" is vervallen als route, want dat is de lezer al, en "nieuwe activiteiten" was geen aparte keuze maar een verdere positie op dezelfde schaal. "Doormodderen" is weg (toetsregel 1), stoppen is niet meer rood, en de archetypen-alinea verwijst nu naar de derde route in plaats van naar de oude namen
+- [ ] **"Een systeem dat haar maar twee opties biedt"** in de tweede alinea moet langs toetsregel 5a: de klem is een systeemuitkomst én er zijn eigen keuzes gemaakt. Zelfde ingreep als in 3.1
+- [ ] **Dit hoofdstuk spreekt de lezer aan met "je", hoofdstuk 1 met "u".** Eén van de twee moet wijken; het is een besluit voor `terminologie.md`, niet een losse correctie
+- [ ] Het kader "Niet iedereen wíl meebewegen" wordt een fiche, zie `bloktypen.md`
+- [ ] Het driesporenkader "van drie sporen naar één gebiedsbod" gaat naar bijlage 16
+
 ## b-opgaves.md
+
+- [ ] **"De middengroep krijgt een nieuw perspectief: veenweideboer worden"** (regel ~18) moet om: dat is de lezer al. Met de schaal uit 9.2 wordt het "meer doen naast het vee, van één perceel tot het hele bedrijf". Opgemerkt 19-8 bij het ombouwen van hoofdstuk 13
 
 - [ ] Opgaventabel: "beschermde soorten" staat onder **Natuur — gebieden** (regel ~83), hoort bij **Natuur — basiskwaliteit** *(Simon)*
 - [ ] Fiche "Hoe te lezen" bij de opgaventabel: toelichten hoe de scores tot stand zijn gekomen *(Niel)*

@@ -315,8 +315,11 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 > Vier routes: veenweideboer worden, iets nieuws erbij doen, doorgaan zoals het is, of stoppen. Dit is het enige hoofdstuk dat de ondernemer direct aanspreekt, met drie archetypen waarin hij zich kan herkennen. Erkenning eerst, dan een bod.
 
-### 13.1 Vier routes
-- veenweideboer worden · nieuwe activiteiten ontwikkelen · doorgaan zoals het is · stoppen `[kaarten · auteurs]` — **expliciet koppelen aan de schaal uit 9.2**: dit zijn dezelfde posities, nu als keuze van de ondernemer in plaats van als definitie (Tim, 19-8). "Veenweideboer worden" kan dan niet meer als aparte route heten, want dat is de lezer al
+### 13.1 Drie routes
+*Waren vier; omgebouwd 19-8 (Tim). "Veenweideboer worden" is geen route meer, want dat is de lezer al, en "nieuwe activiteiten" was geen aparte keuze maar een verdere positie op dezelfde schaal.*
+- **1 doorgaan zoals het is** (amber: kan gewoon op het grootste deel, wordt kwetsbaar waar de opgaven stapelen) · **2 stoppen** (neutraal, een legitieme keuze; met de overdracht-variant van Costas erbij) · **3 diensten erbij, van één perceel tot het hele bedrijf** (groen, dit is de schaal uit 9.2) `[kaarten · auteurs + nieuw]`
+- **de eerste twee bestaan al** — het zijn de twee die hoofdstuk 1 noemt, doorgaan of uitkopen — **en de derde is wat dit document toevoegt** `[tekst · nieuw]` de verbinding met 1.1, en de reden dat het aanbod scherper is dan vier opties waarvan twee rood
+- de transitie als het bedrijf toekomstbestendig maken voor de volgende generatie `[tekst · nieuw]` besluit 17-8, geland in de stoppen-kaart
 - de transitie als het bedrijf toekomstbestendig maken voor de volgende generatie `[tekst · nieuw]` besluit 17-8
 
 ### 13.2 Drie archetypen: hoe verschillende ondernemers het invullen

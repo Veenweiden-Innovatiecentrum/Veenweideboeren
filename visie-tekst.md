@@ -314,14 +314,7 @@ Hoe groot dit deel precies is, is onderwerp van discussie, schattingen lopen uit
     <p style="font-size:13.5px;line-height:1.65;margin:0">Een polder in Friesland met een kleidek op het veen, geen Natura 2000 in de buurt, nauwelijks kwel, en beperkte bodemdaling. Daar kun je als melkveehouder prima door met een aangepast bedrijf. Doelsturing op stikstof en waterkwaliteit geldt er gewoon, maar je hebt geen fundamenteel nieuw bedrijfsmodel nodig. Dat is geen veenweideboer in de zin van dit verhaal. Het onderscheid is belangrijk: niet elke boer op veen is een veenweideboer. Het gaat om de gebieden waar de reguliere weg doodloopt.</p>
   </div>
 
-**Het scherpst is het waar die vormen van druk samenkomen**, en dat komt doordat zij niet op dezelfde schaal werken:
-
-<div class="dim-list">
-    <div class="dim-item"><span class="dot green"></span><span class="name">De grondwaterstand</span><span class="desc">per perceel te regelen: vernatten waar dat moet, en op het droge deel doorgaan met melkvee</span></div>
-    <div class="dim-item"><span class="dot red"></span><span class="name">Stikstof</span><span class="desc">raakt het bedrijf in één keer: vee, voer en stal zijn niet per perceel te verlagen</span></div>
-  </div>
-
-Vernatting die als hagelslag over de percelen valt is dus te dragen, zolang stikstof niet óók klemt. **In en tegen Natura 2000 klemmen ze samen**, en daar is stikstof het doorslaggevende dossier dat reguliere melkveehouderij onhoudbaar maakt. Hoeveel hectares per bedrijf het raakt is sterk plaatsgebonden en niet in algemene termen te kwantificeren.
+**Het scherpst is het waar die vormen van druk samenkomen**, want zij werken niet op dezelfde schaal. De grondwaterstand is per perceel te regelen: vernatten waar dat moet, en op het droge deel doorgaan met melkvee. Stikstof niet, want vee, voer en stal zijn niet per perceel te verlagen; dat raakt het bedrijf in één keer. Vernatting die als hagelslag over de percelen valt is dus te dragen, zolang stikstof niet óók klemt. **In en tegen Natura 2000 klemmen ze samen**, en daar is stikstof het doorslaggevende dossier dat reguliere melkveehouderij onhoudbaar maakt. Hoeveel hectares per bedrijf het raakt is sterk plaatsgebonden en niet in algemene termen te kwantificeren.
 
 ---
 

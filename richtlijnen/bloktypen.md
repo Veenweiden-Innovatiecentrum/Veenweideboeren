@@ -127,6 +127,7 @@ De dertig accentkaders zijn geteld, maar deze twee vormen zaten er niet bij en d
 
 | Vorm | Waar | Besluit |
 |---|---|---|
+| **`dim-list` met stippen** | fout gebruikt in `a-klem` 3.3, 19-8, en teruggedraaid | **De stippen zijn een waardering**: groen, amber en rood komen uit de dimensietabellen en zeggen of het ergens goed of slecht mee gaat. Zet er dus nooit een onderscheid in dat géén waardering is. In 3.3 stond de grondwaterstand groen en stikstof rood, terwijl het verschil ging over de schaal waarop zij werken — per perceel tegenover het hele bedrijf. Dan liegt de vorm. Voor zo'n contrast is lopende tekst met één vetgedrukte kernzin de vorm |
 | **Kaartenreeks van drie** | `a-klem` 3.2: grondmarkt · beleidskader · ketenstructuur, in drie kolommen | Blijft. Het is een vergelijking, en dan hoort de vorm bij de functie. **Voorwaarde: de drie zijn ongeveer even lang**, anders leest de langste als de belangrijkste. Op 19-8 gemeten en gelijkgetrokken: 29, 36 en 31 woorden. Wat langer moet, gaat in een fiche |
 | **Alinea in kleine letters** | `a-klem` 3.2, de conclusie onder die drie kolommen | Vervalt. Een conclusie op 13 pixels in grijs is een dragend argument in voetnootvorm, precies de fout die §17 beschrijft, één niveau lager dan een accentkader. Nu lopende tekst |
 

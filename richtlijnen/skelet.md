@@ -118,7 +118,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - het verschil zit in het alternatief: hier is dat geen landbouw `[tekst · nieuw]`
 - "maar maak er dan helemaal natuur van" weerlegd `[tekst · auteurs]`
 
-### 5.3 Wat het gebied buiten zijn grenzen levert
+### 5.3 Wat deze hectare nog meer kan leveren
 - **één keer vooraf:** dit zijn richtingen die in JUMP verkend worden en die nog niet zijn uitgekristalliseerd; daarmee kan het voorbehoud per stuk weg `[tekst · nieuw]` Tim, 19-8
 - CO₂-compensatie voor de akkerbouw, met vermeden uitstoot en vastlegging apart `[tekst · auteurs]`
 - biodiversiteit **verbouwen** in plaats van ontzien, met drie soorten afnemers, en met de landbouwstatus als harde voorwaarde `[tekst + fiche · nieuw]` uit JUMP-concept 4a, Biodivers Veen (Tim, 19-8)

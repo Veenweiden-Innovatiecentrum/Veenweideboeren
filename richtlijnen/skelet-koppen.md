@@ -48,7 +48,7 @@ Op dezelfde hectare komt meer dan melk: vastgehouden water, koolstof in de bodem
 
 - 5.1 Wat deze hectare nu al levert
 - 5.2 Waarom hier, en waarom deze ondernemers
-- 5.3 Wat het gebied buiten zijn grenzen levert
+- 5.3 Wat deze hectare nog meer kan leveren
 - 5.4 Wat kan, is er nog niet
 
 ---

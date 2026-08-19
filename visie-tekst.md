@@ -289,9 +289,9 @@ Dat de middengroep klem zit is geen toeval en geen persoonlijk falen. Vergelijki
     </div>
   </div>
 
-Die drie condities duwen van buitenaf richting schaal. Van binnenuit loopt het systeem óók vast: opvolging wordt onbetaalbaar bij kapitaalintensieve bedrijven, de grondmarkt raakt minder liquide, externe investeerders komen in beeld. Het loopt dus niet alleen vast op deze drie condities maar ook op zichzelf. Dat raakt niet alleen wat Nederland van dit gebied vraagt; het is als bedrijfsmodel niet vol te houden.
+Die drie condities duwen van buitenaf richting schaal. Wat decennialang het gaspedaal was, werkt nu als de rem. Van binnenuit loopt het systeem óók vast: opvolging wordt onbetaalbaar bij kapitaalintensieve bedrijven, de grondmarkt raakt minder liquide, externe investeerders komen in beeld. Het loopt dus niet alleen vast op deze drie condities maar ook op zichzelf. Dat raakt niet alleen wat Nederland van dit gebied vraagt; het is als bedrijfsmodel niet vol te houden.
 
-En de uitweg die zich het eerst aandient is er geen. Minder koeien per hectare betekent minder melk per hectare, terwijl de grond, de gebouwen en de financiering hetzelfde blijven kosten. Precies die kostenstructuur is wat de drie condities hebben opgebouwd, en daarom daalt het inkomen zodra de veedichtheid omlaag gaat en er niets betaalds naast staat. Dat is geen aanname maar een rekensom, en het is de reden dat dit document over geld gaat en niet over goede wil.
+En de uitweg die zich het eerst aandient is er geen. Minder koeien per hectare betekent minder melk per hectare, terwijl de grond, de gebouwen en de financiering hetzelfde blijven kosten. Precies die kostenstructuur is wat de drie condities hebben opgebouwd, en daarom daalt het inkomen zodra de veedichtheid omlaag gaat en er niets betaalds naast staat. Dat is een rekensom, geen aanname, en het is de reden dat dit document over geld gaat en niet over goede wil.
 
 ### 3.3 Waar de uitdaging het scherpst is
 
@@ -307,7 +307,7 @@ Die rekensom geldt voor elk bedrijf dat de veedichtheid verlaagt. Het verschil z
     <li><strong>Dunne veenpakketten met hydrologische functie</strong> — gebieden waar het veen als kurk op de fles functioneert. Verdwijning beïnvloedt regionale grondwaterstromen (bijv. Fries plateau)</li>
   </ul>
 
-Deze gebieden liggen niet als aaneengesloten blokken op de kaart. Vernatting valt als hagelslag: delen van percelen, niet hele bedrijven. En waar geen van deze kenmerken speelt, is een ander bedrijfsmodel ook niet nodig: op een polder met een kleidek op het veen, weinig kwel en geen Natura 2000 in de buurt kan een melkveehouder prima door met een aangepast bedrijf.{{fiche:Tegenvoorbeeld|Zo'n polder ligt bijvoorbeeld in Friesland: kleidek op het veen, geen Natura 2000 in de buurt, nauwelijks kwel en beperkte bodemdaling. Doelsturing op stikstof en waterkwaliteit geldt er gewoon, maar een fundamenteel ander bedrijfsmodel is er niet nodig.|Het onderscheid doet werk: niet elk bedrijf op veen heeft een ander bedrijfsmodel nodig. Het gaat om de gebieden waar de reguliere weg doodloopt.}}
+Deze gebieden liggen niet als aaneengesloten blokken op de kaart. Vernatting valt als hagelslag: delen van percelen, niet hele bedrijven. En waar geen van deze kenmerken speelt, is een ander bedrijfsmodel ook niet nodig: op een polder met een kleidek op het veen, weinig kwel en geen Natura 2000 in de buurt kan een melkveehouder prima door met een aangepast bedrijf.{{fiche:Tegenvoorbeeld|Zo'n polder ligt bijvoorbeeld in Friesland: kleidek op het veen, geen Natura 2000 in de buurt, nauwelijks kwel en beperkte bodemdaling. Doelsturing op stikstof en waterkwaliteit geldt er gewoon, maar een ander bedrijfsmodel is er niet nodig.|Het onderscheid doet werk: niet elk bedrijf op veen heeft een ander bedrijfsmodel nodig. Het gaat om de gebieden waar de reguliere weg doodloopt.}}
 
 **Het scherpst is het waar die vormen van druk samenkomen**, want zij werken niet op dezelfde schaal. De grondwaterstand is per perceel te regelen: vernatten waar dat moet, en op het droge deel doorgaan met melkvee. Stikstof niet, want vee, voer en stal zijn niet per perceel te verlagen; dat raakt het bedrijf in één keer. Zulke verspreide vernatting is dus te dragen, zolang stikstof niet óók klemt. **In en tegen Natura 2000 klemmen ze samen**, en daar is stikstof het doorslaggevende dossier dat reguliere melkveehouderij onhoudbaar maakt. Hoeveel hectares per bedrijf het raakt is sterk plaatsgebonden en niet in algemene termen te kwantificeren.
 
@@ -1128,8 +1128,8 @@ Wat dit document probeert te doen, voorbij de analyse, is iets dat in de meeste 
     </div>
 
     <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem;border-top:3px solid var(--accent)">
-      <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--accent);margin-bottom:6px;font-weight:600">3 — Diensten erbij, van één perceel tot het hele bedrijf</div>
-      <p style="font-size:13px;color:var(--text2);line-height:1.5">Naast het vee iets doen waarvoor betaald wordt. Dat kan klein beginnen: één perceel weidevogelbeheer met een contract, water bergen op de laagste hoek. Het kan verder gaan, tot melk één van meerdere producten is bij een lagere veedichtheid. En het kan helemaal doorlopen, tot een bedrijf zonder koeien waar de diensten het product zijn. Waar je op die schaal gaat staan, bepaal je zelf; de posities staan in hoofdstuk 9.</p>
+      <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--accent);margin-bottom:6px;font-weight:600">3 — Maatschappelijke diensten erbij, van één perceel tot het hele bedrijf</div>
+      <p style="font-size:13px;color:var(--text2);line-height:1.5">Naast het vee iets doen waarvoor betaald wordt. Dat kan klein beginnen: één perceel weidevogelbeheer met een contract, water bergen op de laagste hoek. Het hoeft ook niet aan de grond te hangen: zorg of recreatie op het bedrijf hoort er net zo goed bij. Het kan verder gaan, tot melk één van meerdere producten is bij een lagere veedichtheid. En het kan helemaal doorlopen, tot een bedrijf zonder koeien waar de diensten het product zijn. Waar je op die schaal gaat staan, bepaal je zelf; de posities staan in hoofdstuk 9.</p>
     </div>
 
   </div>

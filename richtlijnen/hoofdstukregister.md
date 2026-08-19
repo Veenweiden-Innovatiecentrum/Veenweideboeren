@@ -20,7 +20,7 @@ De volgorde in dit register is de volgorde van `volgorde.txt`. Hoofdstukken die 
 | scope | 1 | 1 | herzien |
 | aannames | 2 | 1 | herzien; 1 markering open (onderbouwing 70-80%) |
 | intro | — | — | wachtkamer, hoort leeg te raken; nog 2 blokken (stikstofdossier → ronde 4, begrippen → bijlage 16.4). Routering in de correctielijst |
-| a-klem | 3 | 2 | drie secties · 3.1 en 3.2 af · 3.3 alleen de slotalinea, de opening en de kenmerkenlijst nog niet |
+| a-klem | 3 | 2 | **herzien**; 77% van de woorden van de auteurs. Eén open punt: het cijfer voor het inkomensgat (JUMP) |
 | b-opgaves | 4 | 2 | nog de bestuursversie |
 | c-omslag | 5 | 1 | herzien; **markeringen 19-8 uit de tekst gehaald, drie bronnen en één getal nog toe te voegen** — de lijst staat in `correctielijst.md` onder c-omslag |
 | e-aktes | 6, 7 | 2 | nog de bestuursversie; akte III is 19-8 eruit gehaald naar `akte-3.md` |

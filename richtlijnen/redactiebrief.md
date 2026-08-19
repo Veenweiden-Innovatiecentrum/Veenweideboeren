@@ -410,7 +410,7 @@ Getoetst tegen `content/*.md`, commit 16 juni 2026.
 | 6 | Wat er gebeurt als er niets verandert (akte I) | **III — Hoe het kan lopen** | uit e-aktes | 6 |
 | 7 | Wat er gebeurt zonder verdienmodel eronder (akte II) | III | uit e-aktes | 7 |
 | 8 | Wat er gebeurt met een verdienmodel eronder (akte III) | III · scharnier | uit e-aktes | 9 |
-| 9 | Het bedrijfsmodel (D) | **IV — Veenweideboeren** | d-concept, zonder de zes lagen | 10 |
+| 9 | Het bedrijfsmodel Veenweideboeren (D) | **IV — Veenweideboeren** | d-concept, zonder de zes lagen | 10 |
 | 10 | Wat de ondernemer doet | IV | f-ondernemer | 11 |
 | 11 | Wat de overheid doet | IV | f-overheid, mét de zes lagen | 12 |
 | 12 | Wat de markt doet | IV | f3-bedrijfsleven, opgewaardeerd | 13 |

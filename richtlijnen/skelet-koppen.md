@@ -84,13 +84,14 @@ Dezelfde doelen, maar de dienst wordt betaald in plaats van het verlies vergoed.
 
 ## Deel IV — Veenweideboeren
 
-### 9. Het bedrijfsmodel (D — De veenweideboer)
+### 9. Het bedrijfsmodel Veenweideboeren (D — De veenweideboer)
 
-Wie is die veenweideboer? Een familiebedrijf van 40 tot 80 hectare met minder koeien per hectare, dat een substantieel deel van zijn inkomen uit maatschappelijke diensten haalt. Geen melkveehouder met beperkingen maar een ander bedrijfsmodel, en de naam gaat over de ondernemer en niet over de landbouwmethode.
+Dit is het bedrijfsmodel Veenweideboeren: een bedrijf dat voedsel blijft leveren én betaald wordt voor water, koolstof, landschap en biodiversiteit, met minder koeien per hectare. Daarna wordt het concreet: wie die veenweideboer dan is, en waarom de naam over de ondernemer gaat en niet over de landbouwmethode.
 
-- 9.1 Wie de veenweideboer is
-- 9.2 Waarom veenweideboeren en niet veenweidelandbouw
-- 9.3 Twee aanscherpingen
+- 9.1 Wat het bedrijfsmodel is
+- 9.2 Wie de veenweideboer is
+- 9.3 Waarom veenweideboeren en niet veenweidelandbouw
+- 9.4 Twee aanscherpingen
 
 ### 10. Wat de ondernemer doet
 

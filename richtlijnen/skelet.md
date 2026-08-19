@@ -191,20 +191,23 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 # Deel IV — Veenweideboeren
 
-## 9 — Het bedrijfsmodel (D — De veenweideboer) · bron: d-concept · ronde 3
+## 9 — Het bedrijfsmodel Veenweideboeren (D — De veenweideboer) · bron: d-concept · ronde 3
 
-> Wie is die veenweideboer? Een familiebedrijf van 40 tot 80 hectare met minder koeien per hectare, dat een substantieel deel van zijn inkomen uit maatschappelijke diensten haalt. Geen melkveehouder met beperkingen maar een ander bedrijfsmodel, en de naam gaat over de ondernemer en niet over de landbouwmethode.
+> Dit is het bedrijfsmodel Veenweideboeren: een bedrijf dat voedsel blijft leveren én betaald wordt voor water, koolstof, landschap en biodiversiteit, met minder koeien per hectare. Daarna wordt het concreet: wie die veenweideboer dan is, en waarom de naam over de ondernemer gaat en niet over de landbouwmethode.
 
-### 9.1 Wie de veenweideboer is
-- geen melkveehouder met beperkingen, maar een ondernemer met een ander bedrijfsmodel `[tekst · auteurs]`
-- het bedrijf: 40 tot 80 hectare, 80 tot 130 koeien, een lagere veedichtheid `[tabel · auteurs]`
-- waar het inkomen vandaan komt: vee houden, het bedrijf optimaliseren, en nieuwe inkomstenstromen openen `[tekst · auteurs]`
+### 9.1 Wat het bedrijfsmodel is
+- geen melkveehouder met beperkingen, maar een bedrijf dat voedsel levert én betaald wordt voor wat het aan de samenleving levert `[tekst · auteurs]`
+- drie bronnen van inkomen: vee houden met een lagere veedichtheid, het bedrijf optimaliseren, en nieuwe inkomstenstromen openen `[tekst · auteurs]`
 
-### 9.2 Waarom veenweideboeren en niet veenweidelandbouw
+### 9.2 Wie de veenweideboer is
+- het familiebedrijf van 40 tot 80 hectare met 80 tot 130 koeien, de middengroep uit hoofdstuk 3 `[tabel · auteurs]`
+- de ondernemer die op veen woont en werkt, en die dit zelf wil `[tekst · auteurs]`
+
+### 9.3 Waarom veenweideboeren en niet veenweidelandbouw
 - de ondernemer staat centraal, niet de productiemethode `[tekst · auteurs]`
 - verander het uitgangspunt en de uitkomst verandert `[tekst · auteurs]`
 
-### 9.3 Twee aanscherpingen
+### 9.4 Twee aanscherpingen
 - niet extensief, maar meervoudig intensief `[tekst · auteurs]`
 - "natuurinclusief" is twee verschillende dingen `[tekst · auteurs]`
 

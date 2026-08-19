@@ -49,7 +49,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 ### 2.2 De vier aannames
 - 1 diensten kunnen een verdienmodel dragen · 2 naast de overheid komt er een tweede geldstroom uit de markt `[kaarten]`
 - 3 de middengroep is het onderwerp van deze visie · 4 de Europese regels gaan opdrachten toestaan `[kaarten]`
-- per aanname: wat wij zien, en wat er moet gebeuren om het te laten werken `[kaarten]`
+- per aanname: wat wij denken, en **wat wij zien** waarop wij dat baseren `[kaarten]`
+- **wat er moet gebeuren om het te laten werken staat niet hier maar in hoofdstuk 14**, met één regel per aanname die daarheen wijst `[tekst · nieuw]` besluit 19-8: dit hoofdstuk zegt waarop het rust, de agenda staat achteraan
 
 ---
 
@@ -269,21 +270,29 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 # Deel V — Sluitstukken
 
-## 14 — Waar het mis kan gaan (H — Risico's) · bron: h-risicos · ronde 4
+## 14 — Wat er moet gebeuren om dit te laten werken (H — Risico's) · bron: h-risicos · ronde 4
 
-### 14.1 De zeven risico's
-- zeven risico's, van schijntransitie tot de boer die zich ambtenaar voelt `[lijst · auteurs]`
+### 14.1 Wat er nog bewezen moet worden
+- per aanname de agenda: een prijs die hoog genoeg is, een looptijd die lang genoeg is, en meten dat de dienst niet opeet `[tekst · verhuisd]` uit hoofdstuk 2, aanname 1
+- één private partij die betaalt voor een dienst in plaats van voor schade, met een contract dat navolgbaar is `[tekst · verhuisd]` uit aanname 2
+- of de middengroep de omslag zelf wil, en de onderbouwing van de 70 tot 80 procent `[tekst · verhuisd]` uit aanname 3, met het openstaande `[[CIJFER]]`
+- het Europese kader moet op tijd meebewegen `[tekst · verhuisd]` uit aanname 4
+- de drie acties die bepalen of akte III werkelijkheid wordt `[tekst · verhuisd]` uit het slot
+
+### 14.2 Waar het ontwerp aan moet voldoen
+- de zeven punten waar het mis kan gaan, elk als eis: dit kan gebeuren, dus moet het ontwerp dit doen `[lijst · auteurs]`
+- waar wij het antwoord niet hebben staat dat er, net als bij de aannames `[tekst · nieuw]`
 - het zijn onderliggende systeemkrachten, geen ondermijnende `[tekst · auteurs]` besluit 17-8
+- het ontwerp moet voorkomen dat de stikstofaanpak akte II wordt `[tekst · verhuisd]` uit de wachtkamer, besluit 18-8 — als eis en niet als oordeel
 
-### 14.2 Wat er nu al mis kan gaan in het beleid
-- stikstofbeleid zonder breder ondernemersperspectief is akte II onder een nieuwe naam `[tekst · verhuisd]` uit de wachtkamer, besluit 18-8
+*Dit hoofdstuk en hoofdstuk 2 zijn twee kanten: 2 zegt waarop het verhaal rust, 14 wat er moet gebeuren voordat het staat. Dat onderscheid moet in de openingszin van beide hoofdstukken staan, anders leest het als dubbel.*
 
 ---
 
 ## 15 — Slot · bron: slot · ronde 4
 
-### 15.1 Wat er nu moet gebeuren
-- drie acties die bepalen of akte III werkelijkheid wordt `[tekst · auteurs]`
+### 15.1 Waar dit begon en waar het eindigt
+- het document begon bij de ondernemer die klem zit en eindigt bij de ondernemer die de opgaven draagt `[tekst · auteurs]`
 - de verbinding met de programma's: JUMP levert de bedrijfsconcepten, deze aanpak de bewijslast, BASE moet de betaling aantonen `[tekst · verhuisd]` uit hoofdstuk 2
 - zonder "pijlers" en zonder de €1,3 miljard `[—]` besluit §8 en §9
 

@@ -91,12 +91,12 @@
 
 ## Deel V — Sluitstukken
 
-**14. Waar het mis kan gaan (H — Risico's)**
-- 14.1 De zeven risico's
-- 14.2 Wat er nu al mis kan gaan in het beleid
+**14. Wat er moet gebeuren om dit te laten werken (H — Risico's)**
+- 14.1 Wat er nog bewezen moet worden
+- 14.2 Waar het ontwerp aan moet voldoen
 
 **15. Slot**
-- 15.1 Wat er nu moet gebeuren
+- 15.1 Waar dit begon en waar het eindigt
 - 15.2 Wat wij vragen
 
 **16. Bijlagen**

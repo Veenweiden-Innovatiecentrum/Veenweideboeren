@@ -27,7 +27,7 @@
 9. A — de omkering van subsidie naar betaling — staat als hypothese, nooit als antwoord.
 10. Geen claim dat woonwijken, datacenters of defensieterreinen "maar één ding doen". Staat nu in c-omslag onder "Drager van een schaarse hulpbron".
 11. Feiten hebben een bron. Standpunten zijn als standpunt herkenbaar ("onze analyse", "wij vinden").
-11a. Geen verspreide voorbehouden. De dragende aannames staan bij elkaar in de sectie "waarop dit rust"; daarbuiten mag de tekst stellig zijn.
+11a. Geen verspreide voorbehouden. De dragende aannames staan bij elkaar in het hoofdstuk "waarop dit rust"; daarbuiten mag de tekst stellig zijn. *Herzien 19-8: de onzekerheid heeft twee plekken, en dat is geen verspreiding. Vooraan staat waaróp het verhaal rust (de aanname en de grond eronder), achteraan staat wat er moet gebeuren voordat het staat (de agenda en de ontwerpeisen). Twee genoemde plekken, geen voorbehoud per zin.*
 
 ## Structuur
 12. Analyse (A tot en met C) bevat geen oplossingen en geen vooruitwijzingen naar D of verder.
@@ -342,6 +342,8 @@ De meeste aannames in het document zijn onschuldig — niemand betwist dat grond
 4. Extensivering leidt zonder aanvullende inkomsten tot inkomensdaling.
 5. De middengroep beslaat werkelijk 70 tot 80 procent.
 6. Een zakelijk dienstverleningscontract is binnen de Europese kaders voor aanbesteding en staatssteun in te richten. Het document kiest hier bewust positie tegen het juridische advies in; dat moet zichtbaar zijn.
+
+> **Gesplitst 19-8 (Tim).** Deze twee horen niet in één hoofdstuk. *Waarop dit rust* staat vooraan: de aanname, stellig, met de grond eronder. *Wat er nog bewezen moet worden* staat achteraan, in het hoofdstuk "wat er moet gebeuren om dit te laten werken", samen met de zeven risico's die daar als ontwerpeis staan. Reden: vooraan duikt het hoofdstuk anders binnen negenhonderd woorden de uitvoering in — prijzen, looptijden, monitoringkosten — terwijl de lezer nog niet weet wat een opdracht is. Achteraan betekent diezelfde agenda wél iets, want dan is het model uitgelegd. Bijkomend: het haalt de dubbeling weg tussen het aannamehoofdstuk en het risicohoofdstuk, die dezelfde onzekerheid twee keer beschreven. Elke aanname houdt één regel die naar dat hoofdstuk wijst.
 
 **Deze zes krijgen een eigen korte sectie: waarop dit verhaal rust en wat er nog bewezen moet worden.** *Er stond "vijf": aanname 6 is later toegevoegd vanuit §9 en de opsomming is niet meegeteld. Gecorrigeerd 18-8 bij het schrijven van hoofdstuk 2.*
 

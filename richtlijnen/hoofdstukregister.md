@@ -20,7 +20,7 @@ De volgorde in dit register is de volgorde van `volgorde.txt`. Hoofdstukken die 
 | scope | 1 | 1 | herzien |
 | aannames | 2 | 1 | herzien; 1 markering open (onderbouwing 70-80%) |
 | intro | — | — | wachtkamer, hoort leeg te raken; nog 2 blokken (stikstofdossier → ronde 4, begrippen → bijlage 16) |
-| a-klem | 3 | 2 | 3.1 herzien en genummerd; 3.2 en 3.4 nog de bestuursversie, 3.3 nog te maken |
+| a-klem | 3 | 2 | 3.1 herzien, 3.2 deels (feitcorrectie en conclusie); 3.3 nog de bestuursversie, 3.4 nog te maken |
 | b-opgaves | 4 | 2 | nog de bestuursversie |
 | c-omslag | 5 | 1 | herzien; **markeringen 19-8 uit de tekst gehaald, drie bronnen en één getal nog toe te voegen** — de lijst staat in `correctielijst.md` onder c-omslag |
 | e-aktes | 6, 7 | 2 | nog de bestuursversie; akte III is 19-8 eruit gehaald naar `akte-3.md` |

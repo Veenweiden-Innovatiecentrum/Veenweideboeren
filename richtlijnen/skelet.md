@@ -64,7 +64,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 3 — Waarom de ondernemer vastloopt op kosten en omzet (A — De ondernemer klem) · bron: a-klem · ronde 2 · nu aan de beurt
 
-> De ondernemer op veen loopt vast op kosten en omzet: grond is duur, de kostprijs stijgt en de ruimte om te ondernemen krimpt. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien om welke bedrijven het gaat, waarom het zakelijk niet meer vol te houden is, wat een andere koers kost, en waar de uitdaging het scherpst is. Het is de uitwerking van de klem die hoofdstuk 1 aankondigt, dus de scope wordt hier niet opnieuw opgebouwd.
+> De ondernemer op veen loopt vast op kosten en omzet: grond is duur, de kostprijs stijgt en de ruimte om te ondernemen krimpt. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien om welke bedrijven het gaat, waarom het zakelijk niet meer vol te houden is, waar de uitdaging het scherpst is, en wat een andere koers kost. Het is de uitwerking van de klem die hoofdstuk 1 aankondigt, dus de scope wordt hier niet opnieuw opgebouwd.
 
 ### 3.1 Om welke bedrijven het gaat
 - de meerderheid van de ondernemers in dit gebied loopt vast op kosten en omzet, en dat is deels systeem en deels eigen keuze `[tekst · auteurs]` de openingsalinea, nu onder een kop; toetsregel 5a in één regel, de uitwerking staat in 3.2
@@ -77,14 +77,15 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - het systeem loopt ook intern vast: opvolging wordt onbetaalbaar en de grondmarkt raakt minder liquide. Plus: het gaspedaal werd de rem, één zin `[tekst · auteurs + nieuw]` besluit 17-8
 - **en er zijn eigen keuzes gemaakt.** Schaal, financiering en het moment van investeren waren beslissingen van de ondernemer zelf, en niet iedereen zit even diep in de klem. Geen verwijt, maar de andere kant van ondernemerschap: daarom is er ook binnen de klem ruimte om te kiezen, en dat is hoofdstuk 13 `[tekst · nieuw]` Tim, 19-8
 
-### 3.3 Wat een andere koers kost
-- de wetmatigheid: een lagere veedichtheid zonder betaalde prestatie ernaast geeft een lager inkomen, want minder melk per hectare terwijl grond, gebouwen en financiering hetzelfde blijven kosten `[tekst · verhuisd]` uit hoofdstuk 2, plus `[[CIJFER]]` voor het inkomensgat
-- daarom gaat deze visie over geld en niet over goede wil `[tekst · nieuw]` één zin, en de brug naar de rest van het document
-
-### 3.4 Waar de uitdaging het scherpst is
-- de zeven kenmerken waaraan je het gebied herkent `[lijst · auteurs]` — **hier staan de vormen van fysieke druk, volledig** (Tim, 19-8). Hoofdstuk 1 noemt de vier die het zwaarst wegen, niet als complete set, en verwijst hierheen
+### 3.3 Waar de uitdaging het scherpst is
+- de kenmerken waaraan je het gebied herkent `[lijst · auteurs]` — **hier staan de vormen van fysieke druk, volledig** (Tim, 19-8). **De lijst begint met de vier uit 1.3, in dezelfde woorden en dezelfde orde** (serieuze bodemdaling · hoge broeikasgasemissies · ligging in of tegen Natura 2000 · toenemende verzilting), en daarna komen de kenmerken die 1.3 niet noemt: gebieden die structureel te nat worden, stedelijke randen, polders waar de infrastructuur niet meekan, en dunne veenpakketten met een hydrologische functie. Zo staan de twee lijsten in dezelfde lijn en spreken zij elkaar niet tegen (Tim, 19-8)
 - tegenvoorbeeld: waar het níet over gaat `[fiche · auteurs]` — nu een accentkader
 - vernatting valt als hagelslag over de percelen, en de aard van de uitdaging verschilt per opgave: de grondwaterstand is per perceel hanteerbaar, stikstof raakt het bedrijf integraal `[tekst · auteurs]` — zonder de coördinatie-conclusie, want dat is oplossing en hoort in hoofdstuk 11 (Lian a-klem:11)
+
+### 3.4 Wat een andere koers kost
+*Stond eerst als 3.3 tussen de twee analysesecties; Tim, 19-8: die orde gaf een gat in de nummering en de sectie doet aan het eind beter werk, als brug naar de rest van het document.*
+- de wetmatigheid: een lagere veedichtheid zonder betaalde prestatie ernaast geeft een lager inkomen, want minder melk per hectare terwijl grond, gebouwen en financiering hetzelfde blijven kosten `[tekst · verhuisd]` uit hoofdstuk 2, plus `[[CIJFER]]` voor het inkomensgat
+- daarom gaat deze visie over geld en niet over goede wil `[tekst · nieuw]` één zin, en de brug naar de rest van het document
 
 *Wat hier uit het hoofdstuk verdwijnt, en waarheen: de scope-opbouw (200.000 hectare, "dit gaat niet over het hele gebied", de schattingsdiscussie over de 20 tot 30 procent) staat in 1.3 en wordt hier alleen aangehaald · het driesporenkader "de scope van spoor 3 is te smal" gaat naar bijlage 16 · de vraag "wanneer kom je in aanmerking voor de veenweideboerencategorie" vervalt, want dat begrip wordt pas in hoofdstuk 9 gedefinieerd (Lian a-klem:9 wordt daar beantwoord) · de twee akte-vermeldingen vervallen, toetsregel 13.*
 

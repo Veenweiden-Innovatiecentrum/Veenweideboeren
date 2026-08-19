@@ -83,11 +83,11 @@
 - [x] Simon (cluster 4): **tellfout "zes of zeven opgaven".** Het hoofdstuk noemt nu één getal, de zeven opgaven uit hoofdstuk 5, en somt ze op
 - [x] Henk (cluster 5): boeren zijn al ondernemer. 8.1 zegt dat het vermogen in de ondernemer zit en niet in de grond, met wat hij of zij nu al doet; nergens een nieuwe ondernemer
 - [x] **JUMP-concept 4a gevonden en verwerkt** (19-8): "Verkoopbare veen-biodiversiteit op maat — Biodivers Veen", op SharePoint in VIA, versie 12 juli 2026. 5.3 zegt nu wát er verbouwd wordt, met de drie afnemers en de landbouwstatus als harde voorwaarde. **Let op:** het concept staat op ontwikkelniveau 0,2 met drie open validatievragen, dus in de visie is het een richting en geen product
-- [ ] **`[[BRON]]` voor de omvang van de koolstofvoorraad in Nederlands veen en de jaarlijkse uitstoot uit veenoxidatie.** Hoort in de cijferbijlage van ronde 5, en de zin in 8.3 leunt erop
+- [ ] **`[[BRON]]` bij de CO₂-passage in 5.3.** De markering hangt nu aan de vergelijking met bosaanplant per geïnvesteerde euro. De zin "de CO₂-voorraad in het veen is enorm" is een kwalitatieve bewering van de auteurs en heeft geen bron; die hoort in de cijferbijlage van ronde 5
 - [ ] **`[[BRON]]` voor de vindplaats van de landelijke verdringingsreeks in de huidige rijksregelgeving.** Tot 2024 stond zij in het Waterbesluit; onder de Omgevingswet is dat verplaatst en van hier niet te controleren. **Vraag voor Simon**, één regel werk voor een jurist. De inhoud van de reeks staat wel in de tekst en is niet in geschil
 - [ ] **`[[BRON]]` onder "I&W stuurt sinds 2026 op waterzelfvoorzienendheid van veenweidegebieden".** Stond al zonder bron in de bestuursversie en draagt nu meer gewicht, want het is de afnemer met een doel
 - [ ] **`[[CIJFER]]`: hoeveel water wordt er nu in droge zomers naar laagveengebieden aangevoerd** om veenoxidatie te beperken. Openstaande vraag van §11 voor de ontwerpstudie; dit getal bepaalt of zelfvoorzienendheid een volume oplevert of vooral een principe
-- [ ] **Lengte.** Het hoofdstuk is van 1197 naar circa 1500 woorden gegroeid, vrijwel volledig door de waterpassage. Als Tim wil korten, is de verdringingsreeks-alinea de kandidaat voor een fiche
+- [x] **Lengte.** Opgelost 19-8. Het hoofdstuk staat op 1434 woorden, met de vier secties op 396, 288, 579 en 200. Binnen 5.3 zijn de drie diensten 100, 179 en 227 woorden; de verdringingsreeks-tabel staat in bijlage 16
 - [ ] **Niel (cluster 8), meegenomen uit dit hoofdstuk:** de zoetwaterbeschikbaarheid als groeiend risico hoort bij de opgave Water in `b-opgaves` en als toekomstrisico bij akte III (besluit 17-8). Hoofdstuk 8 noemt nu wel dat de eigen watervraag bij vernatting stijgt, dus die twee moeten straks hetzelfde zeggen
 
 ## d-concept.md

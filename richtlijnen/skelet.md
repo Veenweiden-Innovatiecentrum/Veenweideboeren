@@ -183,10 +183,16 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - ammoniakreductie als denkbare dienst `[fiche · verhuisd]` uit de wachtkamer
 
 ### 8.3 Wat dat betekent per opgave
+- wat je dan ziet veranderen: de uitstoot daalt aan beide kanten, en het inkomen herstelt naar een leefbaar familiebedrijf uit meerdere stromen `[tekst · auteurs]`
 - de dimensies bij akte III, en de ontwikkeling over de drie aktes `[beeld · auteurs]`
+- waarom de verbetering standhoudt: in akte II keerde de beweging omdat de rentmeesters verdwenen, hier blijven zij `[tekst · auteurs]`
 
 ### 8.4 De motor
+- de motor draait op de juiste brandstof: de opgaven zijn geen kostenpost maar het product `[tekst · auteurs]` vaste kop, elke akte heeft deze alinea
 - de ondernemer wordt bréder ondernemer, geen andere ondernemer `[tekst · auteurs]` correctie Henk
+- het doel is een gebied vol met dit soort ondernemers, niet één pionier die het lukt ondanks het systeem `[tekst · auteurs]`
+- conflicten worden zichtbaar: niet alle bouwstenen passen bij elkaar, en kiezen is het werk van de ondernemer `[tekst · auteurs]`
+- akte III is geen morele maar een ontwerpkeuze: een systeem dat van variatie profiteert in plaats van eraan onderdoor te gaan `[tekst · verhuisd]` uit hoofdstuk 5, geparkeerd 19-8
 
 ---
 

@@ -35,7 +35,7 @@
 - [ ] **Aanname 3** (was 5 in de brief): het aandeel van de middengroep. De `[[KEUZE]]` is 18-8 beslist (aantal bedrijven); het `[[CIJFER]]` voor de onderbouwing staat nog open. Zie de regel bij `scope.md` hierboven
 - [ ] **Verhuisd naar `a-klem.md` (hoofdstuk 4), ronde 2:** de wetmatigheid dat een lagere veedichtheid zonder betaalde prestatie ernaast tot een lager inkomen leidt, plus het ontbrekende cijfer voor de omvang van dat gat. Stond 18-8 kort in hoofdstuk 2 en is daar op Tims verzoek weggehaald, want het is geen aanname
 - [x] **Aanname 1**: de bewering dat er via het ANLb al voor een geleverde dienst wordt betaald, is 18-8 **onjuist bevonden en rechtgezet**, met bron in een fiche. De regeling vergoedt kosten, gederfde inkomsten en transactiekosten. Redactiebrief §6 heeft een correctieblok gekregen
-- [x] **Volgt hieruit, voor §6 en de aktes: water wordt het voorbeeld waar al voor een dienst betaald wordt, niet de weidevogel.** Besloten 18-8. Weidevogels blijven het bewijs dat het gebied de dienst kan leveren (toetsregel 23), maar niet het bewijs dat er betaald wordt, want de ANLb-onderbouwing daarvoor is onjuist gebleken. Uitvoeren bij akte III (ronde 1) en meenemen in `b-opgaves` (ronde 2)
+- [x] **Water is het voorbeeld, niet de weidevogel — uitgevoerd in 8.2 op 19-8**, met de eerlijke stand: de afnemer is er, de betaling is schade en geen dienst. Besloten 18-8. Weidevogels blijven het bewijs dat het gebied de dienst kan leveren (toetsregel 23), maar niet het bewijs dat er betaald wordt, want de ANLb-onderbouwing daarvoor is onjuist gebleken. Uitvoeren bij akte III (ronde 1) en meenemen in `b-opgaves` (ronde 2)
 - [ ] **Aanname 2**: dat de vraag bij de drinkwaterbedrijven concreet is, staat er zonder bron. `[[BRON]]` in de tekst. Dunea en Oasen zijn de partijen; zie ook de open regel bij `f-overheid.md`
 - [ ] Niel (cluster 8): **kosten van monitoring en beoordeling** als beperkende factor. Staat nu in aanname 1 benoemd als iets dat de dienst kan opeten; de uitwerking hoort bij hoofdstuk 12, waar de correctielijst hem al heeft staan onder `d-concept`
 - [ ] **Bij het herzien van `f-overheid` (hoofdstuk 12):** het kader "Het juridische frame moet meekantelen" ís aanname 4 en staat nu twee keer in het document. Hoofdstuk 2 houdt de aanname en het advies waar tegenin wordt gegaan; hoofdstuk 12 houdt de uitwerking en plan B, en verwijst terug in plaats van de redenering opnieuw op te bouwen
@@ -104,9 +104,9 @@
 - [ ] Kleurfout in de opmaak van de dimensieweergave herstellen *(Niel)* — zit mogelijk in `partials/e-aktes-dimensie-ontwikkeling.html`
 - [ ] Regel ~40: "minimaal -40 cm" → "-20 tot -40 cm" *(Simon)*
 - [ ] Vier driesporenkaders → bijlage, zie bloktypen.md. Correcties van Niel (hierboven bij intro) gelden ook daar
-- [ ] Voedselzekerheid-regel in de dimensielijst (regel ~145): "waterbuffer aan akkerbouw" — aanpassen conform §11
+- [x] Voedselzekerheid-regel in de dimensielijst: "waterbuffer aan akkerbouw" eruit conform §11, en "drie pijlers" werd "drie kanten" (19-8, in `akte-3.md`)
 - [ ] **Verhuisd uit `c-omslag` op 19-8, voor akte I (hoofdstuk 6, ronde 2):** "Akte I lijkt te werken omdat er nog niks is gebeurd. Het is geen stabiele toestand maar een kwetsbaarheidspositie die zich pas openbaart bij de volgende schok, in soja, kunstmest, melkprijs, klimaat of regelgeving." Sluit aan op het besluit van 17-8 om de kwetsbaarheid van de monocultuur bij akte I toe te voegen *(Henk)*
-- [ ] **Verhuisd uit `c-omslag` op 19-8, voor akte III (hoofdstuk 9, ronde 1):** de ontwerpkeuze-alinea. "Akte III is niet een morele maar een ontwerpkeuze: een antifragiel systeem dat van variatie profiteert in plaats van eraan onderdoor te gaan." Hoorde niet in een analysehoofdstuk (toetsregel 12) en past bij het antwoord
+- [x] **Verhuisd uit `c-omslag`, geland in 8.4 op 19-8:** de ontwerpkeuze-alinea. Zonder het woord "antifragiel", want dat is jargon: "een systeem dat van variatie profiteert in plaats van eraan onderdoor te gaan"
 
 ## f-ondernemer.md
 

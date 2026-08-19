@@ -62,7 +62,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 4 — A — De ondernemer klem · ronde 2
+## 4 — Waarom de ondernemer klem zit (A — De ondernemer klem) · ronde 2
 
 ### 4.1 Wie klem zit
 - de vorm van de populatie: een kleine groep hele grote bedrijven, een middengroep, een kleine niche `[beeld · auteurs]`
@@ -80,7 +80,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 5 — B — De opgaven · ronde 2
+## 5 — Wat Nederland van dit gebied vraagt (B — De opgaven) · ronde 2
 
 ### 5.1 Waarom een klemzittende middengroep alle opgaven blokkeert
 - op korte termijn vernietigt margedruk het rentmeesterschap `[tekst · auteurs]`
@@ -96,7 +96,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 6 — Akte I — doorgaan · ronde 2
+## 6 — Wat er gebeurt als het zo doorgaat (akte I — doorgaan) · ronde 2
 
 ### 6.1 Wat er gebeurt als het systeem niet verandert
 - akte I lijkt te werken omdat er nog niets is gebeurd `[tekst · verhuisd]` uit hoofdstuk 8
@@ -111,7 +111,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 7 — Akte II — ingrijpen zonder verdienmodel · ronde 2
+## 7 — Wat er gebeurt bij ingrijpen zonder verdienmodel (akte II) · ronde 2
 
 ### 7.1 Harde maatregelen, geen bedrijfsmodel eronder
 - de categorie, niet één beleidsstuk: maatregelen zonder onderliggend verdienmodel `[tekst · nieuw]` besluit §8
@@ -149,7 +149,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 9 — Akte III — het antwoord · ronde 1 · nu aan de beurt
+## 9 — Wat er gebeurt als er wél een verdienmodel onder zit (akte III — het antwoord) · ronde 1 · nu aan de beurt
 
 ### 9.1 Dezelfde doelen, met een verdienmodel eronder
 - wat er eerst gebeurt: het grondbeleid stopt de grondhonger uit akte II `[tekst · auteurs]`
@@ -169,7 +169,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 10 — D — De veenweideboer · ronde 3
+## 10 — De veenweideboer (D) · ronde 3
 
 ### 10.1 Wat de typologie is
 - geen melkveehouder met beperkingen, maar een ander bedrijfsmodel `[tekst · auteurs]`
@@ -249,7 +249,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 14 — G — Wat de boer nu al kan · ronde 3
+## 14 — Wat de boer nu al kan doen (G — Terug naar de boer) · ronde 3
 
 ### 14.1 Vier routes
 - veenweideboer worden · nieuwe activiteiten ontwikkelen · doorgaan zoals het is · stoppen `[kaarten · auteurs]`
@@ -264,7 +264,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 15 — H — Risico's · ronde 4
+## 15 — Waar het mis kan gaan (H — Risico's) · ronde 4
 
 ### 15.1 Waar het mis kan gaan
 - zeven risico's, van schijntransitie tot de boer die zich ambtenaar voelt `[lijst · auteurs]`

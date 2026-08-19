@@ -458,38 +458,26 @@ De zeven opgaven in hoofdstuk 4 gaan over wat er ín het veenweidegebied gebeurt
 Het mechanisme is daarbij niet levering maar het opheffen van een claim.{{fiche:Bron|Niel de Jong, Unie van Waterschappen, commentaar op deze visie, 18 juni 2026. Om water van betekenis te kunnen leveren zou een groot deel van het gebied onder water moeten staan. Bij -40 cm neemt de eigen watervraag van het gebied in een droge zomer toe met een factor anderhalf tot drie; om water van betekenis te kunnen leveren zou al snel een derde van het gebied ongeveer een meter onder water moeten staan. De bron specificeert bij die -40 cm niet of het om het slootwaterpeil of de grondwaterstand gaat.}} In een droge zomer wordt er nú water náár dit gebied aangevoerd om de veenbodem te sparen; een gebied dat zichzelf voorziet heeft die aanvoer niet nodig, en dat water komt vrij voor gebruik elders. Waarom die claim zwaar weegt staat in de verdringingsreeks in bijlage 16: bij watertekort gaat klink en zetting in veen vóór op drinkwater, terwijl water voor het gras onderaan staat. Die hoge prioriteit geldt dus de bodem en niet het bedrijf, en daarmee is dit geen boerenbelang in een ander jasje. En er is een partij met een doel: I&W stuurt sinds 2026 op waterzelfvoorzienendheid van veenweidegebieden [[BRON: het uitgangspunt van waterzelfvoorzienendheid voor veenweidegebieden bij I&W, sinds 2026]]. Hoeveel water dat vrijmaakt is niet bekend. [[CIJFER: hoeveel water wordt er nu in droge zomers naar laagveengebieden aangevoerd om veenoxidatie te beperken]]
 
 
-### 5.4 Van bijproduct naar product
+### 5.4 Wat kan, is er nog niet
 
-Zodra maatschappelijke diensten het product worden waarvoor betaald wordt, kantelt het frame waarin dit gebied nu wordt bekeken.
+Alles hierboven is wat dit gebied kán leveren. Dat het kan, betekent niet dat het er is. Tussen kunnen en doen zitten drie horden, en zij zijn van verschillende aard.
 
-<div style="overflow-x:auto">
-    <table class="layer-table">
-      <thead>
-        <tr>
-          <th style="width:50%">Nu heet het</th>
-          <th style="width:50%">Dan is het</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>een niet-productieve investering in water, natuur of landschap</td>
-          <td>een investering in productiemiddelen</td>
-        </tr>
-        <tr>
-          <td>schoon slootwater als bijproduct</td>
-          <td>schoon slootwater als hét product, en het helofytenfilter als productie-installatie</td>
-        </tr>
-        <tr>
-          <td>een natte teelt als verlies van landbouwgrond</td>
-          <td>een natte teelt als nieuwe productielocatie</td>
-        </tr>
-      </tbody>
-    </table>
+<div class="question-list">
+    <div class="question-item">
+      <div class="q">Kan het?</div>
+      <div class="ctx">Een vraag aan de praktijk. Is biodiversiteit meetbaar te leveren, valt water in de zandlagen onder het veen te bewaren, en is de opbrengst genoeg om een bedrijf te dragen? Dat is wat in JUMP wordt onderzocht.</div>
+    </div>
+    <div class="question-item">
+      <div class="q">Mag het?</div>
+      <div class="ctx">Een vraag aan het recht. Een overheid die een dienst inkoopt bij een ondernemer loopt aan tegen aanbesteding en staatssteun, en in de huidige Europese kaders heten investeringen in water, natuur en landschap niet-productieve investeringen. Hoofdstuk 11 gaat daarover.</div>
+    </div>
+    <div class="question-item">
+      <div class="q">Wordt het gewild?</div>
+      <div class="ctx">De derde horde, en de grootste. Een overheid die decennialang met subsidies en vergoedingen heeft gewerkt, moet dan betalen voor een prestatie van een ondernemer die er zelf aan verdient, terwijl een deel van dat werk nu al gebeurt zonder dat er iets voor wordt betaald. Dat is geen technische wijziging maar een andere verhouding, en de gewoonte, de instrumenten en de cultuur daarvoor bestaan nog niet. Wat er nodig is staat in hoofdstuk 14.</div>
+    </div>
   </div>
 
-Voedsel is dan niet langer het enige product dat van het bedrijf komt, en wat de samenleving van dit gebied nodig heeft wordt zelf een product.
-
-Dat kantelpunt is niet één horde maar drie, en ze zijn van verschillende aard. **Of het kan** is een vraag aan de praktijk: of biodiversiteit meetbaar te leveren is, of water in de zandlagen onder het veen te bewaren valt. Dat is wat in JUMP wordt onderzocht. **Of het mag** is een vraag aan het recht. In de huidige Europese kaders heten investeringen in water, natuur en landschap niet-productieve investeringen, en een overheid die een dienst inkoopt bij een ondernemer loopt aan tegen aanbesteding en staatssteun; dat staat in hoofdstuk 11. **Of het gewild wordt** is de derde, en de grootste. Een overheid die decennialang met subsidies en vergoedingen heeft gewerkt, moet dan betalen voor een prestatie van een ondernemer die er zelf aan verdient — en een deel van dat werk gebeurt nu al zonder dat er iets voor wordt betaald. Dat is geen technische wijziging maar een andere verhouding, en de gewoonte, de instrumenten en de cultuur daarvoor bestaan nog niet. Het lastigst te beprijzen is namelijk wat altijd gratis kwam. Wat daarvoor nodig is staat in hoofdstuk 14.
+Het lastigst te beprijzen is namelijk wat altijd gratis kwam.
 
 ---
 

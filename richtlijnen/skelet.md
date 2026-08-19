@@ -124,9 +124,9 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - biodiversiteit **verbouwen** in plaats van ontzien, met drie soorten afnemers, en met de landbouwstatus als harde voorwaarde `[tekst + fiche · nieuw]` uit JUMP-concept 4a, Biodivers Veen (Tim, 19-8)
 - water: piekberging kan vandaag, waterbuffering is in verkenning, en het mechanisme is het opheffen van een claim `[tekst + lijst · nieuw]` — even lang als de andere twee; de verdringingsreeks staat als tabel in bijlage 16
 
-### 5.4 Van bijproduct naar product
-- de omslag zelf: zodra er betaald wordt, is het geen bijproduct meer maar het product `[tabel + tekst · auteurs]`
-- **en dat kantelpunt is niet één horde maar drie, elk met hun adres:** of het kán (de praktijk, JUMP), of het mág (het recht, hoofdstuk 11), en of het gewild wordt (de gewoonte, hoofdstuk 14) `[tekst · nieuw]` Tim, 19-8
+### 5.4 Wat kan, is er nog niet
+- alles hierboven is wat dit gebied kán leveren; dat het kan betekent niet dat het er is `[tekst · nieuw]` Tim, 19-8
+- **drie horden, los van elkaar en elk met hun adres** `[lijst · nieuw]`: of het **kan** (de praktijk, JUMP), of het **mag** (het recht, hoofdstuk 11), en of het **gewild wordt** (de gewoonte, hoofdstuk 14)
 - het lastigst te beprijzen is wat altijd gratis kwam `[tekst · nieuw]` sluit aan op §3, onbeprijsd en niet gratis
 
 ---
@@ -264,6 +264,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - aanbesteding en staatssteun: de haken en ogen, en waarom wij tóch voor de opdracht kiezen `[tekst · auteurs]`
 - plan B is een slim ingerichte subsidieregeling, en juristen wijzen daar terecht op `[tekst · auteurs]`
 - **mogen en willen zijn twee dingen:** ook binnen een kader dat het toestaat moet een opdrachtgever het wíllen, en dat vraagt een andere verhouding dan subsidie `[tekst · nieuw]` Tim, 19-8
+- van bijproduct naar productiemiddel: wat nu een niet-productieve investering heet, is dan een investering in productie `[tabel · verhuisd]` uit hoofdstuk 5, want het gaat over het instrument en niet over wat het gebied kan (Tim, 19-8)
 - verwijst terug naar aanname 4 en bouwt de redenering niet opnieuw op `[—]`
 
 ### 11.4 Collectieven en het waterschap

@@ -2,7 +2,7 @@
 
 *Afgeleid uit `richtlijnen/skelet.md`. Per hoofdstuk twee of drie zinnen over wat er in staat, plus de paragrafen. De elementen per paragraaf staan in het skelet zelf.*
 
-*Dit is geen tekst voor de visie maar de uitleg van wat wij bouwen. De letters en aktes tussen haakjes blijven staan zolang zij nog in de tekst zelf staan; de tekst draagt nog de oude nummers.*
+*Dit is geen tekst voor de visie maar de uitleg van wat wij bouwen. De letters en aktes tussen haakjes blijven staan zolang zij nog in de tekst zelf staan.*
 
 ---
 
@@ -49,7 +49,7 @@ Op dezelfde hectare komt meer dan melk: vastgehouden water, koolstof in de bodem
 - 5.1 Wat deze hectare nu al levert
 - 5.2 Waarom hier, en waarom deze ondernemers
 - 5.3 Wat het gebied buiten zijn grenzen levert
-- 5.4 Van bijproduct naar product
+- 5.4 Wat kan, is er nog niet
 
 ---
 

@@ -118,6 +118,7 @@
 - [ ] "Weidemerk" → "Weidemelk" *(Henk)*
 - [ ] Markttoegang-instrumenten: **Oasen** toevoegen naast de zuivelketen — de drinkwaterpartij in Alblasserwaard en Krimpenerwaard *(Henk)*. **Let op, 18-8 uitgezocht:** Oasen betaalt vandaag alleen wettelijk verplichte droogteschade en geen dienst, en is partij in een massaclaim daarover; **Dunea hoort hier niet** want die zit met zijn bronbescherming buiten het veen. Voeg **Waternet** toe (Bethunepolder, een derde van hun drinkwater). Zie het correctieblok bij §7
 - [ ] Gebiedsregie-passage: herformuleren conform §10 — collectieven leveren input, waterschap neemt het peilbesluit; derden via de bestaande route *(Simon)*
+- [ ] **Verhuisd uit 5.4 op 19-8 (Tim): het kantelende frame, als tabel.** Hoort bij het instrument en niet bij wat het gebied kan. Drie regels, nu heet het → dan is het: een niet-productieve investering in water, natuur of landschap → een investering in productiemiddelen · schoon slootwater als bijproduct → schoon slootwater als het product, met het helofytenfilter als productie-installatie · een natte teelt als verlies van landbouwgrond → een natte teelt als nieuwe productielocatie. **Let op:** `bloktypen.md` wees dit kader ("Het frame kantelt") aan als lopende tekst in `c-omslag`; dat besluit is 19-8 door Tim herzien omdat het daar het verkeerde werk deed
 - [ ] Vangrail-lijst herordenen naar moeten / mogen / betalen (§15.2); markttoegang verhuist naar "wat mag"
 
 ## f3-bedrijfsleven.md

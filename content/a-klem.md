@@ -29,7 +29,7 @@ Dat de middengroep klem zit is geen toeval en geen persoonlijk falen. Vergelijki
     </div>
   </div>
 
-Die drie condities duwen van buitenaf richting schaal. Van binnenuit loopt het systeem óók vast: opvolging wordt onbetaalbaar bij kapitaalintensieve bedrijven, de grondmarkt raakt minder liquide, externe investeerders komen in beeld. Het loopt dus niet alleen vast op deze drie condities maar ook op zichzelf. Dat is niet alleen slecht voor de opgaven; het is als bedrijfsmodel niet vol te houden.
+Die drie condities duwen van buitenaf richting schaal. Van binnenuit loopt het systeem óók vast: opvolging wordt onbetaalbaar bij kapitaalintensieve bedrijven, de grondmarkt raakt minder liquide, externe investeerders komen in beeld. Het loopt dus niet alleen vast op deze drie condities maar ook op zichzelf. Dat raakt niet alleen wat Nederland van dit gebied vraagt; het is als bedrijfsmodel niet vol te houden.
 
 ### 3.3 Waar de uitdaging het scherpst is
 
@@ -54,6 +54,6 @@ Hoe groot dit deel precies is, is onderwerp van discussie, schattingen lopen uit
     <p style="font-size:13.5px;line-height:1.65;margin:0">Een polder in Friesland met een kleidek op het veen, geen Natura 2000 in de buurt, nauwelijks kwel, en beperkte bodemdaling. Daar kun je als melkveehouder prima door met een aangepast bedrijf. Doelsturing op stikstof en waterkwaliteit geldt er gewoon, maar je hebt geen fundamenteel nieuw bedrijfsmodel nodig. Dat is geen veenweideboer in de zin van dit verhaal. Het onderscheid is belangrijk: niet elke boer op veen is een veenweideboer. Het gaat om de gebieden waar de reguliere weg doodloopt.</p>
   </div>
 
-De aard van de uitdaging verschilt overigens per opgave. De grondwaterstand is per perceel hanteerbaar — een ondernemer kan op een deel van de percelen vernatten en op het droge deel met melkvee doorgaan. Stikstof raakt het bedrijf integraal: vee, voer en stal zijn niet per perceel te verlagen. Daaruit volgt een nuance: hagelslag-vernatting is hanteerbaar mits stikstof niet ook klemt. In Natura 2000-bufferzones klemt beide; daar is stikstof het doorslaggevende dossier dat reguliere melkveehouderij onhoudbaar maakt. Hoeveel hectares per bedrijf het raakt is sterk plaatsgebonden en niet in algemene termen te kwantificeren.
+Die vormen van druk werken niet op dezelfde schaal. De grondwaterstand is per perceel hanteerbaar — een ondernemer kan op een deel van de percelen vernatten en op het droge deel met melkvee doorgaan. Stikstof raakt het bedrijf integraal: vee, voer en stal zijn niet per perceel te verlagen. Daaruit volgt een nuance: hagelslag-vernatting is hanteerbaar mits stikstof niet ook klemt. In Natura 2000-bufferzones klemt beide; daar is stikstof het doorslaggevende dossier dat reguliere melkveehouderij onhoudbaar maakt. Hoeveel hectares per bedrijf het raakt is sterk plaatsgebonden en niet in algemene termen te kwantificeren.
 
 [[TODO: ronde 2, vervolg. 3.1 is herzien en in 3.2 zijn de feitcorrectie en de conclusie gedaan. 3.3 staat er nog als bestuursversie: daar moet de lijst beginnen met de vier vormen uit 1.3, in dezelfde woorden, met de andere kenmerken erachter. En 3.4 "Wat een andere koers kost" moet nog gemaakt worden. Wat er per sectie moet gebeuren staat in `richtlijnen/skelet.md`; de openstaande punten in `correctielijst.md` onder a-klem]]

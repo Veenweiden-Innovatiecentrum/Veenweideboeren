@@ -64,7 +64,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 3 — Waarom de ondernemer klem zit (A — De ondernemer klem) · bron: a-klem · ronde 2
 
-> De middengroep zit klem, en niet door eigen falen: grondprijs, kostprijs en krimpende ruimte dwingen tot een productie die op veen steeds duurder wordt. Dit hoofdstuk laat zien wie die groep is, waarom het systeem hem vastzet, en waar het het scherpst knelt. Hij valt om op kosten en omzet, niet op vakmanschap of motivatie.
+> De middengroep zit klem: grondprijs, kostprijs en krimpende ruimte dwingen tot een productie die op veen steeds duurder wordt. Dat is een systeemuitkomst, en tegelijk zijn er eigen keuzes gemaakt in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien wie die groep is en waar het knelt: hij valt om op kosten en omzet, niet op vakmanschap of motivatie.
 
 ### 3.1 Wie klem zit
 - de vorm van de populatie: een kleine groep hele grote bedrijven, een middengroep, een kleine niche `[beeld · auteurs]`
@@ -73,6 +73,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 ### 3.2 Waarom de middengroep klem zit
 - drie systeemcondities: de grondmarkt, de kostprijs, en het systeem dat intern vastloopt `[tekst · auteurs]` — nu twee kaders
 - het gaspedaal werd de rem: een systeemomkering, geen verwijt `[tekst · nieuw]` één zin, besluit 17-8
+- **en er zijn eigen keuzes gemaakt.** Schaal, financiering en het moment van investeren waren beslissingen van de ondernemer zelf, en niet iedereen zit even diep in de klem. Geen verwijt, maar de andere kant van ondernemerschap: daarom is er ook binnen de klem ruimte om te kiezen, en dat is hoofdstuk 13 `[tekst · nieuw]` Tim, 19-8
 - de wetmatigheid: een lagere veedichtheid zonder betaalde prestatie ernaast geeft een lager inkomen `[tekst · verhuisd]` uit hoofdstuk 2, plus `[[CIJFER]]` voor het inkomensgat
 
 ### 3.3 Waar de uitdaging het scherpst is

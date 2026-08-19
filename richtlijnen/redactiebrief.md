@@ -19,6 +19,7 @@
 3. Wij vragen niets uit de lopende middelen. Wat wij bouwen is wat daarná nodig is.
 4. Geen woord over "rijdende treinen" of vergelijkbaar beeldspraak richting het beleid.
 5. De boer is nergens hulpeloos, lui of machteloos. Hij valt om op kosten en omzet, niet op motivatie of vakmanschap.
+5a. **En hij is ook geen slachtoffer van het systeem.** De klem is een systeemuitkomst, en er zijn eigen keuzes gemaakt in schaal, financiering en tempo; niet iedereen zit er even diep in. Dat hoort erbij en het is geen verwijt, het is de andere kant van ondernemerschap — en het is precies de reden dat er ook binnen de klem ruimte is om te kiezen (hoofdstuk 13). Te herzien: "niet door eigen falen, maar door een systeem dat ze alleen de verkeerde opties biedt" (`a-klem`, en het staat ook als pull-quote in de lezer). *Tim, 19-8: "ze hebben zelf ook hun eigen verantwoordelijkheid." Zonder deze regel leest toetsregel 5 als een vrijbrief, en dat maakt de ondernemer passief — precies wat het bestuur op 1 juli afwees.*
 6. Waar verlies wordt beschreven: rekensom met verdriet, geen verwijt aan de lezer.
 
 ## Kern en argumentatie

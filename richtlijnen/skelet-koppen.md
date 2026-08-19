@@ -29,7 +29,7 @@ Vier aannames dragen dit verhaal. Wij zeggen ze stellig en zetten eronder waarop
 
 ### 3. Waarom de ondernemer klem zit (A — De ondernemer klem)
 
-De middengroep zit klem, en niet door eigen falen: grondprijs, kostprijs en krimpende ruimte dwingen tot een productie die op veen steeds duurder wordt. Dit hoofdstuk laat zien wie die groep is, waarom het systeem hem vastzet, en waar het het scherpst knelt. Hij valt om op kosten en omzet, niet op vakmanschap of motivatie.
+De middengroep zit klem: grondprijs, kostprijs en krimpende ruimte dwingen tot een productie die op veen steeds duurder wordt. Dat is een systeemuitkomst, en tegelijk zijn er eigen keuzes gemaakt in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien wie die groep is en waar het knelt: hij valt om op kosten en omzet, niet op vakmanschap of motivatie.
 
 - 3.1 Wie klem zit
 - 3.2 Waarom de middengroep klem zit

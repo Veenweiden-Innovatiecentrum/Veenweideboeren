@@ -120,8 +120,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ### 5.3 Wat het gebied buiten zijn grenzen levert
 - CO₂-compensatie voor de akkerbouw, met vermeden uitstoot en vastlegging apart `[tekst · auteurs]`
-- organische mest voor de akkerbouw, zonder de claim dat de kringloop gesloten is `[tekst · auteurs]`
-- natuur en biodiversiteit **verbouwen**, niet alleen ontzien: de opgave ligt landelijk, de uitvoering kan hier, en er is al een apparaat — maar het betaalt kosten en geen prijs `[tekst · nieuw]` Tim, 19-8; het JUMP-concept hierover (4a of 4b) zit niet in deze repo en draagt een `[[BRON]]`
+- biodiversiteit **verbouwen** in plaats van ontzien, met drie soorten afnemers, en met de landbouwstatus als harde voorwaarde `[tekst + fiche · nieuw]` uit JUMP-concept 4a, Biodivers Veen (Tim, 19-8)
 - water: piekberging nu, buffering als ontwerpopgave, en als mechanisme het opheffen van een claim `[tekst + lijst + tabel · nieuw]` — korter houden dan de andere drie, anders kantelt de sectie
 
 ### 5.4 Van bijproduct naar product

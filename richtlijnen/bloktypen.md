@@ -44,7 +44,7 @@ Commentaar op een specifiek beleidsstuk. Besluit §8: het driesporenframe draagt
 | e-aktes | Driesporenbeleid: €1,3 miljard, twee bestedingsroutes |
 | e-aktes | Spoor 3 specifiek: waarom afwaardering de verkeerde route is |
 | f-overheid | Driesporenbeleid, drie van de vier pijlers ontbreken |
-| g-perspectief | Driesporenbeleid, van drie sporen naar één gebiedsbod |
+| g-perspectief | Driesporenbeleid, van drie sporen naar één gebiedsbod | **verhuisd 19-8**, omgezet naar diagnose met de intensiteiten-gedachte erin |
 
 *Let op: het €1,3 miljard-kader draagt nu een dragend argument — hetzelfde geld, ander instrument. Dat argument blijft in laag 2, maar zonder bedrag (besluit §8).*
 
@@ -100,7 +100,7 @@ Deze twee vervallen inhoudelijk of veranderen van functie door eerdere besluiten
 
 | | Nu | Straks |
 |---|---|---|
-| Kaders in de lopende tekst | 30 | 2 |
+| Kaders in de lopende tekst | 30 | 2 · **stand 19-8: vier van de negen driesporenkaders verhuisd** |
 | Fiches | 14 | 22 |
 | Bijlagemateriaal | — | 9 blokken |
 | Naar lopende tekst | — | 8 blokken |

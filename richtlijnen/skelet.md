@@ -2,7 +2,7 @@
 
 *De grote lijn van het hele document op één plek. Per sectie staat hier wat er moet komen, niet hoe het geformuleerd wordt. Zo is een alinea te schrappen of te verplaatsen met één regel, in plaats van door honderdvijftig woorden te lezen.*
 
-**Werkwijze vanaf 19 augustus 2026 (Tim).** Eerst het skelet, dan de tekst. Per sectie maximaal drie elementen. Een element wordt pas uitgeschreven als het hier staat en Tim het heeft gezien; ik schrijf niets wat niet in een element is aangekondigd. Hoofdstuk 1, 2 en 5 staan al als tekst, en hun skelet beschrijft wat er is.
+**Werkwijze vanaf 19 augustus 2026 (Tim).** Eerst het skelet, dan de tekst. Per sectie maximaal drie elementen. Een element wordt pas uitgeschreven als het hier staat en Tim het heeft gezien; ik schrijf niets wat niet in een element is aangekondigd. Hoofdstuk 1, 2, 3, 5 en 8 staan al als tekst, en hun skelet beschrijft wat er is.
 
 **Dit skelet is laag 3, het naslagwerk.** De korte versie en de twee leesversies (laag 1 en 2, ronde 6) worden daaruit gemaakt en staan hier niet; `samenvatting.md` wordt die korte versie.
 
@@ -63,7 +63,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 # Deel II — Wat er aan de hand is en wat er kan
 
-## 3 — Waarom de ondernemer klem komt te zitten (A — De ondernemer klem) · bron: a-klem · ronde 2 · nu aan de beurt
+## 3 — Waarom de ondernemer klem komt te zitten (A — De ondernemer klem) · bron: a-klem · ronde 2 · af
 
 > De ondernemer op veen loopt vast op kosten en omzet: grond is duur, de kostprijs stijgt en de ruimte om te ondernemen krimpt. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien om welke bedrijven het gaat, waarom het zakelijk niet meer vol te houden is, waar de uitdaging het scherpst is, en wat een andere koers kost. Het is de uitwerking van de klem die hoofdstuk 1 aankondigt, dus de scope wordt hier niet opnieuw opgebouwd.
 
@@ -92,7 +92,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 4 — Wat Nederland van dit gebied vraagt (B — De opgaven) · bron: b-opgaves · ronde 2
+## 4 — Wat Nederland van dit gebied vraagt (B — De opgaven) · bron: b-opgaves · ronde 2 · nu aan de beurt
 
 > Nederland vraagt zeven dingen tegelijk van dit gebied: klimaat, water, natuur, kringloop, voedsel, landschap en wonen. Dit hoofdstuk zet die vraag op tafel en laat zien dat er niets van terechtkomt zonder ondernemer op het land. Want wat met hem verdwijnt zijn de onbeprijsde uren beheer, en die moeten daarna uit publiek geld komen of ze gebeuren niet.
 
@@ -212,7 +212,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 9 — Het bedrijfsmodel Veenweideboeren (D — De veenweideboer) · bron: d-concept · ronde 3
 
-> Dit is het bedrijfsmodel Veenweideboeren: een bedrijf dat voedsel blijft leveren én betaald wordt voor water, koolstof, landschap en biodiversiteit, met minder koeien per hectare. Daarna wordt het concreet: wie die veenweideboer dan is, en waarom de naam over de ondernemer gaat en niet over de landbouwmethode.
+> Dit is het bedrijfsmodel Veenweideboeren: een bedrijf dat voedsel blijft leveren én betaald wordt voor water, koolstof, landschap en biodiversiteit, met minder koeien per hectare. Eerst wat de naam betekent: veenweideboer is geen categorie maar een schaal, en iedereen die op veen boert staat erop. Daarna wie de dragende groep is, en waarom de naam over de ondernemer gaat en niet over de landbouwmethode.
 
 ### 9.1 Wat het bedrijfsmodel is
 - geen melkveehouder met beperkingen, maar een bedrijf dat voedsel levert én betaald wordt voor wat het aan de samenleving levert `[tekst · auteurs]`
@@ -313,7 +313,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 13 — Wat de boer nu al kan doen (G — Terug naar de boer) · bron: g-perspectief · ronde 3
 
-> Vier routes: veenweideboer worden, iets nieuws erbij doen, doorgaan zoals het is, of stoppen. Dit is het enige hoofdstuk dat de ondernemer direct aanspreekt, met drie archetypen waarin hij zich kan herkennen. Erkenning eerst, dan een bod.
+> Drie routes: doorgaan zoals het is, stoppen, of maatschappelijke diensten erbij — van één perceel tot het hele bedrijf. De eerste twee bestaan al, de derde is wat dit document toevoegt. Dit is het enige hoofdstuk dat de ondernemer direct aanspreekt, met drie archetypen waarin hij of zij zich kan herkennen. Erkenning eerst, dan een bod.
 
 ### 13.1 Drie routes
 *Waren vier; omgebouwd 19-8 (Tim). "Veenweideboer worden" is geen route meer, want dat is de lezer al, en "nieuwe activiteiten" was geen aparte keuze maar een verdere positie op dezelfde schaal.*

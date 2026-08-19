@@ -5,7 +5,8 @@ Levend document. Deze regels gelden voor alle uitingsvormen.
 | Regel | Toelichting |
 |---|---|
 | **diensten** ≠ **opdrachten** | Diensten = wat de boer levert; opdrachten = het contractinstrument. |
-| **maatschappelijke opdrachten**, niet "ecosysteemdiensten" | |
+| **maatschappelijke opdrachten**, niet "ecosysteemdiensten" | *Deze regel is vervallen, zie redactiebrief §13: beide termen mogen, elk in zijn eigen betekenis. Nog te vervangen door de twee definities hieronder.* |
+| **maatschappelijke diensten** is de brede term, en dekt ook wat niet aan de grond hangt | Zo heet de derde route in hoofdstuk 13 en de rechterkant van de as in 9.2: van voedsel naar maatschappelijke diensten. Er valt méér onder dan water, koolstof, natuur en landschap — ook zorg of recreatie op het bedrijf (Tim, 19-8). **Let op een spanning:** redactiebrief §13 definieert *maatschappelijke dienstverlening* als de ondernemersactiviteit die een **ecosysteemdienst** aan een opdrachtgever levert, en zorg is geen ecosysteemdienst. Het document rekent zorg en recreatie wél mee als inkomstenstroom (hoofdstuk 9 en 10). Die definitie moet dus iets ruimer, of zorg en recreatie krijgen een eigen aanduiding. Nog te besluiten. |
 | **sporen** uitsluitend voor Rijksbeleid; **rollen** voor VIC-activiteiten | |
 | **aktes**, niet "scenario's" | Voor de drie verhaallijnen van het document. **Altijd Romeinse cijfers** (akte I, II, III); sporen altijd Arabisch (spoor 1, 2, 3). |
 | **koolstofopslag**, niet "CO₂-opslag" | Als algemene term. |

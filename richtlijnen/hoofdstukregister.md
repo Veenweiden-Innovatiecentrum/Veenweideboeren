@@ -32,7 +32,7 @@ De volgorde in dit register is de volgorde van `volgorde.txt`. Hoofdstukken die 
 | g-perspectief | 13 | 3 | bestuursversie, met de routes omgebouwd naar drie (19-8) |
 | h-risicos | 14 | 4 | nog de bestuursversie |
 | slot | 15 | 4 | nog de bestuursversie, wordt herschreven |
-| bijlage-driesporen | 16 | 5 | in aanbouw, 3 van de 9 blokken verhuisd |
+| bijlage-driesporen | 16 | 5 | in aanbouw, 4 van de 9 blokken verhuisd |
 
 ## Nog te maken
 

@@ -29,7 +29,7 @@ Vier aannames dragen dit verhaal. Wij zeggen ze stellig en zetten eronder waarop
 
 ### 3. Waarom de ondernemer klem komt te zitten (A — De ondernemer klem)
 
-De ondernemer op veen loopt vast op kosten en omzet: grond is duur, de kostprijs stijgt en de ruimte om te ondernemen krimpt. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien om welke bedrijven het gaat, waar het het scherpst rekent, en waarom dit niet over vakmanschap of motivatie gaat.
+De ondernemer op veen loopt vast op kosten en omzet: grond is duur, de kostprijs stijgt en de ruimte om te ondernemen krimpt. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien om welke bedrijven het gaat, waarom het zakelijk niet meer vol te houden is, en waar de uitdaging het scherpst is.
 
 - 3.1 Om welke bedrijven het gaat
 - 3.2 Waarom het zakelijk niet meer vol te houden is
@@ -86,12 +86,13 @@ Dezelfde doelen, maar de dienst wordt betaald in plaats van het verlies vergoed.
 
 ### 9. Het bedrijfsmodel Veenweideboeren (D — De veenweideboer)
 
-Dit is het bedrijfsmodel Veenweideboeren: een bedrijf dat voedsel blijft leveren én betaald wordt voor water, koolstof, landschap en biodiversiteit, met minder koeien per hectare. Daarna wordt het concreet: wie die veenweideboer dan is, en waarom de naam over de ondernemer gaat en niet over de landbouwmethode.
+Dit is het bedrijfsmodel Veenweideboeren: een bedrijf dat voedsel blijft leveren én betaald wordt voor water, koolstof, landschap en biodiversiteit, met minder koeien per hectare. Eerst wat de naam betekent: veenweideboer is geen categorie maar een schaal, en iedereen die op veen boert staat erop. Daarna wie de dragende groep is, en waarom de naam over de ondernemer gaat en niet over de landbouwmethode.
 
 - 9.1 Wat het bedrijfsmodel is
-- 9.2 Wie de veenweideboer is
-- 9.3 Waarom veenweideboeren en niet veenweidelandbouw
-- 9.4 Twee aanscherpingen
+- 9.2 Veenweideboer is een schaal, geen categorie
+- 9.3 Wie de dragende groep is
+- 9.4 Waarom veenweideboeren en niet veenweidelandbouw
+- 9.5 Twee aanscherpingen
 
 ### 10. Wat de ondernemer doet
 
@@ -121,9 +122,9 @@ Zolang al het geld van de overheid komt, houdt het weerwoord stand dat dit subsi
 
 ### 13. Wat de boer nu al kan doen (G — Terug naar de boer)
 
-Vier routes: veenweideboer worden, iets nieuws erbij doen, doorgaan zoals het is, of stoppen. Dit is het enige hoofdstuk dat de ondernemer direct aanspreekt, met drie archetypen waarin hij zich kan herkennen. Erkenning eerst, dan een bod.
+Drie routes: doorgaan zoals het is, stoppen, of maatschappelijke diensten erbij — van één perceel tot het hele bedrijf. De eerste twee bestaan al, de derde is wat dit document toevoegt. Dit is het enige hoofdstuk dat de ondernemer direct aanspreekt, met drie archetypen waarin hij of zij zich kan herkennen. Erkenning eerst, dan een bod.
 
-- 13.1 Vier routes
+- 13.1 Drie routes
 - 13.2 Drie archetypen: hoe verschillende ondernemers het invullen
 - 13.3 Van visie naar ondernemersbod
 

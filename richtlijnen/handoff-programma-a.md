@@ -1,6 +1,12 @@
 # Overdracht aan de sessie die aan programma A werkt
 
-*Bijgehouden door de sessie die de visie herziet. Stand: 18 augustus 2026. Dit bestand is bedoeld om in zijn geheel gelezen te worden door iemand zonder toegang tot deze repository — het is zelfstandig leesbaar.*
+*Bijgehouden door de sessie die de visie herziet. Stand: 19 augustus 2026. Dit bestand is bedoeld om in zijn geheel gelezen te worden door iemand zonder toegang tot deze repository — het is zelfstandig leesbaar.*
+
+> **Twee dingen die op 19 augustus zijn gevallen en A direct raken.**
+>
+> **1. Veenweideboer is een schaal en geen categorie.** Iedereen die op veen boert is veenweideboer; het verschil zit in hoeveel er naast het vee gebeurt en of dat betaald wordt. Vier posities: melk met onbeprijsd beheer · melk met een betaalde dienst erbij · melk als één van meerdere producten · geen koeien en diensten als heel product. **Voor A betekent dit dat de afbakening niet in de doelgroep zit maar in wat een bedrijf levert.** Zolang A maatschappelijke diensten uitsluit, kan het maar één positie op die schaal bedienen — de eerste. De uitwerking staat in `content/d-concept.md`, sectie "Veenweideboer is een schaal, geen categorie", en in hoofdstuk 13 als drie routes: doorgaan zoals het is, stoppen, of maatschappelijke diensten erbij.
+>
+> **2. De twee beoogde ontwikkelbedrijven zijn niet twee varianten van hetzelfde.** KTC Zegveld is een blijvend proefbedrijf op eigen grond van een coöperatie; de Hegewarren is een polder met een vastgesteld eindbeeld, want Provinciale Staten van Fryslân kozen eind 2022 de variant *Open en Natuurlijk*, waarin de polder grotendeels moerasnatuur en open water wordt. Het onderzoek daar loopt op provinciegrond in de periode vóór die omvorming. **Als A loopt van 2028 tot 2032, is de Hegewarren geen ontwikkelbedrijf voor de volle looptijd.** Alle feiten, met bron per stuk, staan in `richtlijnen/ontwikkelbedrijven-zegveld-hegewarren.md` — lees dat vóór je een hectare, een peil of een aantal koeien opschrijft.
 
 ---
 
@@ -36,7 +42,7 @@ In de visie staat alleen de constructieve helft, vanaf "meer mogelijk dan melkve
 | Omvang | ±€3 mln per jaar, ±€18 mln over zes jaar | €15 mln indicatief, te valideren |
 | Looptijd | oorspronkelijk 2027–2032, feitelijk verschoven naar 2028 | medio 2028 – medio 2032 |
 | Doel | Rendabele klimaat-optimale melkveehouderij op vernat veen, integratie van VIPNL-maatregelen | De operationalisering van de visie: rol 1 beleid €2 mln, rol 2 perspectief €9 mln, rol 3 beweging €4 mln |
-| Structuur | 2 ontwikkelbedrijven (KTC Zegveld + mogelijk Hegewarren) + 10 satellietbedrijven | drie rollen, gelijktijdig, aanjaagrichting 1 → 2 → 3 |
+| Structuur | 2 ontwikkelbedrijven (KTC Zegveld + mogelijk Hegewarren, zie de waarschuwing bovenaan) + 10 satellietbedrijven | drie rollen, gelijktijdig, aanjaagrichting 1 → 2 → 3 |
 
 Samen ±€33 mln. **Eis van LVVN bij A:** stikstofkleur. *"Als klimaat met stikstof kan meeliften via extensivering, prima. Andersom — stikstof als bijvangst van klimaat — dat is te ver."*
 

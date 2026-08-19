@@ -347,11 +347,11 @@ De meeste aannames in het document zijn onschuldig — niemand betwist dat grond
 
 **Deze zes krijgen een eigen korte sectie: waarop dit verhaal rust en wat er nog bewezen moet worden.** *Er stond "vijf": aanname 6 is later toegevoegd vanuit §9 en de opsomming is niet meegeteld. Gecorrigeerd 18-8 bij het schrijven van hoofdstuk 2.*
 
-> **Herindeling 18-8 (Tim). Vier van deze zes zijn een aanname, twee zijn iets anders.** Nummer 3 (de 20 tot 30%) is een schatting en nummer 4 (extensivering geeft inkomensdaling) is een wetmatigheid: bij beide verandert de redenering niet als ze schuiven, en dat kan een echte aanname niet zeggen. Zij staan **niet** in hoofdstuk 2: de schatting wordt al gedragen door hoofdstuk 1, en de wetmatigheid is belegd bij hoofdstuk 4 (zie `correctielijst.md`). De vier aannames zijn daar opnieuw genummerd: **1** diensten kunnen een verdienmodel dragen, **2** de markt ontwikkelt zich, **3** de middengroep is de dragende groep (was 5), **4** de Europese regels gaan opdrachten voor maatschappelijke diensten toestaan (was 6). Deze paragraaf houdt zijn eigen nummering, dus vermeld bij een verwijzing welke van de twee je bedoelt. Aanname 4 is bovendien anders geformuleerd dan §9 hem hier neerzet: hij gaat over de toekomst van het Europese kader, niet over de juridische discussie van vandaag. Die discussie hoort in hoofdstuk 12.
+> **Herindeling 18-8 (Tim). Vier van deze zes zijn een aanname, twee zijn iets anders.** Nummer 3 (de 20 tot 30%) is een schatting en nummer 4 (extensivering geeft inkomensdaling) is een wetmatigheid: bij beide verandert de redenering niet als ze schuiven, en dat kan een echte aanname niet zeggen. Zij staan **niet** in hoofdstuk 2: de schatting wordt al gedragen door hoofdstuk 1, en de wetmatigheid is belegd bij `a-klem` (hoofdstuk 3 in de nieuwe nummering, zie `correctielijst.md`). De vier aannames zijn daar opnieuw genummerd: **1** diensten kunnen een verdienmodel dragen, **2** de markt ontwikkelt zich, **3** de middengroep is de dragende groep (was 5), **4** de Europese regels gaan opdrachten voor maatschappelijke diensten toestaan (was 6). Deze paragraaf houdt zijn eigen nummering, dus vermeld bij een verwijzing welke van de twee je bedoelt. Aanname 4 is bovendien anders geformuleerd dan §9 hem hier neerzet: hij gaat over de toekomst van het Europese kader, niet over de juridische discussie van vandaag. Die discussie hoort in hoofdstuk 12.
 
 Dat is eerlijker dan verspreide voorbehouden en sterker, want het laat zien dat we weten waar we staan. En het verklaart in één keer waarom JUMP en BASE nodig zijn: dit is precies wat daar getoetst wordt.
 
-> **Vervallen voor hoofdstuk 2, 18-8 (Tim).** Het hoofdstuk had hiervoor een slotsectie ("wat wij doen om dit te bewijzen") en die is geschrapt: de sectie legde niet uit wat zij deed. Hoofdstuk 2 is nu alleen 2.1 het onderscheid feit-standpunt-aanname en 2.2 de vier aannames. **De verbinding met de programma's landt in het slot, hoofdstuk 16, ronde 4** — zie `correctielijst.md`. JUMP blijft genoemd in het VIC-kader van hoofdstuk 1; BASE komt in de visie nu niet meer voor.
+> **Vervallen voor hoofdstuk 2, 18-8 (Tim).** Het hoofdstuk had hiervoor een slotsectie ("wat wij doen om dit te bewijzen") en die is geschrapt: de sectie legde niet uit wat zij deed. Hoofdstuk 2 is nu alleen 2.1 het onderscheid feit-standpunt-aanname en 2.2 de vier aannames. **De verbinding met de programma's landt in het slot (hoofdstuk 15, ronde 4)** — zie `correctielijst.md`. JUMP blijft genoemd in het VIC-kader van hoofdstuk 1; BASE komt in de visie nu niet meer voor.
 
 Buiten die sectie mag de tekst stellig zijn.
 
@@ -399,24 +399,26 @@ Getoetst tegen `content/*.md`, commit 16 juni 2026.
 
 *Herzien 19 augustus 2026 (Tim). Twee wijzigingen: het begrippenhoofdstuk vervalt, en C staat nu vóór de aktes. De redenering staat hieronder onder "Waarom deze volgorde". De kolom **was** houdt de oude nummering vindbaar, want `correctielijst.md` en het besluitenlog verwijzen er nog naar.*
 
-| # | Hoofdstuk | Rol | Herkomst | was |
+| # | Hoofdstuk | Deel | Herkomst | was |
 |---|---|---|---|---|
-| 1 | Waar dit over gaat | omkadering | uit intro | 1 |
-| 2 | Waarop dit rust | omkadering | **nieuw** — de aannames uit sectie 12 | 2 |
-| 3 | Waarom de ondernemer klem zit (A) | probleem | a-klem | 4 |
-| 4 | Wat Nederland van dit gebied vraagt (B) | vraag | b-opgaves | 5 |
-| 5 | Wat dit gebied kan dragen | vermogen | c-omslag, ontdaan van oplossing | 8 |
-| 6 | Wat er gebeurt als het zo doorgaat (akte I) | mechanisme | uit e-aktes | 6 |
-| 7 | Wat er gebeurt bij ingrijpen zonder verdienmodel (akte II) | mechanisme | uit e-aktes | 7 |
-| 8 | Wat er gebeurt als er wél een verdienmodel onder zit (akte III) | mechanisme · scharnier | uit e-aktes | 9 |
-| 9 | De veenweideboer (D) | uitwerking | d-concept, zonder de zes lagen | 10 |
-| 10 | Wat de ondernemer doet | uitwerking | f-ondernemer | 11 |
-| 11 | Wat de overheid doet | uitwerking | f-overheid, mét de zes lagen | 12 |
-| 12 | Wat de markt doet | uitwerking | f3-bedrijfsleven, opgewaardeerd | 13 |
-| 13 | Wat de boer nu al kan doen (G) | uitwerking | g-perspectief | 14 |
-| 14 | Waar het mis kan gaan (H) | omkadering | h-risicos | 15 |
-| 15 | Slot | omkadering | slot, te herschrijven | 16 |
-| 16 | Bijlagen | omkadering | de aangekondigde aanpak · cijfers en bronnen · **begrippen** · toolbox | 17 |
+| 1 | Waar dit over gaat | **I — Vooraf** | uit intro | 1 |
+| 2 | Waarop dit rust | I | **nieuw** — de aannames uit sectie 12, zonder de agenda | 2 |
+| 3 | Waarom de ondernemer klem zit (A) | **II — Wat er aan de hand is en wat er kan** | a-klem | 4 |
+| 4 | Wat Nederland van dit gebied vraagt (B) | II | b-opgaves | 5 |
+| 5 | Wat dit gebied kan dragen | II | c-omslag, ontdaan van oplossing | 8 |
+| 6 | Wat er gebeurt als er niets verandert (akte I) | **III — Hoe het kan lopen** | uit e-aktes | 6 |
+| 7 | Wat er gebeurt zonder verdienmodel eronder (akte II) | III | uit e-aktes | 7 |
+| 8 | Wat er gebeurt met een verdienmodel eronder (akte III) | III · scharnier | uit e-aktes | 9 |
+| 9 | Het bedrijfsmodel (D) | **IV — Veenweideboeren** | d-concept, zonder de zes lagen | 10 |
+| 10 | Wat de ondernemer doet | IV | f-ondernemer | 11 |
+| 11 | Wat de overheid doet | IV | f-overheid, mét de zes lagen | 12 |
+| 12 | Wat de markt doet | IV | f3-bedrijfsleven, opgewaardeerd | 13 |
+| 13 | Wat de boer nu al kan doen (G) | IV | g-perspectief | 14 |
+| 14 | Wat er moet gebeuren om dit te laten werken (H) | **V — Sluitstukken** | h-risicos, plus de agenda uit hoofdstuk 2 | 15 |
+| 15 | Slot | V | slot, te herschrijven | 16 |
+| 16 | Bijlagen | V | de aangekondigde aanpak · cijfers en bronnen · **begrippen** · toolbox | 17 |
+
+**Vijf delen boven de hoofdstukken.** Zij staan in de inhoudsopgave, boven elk hoofdstuk in de lezer en in de HTML van het document, en zij komen uit `richtlijnen/skelet.md`. De delen doen twee dingen: zij maken de leesorde zelfverklarend, en zij maken zichtbaar dat de veenweideboer, de overheid en de markt drie kanten van hetzelfde zijn — dat was de reden dat hoofdstuk 9 en 10 als dubbel lazen. Let op: **de veenweideboer en de ondernemer zijn dezelfde persoon**; de eerste is de naam van de typologie, de tweede de rol tegenover de twee andere partijen. Regel in `terminologie.md`.
 
 **De kern van de ingreep:** de aktes worden gesplitst uit één groot hoofdstuk E, en zij staan als drie op een rij. Akte I en II sluiten de probleemstelling af; akte III is het antwoord en opent de oplossing. Daarmee is er nog één moment waarop het verhaal kantelt, en verdwijnt de dubbeling tussen D en F vanzelf.
 
@@ -484,6 +486,8 @@ Drift is niet te voorkomen met oplettendheid, alleen met structuur. Achttienduiz
 **De formuleringen in deze brief staan op laag 2 — plak ze niet in laag 3.** Deze brief is een toetslijst, dus elke regel moet in één zin passen. Dat werkt voor verboden ("geen percentage bij stikstof") en niet voor nuances: een nuance die tot één zin wordt samengeperst verliest precies de kant die zij afbakent. Op 18 augustus is dat vier keer misgegaan, telkens doordat een compacte zin uit deze brief letterlijk in een laag 3-hoofdstuk werd overgenomen. **Behandel een formulering hier als de claim, niet als de zin.** §5 doet het goed en wijst de weg: daar staat "in laag 2 staat dit, en niet meer" boven de korte versie en "in laag 3 de vierdeling" boven de uitgewerkte. Waar dat label ontbreekt, is de korte versie toch laag 2.
 
 Gooi die korte versies niet weg als je ze uitschrijft. Ze zijn het zaad voor laag 2 en laag 1, die in ronde 6 uit het afgeronde geheel worden gemaakt. Wat een laag 3-sessie te compact vindt, is daar precies goed.
+
+**Eerst het skelet, dan de woorden (19 augustus, Tim).** `richtlijnen/skelet.md` bevat alle zestien hoofdstukken met hun secties en maximaal drie elementen per sectie, met de vorm en de herkomst erbij: `· auteurs` betekent wijzigen, `· nieuw` betekent dat er woorden gemaakt moeten worden. Een element wordt pas uitgeschreven als het daar staat en de gebruiker het heeft gezien, en er komt per keer één sectie in plaats van een heel hoofdstuk. **Waarom:** hoofdstuk 5 (toen nog 8) leverde in één sessie ruim vijfhonderd nieuwe woorden, een vormronde en twee A4 verantwoording, en dat moet allemaal door één paar ogen. Een element afwijzen kost één regel, een alinea afwijzen kost honderdvijftig woorden lezen. Het verslag krimpt mee: drie regels per stap, en de verantwoording in drie delen alleen bij het afsluiten van een hoofdstuk. De procedure staat in `CLAUDE.md`; `build.py site` toont het skelet in de lezer boven de tekst.
 
 **Volgorde: toonzettend eerst, invulwerk laatst.** Scope, aannames, C en akte III gaan voorop. Als de toon niet klopt weet je dat na tweeduizend woorden in plaats van na achttienduizend. De bijlagen zijn het meest mechanische werk en gaan achteraan — daar is verminderde scherpte het minst schadelijk.
 
@@ -576,6 +580,8 @@ De tekst kent zeven soorten blokken. Ze sturen hoe er gelezen wordt, en op dit m
 | **Echte verdieping** | ~18 | Fiche of bijlage. "Drie tempo's, één transitie", "het borgings-dilemma", "wat dit betekent voor de doorgang" |
 
 Alleen het weghalen van de driesporenkaders scheelt al een kwart van alle onderbrekingen, zonder dat er inhoud verdwijnt.
+
+> **Verfijnd 19-8 (Tim).** Deze paragraaf is te breed gelezen, en het gevolg was zichtbaar: de herziene hoofdstukken hadden nul blokken tegenover tientallen in de rest, en de gebruiker las "enorme lappen tekst". Gemeten waren de alinea's juist korter geworden; wat verdween waren de ankers. **De reductie van dertig naar twee gaat alleen over accentkaders met een eigen kop.** De gereedschapskist van het document — `layer-table` voor een rangorde of een begrippenpaar, `dim-list` voor een compact tweetal, `decision-card` voor een reeks gelijkvormige blokken, en de fiche voor de bron — mag in elk hoofdstuk, want dat zijn leeswijzers en geen onderbrekingen. Deze paragraaf vraagt zelf al dat de fiches van veertien naar tweeëntwintig gaan en noemt dat mechanisme "onderbenut".
 
 ### De regel die eruit volgt
 **Eén vorm per functie.**

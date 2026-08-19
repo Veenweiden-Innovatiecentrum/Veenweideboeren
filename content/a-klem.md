@@ -31,6 +31,8 @@ Dat de middengroep klem zit is geen toeval en geen persoonlijk falen. Vergelijki
 
 Die drie condities duwen van buitenaf richting schaal. Van binnenuit loopt het systeem óók vast: opvolging wordt onbetaalbaar bij kapitaalintensieve bedrijven, de grondmarkt raakt minder liquide, externe investeerders komen in beeld. Het loopt dus niet alleen vast op deze drie condities maar ook op zichzelf. Dat raakt niet alleen wat Nederland van dit gebied vraagt; het is als bedrijfsmodel niet vol te houden.
 
+En de uitweg die zich het eerst aandient is er geen. Minder koeien per hectare betekent minder melk per hectare, terwijl de grond, de gebouwen en de financiering hetzelfde blijven kosten. Precies die kostenstructuur is wat de drie condities hebben opgebouwd, en daarom daalt het inkomen zodra de veedichtheid omlaag gaat en er niets betaalds naast staat. Dat is geen aanname maar een rekensom, en het is de reden dat dit document over geld gaat en niet over goede wil.
+
 ### 3.3 Waar de uitdaging het scherpst is
 
 Nederland heeft circa 200.000 hectare veenweidegebied. Dit verhaal gaat *niet* over dat hele gebied. Ook als de waterstanden overal naar -20 tot -40 cm gaan, kun je op veel plekken nog gewoon reguliere melkveehouderij bedrijven, aangepast, maar herkenbaar. Dat is een legitieme en waardevolle keuze. Op die plekken blijft doelsturing op stikstof, waterkwaliteit en emissies gewoon van toepassing, maar daar gaat dit verhaal niet over.

@@ -6,6 +6,8 @@
 
 **Dit skelet is laag 3, het naslagwerk.** De korte versie en de twee leesversies (laag 1 en 2, ronde 6) worden daaruit gemaakt en staan hier niet; `samenvatting.md` wordt die korte versie.
 
+Onder elke hoofdstukkop staat in twee of drie zinnen **wat dat hoofdstuk doet**. Dat is geen tekst voor de visie maar de uitleg van wat wij bouwen; zij mag scherper en korter zijn dan de uiteindelijke alinea's.
+
 **Notatie.** Achter elk element staat de vorm en de herkomst:
 
 | | |
@@ -22,6 +24,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 # Deel I — Vooraf
 
 ## 1 — Waar dit over gaat · bron: scope · ronde 1 · af
+
+> Dit gebied kan meer maatschappelijke opgaven dragen dan voedsel alleen, en dat vermogen zit niet in de grond maar in de ondernemer. Hier staat wie dat zegt, hoe het zich verhoudt tot het beleid dat nu wordt uitgerold, en over welk deel van het gebied het gaat: de redenering geldt voor alle 200.000 hectare, het geld landt op 20 tot 30 procent.
 
 ### 1.1 Wat dit document voorstelt
 - dit gebied kan meer maatschappelijke opgaven dragen dan voedsel alleen, en dat vermogen zit in de ondernemer `[tekst · auteurs]`
@@ -42,6 +46,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 2 — Waarop dit rust · bron: aannames · ronde 1 · af
 
+> Vier aannames dragen dit verhaal. Wij zeggen ze stellig en zetten eronder waarop wij ze baseren; valt er één, dan moet het verhaal op dat punt om. Wat er moet gebeuren om ze waar te maken staat niet hier maar achteraan, in hoofdstuk 14.
+
 ### 2.1 Feit, standpunt en aanname
 - vier aannames dragen dit verhaal; valt er één, dan moet het verhaal op dat punt om `[tekst · nieuw]`
 - hoe dit document een feit, een standpunt en een aanname kenbaar maakt `[tabel]`
@@ -57,6 +63,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 # Deel II — Wat er aan de hand is en wat er kan
 
 ## 3 — Waarom de ondernemer klem zit (A — De ondernemer klem) · bron: a-klem · ronde 2
+
+> De middengroep zit klem, en niet door eigen falen: grondprijs, kostprijs en krimpende ruimte dwingen tot een productie die op veen steeds duurder wordt. Dit hoofdstuk laat zien wie die groep is, waarom het systeem hem vastzet, en waar het het scherpst knelt. Hij valt om op kosten en omzet, niet op vakmanschap of motivatie.
 
 ### 3.1 Wie klem zit
 - de vorm van de populatie: een kleine groep hele grote bedrijven, een middengroep, een kleine niche `[beeld · auteurs]`
@@ -76,6 +84,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 4 — Wat Nederland van dit gebied vraagt (B — De opgaven) · bron: b-opgaves · ronde 2
 
+> Nederland vraagt zeven dingen tegelijk van dit gebied: klimaat, water, natuur, kringloop, voedsel, landschap en wonen. Dit hoofdstuk zet die vraag op tafel en laat zien dat er niets van terechtkomt zonder ondernemer op het land. Want wat met hem verdwijnt zijn de onbeprijsde uren beheer, en die moeten daarna uit publiek geld komen of ze gebeuren niet.
+
 ### 4.1 De zeven opgaven, en waar ze het zwaarst zijn
 - zeven opgaven in tien dimensies, met per dimensie waar zij het zwaarst is `[tabel · auteurs]` — dit lost Simons tellfout op
 - stikstof is de aanleiding en geen achtste opgave; een lagere veedichtheid verlaagt de uitstoot als gevolg `[tekst · nieuw]`
@@ -93,6 +103,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 ---
 
 ## 5 — Wat dit gebied kan dragen · bron: c-omslag · ronde 1 · af
+
+> Op dezelfde hectare komt meer dan melk: vastgehouden water, koolstof in de bodem, landschap, weidevogels. Daarvan wordt er één afgerekend. Dit hoofdstuk zegt waarom betalen juist hier gerechtvaardigd is, en dat is niet omdat het elders onmogelijk zou zijn maar omdat hier het alternatief geen landbouw is.
 
 ### 5.1 Wat deze hectare nu al levert
 - het gebied kan meer dragen dan voedsel; van al die prestaties wordt er één afgerekend `[tabel]`
@@ -119,6 +131,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 6 — Wat er gebeurt als er niets verandert (akte I) · bron: e-aktes · ronde 2
 
+> Er verandert niets. Dat lijkt de veilige route en is het niet: bij de volgende schok in melkprijs, voer, klimaat of regelgeving valt een monocultuur om, en de opvolging is dan al onbetaalbaar geworden. Dit hoofdstuk beschrijft een toestand, geen keuze van iemand.
+
 ### 6.1 Een toestand die stabiel lijkt
 - de drie aktes in drie regels: er verandert niets · de maatregelen komen zonder verdienmodel eronder · dezelfde maatregelen mét verdienmodel eronder `[kader · nieuw]` — de ene introductie die toetsregel 13 vraagt, hier omdat de lezer haar hier nodig heeft en nergens eerder
 - akte I lijkt te werken omdat er nog niets is gebeurd `[tekst · verhuisd]` uit hoofdstuk 5
@@ -136,6 +150,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 7 — Wat er gebeurt zonder verdienmodel eronder (akte II) · bron: e-aktes · ronde 2
 
+> De maatregelen komen, en er ligt geen verdienmodel onder. De doelen zijn legitiem en de beperkingen zijn nodig; wat ontbreekt is de bodem waarop een bedrijf ze kan dragen. Dan landen de kosten bij de ondernemer, verdwijnt hij, en blijft de opgave over zonder iemand die haar uitvoert.
+
 ### 7.1 De maatregelen kloppen, er ligt alleen niets onder
 - **eerst de erkenning:** de doelen zijn legitiem en de beperkingen zijn nodig; wat ontbreekt is niet de wil of de inzet maar het verdienmodel eronder `[tekst · nieuw]` toetsregel 2, en dit is de plek waar die regel moet landen
 - **akte II is niemands beleid.** Het is een categorie: wat er gebeurt bij elke ronde maatregelen zonder bedrijfsmodel eronder. Geen enkel voorbeeld uit het beleid van vandaag `[tekst · nieuw]` besluit §8 en toetsregel 12b
@@ -151,6 +167,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 ---
 
 ## 8 — Wat er gebeurt met een verdienmodel eronder (akte III — het antwoord) · bron: e-aktes · ronde 1 · nu aan de beurt
+
+> Dezelfde doelen, maar de dienst wordt betaald in plaats van het verlies vergoed. Er komen twee geldstromen: de overheid die een dienst inkoopt en de markt die er zelf belang bij heeft. Dit is het antwoord van het document, en het is de enige akte waarin het vermogen uit hoofdstuk 5 overeind blijft.
 
 ### 8.1 De omslag: van vergoeding naar betaling
 - wat er eerst gebeurt: het grondbeleid stopt de grondhonger uit akte II `[tekst · auteurs]`
@@ -174,6 +192,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 9 — Het bedrijfsmodel (D — De veenweideboer) · bron: d-concept · ronde 3
 
+> Wie is die veenweideboer? Een familiebedrijf van 40 tot 80 hectare met minder koeien per hectare, dat een substantieel deel van zijn inkomen uit maatschappelijke diensten haalt. Geen melkveehouder met beperkingen maar een ander bedrijfsmodel, en de naam gaat over de ondernemer en niet over de landbouwmethode.
+
 ### 9.1 Wie de veenweideboer is
 - geen melkveehouder met beperkingen, maar een ondernemer met een ander bedrijfsmodel `[tekst · auteurs]`
 - het bedrijf: 40 tot 80 hectare, 80 tot 130 koeien, een lagere veedichtheid `[tabel · auteurs]`
@@ -192,6 +212,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 ---
 
 ## 10 — Wat de ondernemer doet · bron: f-ondernemer · ronde 3
+
+> De overheid zegt wat er geleverd moet worden, de ondernemer bepaalt hoe. Dit hoofdstuk is de gereedschapskist: negen categorieën maatregelen binnen het bestaande bedrijf, en daarnaast de routes naar nieuw inkomen. Niet iedereen hoeft hetzelfde te doen, en dat is het punt.
 
 ### 10.1 De toolbox is de vrijheid
 - de overheid zegt wat er geleverd moet worden, de ondernemer bepaalt hoe `[tekst · auteurs]`
@@ -212,6 +234,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 ---
 
 ## 11 — Wat de overheid doet · bron: f-overheid · ronde 3
+
+> Strakker op wat er geleverd moet worden, ruimer op hoe. Dit hoofdstuk ordent het overheidshandelen in drie: wat moet, wat mag, en wat betaalt — opdrachten waar zij een dienst inkoopt, steun waar zij niets terugkrijgt. En het benoemt de juridische adder: een echt dienstencontract botst op aanbesteding en staatssteun, en wij kiezen er toch voor.
 
 ### 11.1 Het sturingsprincipe
 - hardere uitkomsten, vrijere middelen `[tekst · verhuisd]` uit hoofdstuk 9
@@ -236,6 +260,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 12 — Wat de markt doet · bron: f3-bedrijfsleven · ronde 3
 
+> Zolang al het geld van de overheid komt, houdt het weerwoord stand dat dit subsidie is met een ander etiket. Dit hoofdstuk zet de tweede geldstroom neer: de zuivelketen, banken en verzekeraars, de drinkwaterbedrijven, de koolstofmarkt. En het zegt eerlijk wat er nog niet is, want in het veenweidegebied betaalt vandaag geen enkele partij voor een geleverde dienst.
+
 ### 12.1 Waarom de markt erbij hoort
 - zolang alle inkomsten van de overheid komen, houdt het weerwoord stand dat dit subsidie is met een ander etiket `[tekst · nieuw]`
 - één betalende marktpartij weerlegt dat beter dan welke formulering ook `[tekst · nieuw]`
@@ -255,6 +281,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 13 — Wat de boer nu al kan doen (G — Terug naar de boer) · bron: g-perspectief · ronde 3
 
+> Vier routes: veenweideboer worden, iets nieuws erbij doen, doorgaan zoals het is, of stoppen. Dit is het enige hoofdstuk dat de ondernemer direct aanspreekt, met drie archetypen waarin hij zich kan herkennen. Erkenning eerst, dan een bod.
+
 ### 13.1 Vier routes
 - veenweideboer worden · nieuwe activiteiten ontwikkelen · doorgaan zoals het is · stoppen `[kaarten · auteurs]`
 - de transitie als het bedrijf toekomstbestendig maken voor de volgende generatie `[tekst · nieuw]` besluit 17-8
@@ -271,6 +299,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 # Deel V — Sluitstukken
 
 ## 14 — Wat er moet gebeuren om dit te laten werken (H — Risico's) · bron: h-risicos · ronde 4
+
+> Hier staat wat er nog niet klopt, en dat is geen disclaimer maar een opdracht. Twee dingen: wat bewezen moet worden voordat de aannames staan, en waaraan het ontwerp van de regelingen moet voldoen om niet gekaapt te worden. Elk punt staat er met zijn antwoord ernaast, en waar wij dat antwoord niet hebben staat dat er ook.
 
 ### 14.1 Wat er nog bewezen moet worden
 - per aanname de agenda: een prijs die hoog genoeg is, een looptijd die lang genoeg is, en meten dat de dienst niet opeet `[tekst · verhuisd]` uit hoofdstuk 2, aanname 1
@@ -291,6 +321,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 15 — Slot · bron: slot · ronde 4
 
+> Waar dit begon en waar het eindigt. En de vraag, in twee regels: wij vragen geen euro uit de lopende programma's, wel de ruimte om te bouwen wat de volgende ronde nodig heeft. Op tijd, dus nu.
+
 ### 15.1 Waar dit begon en waar het eindigt
 - het document begon bij de ondernemer die klem zit en eindigt bij de ondernemer die de opgaven draagt `[tekst · auteurs]`
 - de verbinding met de programma's: JUMP levert de bedrijfsconcepten, deze aanpak de bewijslast, BASE moet de betaling aantonen `[tekst · verhuisd]` uit hoofdstuk 2
@@ -304,6 +336,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 ---
 
 ## 16 — Bijlagen · bron: bijlage-driesporen · ronde 5
+
+> Alles om het na te rekenen: de aangekondigde veenweide-aanpak gelezen door de aktes, elk getal met zijn bron of label, de volledige toolbox en de begrippen. Wie een bewering wil nazoeken, is hier op de juiste plek.
 
 ### 16.1 De aangekondigde veenweide-aanpak, gelezen door de aktes
 - de drie sporen zoals aangekondigd, met datum en bron `[kader · auteurs]`

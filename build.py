@@ -148,11 +148,15 @@ def lees_skelet():
         m = re.match(r'## (\d+) — (.+?)(?: · bron: (\S+))?(?: · (.+))?$', r)
         if m:
             nu = {'nummer': m.group(1), 'titel': m.group(2), 'bron': m.group(3) or '',
-                  'stand': m.group(4) or '', 'deel': deel, 'secties': [], 'noot': ''}
+                  'stand': m.group(4) or '', 'deel': deel, 'kern': '',
+                  'secties': [], 'noot': ''}
             skelet[m.group(1)] = nu
             sectie = None
             continue
         if nu is None:
+            continue
+        if r.startswith('> ') and not nu['secties']:
+            nu['kern'] = (nu['kern'] + ' ' + r[2:]).strip()
             continue
         m = re.match(r'### (.+)$', r)
         if m:

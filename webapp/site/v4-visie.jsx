@@ -52,6 +52,11 @@ function Skelet({ h }) {
                       fontWeight: 600 }}>
             skelet · {b.deel ? b.deel + ' · ' : ''}{b.nummer} — {b.titel}{b.stand ? ' · ' + b.stand : ''}
           </p>
+          {b.kern && (
+            <p style={{ margin: '0 0 10px', fontSize: 13, lineHeight: 1.6, color: 'var(--text)' }}>
+              {b.kern}
+            </p>
+          )}
           {b.secties.map((s) => (
             <div key={s.kop} style={{ margin: '0 0 8px' }}>
               <p style={{ margin: '0 0 2px', fontSize: 12.5, fontWeight: 600 }}>{s.kop}</p>

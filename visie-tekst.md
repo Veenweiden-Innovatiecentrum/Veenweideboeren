@@ -223,13 +223,7 @@ Een feit, een standpunt en een aanname zijn in dit document op drie manieren ken
 
 ## Wachtkamer — wat er over is van de oude intro
 
-[[TODO: dit is geen hoofdstuk maar een wachtkamer, en hij hoort aan het eind van de herziening leeg te zijn. De inleiding en de scope zijn hoofdstuk 1 geworden, het driesporenblok is bijlage 16. Wat hier nog staat, en waar het naartoe gaat:
-
-- **Het stikstofdossier.** Het beschrijvende deel staat nu in 1.2 als aanleiding. Wat hier overblijft is het oordeel, en dat gaat naar de risicosectie in ronde 4: een te smalle stikstofaanpak reproduceert akte II onder een nieuwe naam. De nuance dat de stikstofaanpak even nadrukkelijk zand en klei raakt, hoort in dezelfde passage, want die houdt de claim eerlijk.
-- ~~**Van stikstofslot naar stikstofruimte.**~~ Afgehandeld 19-8: dit kader is opgegaan in de fiche bij 8.2, samen met het uitkoop-argument dat 18-8 uit hoofdstuk 1 werd gehaald.
-- **Het begrippenkader.** Wordt hoofdstuk 3, ronde 4. Let op: het zegt nu nog "ingrijpen mét pijlers" en "vertaalt die bouwstenen naar de komende vijf jaar", en beide zijn in hoofdstuk 1 juist vervangen.
-
-Zodra dit bestand leeg is, gaat `intro` uit `volgorde.txt`]]
+*Dit is geen hoofdstuk. Hier staat wat nog een bestemming zoekt: het stikstofdossier gaat naar het sluitstuk, het begrippenkader naar de bijlage. Zodra dat gebeurd is, verdwijnt deze wachtkamer.*
 
 <div style="background:var(--bg2);border-left:3px solid var(--text2);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1rem 0 0;font-size:13.5px;line-height:1.65">
     <strong style="display:block;margin-bottom:6px;font-size:14px">Daarnaast: het stikstofdossier, raakvlak met dit verhaal</strong>
@@ -320,9 +314,14 @@ Hoe groot dit deel precies is, is onderwerp van discussie, schattingen lopen uit
     <p style="font-size:13.5px;line-height:1.65;margin:0">Een polder in Friesland met een kleidek op het veen, geen Natura 2000 in de buurt, nauwelijks kwel, en beperkte bodemdaling. Daar kun je als melkveehouder prima door met een aangepast bedrijf. Doelsturing op stikstof en waterkwaliteit geldt er gewoon, maar je hebt geen fundamenteel nieuw bedrijfsmodel nodig. Dat is geen veenweideboer in de zin van dit verhaal. Het onderscheid is belangrijk: niet elke boer op veen is een veenweideboer. Het gaat om de gebieden waar de reguliere weg doodloopt.</p>
   </div>
 
-Het scherpst is het waar meerdere vormen van druk samenkomen, en dat komt doordat zij niet op dezelfde schaal werken. De grondwaterstand is per perceel hanteerbaar: een ondernemer kan op een deel van de percelen vernatten en op het droge deel met melkvee doorgaan. Stikstof raakt het bedrijf integraal, want vee, voer en stal zijn niet per perceel te verlagen. Vernatting die als hagelslag over de percelen valt is dus te dragen zolang stikstof niet óók klemt. In en tegen Natura 2000 klemmen ze samen, en daar is stikstof het doorslaggevende dossier dat reguliere melkveehouderij onhoudbaar maakt. Hoeveel hectares per bedrijf het raakt is sterk plaatsgebonden en niet in algemene termen te kwantificeren.
+**Het scherpst is het waar die vormen van druk samenkomen**, en dat komt doordat zij niet op dezelfde schaal werken:
 
-[[TODO: ronde 2, vervolg. Af: 3.1, de feitcorrectie en de conclusie in 3.2, en de slotalinea van 3.3. Nog te doen in 3.3: de opening (die de scope van 1.3 nog overdoet), de kenmerkenlijst (moet beginnen met de vier vormen uit 1.3, in dezelfde woorden, met de andere kenmerken erachter), de akte-vermelding en het tegenvoorbeeld naar een fiche. En 3.4 "Wat een andere koers kost" moet nog gemaakt worden. Wat er per sectie moet gebeuren staat in `richtlijnen/skelet.md`; de openstaande punten in `correctielijst.md` onder a-klem]]
+<div class="dim-list">
+    <div class="dim-item"><span class="dot green"></span><span class="name">De grondwaterstand</span><span class="desc">per perceel te regelen: vernatten waar dat moet, en op het droge deel doorgaan met melkvee</span></div>
+    <div class="dim-item"><span class="dot red"></span><span class="name">Stikstof</span><span class="desc">raakt het bedrijf in één keer: vee, voer en stal zijn niet per perceel te verlagen</span></div>
+  </div>
+
+Vernatting die als hagelslag over de percelen valt is dus te dragen, zolang stikstof niet óók klemt. **In en tegen Natura 2000 klemmen ze samen**, en daar is stikstof het doorslaggevende dossier dat reguliere melkveehouderij onhoudbaar maakt. Hoeveel hectares per bedrijf het raakt is sterk plaatsgebonden en niet in algemene termen te kwantificeren.
 
 ---
 
@@ -615,7 +614,6 @@ Water is daarvan het schoonste voorbeeld, want de afnemer is er al. Oasen wint z
 
 Bij stikstof ligt een vergelijkbare denkrichting, en die is verder van de praktijk af. {{fiche:Toelichting|Stikstofruimte als denkbare dienst. Het kabinet zoekt stikstofruimte, en snel: bouwen, het stroomnet en defensie wachten erop. Uitkoop levert die ruimte één keer, en daarna is het gebied zijn beheerder kwijt. Een lagere veedichtheid levert dezelfde ammoniakreductie, blijvend, en precies waar die het meest telt: tegen Natura 2000 aan. Eén voorwaarde: het wegvallende vee-inkomen wordt aangevuld met betaling voor maatschappelijke diensten, anders is het uitkoop in vertraagde vorm. Doorgedacht kan ammoniakreductie zelf zo'n dienst worden, en die denkrichting vraagt eerst juridische uitwerking: extern salderen en vergunningenrecht.}}
 
-[[TODO: het kernbeeld van akte III toont nu alleen de overheid als opdrachtgever. Toetsregel 26 vraagt een tweede pijl voor de markt; dat is beeldwerk en geen tekst.]]
 
 ### 8.3 Wat dat betekent per opgave
     <p>De bouwstenen worden beschikbaar. Elke ingezette bouwsteen verandert het landschap én verbetert de opgaves. Maar nu werken de veranderingen mét in plaats van tégen de boer.</p>
@@ -1286,7 +1284,6 @@ De aanpak is nog niet gepubliceerd. De Kamerbrief van 26 juni 2026 ordent het be
     <p style="margin:0">Deze veenweideboeren-aanpak is geschreven omdat dit beleid, hoe doordacht ook, het risico in zich draagt om precies het tegenovergestelde effect te bereiken van wat het beoogt. Peilverhoging met uitsluitend compensatie, hoe royaal ook, vervangt geen bedrijfsperspectief. Compensatie vergoedt verlies; ze geeft geen richting. Boeren die willen produceren en beheren vertrekken toch, niet omdat het financieel niet uitkomt, maar omdat er geen toekomst meer te bouwen valt. En juist die boeren zijn nodig om de opgaves daadwerkelijk te halen. Het geld is er. De vraag is of het de motor voedt, of dat het hem afzet.</p>
   </div>
 
-[[TODO: ronde 5. Deze bijlage bevat nu één van de negen driesporenblokken uit `bloktypen.md`. De andere acht staan nog in a-klem, e-aktes (5×), f-overheid en g-perspectief en komen hier bij elkaar, waarna de negen tot één doorlopende bijlage worden samengevoegd. De tweede alinea hierboven is nu nog geschreven als stellingname en moet dan de vorm van een diagnose krijgen: wat dit ons leert over de inrichting van de volgende ronde]]
 
 <!-- 19-8 verhuisd uit a-klem (hoofdstuk 3), met de correcties van Niel erin verwerkt bij de verhuizing -->
 

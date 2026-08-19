@@ -19,12 +19,12 @@ De volgorde in dit register is de volgorde van `volgorde.txt`. Hoofdstukken die 
 | walkthrough | — | — | leeshulp van de website, geen hoofdstuk |
 | scope | 1 | 1 | herzien |
 | aannames | 2 | 1 | herzien; 1 markering open (onderbouwing 70-80%) |
-| intro | — | — | wachtkamer, hoort leeg te raken; nog 2 blokken (stikstofdossier → ronde 4, begrippen → bijlage 16) |
+| intro | — | — | wachtkamer, hoort leeg te raken; nog 2 blokken (stikstofdossier → ronde 4, begrippen → bijlage 16.4). Routering in de correctielijst |
 | a-klem | 3 | 2 | 3.1 herzien · 3.2 feitcorrectie en conclusie gedaan · 3.3 slotalinea gedaan, de kenmerkenlijst nog niet · 3.4 nog te maken |
 | b-opgaves | 4 | 2 | nog de bestuursversie |
 | c-omslag | 5 | 1 | herzien; **markeringen 19-8 uit de tekst gehaald, drie bronnen en één getal nog toe te voegen** — de lijst staat in `correctielijst.md` onder c-omslag |
 | e-aktes | 6, 7 | 2 | nog de bestuursversie; akte III is 19-8 eruit gehaald naar `akte-3.md` |
-| akte-3 | 8 | 1 | herzien; 1 markering open (tweede pijl voor de markt in het kernbeeld, beeldwerk) |
+| akte-3 | 8 | 1 | herzien; open punt in de correctielijst: tweede pijl voor de markt in het kernbeeld, beeldwerk |
 | d-concept | 9 | 3 | nog de bestuursversie |
 | f-ondernemer | 10 | 3 | nog de bestuursversie |
 | f-overheid | 11 | 3 | nog de bestuursversie |

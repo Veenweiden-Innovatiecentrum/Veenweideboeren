@@ -1,12 +1,6 @@
 ## Wachtkamer — wat er over is van de oude intro
 
-[[TODO: dit is geen hoofdstuk maar een wachtkamer, en hij hoort aan het eind van de herziening leeg te zijn. De inleiding en de scope zijn hoofdstuk 1 geworden, het driesporenblok is bijlage 16. Wat hier nog staat, en waar het naartoe gaat:
-
-- **Het stikstofdossier.** Het beschrijvende deel staat nu in 1.2 als aanleiding. Wat hier overblijft is het oordeel, en dat gaat naar de risicosectie in ronde 4: een te smalle stikstofaanpak reproduceert akte II onder een nieuwe naam. De nuance dat de stikstofaanpak even nadrukkelijk zand en klei raakt, hoort in dezelfde passage, want die houdt de claim eerlijk.
-- ~~**Van stikstofslot naar stikstofruimte.**~~ Afgehandeld 19-8: dit kader is opgegaan in de fiche bij 8.2, samen met het uitkoop-argument dat 18-8 uit hoofdstuk 1 werd gehaald.
-- **Het begrippenkader.** Wordt hoofdstuk 3, ronde 4. Let op: het zegt nu nog "ingrijpen mét pijlers" en "vertaalt die bouwstenen naar de komende vijf jaar", en beide zijn in hoofdstuk 1 juist vervangen.
-
-Zodra dit bestand leeg is, gaat `intro` uit `volgorde.txt`]]
+*Dit is geen hoofdstuk. Hier staat wat nog een bestemming zoekt: het stikstofdossier gaat naar het sluitstuk, het begrippenkader naar de bijlage. Zodra dat gebeurd is, verdwijnt deze wachtkamer.*
 
 <div style="background:var(--bg2);border-left:3px solid var(--text2);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1rem 0 0;font-size:13.5px;line-height:1.65">
     <strong style="display:block;margin-bottom:6px;font-size:14px">Daarnaast: het stikstofdossier, raakvlak met dit verhaal</strong>

@@ -20,7 +20,6 @@ Water is daarvan het schoonste voorbeeld, want de afnemer is er al. Oasen wint z
 
 Bij stikstof ligt een vergelijkbare denkrichting, en die is verder van de praktijk af. {{fiche:Toelichting|Stikstofruimte als denkbare dienst. Het kabinet zoekt stikstofruimte, en snel: bouwen, het stroomnet en defensie wachten erop. Uitkoop levert die ruimte één keer, en daarna is het gebied zijn beheerder kwijt. Een lagere veedichtheid levert dezelfde ammoniakreductie, blijvend, en precies waar die het meest telt: tegen Natura 2000 aan. Eén voorwaarde: het wegvallende vee-inkomen wordt aangevuld met betaling voor maatschappelijke diensten, anders is het uitkoop in vertraagde vorm. Doorgedacht kan ammoniakreductie zelf zo'n dienst worden, en die denkrichting vraagt eerst juridische uitwerking: extern salderen en vergunningenrecht.}}
 
-[[TODO: het kernbeeld van akte III toont nu alleen de overheid als opdrachtgever. Toetsregel 26 vraagt een tweede pijl voor de markt; dat is beeldwerk en geen tekst.]]
 
 ### 8.3 Wat dat betekent per opgave
     <p>De bouwstenen worden beschikbaar. Elke ingezette bouwsteen verandert het landschap én verbetert de opgaves. Maar nu werken de veranderingen mét in plaats van tégen de boer.</p>

@@ -53,6 +53,12 @@
 - [x] Kamerbrief 26 juni 2026: vijf hoofdlijnen, niet drie sporen — met datum vermeld in de bijlage. Plus de bevestiging van Douwe (aug 2026) dat de inhoud ongewijzigd is en de Veenweidenbrief nog komt. Dat antwoordt op een open intel-vraag in het strategiedossier
 - [ ] Het stikstofblok staat nog in de wachtkamer en noemt het driesporenbeleid 4×. Gaat in ronde 4 naar de risicosectie; die vermeldingen gaan dan mee
 
+*De routering stond tot 19-8 als `[[TODO]]` in de tekst zelf en staat nu hier. `intro.md` is geen hoofdstuk maar een wachtkamer en hoort aan het eind van de herziening leeg te zijn; de kop in de tekst zegt dat, en de werkstandregel in de lezer komt uit het register. **Zodra dit bestand leeg is, gaat `intro` uit `volgorde.txt`.** Wat er nog in staat:*
+
+- [ ] **Het stikstofdossier.** Het beschrijvende deel staat in 1.2 als aanleiding. Wat hier overblijft is het oordeel, en dat gaat naar de risicosectie in ronde 4: een te smalle stikstofaanpak reproduceert akte II onder een nieuwe naam. De nuance dat de stikstofaanpak even nadrukkelijk zand en klei raakt hoort in diezelfde passage, want die houdt de claim eerlijk
+- [ ] **Het begrippenkader.** Gaat naar **bijlage 16.4** in ronde 5, niet naar een eigen hoofdstuk: het begrippenhoofdstuk is 19-8 vervallen. *De oude markering zei nog "wordt hoofdstuk 3, ronde 4", en dat was op twee punten achterhaald.* Let op: het kader zegt nu nog "ingrijpen mét pijlers" en "vertaalt die bouwstenen naar de komende vijf jaar", en beide zijn in hoofdstuk 1 juist vervangen
+- [x] ~~Van stikstofslot naar stikstofruimte~~ — afgehandeld 19-8, opgegaan in de fiche bij 8.2, samen met het uitkoop-argument dat 18-8 uit hoofdstuk 1 werd gehaald
+
 ## a-klem.md
 
 - [x] **"Niet door eigen falen, maar door een systeem dat ze alleen de verkeerde opties biedt" is genuanceerd** (toetsregel 5a): 3.1 opent nu met vastlopen op kosten en omzet, deels systeem en deels eigen keuzes in schaal, financiering en tempo. De pull-quote in de lezer is meeverhuisd naar de slotzin van 3.1. **Nog open elders:** dezelfde formulering staat in `b-opgaves` (ronde 2, "omdat het systeem alleen verkeerde opties biedt") en in `samenvatting` (ronde 6)
@@ -127,6 +133,18 @@
 - [x] Voedselzekerheid-regel in de dimensielijst: "waterbuffer aan akkerbouw" eruit conform §11, en "drie pijlers" werd "drie kanten" (19-8, in `akte-3.md`)
 - [ ] **Verhuisd uit `c-omslag` op 19-8, voor akte I (hoofdstuk 6, ronde 2):** "Akte I lijkt te werken omdat er nog niks is gebeurd. Het is geen stabiele toestand maar een kwetsbaarheidspositie die zich pas openbaart bij de volgende schok, in soja, kunstmest, melkprijs, klimaat of regelgeving." Sluit aan op het besluit van 17-8 om de kwetsbaarheid van de monocultuur bij akte I toe te voegen *(Henk)*
 - [x] **Verhuisd uit `c-omslag`, geland in 8.4 op 19-8:** de ontwerpkeuze-alinea. Zonder het woord "antifragiel", want dat is jargon: "een systeem dat van variatie profiteert in plaats van eraan onderdoor te gaan"
+
+## akte-3.md
+
+- [ ] **Het kernbeeld van akte III toont alleen de overheid als opdrachtgever.** Toetsregel 26 vraagt een tweede pijl voor de markt. Dat is beeldwerk en geen tekst; zie ook `bloktypen.md`, "nog te toetsen bij het schrijven". *Stond tot 19-8 als `[[TODO]]` in de tekst*
+
+## bijlage-driesporen.md
+
+*Deze bijlage is in aanbouw en wordt in ronde 5 afgemaakt. De routering stond tot 19-8 als `[[TODO]]` in de tekst zelf.*
+
+- [ ] **Drie van de negen driesporenblokken staan er nu.** De andere zes staan nog in `e-aktes` (4×), `f-overheid` en `g-perspectief` en komen hier bij elkaar, waarna de negen tot één doorlopende bijlage worden samengevoegd
+- [ ] **De tweede alinea van het openingskader is nog een stellingname** ("het risico om precies het tegenovergestelde effect te bereiken") en moet de vorm van een gedateerde diagnose krijgen: wat dit ons leert over de inrichting van de volgende ronde. Besluit §8
+- [ ] De drie `[[CHECK DOUWE]]`-markeringen en de `[[BRON]]` bij de verdringingsreeks blijven **wel** in de tekst staan zolang deze bijlage in aanbouw is: zij staan precies bij de bedragen en de vindplaats die niet publiek te verifiëren zijn, en zonder die markering leest het kader als bronvast
 
 ## f-ondernemer.md
 

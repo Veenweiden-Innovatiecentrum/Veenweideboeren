@@ -10,7 +10,6 @@ De aanpak is nog niet gepubliceerd. De Kamerbrief van 26 juni 2026 ordent het be
     <p style="margin:0">Deze veenweideboeren-aanpak is geschreven omdat dit beleid, hoe doordacht ook, het risico in zich draagt om precies het tegenovergestelde effect te bereiken van wat het beoogt. Peilverhoging met uitsluitend compensatie, hoe royaal ook, vervangt geen bedrijfsperspectief. Compensatie vergoedt verlies; ze geeft geen richting. Boeren die willen produceren en beheren vertrekken toch, niet omdat het financieel niet uitkomt, maar omdat er geen toekomst meer te bouwen valt. En juist die boeren zijn nodig om de opgaves daadwerkelijk te halen. Het geld is er. De vraag is of het de motor voedt, of dat het hem afzet.</p>
   </div>
 
-[[TODO: ronde 5. Deze bijlage bevat nu één van de negen driesporenblokken uit `bloktypen.md`. De andere acht staan nog in a-klem, e-aktes (5×), f-overheid en g-perspectief en komen hier bij elkaar, waarna de negen tot één doorlopende bijlage worden samengevoegd. De tweede alinea hierboven is nu nog geschreven als stellingname en moet dan de vorm van een diagnose krijgen: wat dit ons leert over de inrichting van de volgende ronde]]
 
 <!-- 19-8 verhuisd uit a-klem (hoofdstuk 3), met de correcties van Niel erin verwerkt bij de verhuizing -->
 

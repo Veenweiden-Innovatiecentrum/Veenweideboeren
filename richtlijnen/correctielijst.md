@@ -57,9 +57,12 @@
 - [ ] **De wetmatigheid hoort hier**, niet in het aannamehoofdstuk: een lagere veedichtheid leidt zonder betaalde prestatie ernaast tot een lager inkomen, want minder koeien per hectare geeft minder melk per hectare terwijl grond, gebouwen en financiering hetzelfde blijven kosten. Dit is de reden dat de visie over geld gaat en niet over goede wil, en het sluit aan op de kostenstructuur die dit hoofdstuk al beschrijft. Erbij: `[[CIJFER: het inkomensgat per bedrijf bij een lagere veedichtheid zonder aanvullende inkomsten, over de jaren van de omschakeling]]`, doorrekening uit JUMP
 - [ ] **"Niet door eigen falen, maar door een systeem dat ze alleen de verkeerde opties biedt" moet genuanceerd worden** (toetsregel 5a, Tim 19-8). De klem is een systeemuitkomst én er zijn eigen keuzes gemaakt in schaal, financiering en tempo. Geen verwijt, wel de andere kant van ondernemerschap, en de brug naar "wat kun je nu al doen". Let op: dezelfde zin staat als pull-quote in `webapp/site/v4-visie.jsx` en moet dan mee
 - [ ] **Nummer dit hoofdstuk 4.** 1.1 verwijst naar "de analyse van hoofdstuk 4", en zolang de kop "A —" heet, klopt die verwijzing voor de lezer niet
-- [ ] Regel ~39: "slootpeil" → **slootwaterpeil**, en regel ~60: "Grondwaterpeil" → **grondwaterstand** (`terminologie.md`, 18-8). Dit zijn de laatste twee foute vindplaatsen in de hele tekst
-- [ ] Regel ~34: "waterstanden overal naar -40 cm" → "-20 tot -40 cm" *(Simon)*
-- [ ] Driesporenkader ("scope van spoor 3 is te smal") → bijlage, zie bloktypen.md
+- [x] Regel ~39: "slootpeil" → **slootwaterpeil**, en regel ~60: "Grondwaterpeil" → **grondwaterstand** (`terminologie.md`, 18-8). Dit waren de laatste twee foute vindplaatsen in de hele tekst; opgelost 19-8
+- [x] Regel ~34: "waterstanden overal naar -40 cm" → "-20 tot -40 cm" *(Simon)*
+- [x] Driesporenkader ("scope van spoor 3 is te smal") → bijlage 16, verhuisd 19-8. Bij die verplaatsing meegenomen: het percentage bij spoor 3 eruit (20.000 ha blijft, *Niel*), "extensieve, natuurinclusieve melkveehouderij" → "melkveehouderij met een lagere veedichtheid", en de kritiek omgeschreven naar een gedateerde diagnose conform §8 — geen "twee tot drie keer te smal" meer maar wat eruit volgt voor de inrichting van de volgende ronde
+- [x] "extensief" bij de nichebedrijven → "een lage veedichtheid" (machinale check, `terminologie.md`)
+- [ ] **Twee akte-vermeldingen moeten eruit** (toetsregel 13 en de machinale check): "al profiteren ook nicheboeren van de condities uit akte III" in 3.1, en "En over dát deel gaan de drie aktes" in 3.4. Gaan om bij het schrijven van hun eigen sectie
+- [ ] **De zeven kenmerken in 3.4 tegenover de vier vormen van druk in 1.3.** Twee lijsten voor hetzelfde, en zij zeggen nu niet hetzelfde: 1.3 noemt bodemdaling, broeikasgasemissies, ligging in of tegen Natura 2000 en verzilting; dit hoofdstuk noemt zeven kenmerken waaronder stedelijke randen, infrastructuur en dunne veenpakketten. Voorstel in het skelet: hoofdstuk 1 houdt de vier hoofdvormen, 3.4 is de volledige uitwerking in laag 3 — maar dan moeten de vier daarin herkenbaar terugkomen. Besluit voor Tim
 
 ## b-opgaves.md
 

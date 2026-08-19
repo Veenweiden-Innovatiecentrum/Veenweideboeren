@@ -12,6 +12,13 @@ De aanpak is nog niet gepubliceerd. De Kamerbrief van 26 juni 2026 ordent het be
 
 [[TODO: ronde 5. Deze bijlage bevat nu één van de negen driesporenblokken uit `bloktypen.md`. De andere acht staan nog in a-klem, e-aktes (5×), f-overheid en g-perspectief en komen hier bij elkaar, waarna de negen tot één doorlopende bijlage worden samengevoegd. De tweede alinea hierboven is nu nog geschreven als stellingname en moet dan de vorm van een diagnose krijgen: wat dit ons leert over de inrichting van de volgende ronde]]
 
+<!-- 19-8 verhuisd uit a-klem (hoofdstuk 3), met de correcties van Niel erin verwerkt bij de verhuizing -->
+
+<div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.25rem 0;font-size:13.5px;line-height:1.65">
+      <strong style="display:block;margin-bottom:6px;font-size:14px">Spoor 3, de afbakening is smaller dan de opgave</strong>
+      <p style="margin:0">Spoor 3 reserveert melkveehouderij met een lagere veedichtheid voor ca. 20.000 hectare, alleen daar waar opgaves zich stapelen, buiten zonering en weidevogelgebieden. Onze eigen analyse komt op 20 tot 30 procent van het areaal dat een fundamenteel ander bedrijfsmodel nodig heeft. Het verschil zit in de hagelslag: vernatting valt niet in aaneengesloten blokken maar verspreid over percelen, waardoor delen van bedrijven onbruikbaar raken voor reguliere melkveehouderij, ook in gebieden die volgens spoor 2 door kunnen gaan. Wat daaruit volgt voor de inrichting van de volgende ronde: de omschakeling is geen uitzonderingsregeling voor randgevallen maar een route die ook binnen spoor 1 en spoor 2 beschikbaar moet zijn.</p>
+    </div>
+
 <!-- 19-8 verhuisd uit akte III; de correcties uit correctielijst.md zijn hier nog niet verwerkt -->
 
 <div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.25rem 0;font-size:13.5px;line-height:1.65">

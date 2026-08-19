@@ -33,7 +33,8 @@ De ondernemer op veen loopt vast op kosten en omzet: grond is duur, de kostprijs
 
 - 3.1 Om welke bedrijven het gaat
 - 3.2 Waarom de rekening niet meer rond komt
-- 3.3 Waar de uitdaging het scherpst is
+- 3.3 Wat een andere koers kost
+- 3.4 Waar de uitdaging het scherpst is
 
 ### 4. Wat Nederland van dit gebied vraagt (B — De opgaven)
 

@@ -62,24 +62,30 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 # Deel II — Wat er aan de hand is en wat er kan
 
-## 3 — Waarom de ondernemer vastloopt op kosten en omzet (A — De ondernemer klem) · bron: a-klem · ronde 2
+## 3 — Waarom de ondernemer vastloopt op kosten en omzet (A — De ondernemer klem) · bron: a-klem · ronde 2 · nu aan de beurt
 
-> De ondernemer op veen loopt vast op kosten en omzet: grond is duur, de kostprijs stijgt en de ruimte om te ondernemen krimpt. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien om welke bedrijven het gaat, waar het het scherpst rekent, en waarom dit niet over vakmanschap of motivatie gaat.
+> De ondernemer op veen loopt vast op kosten en omzet: grond is duur, de kostprijs stijgt en de ruimte om te ondernemen krimpt. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien om welke bedrijven het gaat, waarom de rekening niet meer rond komt, wat een andere koers kost, en waar de uitdaging het scherpst is. Het is de uitwerking van de klem die hoofdstuk 1 aankondigt, dus de scope wordt hier niet opnieuw opgebouwd.
 
 ### 3.1 Om welke bedrijven het gaat
+- de meerderheid van de ondernemers in dit gebied loopt vast op kosten en omzet, en dat is deels systeem en deels eigen keuze `[tekst · auteurs]` de openingsalinea, nu onder een kop; toetsregel 5a in één regel, de uitwerking staat in 3.2
 - de vorm van de populatie: een kleine groep hele grote bedrijven, een middengroep, een kleine niche `[beeld · auteurs]`
-- de middengroep beheert het meeste land en heeft geen van beide routes open `[tekst · auteurs]`
+- de middengroep krimpt hoe dan ook; de twee andere groepen hebben al een werkend bedrijfsmodel `[tekst · auteurs]` — "eruit vallen" anders gezegd (Lian a-klem:2)
 
 ### 3.2 Waarom de rekening niet meer rond komt
-- drie dingen die de rekening bepalen: de grondmarkt, de kostprijs, en een systeem dat intern vastloopt `[tekst · auteurs]` — nu twee kaders
-- het gaspedaal werd de rem: een systeemomkering, geen verwijt `[tekst · nieuw]` één zin, besluit 17-8
+- drie condities bepalen de richting van de melkveehouderij: de grondmarkt, het beleidskader, de ketenstructuur `[tabel · auteurs]` — nu een kader met drie kolommen, wordt een tabel conform de vormronde van 19-8
+- het systeem loopt ook intern vast: opvolging wordt onbetaalbaar en de grondmarkt raakt minder liquide. Plus: het gaspedaal werd de rem, één zin `[tekst · auteurs + nieuw]` besluit 17-8
 - **en er zijn eigen keuzes gemaakt.** Schaal, financiering en het moment van investeren waren beslissingen van de ondernemer zelf, en niet iedereen zit even diep in de klem. Geen verwijt, maar de andere kant van ondernemerschap: daarom is er ook binnen de klem ruimte om te kiezen, en dat is hoofdstuk 13 `[tekst · nieuw]` Tim, 19-8
-- de wetmatigheid: een lagere veedichtheid zonder betaalde prestatie ernaast geeft een lager inkomen `[tekst · verhuisd]` uit hoofdstuk 2, plus `[[CIJFER]]` voor het inkomensgat
 
-### 3.3 Waar de uitdaging het scherpst is
-- de gebieden die structureel te nat worden `[tekst · auteurs]`
-- tegenvoorbeeld: waar het níet over gaat `[fiche · auteurs]`
-- de aard van de uitdaging verschilt per opgave: per perceel, per peilvak, per gebied `[tekst · auteurs]`
+### 3.3 Wat een andere koers kost
+- de wetmatigheid: een lagere veedichtheid zonder betaalde prestatie ernaast geeft een lager inkomen, want minder melk per hectare terwijl grond, gebouwen en financiering hetzelfde blijven kosten `[tekst · verhuisd]` uit hoofdstuk 2, plus `[[CIJFER]]` voor het inkomensgat
+- daarom gaat deze visie over geld en niet over goede wil `[tekst · nieuw]` één zin, en de brug naar de rest van het document
+
+### 3.4 Waar de uitdaging het scherpst is
+- de zeven kenmerken waaraan je het gebied herkent, als uitwerking van de vier vormen van druk uit 1.3 `[lijst · auteurs]` — hier de volledige lijst, want dit is laag 3; hoofdstuk 1 houdt de vier hoofdvormen. **Openstaand:** de twee lijsten moeten hetzelfde zeggen
+- tegenvoorbeeld: waar het níet over gaat `[fiche · auteurs]` — nu een accentkader
+- vernatting valt als hagelslag over de percelen, en de aard van de uitdaging verschilt per opgave: de grondwaterstand is per perceel hanteerbaar, stikstof raakt het bedrijf integraal `[tekst · auteurs]` — zonder de coördinatie-conclusie, want dat is oplossing en hoort in hoofdstuk 11 (Lian a-klem:11)
+
+*Wat hier uit het hoofdstuk verdwijnt, en waarheen: de scope-opbouw (200.000 hectare, "dit gaat niet over het hele gebied", de schattingsdiscussie over de 20 tot 30 procent) staat in 1.3 en wordt hier alleen aangehaald · het driesporenkader "de scope van spoor 3 is te smal" gaat naar bijlage 16 · de vraag "wanneer kom je in aanmerking voor de veenweideboerencategorie" vervalt, want dat begrip wordt pas in hoofdstuk 9 gedefinieerd (Lian a-klem:9 wordt daar beantwoord) · de twee akte-vermeldingen vervallen, toetsregel 13.*
 
 ---
 

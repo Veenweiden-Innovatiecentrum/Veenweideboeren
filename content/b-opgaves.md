@@ -70,42 +70,12 @@ Nederland vraagt zeven dingen van dit gebied: klimaat, water, natuur, voedselzek
   </table>
 </div>
 
+### 4.2 De twee dossiers die nu de aandacht bepalen
+
 Twee van deze tien zijn voor dit kabinet de directe aanleiding om in dit gebied iets te doen: de stikstofdepositie op Natura 2000 en de achteruitgang van de weidevogels. In dit document doen ze verschillend werk.
 
 **Stikstof verklaart de urgentie.** Het is het dossier waar nu geld en aandacht op staan, en het is ook het dossier dat hoofdstuk 3 doorslaggevend noemt voor een bedrijf, omdat vee, voer en stal zich niet per perceel laten aanpassen zoals de grondwaterstand dat wel doet. In deze reeks is stikstof daarom geen achtste opgave maar de scherpe kant van de natuuropgave. Wat er wel bij hoort: een lagere veedichtheid verlaagt de ammoniakuitstoot structureel. Dat is een gevolg van die stap zelf en niet een aparte maatregel die er bovenop komt.
 
 **De weidevogel doet iets wat geen ander dossier doet: hij laat zien dat dit gebied de gevraagde dienst kan leveren.** De grutto vraagt nat land, mozaïekbeheer en kruidenrijk grasland, en iemand die dat uitvoert. Dat werk bestaat, de pakketten bestaan, en de collectieven voeren ze uit. Wat de weidevogel niet laat zien is dat er voor die dienst betaald wordt: het Agrarisch Natuur- en Landschapsbeheer vergoedt de kosten van het beheer en de gederfde inkomsten, en dat is iets anders dan een prijs voor een geleverde dienst (hoofdstuk 2).
 
-### 4.2 Waarom deze opgaven een ondernemer nodig hebben
-
-Wat Nederland hier vraagt is reëel, en op één punt wordt er ook al aan geleverd: er ligt weidevogelbeheer, er zijn pakketten en er zijn collectieven die ze uitvoeren. Dat is het deel waarvoor een regeling bestaat.
-
-**Maar het meeste beheer op dit land staat in geen enkel contract.** Er wordt wél om gevraagd: de basiskwaliteit van natuur, het landschap en de kwaliteit van het slootwater zijn drie van de opgaven die Nederland stelt. Alleen draagt niemand dit werk op en staat er geen rekening tegenover. Gratis is het daarmee niet, want het wordt betaald uit de marge van een melkveebedrijf, en de samenleving heeft het decennialang op die manier meegekregen.
-
-**En dat is precies waarom hier een ondernemer voor nodig is.** Dit beheer valt samen met werk dat toch al gebeurt: de uren, de machines en de kennis van elk perceel zitten al in een lopend bedrijf, en wie 's ochtends langs de sloot rijdt ziet dat de oever inzakt. Wie hetzelfde werk als losse opdracht uitvoert, begroot elk uur apart en moet elk jaar opnieuw uitleggen waarom het nodig is. Een vrijwilliger of een beheerder op afstand kan het landschap onderhouden, maar niet zo fijnmazig en niet zo goedkoop, en zonder het vakmanschap en de gehechtheid van iemand die er woont en er het brood verdient.
-
-**Maar wat er nu gevraagd wordt, kan niet uit die marge komen.** Een oever die netjes blijft en een slootkant die gespaard wordt, liepen tot nu toe mee met het werk dat er toch al was. Water werkelijk vasthouden vraagt een andere inrichting van het land, en de koolstof in de bodem houden vraagt een hogere grondwaterstand, op de zwaarste plekken met minder koeien per hectare. Dat gebeurt niet naast het bedrijf: het grijpt in de bedrijfsvoering in en het kost productie. Zulk werk verkleint precies de marge waaruit het kleine beheer tot nu toe betaald werd. Wat nu meelift is dus geen model voor wat er gevraagd wordt, het is de eerste post die eronder wegvalt.
-
-En die marge stond al onder druk. Werk waar geen rekening tegenover staat is het eerste dat sneuvelt op een bedrijf dat het zakelijk niet meer rond krijgt, en dat is waar hoofdstuk 3 over gaat. Een klemzittende middengroep is daarom niet neutraal voor de maatschappelijke opgaven: het werkt op alle dimensies tegelijk negatief, en niet omdat de boer het verkeerd doet.
-
-<div class="decision-card" style="margin-bottom:12px">
-    <div class="label">Op korte termijn</div>
-    <div class="title" style="font-size:15px;line-height:1.4">Margedruk vernietigt het rentmeesterschap</div>
-    <p style="font-size:13.5px;line-height:1.65;margin:.7rem 0 0">Een boer die klem zit zoekt het in kostenbeperking. Slootkantenbeheer, weidevogelbeheer, ecologisch maaien — dat zijn de eerste dingen die sneuvelen. De basiskwaliteit van natuur in het boerenland holt achteruit, niet door kwade wil maar door gebrek aan financiële ruimte.</p>
-  </div>
-
-<div class="decision-card" style="margin-bottom:12px">
-    <div class="label">Op middellange termijn</div>
-    <div class="title" style="font-size:15px;line-height:1.4">De schaalvergrotingsreflex maakt de fijnmazigheid kapot</div>
-    <p style="font-size:13.5px;line-height:1.65;margin:.7rem 0 0">Wie toch probeert door te groeien dicht sloten, voegt kavels samen, verwijdert landschapselementen en zet weidegang onder druk. Het fijnmazige netwerk van oevers, greppels en perceelranden waar weidevogels, insecten en bodemleven van afhankelijk zijn, dat verdwijnt. In het veenweidegebied betekent intensiveren bovendien diepere ontwatering, hogere veenoxidatie met meer CO₂-emissie, en minder waterbuffering.</p>
-  </div>
-
-<div class="decision-card" style="margin-bottom:12px">
-    <div class="label">Op lange termijn</div>
-    <div class="title" style="font-size:15px;line-height:1.4">De klemzittende middengroep blokkeert de transitie zelf</div>
-    <p style="font-size:13.5px;line-height:1.65;margin:.7rem 0 0">De middengroep heeft geen marge om te investeren in een ander bedrijfsmodel, geen buffer om de eerste kwetsbare jaren door te komen, en geen perspectief dat het risico rechtvaardigt. Omdat zij de grootste groep is en het meeste areaal beheert [[CIJFER: aandeel van het veenweide-areaal dat de middengroep beheert, met het label eigen analyse VIC/JUMP]], verandert er op het overgrote deel van het veenweidegebied structureel niets: de bodem blijft dalen, de uitstoot blijft, de waterkwaliteit blijft achter, de biodiversiteit gaat achteruit.</p>
-  </div>
-
-**Wat er met zo'n ondernemer verdwijnt, is concreet en telbaar.** Het zijn de uren landbeheer waarvoor geen rekening bestaat: sloten en oevers schoonhouden, een duiker of een dam op tijd herstellen, opmerken dat er iets niet klopt in het water of in het land, en de aanwezigheid van iemand die het gebied kent. Dat die uren onbeprijsd zijn en niet gratis, wordt pas zichtbaar wanneer het eigenaarschap verschuift. Vervang de familieondernemer door een belegger of door beheer op afstand, en dan moeten die uren uit publiek geld komen, of ze gebeuren niet. Zolang deze ondernemers er zijn, is dat te voorkomen.
-
-**Zonder perspectief geen opgaven.** De maatschappelijke opgaven worden niet gehaald zolang de middengroep klem zit. Geen enkele opgave — klimaat, water, natuur, voedselzekerheid, cultuur en landschap, grondstoffen en kringloop, wonen — wordt structureel bereikt als 70 tot 80 procent van de boeren in het veenweidegebied geen andere route heeft dan doorgaan zoals het is of stoppen. De vraag van Nederland staat of valt dus met de ondernemer die haar uitvoert.
+Al deze opgaven landen op hetzelfde land, en in de bedrijfsvoering van hetzelfde bedrijf: het bedrijf dat in hoofdstuk 3 klem komt te zitten.

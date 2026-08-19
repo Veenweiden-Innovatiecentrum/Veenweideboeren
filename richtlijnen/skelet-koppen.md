@@ -37,19 +37,20 @@ De ondernemer op veen loopt vast op kosten en omzet: grond is duur, de kostprijs
 
 ### 4. Wat Nederland van dit gebied vraagt (B — De opgaven)
 
-Nederland vraagt zeven dingen tegelijk van dit gebied: klimaat, water, natuur, kringloop, voedsel, landschap en wonen. Dit hoofdstuk zet die vraag op tafel en laat zien dat er niets van terechtkomt zonder ondernemer op het land. Want wat met hem verdwijnt zijn de onbeprijsde uren beheer, en die moeten daarna uit publiek geld komen of ze gebeuren niet.
+Nederland vraagt zeven dingen tegelijk van dit gebied: klimaat, water, natuur, kringloop, voedsel, landschap en wonen. Dit hoofdstuk doet één ding: het zet die vraag op tafel, met per dimensie waar zij het zwaarst is. Wat er van die vraag terechtkomt en wie haar kan leveren, komt daarna.
 
 - 4.1 De zeven opgaven, en waar ze het zwaarst zijn
-- 4.2 Waarom deze opgaven een ondernemer nodig hebben
+- 4.2 De twee dossiers die nu de aandacht bepalen
 
 ### 5. Wat dit gebied kan dragen
 
-Op dezelfde hectare komt meer dan melk: vastgehouden water, koolstof in de bodem, landschap, weidevogels. Daarvan wordt er één afgerekend. Dit hoofdstuk zegt waarom betalen juist hier gerechtvaardigd is, en dat is niet omdat het elders onmogelijk zou zijn maar omdat hier het alternatief geen landbouw is.
+Op dezelfde hectare komt meer dan melk: vastgehouden water, koolstof in de bodem, landschap, weidevogels. Daarvan wordt er één afgerekend. Dit hoofdstuk zegt wat er nog meer te leveren valt, waarom betalen juist hier gerechtvaardigd is — niet omdat het elders onmogelijk zou zijn maar omdat hier het alternatief geen landbouw is — en het sluit af met de reden dat dit een ondernemer met een verdienmodel vraagt en geen vrijwilliger.
 
 - 5.1 Wat deze hectare nu al levert
-- 5.2 Waarom hier, en waarom deze ondernemers
-- 5.3 Wat deze hectare nog meer kan leveren
+- 5.2 Wat deze hectare nog meer kan leveren
+- 5.3 Waarom hier, en waarom deze ondernemers
 - 5.4 Wat kan, is er nog niet
+- 5.5 En dit gaat niet op vrijwilligheid
 
 ---
 

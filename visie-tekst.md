@@ -389,45 +389,15 @@ Nederland vraagt zeven dingen van dit gebied: klimaat, water, natuur, voedselzek
   </table>
 </div>
 
+### 4.2 De twee dossiers die nu de aandacht bepalen
+
 Twee van deze tien zijn voor dit kabinet de directe aanleiding om in dit gebied iets te doen: de stikstofdepositie op Natura 2000 en de achteruitgang van de weidevogels. In dit document doen ze verschillend werk.
 
 **Stikstof verklaart de urgentie.** Het is het dossier waar nu geld en aandacht op staan, en het is ook het dossier dat hoofdstuk 3 doorslaggevend noemt voor een bedrijf, omdat vee, voer en stal zich niet per perceel laten aanpassen zoals de grondwaterstand dat wel doet. In deze reeks is stikstof daarom geen achtste opgave maar de scherpe kant van de natuuropgave. Wat er wel bij hoort: een lagere veedichtheid verlaagt de ammoniakuitstoot structureel. Dat is een gevolg van die stap zelf en niet een aparte maatregel die er bovenop komt.
 
 **De weidevogel doet iets wat geen ander dossier doet: hij laat zien dat dit gebied de gevraagde dienst kan leveren.** De grutto vraagt nat land, mozaïekbeheer en kruidenrijk grasland, en iemand die dat uitvoert. Dat werk bestaat, de pakketten bestaan, en de collectieven voeren ze uit. Wat de weidevogel niet laat zien is dat er voor die dienst betaald wordt: het Agrarisch Natuur- en Landschapsbeheer vergoedt de kosten van het beheer en de gederfde inkomsten, en dat is iets anders dan een prijs voor een geleverde dienst (hoofdstuk 2).
 
-### 4.2 Waarom deze opgaven een ondernemer nodig hebben
-
-Wat Nederland hier vraagt is reëel, en op één punt wordt er ook al aan geleverd: er ligt weidevogelbeheer, er zijn pakketten en er zijn collectieven die ze uitvoeren. Dat is het deel waarvoor een regeling bestaat.
-
-**Maar het meeste beheer op dit land staat in geen enkel contract.** Er wordt wél om gevraagd: de basiskwaliteit van natuur, het landschap en de kwaliteit van het slootwater zijn drie van de opgaven die Nederland stelt. Alleen draagt niemand dit werk op en staat er geen rekening tegenover. Gratis is het daarmee niet, want het wordt betaald uit de marge van een melkveebedrijf, en de samenleving heeft het decennialang op die manier meegekregen.
-
-**En dat is precies waarom hier een ondernemer voor nodig is.** Dit beheer valt samen met werk dat toch al gebeurt: de uren, de machines en de kennis van elk perceel zitten al in een lopend bedrijf, en wie 's ochtends langs de sloot rijdt ziet dat de oever inzakt. Wie hetzelfde werk als losse opdracht uitvoert, begroot elk uur apart en moet elk jaar opnieuw uitleggen waarom het nodig is. Een vrijwilliger of een beheerder op afstand kan het landschap onderhouden, maar niet zo fijnmazig en niet zo goedkoop, en zonder het vakmanschap en de gehechtheid van iemand die er woont en er het brood verdient.
-
-**Maar wat er nu gevraagd wordt, kan niet uit die marge komen.** Een oever die netjes blijft en een slootkant die gespaard wordt, liepen tot nu toe mee met het werk dat er toch al was. Water werkelijk vasthouden vraagt een andere inrichting van het land, en de koolstof in de bodem houden vraagt een hogere grondwaterstand, op de zwaarste plekken met minder koeien per hectare. Dat gebeurt niet naast het bedrijf: het grijpt in de bedrijfsvoering in en het kost productie. Zulk werk verkleint precies de marge waaruit het kleine beheer tot nu toe betaald werd. Wat nu meelift is dus geen model voor wat er gevraagd wordt, het is de eerste post die eronder wegvalt.
-
-En die marge stond al onder druk. Werk waar geen rekening tegenover staat is het eerste dat sneuvelt op een bedrijf dat het zakelijk niet meer rond krijgt, en dat is waar hoofdstuk 3 over gaat. Een klemzittende middengroep is daarom niet neutraal voor de maatschappelijke opgaven: het werkt op alle dimensies tegelijk negatief, en niet omdat de boer het verkeerd doet.
-
-<div class="decision-card" style="margin-bottom:12px">
-    <div class="label">Op korte termijn</div>
-    <div class="title" style="font-size:15px;line-height:1.4">Margedruk vernietigt het rentmeesterschap</div>
-    <p style="font-size:13.5px;line-height:1.65;margin:.7rem 0 0">Een boer die klem zit zoekt het in kostenbeperking. Slootkantenbeheer, weidevogelbeheer, ecologisch maaien — dat zijn de eerste dingen die sneuvelen. De basiskwaliteit van natuur in het boerenland holt achteruit, niet door kwade wil maar door gebrek aan financiële ruimte.</p>
-  </div>
-
-<div class="decision-card" style="margin-bottom:12px">
-    <div class="label">Op middellange termijn</div>
-    <div class="title" style="font-size:15px;line-height:1.4">De schaalvergrotingsreflex maakt de fijnmazigheid kapot</div>
-    <p style="font-size:13.5px;line-height:1.65;margin:.7rem 0 0">Wie toch probeert door te groeien dicht sloten, voegt kavels samen, verwijdert landschapselementen en zet weidegang onder druk. Het fijnmazige netwerk van oevers, greppels en perceelranden waar weidevogels, insecten en bodemleven van afhankelijk zijn, dat verdwijnt. In het veenweidegebied betekent intensiveren bovendien diepere ontwatering, hogere veenoxidatie met meer CO₂-emissie, en minder waterbuffering.</p>
-  </div>
-
-<div class="decision-card" style="margin-bottom:12px">
-    <div class="label">Op lange termijn</div>
-    <div class="title" style="font-size:15px;line-height:1.4">De klemzittende middengroep blokkeert de transitie zelf</div>
-    <p style="font-size:13.5px;line-height:1.65;margin:.7rem 0 0">De middengroep heeft geen marge om te investeren in een ander bedrijfsmodel, geen buffer om de eerste kwetsbare jaren door te komen, en geen perspectief dat het risico rechtvaardigt. Omdat zij de grootste groep is en het meeste areaal beheert [[CIJFER: aandeel van het veenweide-areaal dat de middengroep beheert, met het label eigen analyse VIC/JUMP]], verandert er op het overgrote deel van het veenweidegebied structureel niets: de bodem blijft dalen, de uitstoot blijft, de waterkwaliteit blijft achter, de biodiversiteit gaat achteruit.</p>
-  </div>
-
-**Wat er met zo'n ondernemer verdwijnt, is concreet en telbaar.** Het zijn de uren landbeheer waarvoor geen rekening bestaat: sloten en oevers schoonhouden, een duiker of een dam op tijd herstellen, opmerken dat er iets niet klopt in het water of in het land, en de aanwezigheid van iemand die het gebied kent. Dat die uren onbeprijsd zijn en niet gratis, wordt pas zichtbaar wanneer het eigenaarschap verschuift. Vervang de familieondernemer door een belegger of door beheer op afstand, en dan moeten die uren uit publiek geld komen, of ze gebeuren niet. Zolang deze ondernemers er zijn, is dat te voorkomen.
-
-**Zonder perspectief geen opgaven.** De maatschappelijke opgaven worden niet gehaald zolang de middengroep klem zit. Geen enkele opgave — klimaat, water, natuur, voedselzekerheid, cultuur en landschap, grondstoffen en kringloop, wonen — wordt structureel bereikt als 70 tot 80 procent van de boeren in het veenweidegebied geen andere route heeft dan doorgaan zoals het is of stoppen. De vraag van Nederland staat of valt dus met de ondernemer die haar uitvoert.
+Al deze opgaven landen op hetzelfde land, en in de bedrijfsvoering van hetzelfde bedrijf: het bedrijf dat in hoofdstuk 3 klem komt te zitten.
 
 ---
 
@@ -483,17 +453,9 @@ Het is ook geen radicale koerswijziging, maar een aanvulling op bestaand overhei
 
 Daar komt de ruimtedruk bij. De Ontwerp-Nota Ruimte schetst een land waarin wonen, defensie, datacenters, energie-infrastructuur, voedselproductie, bouwmaterialen en handelsroutes aanspraak maken op dezelfde vierkante meters. Ook die functies vullen vaak meer dan één opgave in: een woonwijk wordt via de Landelijke maatlat op groen en water ontworpen en Defensie beheert natuur op zijn terreinen. Uitzonderlijk is dit gebied dus niet. Wat het onderscheidt is de omvang: honderdduizenden hectares waarvan vandaag één product wordt afgerekend, terwijl er meer van komt. Wat er met die ruimte gebeurt, wordt de komende jaren beslist, met of zonder een verhaal uit dit gebied zelf.
 
-### 5.2 Waarom hier, en waarom deze ondernemers
+### 5.2 Wat deze hectare nog meer kan leveren
 
-Daarmee is nog niet gezegd waarom déze ondernemers voor maatschappelijke diensten betaald zouden worden en andere boeren in Nederland niet. Ons antwoord is niet dat dit gebied iets kan wat elders onmogelijk is. Water bergen kan op klei ook en koolstof vastleggen in bos op zand ook.
-
-Het verschil zit in het alternatief. Op het grootste deel van de Nederlandse landbouwgrond is het alternatief voor het huidige bedrijf: anders boeren. Op het deel van het veenweidegebied waar dit document over gaat, daar waar de vier vormen van fysieke druk uit hoofdstuk 1 zich stapelen, is het alternatief geen boeren. De reële opties zijn daar natuur, uitkoop, of beheer op afstand door een partij die doet wat er in het contract staat. Dat zijn verdedigbare routes en ze worden ook gelopen. Onze analyse is dat er in datzelfde gebied nog een route bij komt, waarin het beheer een verdienmodel houdt en de ondernemer blijft.
-
-"Maar maak er dan helemaal natuur van", die tegenwerping is logisch en moet expliciet weerlegd worden. Pure natuur zou betekenen: voedselproductie verplaatsen naar elders, met alle import-, transport- en klimaatkosten van dien. De veenweideboer levert juist meerdere producten op één plek: voedsel én water én koolstofopslag én biodiversiteit én landschap. Dat is geen tweederangs natuur en geen tweederangs landbouw. Strategisch is voedselproductie in eigen gebied een waarde op zich, zeker in een wereld waarin geopolitiek voedsel weer een schaarste-issue wordt. En wie er natuur van maakt, is niet goedkoper uit: natuurbeheer kost óók publiek geld — maar dan zonder voedsel, zonder ondernemerschap en zonder beheerder met eigen belang bij het resultaat. Het meerproducten-frame is daarmee niet een compromis tussen natuur en landbouw, maar een meerwaarde die beide overstijgt.
-
-### 5.3 Wat deze hectare nog meer kan leveren
-
-De zeven opgaven in hoofdstuk 4 zijn wat Nederland van dit gebied vraagt. Daarnaast valt er meer te leveren dan het voedsel dat nu wordt afgerekend, en bij elk van die drie zit de afnemer buiten het gebied. Dat is de minst benoemde kant van dit verhaal: dit gebied heeft niet alleen iets nodig, het heeft ook iets te bieden. Alle drie zijn richtingen die in JUMP verkend worden en die nog niet zijn uitgekristalliseerd.
+De zeven opgaven in hoofdstuk 4 zijn wat Nederland van dit gebied vraagt. Daarnaast valt er meer te leveren, en bij elk van die drie zit de afnemer buiten het gebied. Dat is de minst benoemde kant van dit verhaal: dit gebied heeft niet alleen iets nodig, het heeft ook iets te bieden. Alle drie zijn richtingen die in JUMP verkend worden en die nog niet zijn uitgekristalliseerd.
 
 **CO₂-compensatie voor de akkerbouw.** Akkerbouwgebieden produceren voedsel met aanzienlijke CO₂-uitstoot en zoeken compensatieroutes om aan klimaatdoelen te voldoen. In plaats van het planten van bos op een polder of het inrichten van compensatieprojecten elders, kan een aanzienlijk deel van die compensatie in het veenweidegebied plaatsvinden. De CO₂-voorraad in het veen is enorm. Twee dingen moeten daarbij uit elkaar blijven, want voor wie ervoor betaalt zijn het twee producten: het remmen van veenoxidatie is *vermeden uitstoot*, en *vastlegging* komt van paludicultuur en actieve veenaanmaak. Beide leveren per geïnvesteerde euro mogelijk meer CO₂-reductie op dan bosaanplant op zandgrond.
 
@@ -509,6 +471,14 @@ De zeven opgaven in hoofdstuk 4 zijn wat Nederland van dit gebied vraagt. Daarna
 *Piekberging* houdt bij een hoosbui water vast op eigen land, zodat het niet elders schade doet, op akkerland of aan infrastructuur. Dat is met sloten, greppels en peilbeheer te doen, en het kan vandaag. *Waterbuffering* is het andere: water bewaren voor een droge periode, in de meest vergaande vorm in de zandlagen onder het veen. Wat daar kan is nog niet bekend.
 
 Het mechanisme is daarbij niet levering maar het opheffen van een claim.{{fiche:Bron|Niel de Jong, Unie van Waterschappen, commentaar op deze visie, 18 juni 2026. Om water van betekenis te kunnen leveren zou een groot deel van het gebied onder water moeten staan. Bij -40 cm neemt de eigen watervraag van het gebied in een droge zomer toe met een factor anderhalf tot drie; om water van betekenis te kunnen leveren zou al snel een derde van het gebied ongeveer een meter onder water moeten staan. De bron specificeert bij die -40 cm niet of het om het slootwaterpeil of de grondwaterstand gaat.}} In een droge zomer wordt er nú water náár dit gebied aangevoerd om de veenbodem te sparen; een gebied dat zichzelf voorziet heeft die aanvoer niet nodig, en dat water komt vrij voor gebruik elders. Waarom die claim zwaar weegt staat in de verdringingsreeks in bijlage 16: bij watertekort gaat klink en zetting in veen vóór op drinkwater, terwijl water voor het gras onderaan staat. Die hoge prioriteit geldt dus de bodem en niet het bedrijf, en daarmee is dit geen boerenbelang in een ander jasje. En er is een partij met een doel: I&W stuurt sinds 2026 op waterzelfvoorzienendheid van veenweidegebieden. Hoeveel water dat vrijmaakt is niet bekend.
+
+### 5.3 Waarom hier, en waarom deze ondernemers
+
+Daarmee is nog niet gezegd waarom déze ondernemers voor maatschappelijke diensten betaald zouden worden en andere boeren in Nederland niet. Ons antwoord is niet dat dit gebied iets kan wat elders onmogelijk is. Water bergen kan op klei ook en koolstof vastleggen in bos op zand ook.
+
+Het verschil zit in het alternatief. Op het grootste deel van de Nederlandse landbouwgrond is het alternatief voor het huidige bedrijf: anders boeren. Op het deel van het veenweidegebied waar dit document over gaat, daar waar de vier vormen van fysieke druk uit hoofdstuk 1 zich stapelen, is het alternatief geen boeren. De reële opties zijn daar natuur, uitkoop, of beheer op afstand door een partij die doet wat er in het contract staat. Dat zijn verdedigbare routes en ze worden ook gelopen. Onze analyse is dat er in datzelfde gebied nog een route bij komt, waarin het beheer een verdienmodel houdt en de ondernemer blijft.
+
+"Maar maak er dan helemaal natuur van", die tegenwerping is logisch en moet expliciet weerlegd worden. Pure natuur zou betekenen: voedselproductie verplaatsen naar elders, met alle import-, transport- en klimaatkosten van dien. De veenweideboer levert juist meerdere producten op één plek: voedsel én water én koolstofopslag én biodiversiteit én landschap. Dat is geen tweederangs natuur en geen tweederangs landbouw. Strategisch is voedselproductie in eigen gebied een waarde op zich, zeker in een wereld waarin geopolitiek voedsel weer een schaarste-issue wordt. En wie er natuur van maakt, is niet goedkoper uit: natuurbeheer kost óók publiek geld — maar dan zonder voedsel, zonder ondernemerschap en zonder beheerder met eigen belang bij het resultaat. Het meerproducten-frame is daarmee niet een compromis tussen natuur en landbouw, maar een meerwaarde die beide overstijgt.
 
 ### 5.4 Wat kan, is er nog niet
 
@@ -528,6 +498,16 @@ Alles hierboven is wat dit gebied kán leveren. Dat het kan, betekent niet dat h
       <div class="ctx">Het lastigst te beprijzen is wat altijd gratis kwam. Dit is de derde horde en de grootste. Een overheid die decennialang met subsidies en vergoedingen heeft gewerkt, moet dan betalen voor een prestatie van een ondernemer die er zelf aan verdient, terwijl een deel van dat werk nu al gebeurt zonder dat er iets voor wordt betaald. Dat is geen technische wijziging maar een andere verhouding, en de gewoonte, de instrumenten en de cultuur daarvoor bestaan nog niet. Wat er nodig is staat in hoofdstuk 14.</div>
     </div>
   </div>
+
+### 5.5 En dit gaat niet op vrijwilligheid
+
+**Want wat er vandaag al gebeurt, gebeurt onverplicht.** Het beheer op dit land staat grotendeels in geen enkel contract. Er wordt wél om gevraagd, want de basiskwaliteit van natuur, het landschap en de kwaliteit van het slootwater zijn opgaven die Nederland stelt. Alleen draagt niemand dit werk op en staat er geen rekening tegenover. Gratis is het daarmee niet, want het wordt betaald uit de marge van een melkveebedrijf, en de samenleving heeft het decennialang op die manier meegekregen.
+
+**En dat is precies waarom hier een ondernemer voor nodig is.** Dit beheer valt samen met werk dat toch al gebeurt: de uren, de machines en de kennis van elk perceel zitten al in een lopend bedrijf, en wie 's ochtends langs de sloot rijdt ziet dat de oever inzakt. Wie hetzelfde werk als losse opdracht uitvoert, begroot elk uur apart en moet elk jaar opnieuw uitleggen waarom het nodig is. Een vrijwilliger of een beheerder op afstand kan het landschap onderhouden, maar niet zo fijnmazig en niet zo goedkoop, en zonder het vakmanschap en de gehechtheid van iemand die er woont en er het brood verdient.
+
+**Maar koolstof vasthouden en water bergen kunnen niet uit die marge komen.** Een oever die netjes blijft en een slootkant die gespaard wordt, liepen tot nu toe mee met het werk dat er toch al was. Water werkelijk vasthouden vraagt een andere inrichting van het land, en de koolstof in de bodem houden vraagt een hogere grondwaterstand, op de zwaarste plekken met minder koeien per hectare. Dat gebeurt niet naast het bedrijf: het grijpt in de bedrijfsvoering in en het kost productie. Zulk werk verkleint precies de marge waaruit het kleine beheer tot nu toe betaald werd.
+
+Dit is dus geen liefhebberij erbij. Het zijn activiteiten die investeringen, grond en jaren vragen, en zonder verdienmodel kan een bedrijf ze niet dragen. Daarom is hier een ondernemer voor nodig, en kan die ondernemer niet zonder verdienmodel.
 
 ---
 

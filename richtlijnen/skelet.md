@@ -174,6 +174,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 ### 8.1 De omslag: van vergoeding naar betaling
 - wat er eerst gebeurt: het grondbeleid stopt de grondhonger uit akte II `[tekst · auteurs]`
 - de omkering: betaald worden voor een geleverde dienst in plaats van gecompenseerd voor een verlies `[tekst · auteurs]`
+- het begint moeizaam: de eerste jaren zijn kwetsbaar, en na zeven tot tien jaar staat het bedrijfsmodel `[tekst · auteurs]`
 - drie tempo's, één transitie `[fiche · auteurs]`
 
 ### 8.2 Twee geldstromen, niet één

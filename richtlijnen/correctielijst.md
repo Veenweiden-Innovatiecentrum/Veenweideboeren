@@ -82,6 +82,7 @@
 - [x] Lian (cluster 7): **"claimantenrij" is onuitgelegd.** Het woord staat er niet meer; er staat wat het betekende
 - [x] Simon (cluster 4): **tellfout "zes of zeven opgaven".** Het hoofdstuk noemt nu één getal, de zeven opgaven uit hoofdstuk 5, en somt ze op
 - [x] Henk (cluster 5): boeren zijn al ondernemer. 8.1 zegt dat het vermogen in de ondernemer zit en niet in de grond, met wat hij of zij nu al doet; nergens een nieuwe ondernemer
+- [ ] **`[[BRON]]` voor het JUMP-concept over het verbouwen van biodiversiteit** (volgens Tim 4a of 4b). Staat niet in deze repo: alleen concept 1a is hier aanwezig, in `webapp/BRIEFING-CLAUDE-CODE.md`, met verwijzingen naar 2a, 5b en 8a. Nummer en inhoud moeten uit de JUMP-documentatie komen; zodra die er is, kan 5.3 concreter worden over wát er verbouwd wordt
 - [ ] **`[[BRON]]` voor de omvang van de koolstofvoorraad in Nederlands veen en de jaarlijkse uitstoot uit veenoxidatie.** Hoort in de cijferbijlage van ronde 5, en de zin in 8.3 leunt erop
 - [ ] **`[[BRON]]` voor de vindplaats van de landelijke verdringingsreeks in de huidige rijksregelgeving.** Tot 2024 stond zij in het Waterbesluit; onder de Omgevingswet is dat verplaatst en van hier niet te controleren. **Vraag voor Simon**, één regel werk voor een jurist. De inhoud van de reeks staat wel in de tekst en is niet in geschil
 - [ ] **`[[BRON]]` onder "I&W stuurt sinds 2026 op waterzelfvoorzienendheid van veenweidegebieden".** Stond al zonder bron in de bestuursversie en draagt nu meer gewicht, want het is de afnemer met een doel

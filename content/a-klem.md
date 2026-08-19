@@ -8,7 +8,7 @@ In het Nederlandse veenweidegebied loopt de overgrote meerderheid van de melkvee
 
 {{partial:a-klem-populatiemodel}}
 
-Een kleine groep hele grote boeren (meer dan 250 koeien, schaalgedreven, gericht op de bulkmarkt) groeit vanzelf, schaalvergroting duwt ze richting 500+ koeien. Een relatief kleine groep nicheboeren (minder dan 70 koeien, een lage veedichtheid, gericht op specifieke markten) groeit alleen als het beleid dat mogelijk maakt. Zij hebben al een werkend bedrijfsmodel; dit document gaat daarom over de groep die dat niet heeft. De middengroep — de 40-80 hectare bedrijven met 80-130 koeien — krimpt hoe dan ook. De vraag is niet óf ze krimpt, maar welke toekomst er is voor de ondernemers die de schaalsprong niet willen of kunnen maken.
+Een kleine groep grote boeren (meer dan 250 koeien, schaalgedreven, gericht op de bulkmarkt) groeit vanzelf, schaalvergroting duwt ze richting 500+ koeien. Een relatief kleine groep nicheboeren (minder dan 70 koeien, een lage veedichtheid, gericht op specifieke markten) groeit alleen als het beleid dat mogelijk maakt. Zij hebben al een werkend bedrijfsmodel; dit document gaat daarom over de groep die dat niet heeft. De middengroep — de 40-80 hectare bedrijven met 80-130 koeien — krimpt hoe dan ook. De vraag is niet óf ze krimpt, maar welke toekomst er is voor de ondernemers die de schaalsprong niet willen of kunnen maken.
 
 ### 3.2 Waarom de rekening niet meer rond komt
 

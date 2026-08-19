@@ -68,7 +68,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ### 3.1 Om welke bedrijven het gaat
 - de meerderheid van de ondernemers in dit gebied loopt vast op kosten en omzet, en dat is deels systeem en deels eigen keuze `[tekst · auteurs]` de openingsalinea, nu onder een kop; toetsregel 5a in één regel, de uitwerking staat in 3.2
-- de vorm van de populatie: een kleine groep hele grote bedrijven, een middengroep, een kleine niche `[beeld · auteurs]`
+- de vorm van de populatie: een kleine groep grote bedrijven, een middengroep, een kleine niche `[beeld · auteurs]`
 - de middengroep krimpt hoe dan ook; de twee andere groepen hebben al een werkend bedrijfsmodel `[tekst · auteurs]` — "eruit vallen" anders gezegd (Lian a-klem:2)
 
 ### 3.2 Waarom de rekening niet meer rond komt

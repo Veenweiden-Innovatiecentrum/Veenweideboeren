@@ -2,7 +2,41 @@
 
 ### 8.1 Meer opgaven dan voedsel alleen
 
-Het veenweidegebied kan meer maatschappelijke opgaven dragen dan voedselproductie alleen. Dat is geen belofte over de toekomst maar een uitspraak over wat hier nu al gebeurt: op dezelfde hectare wordt voedsel geproduceerd, water vastgehouden, landschap onderhouden en ruimte gelaten voor weidevogels. Van al die producten wordt er één betaald.
+Het veenweidegebied kan meer maatschappelijke opgaven dragen dan voedselproductie alleen. Dat is geen belofte over de toekomst maar een uitspraak over wat hier nu al gebeurt: op dezelfde hectare wordt voedsel geproduceerd, water vastgehouden, landschap onderhouden en ruimte gelaten voor weidevogels. Van al die prestaties wordt er één als product afgerekend.
+
+<div style="overflow-x:auto">
+    <table class="layer-table">
+      <thead>
+        <tr>
+          <th style="width:32%">Wat deze hectare levert of kan leveren</th>
+          <th style="width:34%">Wie er belang bij heeft</th>
+          <th style="width:34%">Wordt er nu voor betaald</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Voedsel</strong></td>
+          <td>de zuivelketen en de consument</td>
+          <td>ja, via de melkprijs</td>
+        </tr>
+        <tr>
+          <td><strong>Water</strong> — vasthouden, bergen, kwaliteit</td>
+          <td>het waterschap en de omliggende landbouw</td>
+          <td>nee</td>
+        </tr>
+        <tr>
+          <td><strong>Koolstof</strong> — de uitstoot uit het veen beperken</td>
+          <td>de klimaatopgave, en partijen die compensatie zoeken</td>
+          <td>niet structureel</td>
+        </tr>
+        <tr>
+          <td><strong>Landschap en weidevogels</strong></td>
+          <td>de samenleving, de recreatie, het natuurbeleid</td>
+          <td>deels, en dan als vergoeding van kosten en gederfde inkomsten; dat is geen prijs (hoofdstuk 2)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 
 Dat vermogen zit niet in de grond maar in de ondernemer die het land beheert. Grond doet niets uit zichzelf. Iemand houdt de sloten schoon, kiest het moment van maaien, houdt het mozaïek in stand en ziet als eerste dat er iets niet klopt. De boer is in dit verhaal dus niet het probleem maar de motor. Waterkwaliteit, biodiversiteit en het remmen van veenoxidatie komen binnen bereik zodra de ondernemer er een verdienmodel in ziet. Verdienmodel betekent hier meer dan geld: het gaat om toekomstperspectief. Werken aan de opgaven moet de overlevingskans van het bedrijf vergroten in plaats van bedreigen. Dat veel jonge ondernemers het vandaag als bedreiging ervaren, is precies de omkering die deze visie wil maken. Niet ondanks ondernemerschap, maar dankzij.
 
@@ -28,18 +62,88 @@ De zeven opgaven in hoofdstuk 5 gaan over wat er ín het veenweidegebied gebeurt
 
 **Organische stof voor de akkerbouw.** Veenweidebedrijven produceren mest met een gehalte aan organische stof dat akkerbouwgrond nodig heeft en steeds moeilijker vindt. Wat in de eigen boekhouding een overschot is, is aan de andere kant van de streep een grondstof: een stroom van veengebied naar akkerbouwgebied, met winst voor het bodemleven daar en voor het bedrijfsresultaat hier. De strakkere mestnormen van na de derogatie maken die stroom voorwaardelijker, want er is minder ruimte per hectare en de balans van stikstof en fosfaat moet preciezer kloppen. De complementariteit zelf verandert daar niet door: veen heeft de organische stof die de akkerbouw mist. Wat wij niet beweren is dat deze kringloop gesloten is. Zolang een deel van het voer van buiten Europa komt, is de organische stof in die mest niet in dit gebied gegroeid.
 
-**Water: piekberging nu, buffering als ontwerpopgave.** Twee dingen worden hier vaak door elkaar gehaald. *Piekberging* is wateroverlast opvangen: bij hoosbuien water vasthouden op eigen land, zodat het niet elders schade doet, op akkerland of aan infrastructuur. Dat is met de inrichting van sloten, greppels en peilbeheer op het bedrijf te leveren en het is vandaag al te organiseren. *Waterbuffering* is water opslaan voor een droge periode. Dat vraagt een andere inrichting, en de meest vergaande vorm, opslag in de zandlagen onder het veen, is onderwerp van een lopende ontwerpstudie. Wat daar kan is nog niet bekend, dus staat het hier als verkenning en niet als aanbod.
+**Water: piekberging nu, buffering als ontwerpopgave.** Twee dingen worden hier vaak door elkaar gehaald, en ze vragen een andere inrichting van het land.
+
+<div class="dim-list">
+    <div class="dim-item"><span class="dot green"></span><span class="name">Piekberging</span><span class="desc">wateroverlast opvangen bij hoosbuien. Kan vandaag</span></div>
+    <div class="dim-item"><span class="dot amber"></span><span class="name">Waterbuffering</span><span class="desc">water opslaan voor een droge periode. Ontwerpopgave, in studie</span></div>
+  </div>
+
+*Piekberging* houdt bij een hoosbui water vast op eigen land, zodat het niet elders schade doet, op akkerland of aan infrastructuur. Dat is met de inrichting van sloten, greppels en peilbeheer op het bedrijf te leveren en het is vandaag al te organiseren. *Waterbuffering* vraagt opslag, en de meest vergaande vorm daarvan is opslag in de zandlagen onder het veen. Dat is onderwerp van een lopende ontwerpstudie. Wat daar kan is nog niet bekend, dus staat het hier als verkenning en niet als aanbod.
 
 Wat dit gebied niet gaat doen, is in een droge zomer water leveren aan gebieden buiten het veen. De eigen watervraag stijgt bij vernatting juist, in een droge zomer met een factor anderhalf tot drie, en om iets van betekenis te kunnen leveren zou een groot deel van het gebied onder water moeten staan.{{fiche:Bron|Niel de Jong, Unie van Waterschappen, commentaar op deze visie, 18 juni 2026. Bij -40 cm neemt de eigen watervraag van het gebied in een droge zomer toe met een factor anderhalf tot drie; om water van betekenis te kunnen leveren zou al snel een derde van het gebied ongeveer een meter onder water moeten staan. De bron specificeert bij die -40 cm niet of het om het slootwaterpeil of de grondwaterstand gaat.}}
 
 Het mechanisme is een ander, en het is minder zichtbaar maar niet minder waard. In een droge zomer wordt er nú water náár dit gebied aangevoerd om de veenbodem te sparen. Een gebied dat zichzelf uit eigen opslag voorziet, heeft die aanvoer niet nodig, en dat water komt vrij voor gebruik elders. Er wordt dus niets verplaatst en niets verhandeld: wat er gebeurt is dat een claim op het watersysteem wordt opgeheven.
 
-Waarom die claim zwaar weegt, staat in de landelijke verdringingsreeks, de rangorde die bepaalt wie bij watertekort voorgaat. Categorie 1 gaat over onomkeerbare schade: eerst de stabiliteit van waterkeringen, dan klink en zetting in veen en hoogveen, dan natuur die aan de bodemgesteldheid gebonden is. Veen staat daarmee op de tweede plaats van de hele reeks, boven de nutsvoorzieningen van categorie 2 waaronder drinkwater valt. Landbouw staat in categorie 4, onderaan. Het onderscheid daartussen is scherp en het doet hier het werk: die hoge prioriteit geldt de bodem en niet het bedrijf. Water voor het veen is categorie 1, water voor het gras is categorie 4. Daarom is dit geen boerenbelang in een ander jasje, en daarom is water dat hier vrijkomt in onze lezing van de duurste soort in het systeem. Juridisch is de reeks een instructienorm aan de waterbeheerder; zij kent burgers en bedrijven geen recht op een hoeveelheid water toe. Er valt dus ook niets te verhandelen. [[BRON: vindplaats van de landelijke verdringingsreeks in de huidige rijksregelgeving, na de inwerkingtreding van de Omgevingswet]]
+Waarom die claim zwaar weegt, staat in de landelijke verdringingsreeks: de rangorde die bepaalt wie bij watertekort voorgaat. [[BRON: vindplaats van de landelijke verdringingsreeks in de huidige rijksregelgeving, na de inwerkingtreding van de Omgevingswet]]
+
+<div style="overflow-x:auto">
+    <table class="layer-table">
+      <thead>
+        <tr>
+          <th style="width:12%">Categorie</th>
+          <th style="width:56%">Wat er bij watertekort voorgaat</th>
+          <th style="width:32%">Waar dit gebied zit</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>1</strong></td>
+          <td>onomkeerbare schade: de stabiliteit van waterkeringen, dan klink en zetting in veen en hoogveen, dan natuur die aan de bodemgesteldheid gebonden is</td>
+          <td><strong>de veenbodem</strong>, op de tweede plaats van de hele reeks</td>
+        </tr>
+        <tr>
+          <td><strong>2</strong></td>
+          <td>nutsvoorzieningen, waaronder drinkwater</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td><strong>3</strong></td>
+          <td>kleinschalig hoogwaardig gebruik</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td><strong>4</strong></td>
+          <td>de overige belangen, waaronder de landbouw</td>
+          <td><strong>het gras</strong>, onderaan</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+Dat onderscheid in de laatste kolom is scherp en het doet hier het werk: de hoge prioriteit geldt de bodem en niet het bedrijf. Daarom is dit geen boerenbelang in een ander jasje, en daarom is water dat hier vrijkomt in onze lezing van de duurste soort in het systeem. Juridisch is de reeks een instructienorm aan de waterbeheerder; zij kent burgers en bedrijven geen recht op een hoeveelheid water toe. Er valt dus ook niets te verhandelen.
 
 En er is een partij die dit wil. I&W stuurt sinds 2026 op waterzelfvoorzienendheid van veenweidegebieden [[BRON: het uitgangspunt van waterzelfvoorzienendheid voor veenweidegebieden bij I&W, sinds 2026]], met aanzienlijke ruimteclaims voor waterberging als logisch gevolg. Hoeveel water er met zelfvoorzienendheid precies vrijkomt is niet bekend. [[CIJFER: hoeveel water wordt er nu in droge zomers naar laagveengebieden aangevoerd om veenoxidatie te beperken]] Dat getal bepaalt of dit een volume oplevert of vooral een principe.
 
 ### 8.4 Het frame kantelt
 
-In de huidige Europese kaders heten investeringen in water, natuur en landschap niet-productieve investeringen: zij dienen de voedselproductie niet. Zodra maatschappelijke diensten zelf het product worden waarvoor de boer betaald wordt, kantelt dat hele frame. Dan is schoon slootwater geen bijproduct meer maar het product, en het helofytenfilter de productie-installatie. Dan is een natte teelt geen verlies van landbouwgrond maar een nieuwe productielocatie. Voedsel is niet langer het enige product dat van het bedrijf komt.
+In de huidige Europese kaders heten investeringen in water, natuur en landschap niet-productieve investeringen: zij dienen de voedselproductie niet. Zodra maatschappelijke diensten zelf het product worden waarvoor de boer betaald wordt, kantelt dat hele frame.
+
+<div style="overflow-x:auto">
+    <table class="layer-table">
+      <thead>
+        <tr>
+          <th style="width:50%">Nu heet het</th>
+          <th style="width:50%">Dan is het</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>een niet-productieve investering in water, natuur of landschap</td>
+          <td>een investering in productiemiddelen</td>
+        </tr>
+        <tr>
+          <td>schoon slootwater als bijproduct</td>
+          <td>schoon slootwater als hét product, en het helofytenfilter als productie-installatie</td>
+        </tr>
+        <tr>
+          <td>een natte teelt als verlies van landbouwgrond</td>
+          <td>een natte teelt als nieuwe productielocatie</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+Voedsel is daarmee niet langer het enige product dat van het bedrijf komt.
 
 Dat is de fundamentele verschuiving waar dit verhaal over gaat. Wat de samenleving van dit gebied nodig heeft, wordt daarmee zelf een product.

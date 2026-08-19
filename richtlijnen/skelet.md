@@ -121,9 +121,9 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ### 5.1 Wat deze hectare nu al levert
 - **de sectie opent op de brug uit hoofdstuk 4:** dat is veel om op één bedrijf te laten landen, en tóch gebeurt er op dat land al meer dan melk produceren. Het gebied kan meer dragen dan voedsel, en van al die prestaties wordt er één afgerekend `[tekst + tabel · auteurs + nieuw]` twee verbindingszinnen, Tim 19-8: de vraag uit hoofdstuk 4 is zwaar, en dit hoofdstuk begint met wat er al gebeurt in plaats van met wat er zou kunnen
-- de boer is niet het probleem maar de motor `[tekst · auteurs]`
-- waarom uit publieke middelen: omdat er een publieke dienst geleverd wordt, en de nutsfunctie wordt breder `[tekst · auteurs]`
-- de ruimtedruk: niet uitzonderlijk, wel honderdduizenden hectares waarvan één product wordt betaald `[tekst · nieuw]`
+- de tabel is de sectie: wat deze hectare levert of kan leveren, wie er belang bij heeft, en of er nu voor betaald wordt. De orde is een aflopende betaalladder: voedsel · landschap en weidevogels · koolstof · water `[tabel]` Tim, 19-8
+
+*Deze sectie is 19-8 teruggebracht tot de opening en de tabel. Drie alinea's zijn naar 5.3 verhuisd, want zij zeggen waarom er betaald zou moeten worden en dat is de rechtvaardiging, niet de waarneming (Tim: "dan zijn we allerlei dingen al aan het beschrijven die in 5.3 moeten komen").*
 
 ### 5.2 Wat deze hectare nog meer kan leveren
 - **één keer vooraf:** dit zijn richtingen die in JUMP verkend worden en die nog niet zijn uitgekristalliseerd; daarmee kan het voorbehoud per stuk weg `[tekst · nieuw]` Tim, 19-8
@@ -131,10 +131,13 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - biodiversiteit **verbouwen** in plaats van ontzien, met drie soorten afnemers, en met de landbouwstatus als harde voorwaarde `[tekst + fiche · nieuw]` uit JUMP-concept 4a, Biodivers Veen (Tim, 19-8)
 - water: piekberging kan vandaag, waterbuffering is in verkenning, en het mechanisme is het opheffen van een claim `[tekst + lijst · nieuw]` — even lang als de andere twee; de verdringingsreeks staat als tabel in bijlage 16
 
-### 5.3 Waarom hier, en waarom deze ondernemers
-- geen exclusiviteit: water bergen kan op klei ook `[tekst · nieuw]`
-- het verschil zit in het alternatief: hier is dat geen landbouw `[tekst · nieuw]`
-- "maar maak er dan helemaal natuur van" weerlegd `[tekst · auteurs]`
+### 5.3 Waarom betalen, en waarom deze ondernemers
+- **waarom uit publieke middelen:** niet omdat zij het moeilijk hebben maar omdat zij een publieke dienst leveren, en dat is geen radicale koerswijziging want de nutsfunctie van de landbouw wordt alleen breder `[tekst · auteurs · verhuisd]` uit 5.1, Tim 19-8
+- **het vermogen om dat te leveren zit bij de ondernemer:** de opgaven worden pas bereikbaar als hij of zij er een verdienmodel in ziet, en werken aan de opgaven moet de overlevingskans van het bedrijf vergroten in plaats van bedreigen `[tekst · auteurs · verhuisd]` uit 5.1. **De verdedigende openingszin is eruit:** "de boer is niet het probleem, de boer is de motor" weerlegt een verwijt dat dit document nergens maakt (Tim, 19-8), en hoofdstuk 3 zegt dat het zwaar is voor de ondernemer, niet dat hij het probleem is
+- **waarom hier:** geen exclusiviteit, want water bergen kan op klei ook; het verschil zit in het alternatief, dat hier geen landbouw is; en de tegenwerping "maak er dan helemaal natuur van" wordt weerlegd `[tekst · auteurs + nieuw]`
+- **het slot is de ruimtedruk:** uitzonderlijk is dit gebied niet, wel honderdduizenden hectares waarvan één product wordt afgerekend, en wat er met die ruimte gebeurt wordt de komende jaren beslist `[tekst · verhuisd]` uit 5.1
+
+*Vier elementen in plaats van drie, bewust: de sectie beantwoordt twee vragen die bij elkaar horen, waarom er betaald zou worden en waarom juist hier. Het eerste stond tot 19-8 in 5.1, en daar was het een rechtvaardiging in een sectie die alleen wilde vaststellen wat er nu al gebeurt.*
 
 ### 5.4 Wat kan, is er nog niet
 - alles hierboven is wat dit gebied kán leveren; dat het kan betekent niet dat het er is `[tekst · nieuw]` Tim, 19-8

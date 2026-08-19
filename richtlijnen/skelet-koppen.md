@@ -48,7 +48,7 @@ Op dezelfde hectare komt meer dan melk: landschap en weidevogels, koolstof in de
 
 - 5.1 Wat deze hectare nu al levert
 - 5.2 Wat deze hectare nog meer kan leveren
-- 5.3 Waarom hier, en waarom deze ondernemers
+- 5.3 Waarom betalen, en waarom deze ondernemers
 - 5.4 Wat kan, is er nog niet
 - 5.5 En dit gaat niet op vrijwilligheid
 

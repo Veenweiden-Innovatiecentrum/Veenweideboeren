@@ -45,7 +45,7 @@
 - 8.4 De motor
 
 ## 9. De veenweideboer (D)
-- 9.1 Wat de typologie is
+- 9.1 Wie de veenweideboer is
 - 9.2 Waarom veenweideboeren en niet veenweidelandbouw
 - 9.3 Twee aanscherpingen
 
@@ -68,7 +68,7 @@
 
 ## 13. Wat de boer nu al kan doen (G — Terug naar de boer)
 - 13.1 Vier routes
-- 13.2 Wie deze veenweideboeren zijn
+- 13.2 Drie archetypen: hoe verschillende ondernemers het invullen
 - 13.3 Van visie naar ondernemersbod
 
 ## 14. Waar het mis kan gaan (H — Risico's)

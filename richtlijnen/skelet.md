@@ -159,9 +159,10 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 9 — De veenweideboer (D) · bron: d-concept · ronde 3
 
-### 9.1 Wat de typologie is
-- geen melkveehouder met beperkingen, maar een ander bedrijfsmodel `[tekst · auteurs]`
-- de maten: 40 tot 80 hectare, 80 tot 130 koeien, een lagere veedichtheid `[tabel · auteurs]`
+### 9.1 Wie de veenweideboer is
+- geen melkveehouder met beperkingen, maar een ondernemer met een ander bedrijfsmodel `[tekst · auteurs]`
+- het bedrijf: 40 tot 80 hectare, 80 tot 130 koeien, een lagere veedichtheid `[tabel · auteurs]`
+- waar het inkomen vandaan komt: vee houden, het bedrijf optimaliseren, en nieuwe inkomstenstromen openen `[tekst · auteurs]`
 
 ### 9.2 Waarom veenweideboeren en niet veenweidelandbouw
 - de ondernemer staat centraal, niet de productiemethode `[tekst · auteurs]`
@@ -243,7 +244,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - veenweideboer worden · nieuwe activiteiten ontwikkelen · doorgaan zoals het is · stoppen `[kaarten · auteurs]`
 - de transitie als het bedrijf toekomstbestendig maken voor de volgende generatie `[tekst · nieuw]` besluit 17-8
 
-### 13.2 Wie deze veenweideboeren zijn
+### 13.2 Drie archetypen: hoe verschillende ondernemers het invullen
 - drie archetypen in drie contexten `[tabel · auteurs]`
 - niet iedereen wíl meebewegen, en dat is verlangen en geen verzet `[fiche · auteurs]`
 

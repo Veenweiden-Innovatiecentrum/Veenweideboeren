@@ -397,9 +397,11 @@ Twee van deze tien zijn voor dit kabinet de directe aanleiding om in dit gebied 
 
 ### 4.2 Waarom deze opgaven een ondernemer nodig hebben
 
-Wat Nederland hier vraagt is reëel, en op één punt wordt er ook al aan geleverd: er ligt weidevogelbeheer, er zijn pakketten en er zijn collectieven die ze uitvoeren. Dat is het deel waarvoor een regeling bestaat. Het meeste beheer op dit land staat in geen enkel contract, en het hangt aan één voorwaarde die niet in de tabel staat: dat er een ondernemer is die het doet, en die het kan blijven doen.
+Wat Nederland hier vraagt is reëel, en op één punt wordt er ook al aan geleverd: er ligt weidevogelbeheer, er zijn pakketten en er zijn collectieven die ze uitvoeren. Dat is het deel waarvoor een regeling bestaat.
 
-Een klemzittende middengroep is daarom niet neutraal voor de maatschappelijke opgaven; het werkt op alle dimensies tegelijk negatief. Niet omdat de boer het verkeerd doet: wie geen marge heeft, kan het werk waarvoor niemand betaalt niet blijven doen.
+**Maar het meeste beheer op dit land staat in geen enkel contract.** Het gebeurt onverplicht, uit vakmanschap, uit rentmeesterschap en uit liefde voor het landschap. Niemand vraagt erom en niemand betaalt ervoor, en toch hangt de hele tabel hierboven eraan. De voorwaarde is dus zwaarder dan dat er een ondernemer op het land staat: hij of zij moet het onbetaalde deel van dat werk kunnen blijven doen.
+
+En dat is het eerste wat wegvalt. Werk waarvoor niets betaald wordt, is niet vol te houden op een bedrijf dat het zakelijk niet meer rond krijgt, en dat is waar hoofdstuk 3 over gaat. Een klemzittende middengroep is daarom niet neutraal voor de maatschappelijke opgaven: het werkt op alle dimensies tegelijk negatief, en niet omdat de boer het verkeerd doet.
 
 <div class="decision-card" style="margin-bottom:12px">
     <div class="label">Op korte termijn</div>

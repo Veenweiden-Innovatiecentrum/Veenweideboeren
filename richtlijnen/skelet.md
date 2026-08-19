@@ -69,17 +69,17 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 4 — Wat Nederland van dit gebied vraagt (B — De opgaven) · bron: b-opgaves · ronde 2
 
-### 4.1 Waarom een klemzittende middengroep alle opgaven blokkeert
-- op korte termijn vernietigt margedruk het rentmeesterschap `[tekst · auteurs]`
-- op middellange termijn maakt de schaalvergrotingsreflex de fijnmazigheid kapot `[tekst · auteurs]`
-- op lange termijn blokkeert het de transitie zelf, want er is geen investeringsruimte `[tekst · auteurs]`
-- zonder perspectief geen opgaven: dit is de conclusie van B `[tekst · auteurs]` — nu een kader, wordt lopende tekst
-
-### 4.2 Wat Nederland van dit gebied vraagt
+### 4.1 De zeven opgaven, en waar ze het zwaarst zijn
 - zeven opgaven in tien dimensies, met per dimensie waar zij het zwaarst is `[tabel · auteurs]` — dit lost Simons tellfout op
 - stikstof is de aanleiding en geen achtste opgave; een lagere veedichtheid verlaagt de uitstoot als gevolg `[tekst · nieuw]`
 - weidevogels bewijzen dat het gebied de dienst kan leveren, niet dat ervoor betaald wordt `[tekst · nieuw]` besluit 18-8
 - zoetwaterbeschikbaarheid hoort bij de opgave Water `[tekst · nieuw]` besluit 17-8
+
+### 4.2 Waarom deze opgaven een ondernemer nodig hebben
+- op korte termijn vernietigt margedruk het rentmeesterschap `[tekst · auteurs]`
+- op middellange termijn maakt de schaalvergrotingsreflex de fijnmazigheid kapot `[tekst · auteurs]`
+- op lange termijn is er geen investeringsruimte, en dan komt de transitie niet van de grond `[tekst · auteurs]`
+- zonder perspectief geen opgaven: dit is de conclusie van dit hoofdstuk `[tekst · auteurs]` — nu een kader, wordt lopende tekst
 
 ---
 
@@ -101,7 +101,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - organische mest voor de akkerbouw, zonder de claim dat de kringloop gesloten is `[tekst · auteurs]`
 - water: piekberging nu, buffering als ontwerpopgave, en als mechanisme het opheffen van een claim `[tekst + lijst + tabel · nieuw]`
 
-### 5.4 Het frame kantelt
+### 5.4 Van bijproduct naar product
 - van niet-productieve investering naar productiemiddel `[tabel]`
 
 ---

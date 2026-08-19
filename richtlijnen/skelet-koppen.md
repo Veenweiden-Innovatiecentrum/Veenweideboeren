@@ -19,14 +19,14 @@
 - 3.3 Waar de uitdaging het scherpst is
 
 ## 4. Wat Nederland van dit gebied vraagt (B — De opgaven)
-- 4.1 Waarom een klemzittende middengroep alle opgaven blokkeert
-- 4.2 Wat Nederland van dit gebied vraagt
+- 4.1 De zeven opgaven, en waar ze het zwaarst zijn
+- 4.2 Waarom deze opgaven een ondernemer nodig hebben
 
 ## 5. Wat dit gebied kan dragen
 - 5.1 Meer opgaven dan voedsel alleen
 - 5.2 Waarom hier, en waarom deze ondernemers
 - 5.3 Wat het gebied buiten zijn grenzen levert
-- 5.4 Het frame kantelt
+- 5.4 Van bijproduct naar product
 
 ## 6. Wat er gebeurt als het zo doorgaat (akte I — doorgaan)
 - 6.1 Wat er gebeurt als het systeem niet verandert

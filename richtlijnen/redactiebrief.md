@@ -404,7 +404,7 @@ Getoetst tegen `content/*.md`, commit 16 juni 2026.
 |---|---|---|---|---|
 | 1 | Waar dit over gaat | **I — Vooraf** | uit intro | 1 |
 | 2 | Waarop dit rust | I | **nieuw** — de aannames uit sectie 12, zonder de agenda | 2 |
-| 3 | Waarom de ondernemer klem zit (A) | **II — Wat er aan de hand is en wat er kan** | a-klem | 4 |
+| 3 | Waarom de ondernemer klem komt te zitten (A) | **II — Wat er aan de hand is en wat er kan** | a-klem | 4 |
 | 4 | Wat Nederland van dit gebied vraagt (B) | II | b-opgaves | 5 |
 | 5 | Wat dit gebied kan dragen | II | c-omslag, ontdaan van oplossing | 8 |
 | 6 | Wat er gebeurt als er niets verandert (akte I) | **III — Hoe het kan lopen** | uit e-aktes | 6 |

@@ -33,10 +33,10 @@ Alleen in de openingssectie, waar een kader de lezer oriënteert in plaats van o
 ### Naar de bijlage — beleidstoepassing (9)
 Commentaar op een specifiek beleidsstuk. Besluit §8: het driesporenframe draagt de tekst niet meer. Deze negen vormen samen de bijlage "het driesporenbeleid als toepassing", met datum en bronvermelding.
 
-| Bestand | Kader |
-|---|---|
-| intro | Aanleiding: het driesporenbeleid |
-| a-klem | Driesporenbeleid, de scope van spoor 3 is te smal |
+| Bestand | Kader | Stand |
+|---|---|---|
+| intro | Aanleiding: het driesporenbeleid | **verhuisd 18-8** |
+| a-klem | Driesporenbeleid, de scope van spoor 3 is te smal | **verhuisd 19-8**, met de correcties van Niel erin en de kritiek omgezet naar een gedateerde diagnose |
 | e-aktes | Driesporenbeleid, spoor 2 is akte II in beleidsvorm |
 | e-aktes | Grootste deel van de 90.000 ha |
 | e-aktes | De 20-30% scope binnen die 90.000 ha |
@@ -120,6 +120,19 @@ De winst zit niet alleen in rust. Acht blokken die nu als terzijde lezen, blijke
 | **Vangrail-lijsten** | 8 | Blijven, maar herordend naar moeten / mogen / betalen (§15.2). "Vangrail" als woord vervalt met "pijler" |
 | **Bouwsteentabellen** | 11 | Blijven in de toolbox |
 | **Partials** | 4 | populatiemodel (a-klem) en dimensieontwikkeling (e-aktes) blijven. `f-ondernemer-visual-1` bij het hoofdstuk. `i-vic-rol-visual-1` verhuist mee naar het programmavoorstel |
+
+## Twee vormen die niet in de inventaris stonden (19-8, bij hoofdstuk 3)
+
+De dertig accentkaders zijn geteld, maar deze twee vormen zaten er niet bij en doen wél werk:
+
+| Vorm | Waar | Besluit |
+|---|---|---|
+| **Kaartenreeks van drie** | `a-klem` 3.2: grondmarkt · beleidskader · ketenstructuur, in drie kolommen | Blijft. Het is een vergelijking, en dan hoort de vorm bij de functie. **Voorwaarde: de drie zijn ongeveer even lang**, anders leest de langste als de belangrijkste. Op 19-8 gemeten en gelijkgetrokken: 29, 36 en 31 woorden. Wat langer moet, gaat in een fiche |
+| **Alinea in kleine letters** | `a-klem` 3.2, de conclusie onder die drie kolommen | Vervalt. Een conclusie op 13 pixels in grijs is een dragend argument in voetnootvorm, precies de fout die §17 beschrijft, één niveau lager dan een accentkader. Nu lopende tekst |
+
+**Wat wél in kleine letters mag**, want daar hoort de vorm bij de functie: een label of regel *binnen* een kaart of tabel, en een legenda onder een beeld (`f-ondernemer` bij de radardiagrammen). Het gaat alleen om een **losse alinea op sectieniveau**.
+
+**Nog na te lopen in hun eigen ronde** — zeven van die losse alinea's staan er nog, alle in ronde 3: `f3-bedrijfsleven` 3× boven de partijentabellen, en `f-overheid` 4× boven de vangrail-lijsten ("de motor financieel voeden", "op nieuwe brandstof zetten", "toegang geven", "laten draaien"). Die vier zijn vermoedelijk dragend, want zij vormen samen het motor-refrein.
 
 ## Nog te toetsen bij het schrijven
 

@@ -119,9 +119,10 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - "maar maak er dan helemaal natuur van" weerlegd `[tekst · auteurs]`
 
 ### 5.3 Wat het gebied buiten zijn grenzen levert
+- **één keer vooraf:** dit zijn richtingen die in JUMP verkend worden en die nog niet zijn uitgekristalliseerd; daarmee kan het voorbehoud per stuk weg `[tekst · nieuw]` Tim, 19-8
 - CO₂-compensatie voor de akkerbouw, met vermeden uitstoot en vastlegging apart `[tekst · auteurs]`
 - biodiversiteit **verbouwen** in plaats van ontzien, met drie soorten afnemers, en met de landbouwstatus als harde voorwaarde `[tekst + fiche · nieuw]` uit JUMP-concept 4a, Biodivers Veen (Tim, 19-8)
-- water: piekberging nu, buffering als ontwerpopgave, en als mechanisme het opheffen van een claim `[tekst + lijst + tabel · nieuw]` — korter houden dan de andere drie, anders kantelt de sectie
+- water: piekberging kan vandaag, waterbuffering is in verkenning, en het mechanisme is het opheffen van een claim `[tekst + lijst · nieuw]` — even lang als de andere twee; de verdringingsreeks staat als tabel in bijlage 16
 
 ### 5.4 Van bijproduct naar product
 - van niet-productieve investering naar productiemiddel `[tabel]`

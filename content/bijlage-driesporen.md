@@ -23,3 +23,41 @@ De aanpak is nog niet gepubliceerd. De Kamerbrief van 26 juni 2026 ordent het be
       <strong style="display:block;margin-bottom:6px;font-size:14px">Spoor 3 specifiek: waarom afwaardering de verkeerde route is</strong>
       <p style="margin:0"><strong>De €900 mln voor "50% grondafwaardering" veroorzaakt drie problemen tegelijk.</strong> Ten eerste stuurt het verkeerd: het frame is "boer levert iets in, overheid betaalt de schade", de boer is verliezer, de overheid is hulpverlener. Dat reproduceert precies de subsidie-logica die dit document afwijst — geen zakelijke transactie, maar nadeelcompensatie. Ten tweede werkt het grondspeculatie in de hand: wanneer de overheid €900 mln aankondigt om grond af te waarderen, weet de markt twee dingen tegelijk dat de grond straks (administratief) minder waard wordt én dat er overheidsgeld in dit gebied komt — precies het signaal dat beleggers aantrekt in plaats van boeren. Ten derde bevriest het het oude denken: door af te waarderen accepteert de overheid impliciet dat de hectare nooit meer een goed verdienmodel kan opleveren, een bestuurlijke vorm van opgeven. Het alternatief is geen ander bedrag, maar een andere richting: dezelfde €900 mln in een meerjarige opdrachtenstroom voor maatschappelijke diensten zet de hectare niet op een lager waarde-niveau, maar op stapelbare langjarige inkomstenstromen — een opwaardering in plaats van een afwaardering.</p>
     </div>
+
+### 16.2 De landelijke verdringingsreeks
+
+Hoofdstuk 5 leunt hierop: bij watertekort bepaalt deze rangorde wie voorgaat. [[BRON: vindplaats van de landelijke verdringingsreeks in de huidige rijksregelgeving, na de inwerkingtreding van de Omgevingswet]]
+
+<div style="overflow-x:auto">
+    <table class="layer-table">
+      <thead>
+        <tr>
+          <th style="width:12%">Categorie</th>
+          <th style="width:56%">Wat er bij watertekort voorgaat</th>
+          <th style="width:32%">Waar dit gebied zit</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>1</strong></td>
+          <td>onomkeerbare schade: de stabiliteit van waterkeringen, dan klink en zetting in veen en hoogveen, dan natuur die aan de bodemgesteldheid gebonden is</td>
+          <td><strong>de veenbodem</strong>, op de tweede plaats van de hele reeks</td>
+        </tr>
+        <tr>
+          <td><strong>2</strong></td>
+          <td>nutsvoorzieningen, waaronder drinkwater</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td><strong>3</strong></td>
+          <td>kleinschalig hoogwaardig gebruik</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td><strong>4</strong></td>
+          <td>de overige belangen, waaronder de landbouw</td>
+          <td><strong>het gras</strong>, onderaan</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>

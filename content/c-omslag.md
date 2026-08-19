@@ -56,60 +56,23 @@ Het verschil zit in het alternatief. Op het grootste deel van de Nederlandse lan
 
 ### 5.3 Wat het gebied buiten zijn grenzen levert
 
-De zeven opgaven in hoofdstuk 4 gaan over wat er ín het veenweidegebied gebeurt: klimaat, water, natuur, kringloop, voedselzekerheid, cultuur en wonen. Allemaal opgaven binnen de eigen grenzen. Het gebied kan ook iets betekenen voor andere sectoren en regio's, en dat is de minst benoemde kant van dit verhaal. Drie voorbeelden maken het tastbaar.
+De zeven opgaven in hoofdstuk 4 gaan over wat er ín het veenweidegebied gebeurt: klimaat, water, natuur, kringloop, voedselzekerheid, cultuur en wonen. Allemaal opgaven binnen de eigen grenzen. Het gebied kan ook iets betekenen voor andere sectoren en regio's, en dat is de minst benoemde kant van dit verhaal. Drie voorbeelden maken het tastbaar. Alle drie zijn richtingen die in JUMP verkend worden en die nog niet zijn uitgekristalliseerd: wát er precies te leveren valt en wat het opbrengt, is daar onderwerp van onderzoek.
 
 **CO₂-compensatie voor de akkerbouw.** Akkerbouwgebieden produceren voedsel met aanzienlijke CO₂-uitstoot en zoeken compensatieroutes om aan klimaatdoelen te voldoen. In plaats van het planten van bos op een polder of het inrichten van compensatieprojecten elders, kan een aanzienlijk deel van die compensatie in het veenweidegebied plaatsvinden. De CO₂-voorraad in het veen is enorm. Twee dingen horen daarbij uit elkaar te worden gehouden, want voor een afnemer die ervoor betaalt zijn het twee producten: het remmen van veenoxidatie is *vermeden uitstoot*, en *vastlegging* komt van paludicultuur en actieve veenaanmaak. Beide leveren per geïnvesteerde euro mogelijk meer CO₂-reductie op dan bosaanplant op zandgrond. [[BRON: vergelijking van veenoxidatieremming en bosaanplant per geïnvesteerde euro]]
 
 **Biodiversiteit verbouwen.** Nederland heeft een natuuropgave die grotendeels buiten dit gebied wordt vastgesteld, en die groeit: de Europese natuurherstelverordening vraagt herstelmaatregelen op een oplopend deel van het agrarische veenareaal. Uitgevoerd moet zij worden op de grond, en die grond is hier in beheer bij iemand die er woont. Het woord dat daarbij hoort is verbouwen en niet ontzien: biodiversiteit is dan het doel en niet het gevolg, gestuurd met agrarische middelen, met begrazing en maaien als instrument en het vee als middel in plaats van als product. Wat er te leveren valt, valt in drie soorten met drie verschillende afnemers. Losse functionele bouwstenen voor wie elders een tekort heeft, in bestuiving, waterkwaliteit, bodemleven of groen in de stad. Natuurtypen en doelsoorten die de overheid moet halen, van nat schraalland en trilveen tot grutto en tureluur. En landschap dat een private partij uit eigen overweging wil betalen. Eén voorwaarde is daarbij hard: de grond houdt de status landbouw. Krijgt zij de status natuur, dan lopen de omliggende bedrijven vast in dezelfde regelgeving, en werkt het concept zijn eigen omgeving tegen.{{fiche:Bron|VIC-conceptdossier 4a, Biodivers Veen (VIA, versie 12 juli 2026). Doorgerekend op 70 tot 80 hectare nat veen, met monitoring in lucht, water en bodem en corridors naar omliggende natte percelen: wat voor de buurman een te natte reststrook is, is hier de kern van het systeem. De Europese natuurherstelverordening, van kracht sinds augustus 2024, vraagt herstelmaatregelen op 30 procent van het agrarische veenareaal in 2030, 40 procent in 2040 en 50 procent in 2050.|Het concept staat nog vroeg in zijn ontwikkeling. Drie dingen zijn open: een betrouwbare meting van biodiversiteit, de juridische erkenning van biodiversiteitscredits, en de betalingsbereidheid van de drie afnemers.}}
 
-**Water: piekberging nu, buffering als ontwerpopgave.** Twee dingen worden hier vaak door elkaar gehaald, en ze vragen een andere inrichting van het land.
+**Water: piekberging nu, opslag in verkenning.** Twee dingen worden hier vaak door elkaar gehaald, en ze vragen een andere inrichting van het land.
 
 <div class="dim-list">
     <div class="dim-item"><span class="dot green"></span><span class="name">Piekberging</span><span class="desc">wateroverlast opvangen bij hoosbuien. Kan vandaag</span></div>
-    <div class="dim-item"><span class="dot amber"></span><span class="name">Waterbuffering</span><span class="desc">water opslaan voor een droge periode. Ontwerpopgave, in studie</span></div>
+    <div class="dim-item"><span class="dot amber"></span><span class="name">Waterbuffering</span><span class="desc">water opslaan voor een droge periode. In verkenning</span></div>
   </div>
 
-*Piekberging* houdt bij een hoosbui water vast op eigen land, zodat het niet elders schade doet, op akkerland of aan infrastructuur. Dat is met de inrichting van sloten, greppels en peilbeheer op het bedrijf te leveren en het is vandaag al te organiseren. *Waterbuffering* vraagt opslag, en de meest vergaande vorm daarvan is opslag in de zandlagen onder het veen. Dat is onderwerp van een lopende ontwerpstudie. Wat daar kan is nog niet bekend, dus staat het hier als verkenning en niet als aanbod.
+*Piekberging* houdt bij een hoosbui water vast op eigen land, zodat het niet elders schade doet, op akkerland of aan infrastructuur. Dat is met de inrichting van sloten, greppels en peilbeheer te leveren en vandaag al te organiseren. *Waterbuffering* is het andere: water bewaren voor een droge periode, in de meest vergaande vorm in de zandlagen onder het veen. Wat daar kan is nog niet bekend.
 
-Wat dit gebied niet gaat doen, is in een droge zomer water leveren aan gebieden buiten het veen: de eigen watervraag stijgt bij vernatting juist.{{fiche:Bron|Niel de Jong, Unie van Waterschappen, commentaar op deze visie, 18 juni 2026. Om water van betekenis te kunnen leveren zou een groot deel van het gebied onder water moeten staan. Bij -40 cm neemt de eigen watervraag van het gebied in een droge zomer toe met een factor anderhalf tot drie; om water van betekenis te kunnen leveren zou al snel een derde van het gebied ongeveer een meter onder water moeten staan. De bron specificeert bij die -40 cm niet of het om het slootwaterpeil of de grondwaterstand gaat.}}
+Het mechanisme is daarbij niet levering maar het opheffen van een claim.{{fiche:Bron|Niel de Jong, Unie van Waterschappen, commentaar op deze visie, 18 juni 2026. Om water van betekenis te kunnen leveren zou een groot deel van het gebied onder water moeten staan. Bij -40 cm neemt de eigen watervraag van het gebied in een droge zomer toe met een factor anderhalf tot drie; om water van betekenis te kunnen leveren zou al snel een derde van het gebied ongeveer een meter onder water moeten staan. De bron specificeert bij die -40 cm niet of het om het slootwaterpeil of de grondwaterstand gaat.}} In een droge zomer wordt er nú water náár dit gebied aangevoerd om de veenbodem te sparen; een gebied dat zichzelf voorziet heeft die aanvoer niet nodig, en dat water komt vrij voor gebruik elders. Waarom die claim zwaar weegt staat in de verdringingsreeks in bijlage 16: bij watertekort gaat klink en zetting in veen vóór op drinkwater, terwijl water voor het gras onderaan staat. Die hoge prioriteit geldt dus de bodem en niet het bedrijf, en daarmee is dit geen boerenbelang in een ander jasje. En er is een partij met een doel: I&W stuurt sinds 2026 op waterzelfvoorzienendheid van veenweidegebieden [[BRON: het uitgangspunt van waterzelfvoorzienendheid voor veenweidegebieden bij I&W, sinds 2026]]. Hoeveel water dat vrijmaakt is niet bekend. [[CIJFER: hoeveel water wordt er nu in droge zomers naar laagveengebieden aangevoerd om veenoxidatie te beperken]]
 
-Het mechanisme is een ander. In een droge zomer wordt er nú water náár dit gebied aangevoerd om de veenbodem te sparen; een gebied dat zichzelf uit eigen opslag voorziet, heeft die aanvoer niet nodig, en dat water komt vrij voor gebruik elders. Er wordt dus niets verplaatst en niets verhandeld: een claim op het watersysteem wordt opgeheven. Waarom die claim zwaar weegt, staat in de landelijke verdringingsreeks, de rangorde die bepaalt wie bij watertekort voorgaat. [[BRON: vindplaats van de landelijke verdringingsreeks in de huidige rijksregelgeving, na de inwerkingtreding van de Omgevingswet]]
-
-<div style="overflow-x:auto">
-    <table class="layer-table">
-      <thead>
-        <tr>
-          <th style="width:12%">Categorie</th>
-          <th style="width:56%">Wat er bij watertekort voorgaat</th>
-          <th style="width:32%">Waar dit gebied zit</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><strong>1</strong></td>
-          <td>onomkeerbare schade: de stabiliteit van waterkeringen, dan klink en zetting in veen en hoogveen, dan natuur die aan de bodemgesteldheid gebonden is</td>
-          <td><strong>de veenbodem</strong>, op de tweede plaats van de hele reeks</td>
-        </tr>
-        <tr>
-          <td><strong>2</strong></td>
-          <td>nutsvoorzieningen, waaronder drinkwater</td>
-          <td>—</td>
-        </tr>
-        <tr>
-          <td><strong>3</strong></td>
-          <td>kleinschalig hoogwaardig gebruik</td>
-          <td>—</td>
-        </tr>
-        <tr>
-          <td><strong>4</strong></td>
-          <td>de overige belangen, waaronder de landbouw</td>
-          <td><strong>het gras</strong>, onderaan</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-
-De laatste kolom doet hier het werk: die hoge prioriteit geldt de bodem en niet het bedrijf. Daarom is dit geen boerenbelang in een ander jasje, en daarom is water dat hier vrijkomt in onze lezing van de duurste soort in het systeem. Juridisch is de reeks wel een instructienorm aan de waterbeheerder en geen recht op water, dus er valt niets te verhandelen. En er is een partij met een doel: I&W stuurt sinds 2026 op waterzelfvoorzienendheid van veenweidegebieden [[BRON: het uitgangspunt van waterzelfvoorzienendheid voor veenweidegebieden bij I&W, sinds 2026]]. Hoeveel water dat vrijmaakt is niet bekend, en dat getal bepaalt of dit een volume oplevert of vooral een principe. [[CIJFER: hoeveel water wordt er nu in droge zomers naar laagveengebieden aangevoerd om veenoxidatie te beperken]]
 
 ### 5.4 Van bijproduct naar product
 

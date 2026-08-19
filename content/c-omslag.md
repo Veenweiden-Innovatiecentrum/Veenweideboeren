@@ -76,7 +76,7 @@ Het mechanisme is daarbij niet levering maar het opheffen van een claim.{{fiche:
 
 ### 5.4 Van bijproduct naar product
 
-In de huidige Europese kaders heten investeringen in water, natuur en landschap niet-productieve investeringen: zij dienen de voedselproductie niet. Zodra maatschappelijke diensten zelf het product worden waarvoor de boer betaald wordt, kantelt dat hele frame.
+Zodra maatschappelijke diensten het product worden waarvoor betaald wordt, kantelt het frame waarin dit gebied nu wordt bekeken.
 
 <div style="overflow-x:auto">
     <table class="layer-table">
@@ -103,6 +103,6 @@ In de huidige Europese kaders heten investeringen in water, natuur en landschap 
     </table>
   </div>
 
-Voedsel is daarmee niet langer het enige product dat van het bedrijf komt.
+Voedsel is dan niet langer het enige product dat van het bedrijf komt, en wat de samenleving van dit gebied nodig heeft wordt zelf een product.
 
-Dat is de fundamentele verschuiving waar dit verhaal over gaat. Wat de samenleving van dit gebied nodig heeft, wordt daarmee zelf een product.
+Dat kantelpunt is niet één horde maar drie, en ze zijn van verschillende aard. **Of het kan** is een vraag aan de praktijk: of biodiversiteit meetbaar te leveren is, of water in de zandlagen onder het veen te bewaren valt. Dat is wat in JUMP wordt onderzocht. **Of het mag** is een vraag aan het recht. In de huidige Europese kaders heten investeringen in water, natuur en landschap niet-productieve investeringen, en een overheid die een dienst inkoopt bij een ondernemer loopt aan tegen aanbesteding en staatssteun; dat staat in hoofdstuk 11. **Of het gewild wordt** is de derde, en de grootste. Een overheid die decennialang met subsidies en vergoedingen heeft gewerkt, moet dan betalen voor een prestatie van een ondernemer die er zelf aan verdient — en een deel van dat werk gebeurt nu al zonder dat er iets voor wordt betaald. Dat is geen technische wijziging maar een andere verhouding, en de gewoonte, de instrumenten en de cultuur daarvoor bestaan nog niet. Het lastigst te beprijzen is namelijk wat altijd gratis kwam. Wat daarvoor nodig is staat in hoofdstuk 14.

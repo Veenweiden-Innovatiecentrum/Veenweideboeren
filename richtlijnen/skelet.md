@@ -125,7 +125,9 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - water: piekberging kan vandaag, waterbuffering is in verkenning, en het mechanisme is het opheffen van een claim `[tekst + lijst · nieuw]` — even lang als de andere twee; de verdringingsreeks staat als tabel in bijlage 16
 
 ### 5.4 Van bijproduct naar product
-- van niet-productieve investering naar productiemiddel `[tabel]`
+- de omslag zelf: zodra er betaald wordt, is het geen bijproduct meer maar het product `[tabel + tekst · auteurs]`
+- **en dat kantelpunt is niet één horde maar drie, elk met hun adres:** of het kán (de praktijk, JUMP), of het mág (het recht, hoofdstuk 11), en of het gewild wordt (de gewoonte, hoofdstuk 14) `[tekst · nieuw]` Tim, 19-8
+- het lastigst te beprijzen is wat altijd gratis kwam `[tekst · nieuw]` sluit aan op §3, onbeprijsd en niet gratis
 
 ---
 
@@ -261,6 +263,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 ### 11.3 Het juridische frame moet meekantelen
 - aanbesteding en staatssteun: de haken en ogen, en waarom wij tóch voor de opdracht kiezen `[tekst · auteurs]`
 - plan B is een slim ingerichte subsidieregeling, en juristen wijzen daar terecht op `[tekst · auteurs]`
+- **mogen en willen zijn twee dingen:** ook binnen een kader dat het toestaat moet een opdrachtgever het wíllen, en dat vraagt een andere verhouding dan subsidie `[tekst · nieuw]` Tim, 19-8
 - verwijst terug naar aanname 4 en bouwt de redenering niet opnieuw op `[—]`
 
 ### 11.4 Collectieven en het waterschap
@@ -317,6 +320,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 ### 14.1 Wat er nog bewezen moet worden
 - per aanname de agenda: een prijs die hoog genoeg is, een looptijd die lang genoeg is, en meten dat de dienst niet opeet `[tekst · verhuisd]` uit hoofdstuk 2, aanname 1
 - één private partij die betaalt voor een dienst in plaats van voor schade, met een contract dat navolgbaar is `[tekst · verhuisd]` uit aanname 2
+- en één publieke opdrachtgever die een dienst inkoopt in plaats van kosten te vergoeden; de gewoonte, de instrumenten en de cultuur daarvoor bestaan nog niet `[tekst · nieuw]` Tim, 19-8: dit is de grootste horde en hij stond nergens
 - of de middengroep de omslag zelf wil, en de onderbouwing van de 70 tot 80 procent `[tekst · verhuisd]` uit aanname 3, met het openstaande `[[CIJFER]]`
 - het Europese kader moet op tijd meebewegen `[tekst · verhuisd]` uit aanname 4
 - de drie acties die bepalen of akte III werkelijkheid wordt `[tekst · verhuisd]` uit het slot

@@ -113,7 +113,7 @@ De gebruiker houdt twee browservensters naast elkaar open, allebei in de vormgev
 | **de bestuursversie** | `veenweideboeren-visie.vercel.app` — onaangeroerd online. Dit is het vergelijkingspunt |
 | **de herziening** | de webapp lokaal geserveerd, met de bijgewerkte tekst |
 
-Serveren gaat met `python3 serveer.py` (poort 18620). Gebruik **niet** `python3 -m http.server`: die stuurt geen cache-regels mee en dan blijft de browser de oude tekst tonen na een herbouw. Bijwerken van de lokale versie is `python3 build.py site visie --schrijf`, altijd ná de vergelijking zonder `--schrijf`.
+Serveren gaat met `python3 serveer.py` (poort 18620). **De pagina ververst zichzelf** na elke herbouw: `serveer.py` biedt `/__stamp` aan met de wijzigingstijd van de gebouwde inhoud, en `webapp/index.html` vraagt die elke 1,2 seconde op. De leespositie blijft staan. Op Vercel bestaat dat pad niet, dus daar stopt de lus vanzelf. Start de server los van je sessie (`nohup python3 serveer.py 18620 &`), anders wordt hij met het takenbeheer afgebroken. Gebruik **niet** `python3 -m http.server`: die stuurt geen cache-regels mee en dan blijft de browser de oude tekst tonen na een herbouw. Bijwerken van de lokale versie is `python3 build.py site visie --schrijf`, altijd ná de vergelijking zonder `--schrijf`.
 
 Onder elke hoofdstukkop staat lokaal een werkstandregel met bronbestand, hoofdstuknummer, ronde en stand. Die komt uit **`richtlijnen/hoofdstukregister.md`** en wordt door `build.py site` meegeschreven; houd dus dát register bij, niet de lezer. Zet `WERKSTAND_ZICHTBAAR` in `webapp/site/v4-visie.jsx` op `false` vóór publicatie.
 

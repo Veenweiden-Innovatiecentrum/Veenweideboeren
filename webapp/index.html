@@ -297,5 +297,37 @@ function App() {
 
 ReactDOM.createRoot(document.getElementById('root')).render(<App></App>);
 </script>
+
+<!-- Live herladen tijdens de herziening. Werkt alleen achter serveer.py, dat
+     /__stamp aanbiedt; op Vercel bestaat dat pad niet en stopt de lus meteen.
+     De leespositie blijft staan, want herladen midden in een hoofdstuk is
+     anders net zo hinderlijk als handmatig verversen. -->
+<script>
+(function () {
+  var laatste = null, mislukt = 0;
+  var bewaard = sessionStorage.getItem('vic-leespositie');
+  if (bewaard) {
+    sessionStorage.removeItem('vic-leespositie');
+    [400, 900, 1600].forEach(function (ms) {
+      setTimeout(function () { window.scrollTo(0, parseInt(bewaard, 10)); }, ms);
+    });
+  }
+  function kijk() {
+    fetch('/__stamp', { cache: 'no-store' })
+      .then(function (r) { if (!r.ok) throw new Error('geen stempel'); return r.text(); })
+      .then(function (t) {
+        if (laatste === null) { laatste = t; }
+        else if (t !== laatste) {
+          sessionStorage.setItem('vic-leespositie', String(window.scrollY));
+          location.reload();
+          return;
+        }
+        setTimeout(kijk, 1200);
+      })
+      .catch(function () { if (++mislukt < 2) setTimeout(kijk, 8000); });
+  }
+  kijk();
+})();
+</script>
 </body>
 </html>

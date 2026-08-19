@@ -1,6 +1,6 @@
-## 8 — Wat dit gebied kan dragen
+## 5 — Wat dit gebied kan dragen
 
-### 8.1 Meer opgaven dan voedsel alleen
+### 5.1 Wat deze hectare nu al levert
 
 Het veenweidegebied kan meer maatschappelijke opgaven dragen dan voedselproductie alleen. Van al die prestaties wordt er vandaag één als product afgerekend.
 
@@ -46,7 +46,7 @@ Het is ook geen radicale koerswijziging, maar een aanvulling op bestaand overhei
 
 Daar komt de ruimtedruk bij. De Ontwerp-Nota Ruimte schetst een land waarin wonen, defensie, datacenters, energie-infrastructuur, voedselproductie, bouwmaterialen en handelsroutes aanspraak maken op dezelfde vierkante meters. Ook die functies vullen vaak meer dan één opgave in: een woonwijk wordt via de Landelijke maatlat op groen en water ontworpen en Defensie beheert natuur op zijn terreinen. Het punt is dan ook niet dat dit gebied uitzonderlijk veel tegelijk doet. Het punt is dat hier honderdduizenden hectares liggen waarvan vandaag één product wordt afgerekend, terwijl er meer van komt. Wat er met die ruimte gebeurt, wordt de komende jaren beslist, met of zonder een verhaal uit dit gebied zelf.
 
-### 8.2 Waarom hier, en waarom deze ondernemers
+### 5.2 Waarom hier, en waarom deze ondernemers
 
 Daarmee is nog niet gezegd waarom déze ondernemers voor maatschappelijke diensten betaald zouden worden en andere boeren in Nederland niet. Ons antwoord is niet dat dit gebied iets kan wat elders onmogelijk is. Water bergen kan op klei ook en koolstof vastleggen in bos op zand ook.
 
@@ -54,9 +54,9 @@ Het verschil zit in het alternatief. Op het grootste deel van de Nederlandse lan
 
 "Maar maak er dan helemaal natuur van", die tegenwerping is logisch en moet expliciet weerlegd worden. Pure natuur zou betekenen: voedselproductie verplaatsen naar elders, met alle import-, transport- en klimaatkosten van dien. De veenweideboer levert juist meerdere producten op één plek: voedsel én water én koolstofopslag én biodiversiteit én landschap. Dat is geen tweederangs natuur en geen tweederangs landbouw. Strategisch is voedselproductie in eigen gebied een waarde op zich, zeker in een wereld waarin geopolitiek voedsel weer een schaarste-issue wordt. En wie er natuur van maakt, is niet goedkoper uit: natuurbeheer kost óók publiek geld — maar dan zonder voedsel, zonder ondernemerschap en zonder beheerder met eigen belang bij het resultaat. Het meerproducten-frame is daarmee niet een compromis tussen natuur en landbouw, maar een meerwaarde die beide overstijgt.
 
-### 8.3 Wat het gebied buiten zijn grenzen levert
+### 5.3 Wat het gebied buiten zijn grenzen levert
 
-De zeven opgaven in hoofdstuk 5 gaan over wat er ín het veenweidegebied gebeurt: klimaat, water, natuur, kringloop, voedselzekerheid, cultuur en wonen. Allemaal opgaven binnen de eigen grenzen. Het gebied kan ook iets betekenen voor andere sectoren en regio's, en dat is de minst benoemde kant van dit verhaal. Drie voorbeelden maken het tastbaar.
+De zeven opgaven in hoofdstuk 4 gaan over wat er ín het veenweidegebied gebeurt: klimaat, water, natuur, kringloop, voedselzekerheid, cultuur en wonen. Allemaal opgaven binnen de eigen grenzen. Het gebied kan ook iets betekenen voor andere sectoren en regio's, en dat is de minst benoemde kant van dit verhaal. Drie voorbeelden maken het tastbaar.
 
 **CO₂-compensatie voor de akkerbouw.** Akkerbouwgebieden produceren voedsel met aanzienlijke CO₂-uitstoot en zoeken compensatieroutes om aan klimaatdoelen te voldoen. In plaats van het planten van bos op een polder of het inrichten van compensatieprojecten elders, kan een aanzienlijk deel van die compensatie in het veenweidegebied plaatsvinden. De CO₂-voorraad in het veen is enorm. Twee dingen horen daarbij uit elkaar te worden gehouden, want voor een afnemer die ervoor betaalt zijn het twee producten: het remmen van veenoxidatie is *vermeden uitstoot*, en *vastlegging* komt van paludicultuur en actieve veenaanmaak. Beide leveren per geïnvesteerde euro mogelijk meer CO₂-reductie op dan bosaanplant op zandgrond. [[BRON: vergelijking van veenoxidatieremming en bosaanplant per geïnvesteerde euro]]
 
@@ -115,7 +115,7 @@ Dat onderscheid in de laatste kolom is scherp en het doet hier het werk: de hoge
 
 En er is een partij die dit wil. I&W stuurt sinds 2026 op waterzelfvoorzienendheid van veenweidegebieden [[BRON: het uitgangspunt van waterzelfvoorzienendheid voor veenweidegebieden bij I&W, sinds 2026]], met aanzienlijke ruimteclaims voor waterberging als logisch gevolg. Hoeveel water er met zelfvoorzienendheid precies vrijkomt is niet bekend. [[CIJFER: hoeveel water wordt er nu in droge zomers naar laagveengebieden aangevoerd om veenoxidatie te beperken]] Dat getal bepaalt of dit een volume oplevert of vooral een principe.
 
-### 8.4 Het frame kantelt
+### 5.4 Van bijproduct naar product
 
 In de huidige Europese kaders heten investeringen in water, natuur en landschap niet-productieve investeringen: zij dienen de voedselproductie niet. Zodra maatschappelijke diensten zelf het product worden waarvoor de boer betaald wordt, kantelt dat hele frame.
 

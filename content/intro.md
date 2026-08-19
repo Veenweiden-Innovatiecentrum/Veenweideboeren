@@ -1,6 +1,6 @@
 ## Wachtkamer — wat er over is van de oude intro
 
-[[TODO: dit is geen hoofdstuk maar een wachtkamer, en hij hoort aan het eind van de herziening leeg te zijn. De inleiding en de scope zijn hoofdstuk 1 geworden, het driesporenblok is bijlage 17. Wat hier nog staat, en waar het naartoe gaat:
+[[TODO: dit is geen hoofdstuk maar een wachtkamer, en hij hoort aan het eind van de herziening leeg te zijn. De inleiding en de scope zijn hoofdstuk 1 geworden, het driesporenblok is bijlage 16. Wat hier nog staat, en waar het naartoe gaat:
 
 - **Het stikstofdossier.** Het beschrijvende deel staat nu in 1.2 als aanleiding. Wat hier overblijft is het oordeel, en dat gaat naar de risicosectie in ronde 4: een te smalle stikstofaanpak reproduceert akte II onder een nieuwe naam. De nuance dat de stikstofaanpak even nadrukkelijk zand en klei raakt, hoort in dezelfde passage, want die houdt de claim eerlijk.
 - **Van stikstofslot naar stikstofruimte.** De kern staat al in 1.2: dezelfde ammoniakreductie, blijvend, en de beheerder blijft. Wat hier overblijft is de denkrichting dat ammoniakreductie zelf een dienst kan worden, en die vraagt eerst juridische uitwerking (extern salderen, vergunningenrecht). Dat is een fiche bij akte III of bij het overheidskader, ronde 3.

@@ -167,7 +167,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 8 — Wat er gebeurt met een verdienmodel eronder (akte III — het antwoord) · bron: e-aktes · ronde 1 · nu aan de beurt
+## 8 — Wat er gebeurt met een verdienmodel eronder (akte III — het antwoord) · bron: akte-3 · ronde 1 · nu aan de beurt
 
 > Dezelfde doelen, maar de dienst wordt betaald in plaats van het verlies vergoed. Er komen twee geldstromen: de overheid die een dienst inkoopt en de markt die er zelf belang bij heeft. Dit is het antwoord van het document, en het is de enige akte waarin het vermogen uit hoofdstuk 5 overeind blijft.
 

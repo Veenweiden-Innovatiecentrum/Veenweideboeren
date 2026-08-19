@@ -1,4 +1,4 @@
-## 17 — Bijlage: de aangekondigde veenweide-aanpak, gelezen door de aktes
+## 16 — Bijlage: de aangekondigde veenweide-aanpak, gelezen door de aktes
 
 **Stand van zaken op 18 augustus 2026.** Dit is de precieze inhoud van de gebiedsspecifieke aanpak waarnaar 1.2 verwijst: het driesporenbeleid zoals het is aangekondigd, en dat de Veenweidenbrief na de zomer moet bevestigen. Deze bijlage past de leesbril van de drie aktes daarop toe. Het is een diagnose van een specifiek moment, geen standpunt over het beleid: wij lezen mee om te leren hoe de volgende ronde beter kan worden ingericht, niet om deze ronde te herzien. De middelen die nu belegd zijn, zijn belegd.
 
@@ -11,3 +11,15 @@ De aanpak is nog niet gepubliceerd. De Kamerbrief van 26 juni 2026 ordent het be
   </div>
 
 [[TODO: ronde 5. Deze bijlage bevat nu één van de negen driesporenblokken uit `bloktypen.md`. De andere acht staan nog in a-klem, e-aktes (5×), f-overheid en g-perspectief en komen hier bij elkaar, waarna de negen tot één doorlopende bijlage worden samengevoegd. De tweede alinea hierboven is nu nog geschreven als stellingname en moet dan de vorm van een diagnose krijgen: wat dit ons leert over de inrichting van de volgende ronde]]
+
+<!-- 19-8 verhuisd uit akte III; de correcties uit correctielijst.md zijn hier nog niet verwerkt -->
+
+<div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.25rem 0;font-size:13.5px;line-height:1.65">
+      <strong style="display:block;margin-bottom:6px;font-size:14px">Driesporenbeleid: €1,3 miljard, twee bestedingsroutes</strong>
+      <p style="margin:0">Het driesporenbeleid claimt circa €1,3 miljard tot 2035: €400 mln voor spoor 1, €900 mln voor spoor 3, plus onbenoemde GLB-middelen voor spoor 2. Hetzelfde bedrag kan in akte II-logica óf in akte III-logica besteed worden. De €400 mln voor urgentiegebieden kan opgaan aan opkoop, nadeelcompensatie en uitvoeringskosten, óf aan prestatiecontracten en gebiedsregie via collectieven. De €900 mln voor "50% grondafwaardering" kan ondernemers het land uitduwen via opkoop, óf via een Nationale Grondbank, langjarige prestatiecontracten en transitiesteun juist op het land houden. De GLB-hectarepremie kan generieke compensatie zijn, óf gebiedsspecifieke basisvergoeding gekoppeld aan een vernattingsregime. Het geld is er. De keuze ligt in het instrument.</p>
+    </div>
+
+    <div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.25rem 0;font-size:13.5px;line-height:1.65">
+      <strong style="display:block;margin-bottom:6px;font-size:14px">Spoor 3 specifiek: waarom afwaardering de verkeerde route is</strong>
+      <p style="margin:0"><strong>De €900 mln voor "50% grondafwaardering" veroorzaakt drie problemen tegelijk.</strong> Ten eerste stuurt het verkeerd: het frame is "boer levert iets in, overheid betaalt de schade", de boer is verliezer, de overheid is hulpverlener. Dat reproduceert precies de subsidie-logica die dit document afwijst — geen zakelijke transactie, maar nadeelcompensatie. Ten tweede werkt het grondspeculatie in de hand: wanneer de overheid €900 mln aankondigt om grond af te waarderen, weet de markt twee dingen tegelijk dat de grond straks (administratief) minder waard wordt én dat er overheidsgeld in dit gebied komt — precies het signaal dat beleggers aantrekt in plaats van boeren. Ten derde bevriest het het oude denken: door af te waarderen accepteert de overheid impliciet dat de hectare nooit meer een goed verdienmodel kan opleveren, een bestuurlijke vorm van opgeven. Het alternatief is geen ander bedrag, maar een andere richting: dezelfde €900 mln in een meerjarige opdrachtenstroom voor maatschappelijke diensten zet de hectare niet op een lager waarde-niveau, maar op stapelbare langjarige inkomstenstromen — een opwaardering in plaats van een afwaardering.</p>
+    </div>

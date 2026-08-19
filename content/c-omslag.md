@@ -1,4 +1,4 @@
-## 8 — C — Wat dit gebied kan dragen
+## 8 — Wat dit gebied kan dragen
 
 ### 8.1 Meer opgaven dan voedsel alleen
 

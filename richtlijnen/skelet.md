@@ -112,11 +112,12 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 # Deel III — Hoe het kan lopen
 
-## 6 — Wat er gebeurt als het zo doorgaat (akte I — doorgaan) · bron: e-aktes · ronde 2
+## 6 — Wat er gebeurt als er niets verandert (akte I) · bron: e-aktes · ronde 2
 
-### 6.1 Wat er gebeurt als het systeem niet verandert
-- de drie aktes in drie regels: doorgaan · ingrijpen zonder verdienmodel · dezelfde doelen mét verdienmodel `[kader · nieuw]` — de ene introductie die toetsregel 13 vraagt, hier omdat de lezer haar hier nodig heeft en nergens eerder
+### 6.1 Een toestand die stabiel lijkt
+- de drie aktes in drie regels: er verandert niets · de maatregelen komen zonder verdienmodel eronder · dezelfde maatregelen mét verdienmodel eronder `[kader · nieuw]` — de ene introductie die toetsregel 13 vraagt, hier omdat de lezer haar hier nodig heeft en nergens eerder
 - akte I lijkt te werken omdat er nog niets is gebeurd `[tekst · verhuisd]` uit hoofdstuk 5
+- **geen verwijt aan wie niets doet:** dit is de beschrijving van een toestand die van buiten stabiel lijkt, niet van een keuze van iemand `[tekst · nieuw]` toetsregel 12b
 - het is geen stabiele toestand maar een kwetsbaarheidspositie: een monocultuur die bij de volgende schok omvalt `[tekst · nieuw]` besluit 17-8
 - bedrijfsopvolging wordt onbetaalbaar door het kapitalisatierisico `[tekst · nieuw]` één zin, besluit 17-8
 
@@ -128,10 +129,11 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 7 — Wat er gebeurt bij ingrijpen zonder verdienmodel (akte II) · bron: e-aktes · ronde 2
+## 7 — Wat er gebeurt zonder verdienmodel eronder (akte II) · bron: e-aktes · ronde 2
 
-### 7.1 Harde maatregelen, geen bedrijfsmodel eronder
-- de categorie, niet één beleidsstuk: maatregelen zonder onderliggend verdienmodel `[tekst · nieuw]` besluit §8
+### 7.1 De maatregelen kloppen, er ligt alleen niets onder
+- **eerst de erkenning:** de doelen zijn legitiem en de beperkingen zijn nodig; wat ontbreekt is niet de wil of de inzet maar het verdienmodel eronder `[tekst · nieuw]` toetsregel 2, en dit is de plek waar die regel moet landen
+- **akte II is niemands beleid.** Het is een categorie: wat er gebeurt bij elke ronde maatregelen zonder bedrijfsmodel eronder. Geen enkel voorbeeld uit het beleid van vandaag `[tekst · nieuw]` besluit §8 en toetsregel 12b
 - de uitkoopregelingen van 2008 tot 2020 als eerdere ronde van hetzelfde mechanisme, zonder oordeel `[fiche · nieuw]` besluit 17-8
 - de ondernemer valt om op kosten en omzet, niet op motivatie of vakmanschap `[tekst · auteurs]` toetsregel 5
 
@@ -143,7 +145,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 8 — Wat er gebeurt als er wél een verdienmodel onder zit (akte III — het antwoord) · bron: e-aktes · ronde 1 · nu aan de beurt
+## 8 — Wat er gebeurt met een verdienmodel eronder (akte III — het antwoord) · bron: e-aktes · ronde 1 · nu aan de beurt
 
 ### 8.1 Dezelfde doelen, met een verdienmodel eronder
 - wat er eerst gebeurt: het grondbeleid stopt de grondhonger uit akte II `[tekst · auteurs]`

@@ -76,6 +76,42 @@ function Skelet({ h }) {
   );
 }
 
+/* ---- delen: Deel I tot V boven de hoofdstukken ----
+   Het deel komt uit richtlijnen/skelet.md via `build.py site`. Een deelkop
+   verschijnt bij het eerste hoofdstuk van dat deel, in de inhoudsopgave en
+   in de tekst. Hoofdstukken zonder deel (de wachtkamer) slaan hem over. */
+const EERSTE_VAN_DEEL = (() => {
+  const uit = {};
+  let vorig = null;
+  for (const h of HOOFDSTUKKEN) {
+    if (h.deel && h.deel !== vorig) { uit[h.id] = h.deel; vorig = h.deel; }
+  }
+  return uit;
+})();
+
+function DeelKop({ id, klein }) {
+  const deel = EERSTE_VAN_DEEL[id];
+  if (!deel) return null;
+  const [nummer, titel] = deel.replace(/^Deel /, '').split(' — ');
+  if (klein) {
+    return (
+      <p style={{ margin: '14px 0 4px', fontFamily: 'var(--font-sans)', fontSize: 10.5,
+                  textTransform: 'uppercase', letterSpacing: '.09em', color: 'var(--text3)',
+                  fontWeight: 700, paddingTop: 10, borderTop: '1px solid rgba(0,0,0,.08)' }}>
+        Deel {nummer} · {titel}
+      </p>
+    );
+  }
+  return (
+    <p style={{ margin: '2.5rem 0 -0.5rem', paddingTop: '1.1rem',
+                borderTop: '2px solid var(--accent2)', fontFamily: 'var(--font-sans)',
+                fontSize: 12, textTransform: 'uppercase', letterSpacing: '.12em',
+                color: 'var(--accent2)', fontWeight: 700 }}>
+      Deel {nummer} <span style={{ color: 'var(--text2)', letterSpacing: '.06em' }}>· {titel}</span>
+    </p>
+  );
+}
+
 /* sfeerfoto per hoofdstuk — alleen in de magazinevorm */
 const HOOFDSTUK_FOTO = {
   'scope': 'assets/photos/hero-plant.jpg',
@@ -169,10 +205,13 @@ function DocumentLezer({ openToolbox, wisselVorm }) {
         <nav className="v4-toc" aria-label="Inhoudsopgave">
           <p className="v4-toc-kop">inhoud</p>
           {HOOFDSTUKKEN.map((h) => (
-            <a key={h.id} className={'v4-toc-link' + (actief === h.id ? ' actief' : '')} onClick={() => gaNaar(h.id)}>
-              <span className="v4-toc-letter">{h.letter || '·'}</span>
-              <span className="v4-toc-titel">{h.titel}</span>
-            </a>
+            <React.Fragment key={h.id}>
+              <DeelKop id={h.id} klein={true}></DeelKop>
+              <a className={'v4-toc-link' + (actief === h.id ? ' actief' : '')} onClick={() => gaNaar(h.id)}>
+                <span className="v4-toc-letter">{h.letter || '·'}</span>
+                <span className="v4-toc-titel">{h.titel}</span>
+              </a>
+            </React.Fragment>
           ))}
         </nav>
         <div className="v4-doc-body">
@@ -198,6 +237,7 @@ function DocumentLezer({ openToolbox, wisselVorm }) {
           );
           return (
             <section key={h.id} id={'doc-' + h.id}>
+              <DeelKop id={h.id}></DeelKop>
               <h2 onClick={() => toggle(h.id)} style={{ cursor: 'pointer', display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', gap: 16 }}>
                 <span>{h.letter ? h.letter + ' \u2014 ' : ''}{h.titel}</span>
                 {klap}

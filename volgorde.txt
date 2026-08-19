@@ -6,8 +6,8 @@ intro
 a-klem
 b-opgaves
 c-omslag
-d-concept
 e-aktes
+d-concept
 f-ondernemer
 f-overheid
 f3-bedrijfsleven

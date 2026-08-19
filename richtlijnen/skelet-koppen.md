@@ -40,17 +40,17 @@
 
 ## Deel III — Hoe het kan lopen
 
-**6. Wat er gebeurt als het zo doorgaat (akte I — doorgaan)**
-- 6.1 Wat er gebeurt als het systeem niet verandert
+**6. Wat er gebeurt als er niets verandert (akte I)**
+- 6.1 Een toestand die stabiel lijkt
 - 6.2 Wat dat betekent per opgave
 - 6.3 De motor
 
-**7. Wat er gebeurt bij ingrijpen zonder verdienmodel (akte II)**
-- 7.1 Harde maatregelen, geen bedrijfsmodel eronder
+**7. Wat er gebeurt zonder verdienmodel eronder (akte II)**
+- 7.1 De maatregelen kloppen, er ligt alleen niets onder
 - 7.2 Wat dat betekent per opgave
 - 7.3 De motor
 
-**8. Wat er gebeurt als er wél een verdienmodel onder zit (akte III — het antwoord)**
+**8. Wat er gebeurt met een verdienmodel eronder (akte III — het antwoord)**
 - 8.1 Dezelfde doelen, met een verdienmodel eronder
 - 8.2 Twee geldstromen, niet één
 - 8.3 Wat dat betekent per opgave

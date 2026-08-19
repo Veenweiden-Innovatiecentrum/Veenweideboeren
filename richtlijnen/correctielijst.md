@@ -96,6 +96,7 @@
 
 ## e-aktes.md
 
+- [ ] **De zin waar het bestuur over viel staat hier letterlijk:** het kader bij akte II heet "Ingrijpen zonder pijlers" en begint met "De overheid grijpt in met harde maatregelen". Beide moeten om conform toetsregel 12b (19-8): de akte heet naar wat er met het bedrijf gebeurt, en de overheid komt in de kop niet handelend voor. Bestuur 17 juni: "als jij gaat vertellen dat ze een fout voorzitten, ga je ze alleen maar van je vervreemden"
 - [ ] **Dimensietabel akte I**: waterkwantiteit van groen naar oranje *(Niel)*
 - [ ] **Dimensietabel akte II**: waterkwantiteit wordt rood *(Niel)*
 - [ ] **Dimensietabel akte II**: waterkwaliteit verslechtert éérst door fosfaatmobilisatie bij vernatting, verbetert daarna — nuance toevoegen *(Niel)*

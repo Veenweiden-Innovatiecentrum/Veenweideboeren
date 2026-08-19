@@ -5,9 +5,27 @@ import os, sys, re, json, shutil, datetime, urllib.parse
 import lib_render as R
 
 
+def deel_html(titel):
+    """Deelkop tussen de secties van het document. Het deel komt uit
+    richtlijnen/skelet.md, dus hier niets bijhouden."""
+    nummer, _, naam = titel.replace('Deel ', '').partition(' — ')
+    return (f'<p style="margin:3.5rem 0 -0.5rem;padding-top:1.25rem;'
+            f'border-top:2px solid var(--accent2);font-family:var(--font-sans);'
+            f'font-size:12px;text-transform:uppercase;letter-spacing:.12em;'
+            f'color:var(--accent2);font-weight:700">Deel {nummer} '
+            f'<span style="color:var(--text2);letter-spacing:.06em">· {naam}</span></p>')
+
+
 def build_document():
     order = [l.strip() for l in open('volgorde.txt', encoding='utf-8')
              if l.strip() and not l.startswith('#')]
+    skelet = lees_skelet()
+    deel_van = {}
+    for n in sorted(skelet, key=int):
+        b = skelet[n]
+        if b.get('bron') and b.get('deel'):
+            deel_van.setdefault(b['bron'], b['deel'])
+    vorig_deel = None
     parts = []
     for sid in order:
         md_path = f'content/{sid}.md'
@@ -18,6 +36,10 @@ def build_document():
             body = open(pt_path, encoding='utf-8').read()
         else:
             sys.exit(f'FOUT: geen bron voor sectie "{sid}" (content/ noch partials/)')
+        deel = deel_van.get(sid)
+        if deel and deel != vorig_deel:
+            parts.append(deel_html(deel))
+            vorig_deel = deel
         parts.append(f'<section id="{sid}">\n{body}\n</section>')
     template = open('templates/document/template.html', encoding='utf-8').read()
     out = template.replace('{{SECTIONS}}', '\n\n'.join(parts))
@@ -189,6 +211,7 @@ def ontleed_sectie(sid, register=None, skelet=None):
                        if n in skelet and not skelet[n].get('bron')]
         if blokken:
             uit['skelet'] = blokken
+            uit['deel'] = blokken[0].get('deel', '')
     return uit
 
 

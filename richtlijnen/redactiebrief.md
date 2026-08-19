@@ -32,6 +32,7 @@
 ## Structuur
 12. Analyse (A tot en met C) bevat geen oplossingen en geen vooruitwijzingen naar D of verder.
 12a. Geen enkel argument leunt op het driesporenbeleid. De aktes zijn een leesbril, geen commentaar op een specifiek beleidsstuk. Concrete beleidstoepassingen staan in laag 3, met datum. Raakt: intro (6×), a-klem (2×), e-aktes (8×), f-overheid (3×, inclusief het kader "drie van de vier pijlers ontbreken"), g-perspectief (2×).
+12b. **De aktes zijn genoemd naar wat er met het bedrijf gebeurt, niet naar wat de overheid doet.** Geen aktetitel, kop of kernzin waarin de overheid handelend voorkomt. "Ingrijpen zonder verdienmodel" is een oordeel over de overheid en staat in de inhoudsopgave; "wat er gebeurt zonder verdienmodel eronder" is dezelfde analyse zonder dader. Akte II en III zijn daarom symmetrisch benoemd: zonder en met een verdienmodel eronder. In akte II staat de erkenning vooraan (toetsregel 2) en staat expliciet dat het niemands beleid is maar een categorie, met historische voorbeelden. *Toegevoegd 19-8 op Tims signaal dat het bestuur juist hier bezorgd was; de brontekst zegt nu letterlijk "de overheid grijpt in met harde maatregelen".*
 13. De drie aktes zijn één keer expliciet geïntroduceerd vóór het eerste gebruik. Nu achttien vermeldingen vóór e-aktes: intro 5, a-klem 1, b-opgaves 3, c-omslag 4, d-concept 5.
 14. Weet welke laag je schrijft. Laag 3 mag nuance en uitweiding bevatten; laag 2 niet.
 15. Geen kader dat vooruitwijst naar iets wat de lezer nog niet gelezen heeft.

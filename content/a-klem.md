@@ -41,7 +41,7 @@ Die rekensom geldt voor elk bedrijf dat de veedichtheid verlaagt. Het verschil z
     <li><strong>Gebieden die structureel te nat worden</strong> — vanuit beleid (verhoging van het slootwaterpeil) of vanuit autonome vernatting waardoor reguliere bedrijfsvoering structureel onhaalbaar wordt</li>
     <li><strong>Ligging in of tegen Natura 2000</strong> — in het gebied zelf of in de bufferzones eromheen, waar extra regeldruk en beperkingen op stikstof en grondgebruik de bedrijfsvoering inperken</li>
     <li><strong>Sterke kwel en verzilting</strong> — waar waterdruk van onderaf de bedrijfsvoering structureel beïnvloedt — hier zijn nieuwe bedrijfsconcepten sowieso nodig, zelfs zonder enige klimaat- of peildoelstelling</li>
-    <li><strong>Stedelijke randen</strong> — waar wateropgaves, ruimtedruk en functiemenging samenkomen</li>
+    <li><strong>Stedelijke randen</strong> — waar waterberging, ruimtedruk en functiemenging samenkomen</li>
     <li><strong>Snelste bodemdaling en veenoxidatie</strong> — zones waar de fysieke schade het hardst en snelst optreedt</li>
     <li><strong>Gebieden waar de infrastructuur niet meekan met schaalvergroting</strong>: polders met smalle ontsluiting, kleinschalige verkaveling, slechte bereikbaarheid voor zwaar materieel — kenmerkend voor délen van diverse veenweidegebieden, niet voor hele regio's</li>
     <li><strong>Dunne veenpakketten met hydrologische functie</strong> — gebieden waar het veen als kurk op de fles functioneert. Verdwijning beïnvloedt regionale grondwaterstromen (bijv. Fries plateau)</li>

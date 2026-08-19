@@ -67,7 +67,7 @@
 - [x] **Lian a-klem:2, "eruit vallen klinkt negatief"**: de slotzin van 3.1 vraagt nu welke toekomst er is voor de ondernemers die de schaalsprong niet willen of kunnen maken
 - [x] **De akte III-vermelding in 3.1 is vervallen** (toetsregel 13): "al profiteren ook nicheboeren van de condities uit akte III". Er verdwijnt geen argument, want 1.3 zegt al dat de redenering voor het hele gebied geldt en dat ook een gewoon melkveebedrijf diensten kan leveren
 - [x] **De akte-vermelding in 3.3 is eruit** (19-8): "En over dát deel gaan de drie aktes" is met de scope-alinea vervallen. Daarmee heeft dit hoofdstuk nul akte-vermeldingen
-- [x] **Het woord "opgave" is uit 3.2 en 3.3 verdwenen** (Tim, 19-8): de zeven opgaven komen pas in hoofdstuk 4, dus het wees naar iets wat de lezer nog niet heeft. 3.3 zegt nu "die vormen van druk werken niet op dezelfde schaal", 3.2 "wat Nederland van dit gebied vraagt". **Nog één vindplaats:** "wateropgaves" in de lijst van 3.3
+- [x] **Het woord "opgave" is uit 3.2 en 3.3 verdwenen** (Tim, 19-8): de zeven opgaven komen pas in hoofdstuk 4, dus het wees naar iets wat de lezer nog niet heeft. 3.3 zegt nu "die vormen van druk werken niet op dezelfde schaal", 3.2 "wat Nederland van dit gebied vraagt". **Afgerond 19-8:** de laatste vindplaats, "wateropgaves" bij de stedelijke randen in 3.3, is "waterberging" geworden. Dat gebeurde bij het schrijven van 4.1, want daar valt het woord nu voor het eerst en dan moet het er dáárvoor echt niet meer staan
 - [x] **De twee lijsten staan in dezelfde lijn** (19-8). Andersom uitgevoerd dan eerst bedacht: 3.3 is leidend want daar staat de sterkste uitwerking, en 1.3 is de korte versie in dezelfde woorden. In 3.3 alleen gecorrigeerd wat fout stond: "ligging in of tegen Natura 2000" en "sterke kwel en verzilting"
 - [x] **De vormen van fysieke druk staan in dit hoofdstuk, volledig** (Tim, 19-8). Hoofdstuk 1.3 noemt nu de vier die het zwaarst wegen, niet meer als complete set, en verwijst hierheen: "Hoofdstuk 3 werkt uit waaraan zo'n gebied te herkennen is, en noemt daarbij de kenmerken die hier niet staan". Daarmee is ook **Niels vraag "20-30% welke?"** beantwoord op de plek waar hij hem stelde: hij vroeg een verwijzing naar A, en die staat er nu
 
@@ -107,11 +107,26 @@
 
 ## b-opgaves.md
 
-- [ ] **"De middengroep krijgt een nieuw perspectief: veenweideboer worden"** (regel ~18) moet om: dat is de lezer al. Met de schaal uit 9.2 wordt het "meer doen naast het vee, van één perceel tot het hele bedrijf". Opgemerkt 19-8 bij het ombouwen van hoofdstuk 13
+*Bijgewerkt 19-8 bij het herzien van 4.1. Wat hieronder nog open staat, hoort bij 4.2.*
 
-- [ ] Opgaventabel: "beschermde soorten" staat onder **Natuur — gebieden** (regel ~83), hoort bij **Natuur — basiskwaliteit** *(Simon)*
-- [ ] Fiche "Hoe te lezen" bij de opgaventabel: toelichten hoe de scores tot stand zijn gekomen *(Niel)*
-- [ ] De "n.v.t."-cellen in de Natuur-kolom (voedselzekerheid, grondstoffen): herbeoordelen — dit is een oordeel, besluit valt in de cluster 9-ronde *(Simon)*
+- [x] **Simons tellfout is weg** (cluster 4): 4.1 zegt nu zeven opgaven, uitgesplitst in tien dimensies, met de zeven bij naam. Bevestiging van buiten dit hoofdstuk: de legenda bij de radardiagrammen in `f-ondernemer` zegt al precies hetzelfde ("dezelfde zeven maatschappelijke opgaves uit sectie B, waarbij drie ervan in twee subdimensies zijn uitgesplitst")
+- [x] **De koppeling met het slot van 3.3 staat er** (Tim, 19-8): wat voor het bedrijf een vorm van druk is, is voor Nederland een opgave, en waar de druk samenkomt ligt de vraag het dikst gestapeld. Hier valt het woord "opgave" voor het eerst; daarom is "wateropgaves" in de lijst van 3.3 vervangen door "waterberging" en is die vindplaats uit de a-klem-lijst hieronder gesloten
+- [x] **Bij Water — kwaliteit staat de Kaderrichtlijn Water** (toetsregel 24, correctie bestuur 1 juli). De bestuursversie zei al "KRW-doelen" en had het dus goed; toegevoegd is de afbakening dat het op veen om het oppervlaktewater gaat en dat nitraat in grondwater een vraagstuk van de zandgronden is
+- [x] **Zoetwaterbeschikbaarheid staat bij de opgave Water** (besluit 17-8): bij vernatting stijgt de eigen watervraag, en daarmee wordt op termijn bepalend hoeveel zoet water er is. De onderbouwing van Niel/UvW blijft in hoofdstuk 5 staan en is hier niet herhaald, met een verwijzing hierheen — twee vindplaatsen van hetzelfde feit is hoe drift begint. **Het jaartal uit het besluit ("na 2040 bepalend") staat er niet**, want daarvoor is hier geen citeerbare bron
+- [x] **Weidevogels bewijzen dat het gebied de dienst kan leveren, niet dat ervoor betaald wordt** (besluit 18-8): staat als eigen alinea in 4.1, met de ANLb-nuance in één regel en de bron bij hoofdstuk 2
+- [ ] **"De middengroep krijgt een nieuw perspectief: veenweideboer worden"** (nu in 4.2) moet om: dat is de lezer al. Met de schaal uit 9.2 wordt het "meer doen naast het vee, van één perceel tot het hele bedrijf". Opgemerkt 19-8 bij het ombouwen van hoofdstuk 13
+
+- [x] **"Beschermde soorten" staat nu bij Natuur — basiskwaliteit** *(Simon)*, en Natuur — gebieden houdt Natura 2000 met de staat van de habitats en de stikstofdepositie daarop
+
+### Nog open in 4.2
+
+- [ ] **De areaal-claim "omdat zij de grootste groep zijn en het meeste areaal beheren" krijgt een `[[CIJFER]]`** met het label eigen analyse VIC/JUMP, of vervalt. Besluit 19-8 bij aanname 3: de 70 tot 80 procent gaat over het **aantal bedrijven**, dus een areaalclaim mag alleen terug met een eigen getal. Richting beleid is het argument sterk, want dan landen de opgaven bij die groep
+- [ ] **De alinea die de drie aktes introduceert vervalt** (toetsregel 13: die introductie staat één keer, bij hoofdstuk 6). Daarmee vervalt ook "veenweideboer worden" als perspectief, zie hierboven
+- [ ] **"Niet omdat de boer het verkeerd doet, maar omdat het systeem alleen verkeerde opties biedt"** gaat om, toetsregel 5a. Zelfde ingreep als in 3.1
+- [ ] **De waarneming over eerdere beleidsronden** (uitkoopregelingen 2008-2020, eerste-generatie stikstofmaatregelen) verhuist naar hoofdstuk 7, waar besluit 17-8 haar als fiche belegt
+- [ ] **"opgaves" wordt "opgaven"** in 4.2; in 4.1 is dat gedaan (`terminologie.md`)
+- [x] ~~Fiche "Hoe te lezen" bij de opgaventabel: toelichten hoe de scores tot stand zijn gekomen~~ *(Niel)* — **vervallen 19-8.** Deze vraag gaat over de tabel met drie contexten (Polder, Stadsrand, Natuur) en stippen van ● tot ●●●●, en die staat alleen in het v2-document in `origineel/`. De gepubliceerde versie die het bestuur las heeft tien alinea's zonder scores, dus er is niets uit te leggen
+- [x] ~~De "n.v.t."-cellen in de Natuur-kolom (voedselzekerheid, grondstoffen): herbeoordelen~~ *(Simon)* — **vervallen 19-8, zelfde reden:** die cellen zaten in de contexttabel van v2 en bestaan in de gepubliceerde versie niet meer
 
 ## c-omslag.md
 
@@ -175,6 +190,7 @@
 ## f-ondernemer.md
 
 - [ ] Regel ~23: hier staat "-20 of -40 cm" al goed — niet aankomen, dit is de referentieformulering
+- [ ] **De legenda bij de radardiagrammen verwijst naar "sectie B" en dat is nu hoofdstuk 4** (`verwijzingen.py` meldt het als FOUT sinds b-opgaves zijn nummer draagt). Verder ongewijzigd laten: die legenda zegt al precies wat 4.1 nu ook zegt, zeven opgaven in tien dimensies, en is daarmee de interne bevestiging van die telling
 
 ## f-overheid.md
 

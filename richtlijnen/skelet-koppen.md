@@ -19,7 +19,7 @@
 
 ---
 
-## Deel II — Wat er aan de hand is
+## Deel II — Wat er aan de hand is en wat er kan
 
 **3. Waarom de ondernemer klem zit (A — De ondernemer klem)**
 - 3.1 Wie klem zit
@@ -31,7 +31,7 @@
 - 4.2 Waarom deze opgaven een ondernemer nodig hebben
 
 **5. Wat dit gebied kan dragen**
-- 5.1 Meer opgaven dan voedsel alleen
+- 5.1 Wat deze hectare nu al levert
 - 5.2 Waarom hier, en waarom deze ondernemers
 - 5.3 Wat het gebied buiten zijn grenzen levert
 - 5.4 Van bijproduct naar product
@@ -51,7 +51,7 @@
 - 7.3 De motor
 
 **8. Wat er gebeurt met een verdienmodel eronder (akte III — het antwoord)**
-- 8.1 Dezelfde doelen, met een verdienmodel eronder
+- 8.1 De omslag: van vergoeding naar betaling
 - 8.2 Twee geldstromen, niet één
 - 8.3 Wat dat betekent per opgave
 - 8.4 De motor
@@ -92,11 +92,12 @@
 ## Deel V — Sluitstukken
 
 **14. Waar het mis kan gaan (H — Risico's)**
-- 14.1 Waar het mis kan gaan
+- 14.1 De zeven risico's
 - 14.2 Wat er nu al mis kan gaan in het beleid
 
 **15. Slot**
 - 15.1 Wat er nu moet gebeuren
+- 15.2 Wat wij vragen
 
 **16. Bijlagen**
 - 16.1 De aangekondigde veenweide-aanpak, gelezen door de aktes

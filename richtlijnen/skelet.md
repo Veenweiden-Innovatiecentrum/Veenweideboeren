@@ -4,6 +4,8 @@
 
 **Werkwijze vanaf 19 augustus 2026 (Tim).** Eerst het skelet, dan de tekst. Per sectie maximaal drie elementen. Een element wordt pas uitgeschreven als het hier staat en Tim het heeft gezien; ik schrijf niets wat niet in een element is aangekondigd. Hoofdstuk 1, 2 en 5 staan al als tekst, en hun skelet beschrijft wat er is.
 
+**Dit skelet is laag 3, het naslagwerk.** De korte versie en de twee leesversies (laag 1 en 2, ronde 6) worden daaruit gemaakt en staan hier niet; `samenvatting.md` wordt die korte versie.
+
 **Notatie.** Achter elk element staat de vorm en de herkomst:
 
 | | |
@@ -51,7 +53,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-# Deel II — Wat er aan de hand is
+# Deel II — Wat er aan de hand is en wat er kan
 
 ## 3 — Waarom de ondernemer klem zit (A — De ondernemer klem) · bron: a-klem · ronde 2
 
@@ -78,18 +80,20 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - stikstof is de aanleiding en geen achtste opgave; een lagere veedichtheid verlaagt de uitstoot als gevolg `[tekst · nieuw]`
 - weidevogels bewijzen dat het gebied de dienst kan leveren, niet dat ervoor betaald wordt `[tekst · nieuw]` besluit 18-8
 - zoetwaterbeschikbaarheid hoort bij de opgave Water `[tekst · nieuw]` besluit 17-8
+- bij waterkwaliteit is het de KRW en niet nitraat in grondwater; dat laatste is een zandprobleem `[tekst · nieuw]` toetsregel 24, correctie bestuur 1 juli
 
 ### 4.2 Waarom deze opgaven een ondernemer nodig hebben
 - op korte termijn vernietigt margedruk het rentmeesterschap `[tekst · auteurs]`
 - op middellange termijn maakt de schaalvergrotingsreflex de fijnmazigheid kapot `[tekst · auteurs]`
 - op lange termijn is er geen investeringsruimte, en dan komt de transitie niet van de grond `[tekst · auteurs]`
+- **de boemerang:** wat verdwijnt zijn de **onbeprijsde** uren landbeheer, sloten schoonhouden, signaleren dat er iets niet klopt. Vervang de familieondernemer door een belegger en die uren moeten uit publiek geld komen, of ze gebeuren niet `[tekst · nieuw]` §3, en nooit "gratis"
 - zonder perspectief geen opgaven: dit is de conclusie van dit hoofdstuk `[tekst · auteurs]` — nu een kader, wordt lopende tekst
 
 ---
 
 ## 5 — Wat dit gebied kan dragen · bron: c-omslag · ronde 1 · af
 
-### 5.1 Meer opgaven dan voedsel alleen
+### 5.1 Wat deze hectare nu al levert
 - het gebied kan meer dragen dan voedsel; van al die prestaties wordt er één afgerekend `[tabel]`
 - de boer is niet het probleem maar de motor `[tekst · auteurs]`
 - waarom uit publieke middelen: omdat er een publieke dienst geleverd wordt, en de nutsfunctie wordt breder `[tekst · auteurs]`
@@ -147,7 +151,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 8 — Wat er gebeurt met een verdienmodel eronder (akte III — het antwoord) · bron: e-aktes · ronde 1 · nu aan de beurt
 
-### 8.1 Dezelfde doelen, met een verdienmodel eronder
+### 8.1 De omslag: van vergoeding naar betaling
 - wat er eerst gebeurt: het grondbeleid stopt de grondhonger uit akte II `[tekst · auteurs]`
 - de omkering: betaald worden voor een geleverde dienst in plaats van gecompenseerd voor een verlies `[tekst · auteurs]`
 - drie tempo's, één transitie `[fiche · auteurs]`
@@ -267,7 +271,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 14 — Waar het mis kan gaan (H — Risico's) · bron: h-risicos · ronde 4
 
-### 14.1 Waar het mis kan gaan
+### 14.1 De zeven risico's
 - zeven risico's, van schijntransitie tot de boer die zich ambtenaar voelt `[lijst · auteurs]`
 - het zijn onderliggende systeemkrachten, geen ondermijnende `[tekst · auteurs]` besluit 17-8
 
@@ -282,6 +286,11 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - drie acties die bepalen of akte III werkelijkheid wordt `[tekst · auteurs]`
 - de verbinding met de programma's: JUMP levert de bedrijfsconcepten, deze aanpak de bewijslast, BASE moet de betaling aantonen `[tekst · verhuisd]` uit hoofdstuk 2
 - zonder "pijlers" en zonder de €1,3 miljard `[—]` besluit §8 en §9
+
+### 15.2 Wat wij vragen
+- geen wijziging van het huidige beleid en geen euro uit de lopende programma's `[tekst · nieuw]` toetsregel 3
+- wel de ruimte om te bouwen wat de volgende ronde nodig heeft: het bewijs dat maatschappelijke diensten een verdienmodel kunnen zijn, en de spelregels die dat mogelijk maken `[tekst · nieuw]`
+- en het moet klaar zijn op het moment dat die volgende ronde wordt ingericht, niet erna `[tekst · nieuw]` de zin die het bestuur op 2 september nodig heeft
 
 ---
 

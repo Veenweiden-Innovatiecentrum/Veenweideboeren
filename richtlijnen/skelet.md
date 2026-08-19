@@ -64,15 +64,16 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 3 — Waarom de ondernemer vastloopt op kosten en omzet (A — De ondernemer klem) · bron: a-klem · ronde 2 · nu aan de beurt
 
-> De ondernemer op veen loopt vast op kosten en omzet: grond is duur, de kostprijs stijgt en de ruimte om te ondernemen krimpt. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien om welke bedrijven het gaat, waarom de rekening niet meer rond komt, wat een andere koers kost, en waar de uitdaging het scherpst is. Het is de uitwerking van de klem die hoofdstuk 1 aankondigt, dus de scope wordt hier niet opnieuw opgebouwd.
+> De ondernemer op veen loopt vast op kosten en omzet: grond is duur, de kostprijs stijgt en de ruimte om te ondernemen krimpt. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien om welke bedrijven het gaat, waarom het zakelijk niet meer vol te houden is, wat een andere koers kost, en waar de uitdaging het scherpst is. Het is de uitwerking van de klem die hoofdstuk 1 aankondigt, dus de scope wordt hier niet opnieuw opgebouwd.
 
 ### 3.1 Om welke bedrijven het gaat
 - de meerderheid van de ondernemers in dit gebied loopt vast op kosten en omzet, en dat is deels systeem en deels eigen keuze `[tekst · auteurs]` de openingsalinea, nu onder een kop; toetsregel 5a in één regel, de uitwerking staat in 3.2
 - de vorm van de populatie: een kleine groep grote bedrijven, een middengroep, een kleine niche `[beeld · auteurs]`
 - de middengroep krimpt hoe dan ook; de twee andere groepen hebben al een werkend bedrijfsmodel `[tekst · auteurs]` — "eruit vallen" anders gezegd (Lian a-klem:2)
 
-### 3.2 Waarom de rekening niet meer rond komt
-- drie condities bepalen de richting van de melkveehouderij: de grondmarkt, het beleidskader, de ketenstructuur `[tabel · auteurs]` — nu een kader met drie kolommen, wordt een tabel conform de vormronde van 19-8
+### 3.2 Waarom het zakelijk niet meer vol te houden is
+*Titel gewijzigd op 19-8 (Tim): "waarom de rekening niet meer rond komt" leest ook als de maatschappelijke rekening, en de kern is dat het als bedrijf zakelijk niet meer vol te houden is. Dat is bovendien de eigen slotzin van deze sectie.*
+- drie condities bepalen de richting van de melkveehouderij: de grondmarkt, het beleidskader, de ketenstructuur `[tabel · auteurs]` — nu een kader met drie kolommen, wordt een tabel conform de vormronde van 19-8. **Let op:** de bewering dat een rem als de Oostenrijkse bergboerenregeling in Nederland "nooit heeft bestaan" is 19-8 onjuist bevonden en rechtgezet, met bronfiche
 - het systeem loopt ook intern vast: opvolging wordt onbetaalbaar en de grondmarkt raakt minder liquide. Plus: het gaspedaal werd de rem, één zin `[tekst · auteurs + nieuw]` besluit 17-8
 - **en er zijn eigen keuzes gemaakt.** Schaal, financiering en het moment van investeren waren beslissingen van de ondernemer zelf, en niet iedereen zit even diep in de klem. Geen verwijt, maar de andere kant van ondernemerschap: daarom is er ook binnen de klem ruimte om te kiezen, en dat is hoofdstuk 13 `[tekst · nieuw]` Tim, 19-8
 

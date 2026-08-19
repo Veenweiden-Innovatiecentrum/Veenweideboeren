@@ -32,7 +32,7 @@ Vier aannames dragen dit verhaal. Wij zeggen ze stellig en zetten eronder waarop
 De ondernemer op veen loopt vast op kosten en omzet: grond is duur, de kostprijs stijgt en de ruimte om te ondernemen krimpt. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien om welke bedrijven het gaat, waar het het scherpst rekent, en waarom dit niet over vakmanschap of motivatie gaat.
 
 - 3.1 Om welke bedrijven het gaat
-- 3.2 Waarom de rekening niet meer rond komt
+- 3.2 Waarom het zakelijk niet meer vol te houden is
 - 3.3 Wat een andere koers kost
 - 3.4 Waar de uitdaging het scherpst is
 

@@ -427,9 +427,9 @@ Dat is veel om op één bedrijf te laten landen. En toch gebeurt er op dat land 
           <td>ja, via de melkprijs</td>
         </tr>
         <tr>
-          <td><strong>Water</strong> — vasthouden, bergen, kwaliteit</td>
-          <td>het waterschap en de omliggende landbouw</td>
-          <td>nee</td>
+          <td><strong>Landschap en weidevogels</strong></td>
+          <td>de samenleving, de recreatie, het natuurbeleid</td>
+          <td>deels, en dan als vergoeding van kosten en gederfde inkomsten; dat is geen prijs (hoofdstuk 2)</td>
         </tr>
         <tr>
           <td><strong>Koolstof</strong> — de uitstoot uit het veen beperken</td>
@@ -437,9 +437,9 @@ Dat is veel om op één bedrijf te laten landen. En toch gebeurt er op dat land 
           <td>niet structureel</td>
         </tr>
         <tr>
-          <td><strong>Landschap en weidevogels</strong></td>
-          <td>de samenleving, de recreatie, het natuurbeleid</td>
-          <td>deels, en dan als vergoeding van kosten en gederfde inkomsten; dat is geen prijs (hoofdstuk 2)</td>
+          <td><strong>Water</strong> — vasthouden, bergen, kwaliteit</td>
+          <td>het waterschap en de omliggende landbouw</td>
+          <td>nee</td>
         </tr>
       </tbody>
     </table>

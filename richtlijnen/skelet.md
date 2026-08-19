@@ -117,7 +117,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 5 — Wat dit gebied kan dragen · bron: c-omslag · ronde 1 · af
 
-> Op dezelfde hectare komt meer dan melk: vastgehouden water, koolstof in de bodem, landschap, weidevogels. Daarvan wordt er één afgerekend. Dit hoofdstuk zegt waarom betalen juist hier gerechtvaardigd is, en dat is niet omdat het elders onmogelijk zou zijn maar omdat hier het alternatief geen landbouw is.
+> Op dezelfde hectare komt meer dan melk: landschap en weidevogels, koolstof in de bodem, vastgehouden water. Daarvan wordt er één afgerekend. Dit hoofdstuk zegt waarom betalen juist hier gerechtvaardigd is, en dat is niet omdat het elders onmogelijk zou zijn maar omdat hier het alternatief geen landbouw is.
 
 ### 5.1 Wat deze hectare nu al levert
 - **de sectie opent op de brug uit hoofdstuk 4:** dat is veel om op één bedrijf te laten landen, en tóch gebeurt er op dat land al meer dan melk produceren. Het gebied kan meer dragen dan voedsel, en van al die prestaties wordt er één afgerekend `[tekst + tabel · auteurs + nieuw]` twee verbindingszinnen, Tim 19-8: de vraag uit hoofdstuk 4 is zwaar, en dit hoofdstuk begint met wat er al gebeurt in plaats van met wat er zou kunnen

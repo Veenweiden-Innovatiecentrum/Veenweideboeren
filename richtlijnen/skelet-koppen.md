@@ -44,7 +44,7 @@ Nederland vraagt zeven dingen tegelijk van dit gebied: klimaat, water, natuur, k
 
 ### 5. Wat dit gebied kan dragen
 
-Op dezelfde hectare komt meer dan melk: vastgehouden water, koolstof in de bodem, landschap, weidevogels. Daarvan wordt er één afgerekend. Dit hoofdstuk zegt wat er nog meer te leveren valt, waarom betalen juist hier gerechtvaardigd is — niet omdat het elders onmogelijk zou zijn maar omdat hier het alternatief geen landbouw is — en het sluit af met de reden dat dit een ondernemer met een verdienmodel vraagt en geen vrijwilliger.
+Op dezelfde hectare komt meer dan melk: landschap en weidevogels, koolstof in de bodem, vastgehouden water. Daarvan wordt er één afgerekend. Dit hoofdstuk zegt wat er nog meer te leveren valt, waarom betalen juist hier gerechtvaardigd is — niet omdat het elders onmogelijk zou zijn maar omdat hier het alternatief geen landbouw is — en het sluit af met de reden dat dit een ondernemer met een verdienmodel vraagt en geen vrijwilliger.
 
 - 5.1 Wat deze hectare nu al levert
 - 5.2 Wat deze hectare nog meer kan leveren

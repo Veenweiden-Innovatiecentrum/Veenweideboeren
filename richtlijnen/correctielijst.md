@@ -118,6 +118,16 @@
 
 - [x] **"Beschermde soorten" staat nu bij Natuur — basiskwaliteit** *(Simon)*, en Natuur — gebieden houdt Natura 2000 met de staat van de habitats en de stikstofdepositie daarop
 
+### Openstaande keuze voor Tim, geopend 19-8 bij 4.2 — raakt hoofdstuk 5, 11 en 12
+
+**Waarvoor moet betaald worden, en wat blijft meelopen in de bedrijfsvoering?** Tim zag de tegenwind in mijn eigen argument: als het onbetaalde beheer "uit de marge van het bedrijf" wordt betaald, kan een overheid antwoorden dat dat prima zo kan blijven. Het document heeft daarom een grens nodig, en die staat er nu nergens expliciet.
+
+- **Wat 4.2 nu doet** is de grens beschrijvend leggen en niet normatief: het kleine onderhoud liep tot nu toe mee, maar wat er nu gevraagd wordt grijpt in de bedrijfsvoering in en verkleint juist die marge. Daarmee is de conclusie "laat het maar in de marge" afgesloten zonder dat hoofdstuk 4 een instrument noemt (toetsregel 12)
+- **Wat er nog niet staat** is het criterium. Hoofdstuk 5 biedt vandaag álles als potentieel product aan (koolstof, biodiversiteit, water, landschap), en dat is kwetsbaar voor precies het weerwoord dat 5.4 zelf de grootste horde noemt: het lastigst te beprijzen is wat altijd gratis kwam
+- **Mijn suggestie:** het criterium is niet de opgave maar het type prestatie. Wat binnen een normale bedrijfsvoering meeloopt, blijft onbeprijsd zolang er marge is. Wat een investering, een blijvende ingreep of productieverlies vraagt, is een dienst met een prijs. Dan valt landschapsbeheer aan twee kanten: het gewone onderhoud loopt mee, mozaïekbeheer met uitgestelde maaidatum en hoge waterstanden kost productie en is dus een dienst. Water vasthouden en de koolstof in de bodem houden vallen altijd in de tweede categorie
+- **Let op het gat in de eenvoudige variant** (landschap in de marge, water en koolstof betaald): juist de basiskwaliteit is wat als eerste wegvalt zodra de marge verdwijnt, en dat is wat 4.2 vaststelt. Wie die in de marge laat, laat hem dus vallen op het moment dat de klem toeslaat
+- **Waar het besluit landt:** de tabel in 5.1 (wordt er nu voor betaald), de diensten in 5.3, en "wat betaalt" in hoofdstuk 11. Hoofdstuk 4 hoeft niet mee te veranderen zolang het de grens beschrijvend houdt
+
 ### 4.2, herzien 19-8
 
 - [x] **De koppeling met 4.1 staat er:** de vraag is reëel en op één punt wordt er al aan geleverd, maar dat is het deel waarvoor een regeling bestaat en het meeste beheer staat in geen enkel contract. Zonder die regel spreken 4.1 ("het beheer bestaat, de collectieven voeren het uit") en 4.2 ("het beheer sneuvelt als eerste") elkaar tegen

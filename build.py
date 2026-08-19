@@ -119,10 +119,10 @@ def lees_skelet():
     skelet, nu, sectie = {}, None, None
     for regel in open(pad, encoding='utf-8'):
         r = regel.rstrip()
-        m = re.match(r'## (\d+) — (.+?)(?: · (.+))?$', r)
+        m = re.match(r'## (\d+) — (.+?)(?: · bron: (\S+))?(?: · (.+))?$', r)
         if m:
-            nu = {'nummer': m.group(1), 'titel': m.group(2),
-                  'stand': m.group(3) or '', 'secties': [], 'noot': ''}
+            nu = {'nummer': m.group(1), 'titel': m.group(2), 'bron': m.group(3) or '',
+                  'stand': m.group(4) or '', 'secties': [], 'noot': ''}
             skelet[m.group(1)] = nu
             sectie = None
             continue
@@ -174,10 +174,15 @@ def ontleed_sectie(sid, register=None, skelet=None):
     w = (register or {}).get(sid)
     if w:
         uit['werkstand'] = w
-    if skelet and w:
-        # de kolom `nummer` kan meer hoofdstukken bevatten (e-aktes wordt 6, 7 en 9)
-        blokken = [skelet[n] for n in re.findall(r'\d+', w.get('nummer', ''))
-                   if n in skelet]
+    if skelet:
+        # Koppelen op bronbestand, niet op nummer: dan kan het skelet omnummeren
+        # zonder dat het register en de tekst mee hoeven (afspraak 19-8). Eén
+        # bestand kan meer hoofdstukken dragen: e-aktes wordt 6, 7 en 8.
+        blokken = [skelet[n] for n in sorted(skelet, key=int)
+                   if skelet[n].get('bron') == sid]
+        if not blokken and w:
+            blokken = [skelet[n] for n in re.findall(r'\d+', w.get('nummer', ''))
+                       if n in skelet and not skelet[n].get('bron')]
         if blokken:
             uit['skelet'] = blokken
     return uit
@@ -252,9 +257,9 @@ def build_site(uiting='visie', schrijf=False):
     skelet = lees_skelet() if uiting == 'visie' else {}
     secties = [ontleed_sectie(sid, register, skelet) for sid in order]
     if skelet:
-        # Een hoofdstuk uit het skelet dat nog geen bestand heeft (hoofdstuk 3,
-        # Begrippen) zou onzichtbaar blijven. Hang het achter het hoogste
-        # hoofdstuk dat er wél is en ervoor komt, zodat de grote lijn heel blijft.
+        # Een hoofdstuk uit het skelet zonder bronbestand zou onzichtbaar blijven.
+        # Hang het achter het hoogste hoofdstuk dat er wél is en ervoor komt,
+        # zodat de grote lijn in de lezer heel blijft.
         geclaimd = {}
         for s in secties:
             for b in s.get('skelet', []):

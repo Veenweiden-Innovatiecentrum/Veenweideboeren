@@ -394,30 +394,47 @@ Getoetst tegen `content/*.md`, commit 16 juni 2026.
 
 ### Hoofdstukvolgorde
 
-| # | Hoofdstuk | Fase | Herkomst |
-|---|---|---|---|
-| 1 | Waar dit over gaat · scope | omkadering | uit intro |
-| 2 | Waarop dit rust | omkadering | **nieuw** — de zes aannames uit sectie 12 |
-| 3 | Begrippen | omkadering | uit intro |
-| 4 | A — De ondernemer klem | analyse | a-klem |
-| 5 | B — De opgaven | analyse | b-opgaves |
-| 6 | Akte I — doorgaan | analyse | uit e-aktes |
-| 7 | Akte II — zonder verdienmodel | analyse | uit e-aktes |
-| 8 | C — Wat dit gebied kan dragen | scharnier | c-omslag, ontdaan van oplossing |
-| 9 | Akte III — het antwoord | scharnier | uit e-aktes |
-| 10 | D — De veenweideboer | uitwerking | d-concept, zonder de zes lagen |
-| 11 | Wat de ondernemer doet | uitwerking | f-ondernemer |
-| 12 | Wat de overheid doet | uitwerking | f-overheid, mét de zes lagen |
-| 13 | Wat de markt doet | uitwerking | f3-bedrijfsleven, opgewaardeerd |
-| 14 | G — Wat de boer nu al kan | uitwerking | g-perspectief |
-| 15 | H — Risico's | omkadering | h-risicos |
-| 16 | Slot | omkadering | slot, te herschrijven |
-| 17 | Bijlagen | omkadering | driesporen als toepassing · cijfers en bronnen · toolbox |
+*Herzien 19 augustus 2026 (Tim). Twee wijzigingen: het begrippenhoofdstuk vervalt, en C staat nu vóór de aktes. De redenering staat hieronder onder "Waarom deze volgorde". De kolom **was** houdt de oude nummering vindbaar, want `correctielijst.md` en het besluitenlog verwijzen er nog naar.*
 
-**De kern van de ingreep:** de aktes worden gesplitst. Akte I en II zijn analyse en sluiten de probleemstelling af; akte III is het antwoord en opent de oplossing. Daarmee is er nog één moment waarop het verhaal kantelt, en verdwijnt de dubbeling tussen D en F vanzelf.
+| # | Hoofdstuk | Rol | Herkomst | was |
+|---|---|---|---|---|
+| 1 | Waar dit over gaat | omkadering | uit intro | 1 |
+| 2 | Waarop dit rust | omkadering | **nieuw** — de aannames uit sectie 12 | 2 |
+| 3 | Waarom de ondernemer klem zit (A) | probleem | a-klem | 4 |
+| 4 | Wat Nederland van dit gebied vraagt (B) | vraag | b-opgaves | 5 |
+| 5 | Wat dit gebied kan dragen | vermogen | c-omslag, ontdaan van oplossing | 8 |
+| 6 | Wat er gebeurt als het zo doorgaat (akte I) | mechanisme | uit e-aktes | 6 |
+| 7 | Wat er gebeurt bij ingrijpen zonder verdienmodel (akte II) | mechanisme | uit e-aktes | 7 |
+| 8 | Wat er gebeurt als er wél een verdienmodel onder zit (akte III) | mechanisme · scharnier | uit e-aktes | 9 |
+| 9 | De veenweideboer (D) | uitwerking | d-concept, zonder de zes lagen | 10 |
+| 10 | Wat de ondernemer doet | uitwerking | f-ondernemer | 11 |
+| 11 | Wat de overheid doet | uitwerking | f-overheid, mét de zes lagen | 12 |
+| 12 | Wat de markt doet | uitwerking | f3-bedrijfsleven, opgewaardeerd | 13 |
+| 13 | Wat de boer nu al kan doen (G) | uitwerking | g-perspectief | 14 |
+| 14 | Waar het mis kan gaan (H) | omkadering | h-risicos | 15 |
+| 15 | Slot | omkadering | slot, te herschrijven | 16 |
+| 16 | Bijlagen | omkadering | de aangekondigde aanpak · cijfers en bronnen · **begrippen** · toolbox | 17 |
+
+**De kern van de ingreep:** de aktes worden gesplitst uit één groot hoofdstuk E, en zij staan als drie op een rij. Akte I en II sluiten de probleemstelling af; akte III is het antwoord en opent de oplossing. Daarmee is er nog één moment waarop het verhaal kantelt, en verdwijnt de dubbeling tussen D en F vanzelf.
+
+### Waarom deze volgorde
+
+*Tims redenering, 19 augustus 2026. Dit is de leesorde waarop de rest van de brief rust.*
+
+**Hoofdstuk 3, 4 en 5 zijn probleem, vraag en vermogen, en zij landen op de belofte.** Eerst waar de ondernemer klem zit, dan wat Nederland van dit gebied vraagt, dan wat dit gebied blijkt te kunnen dragen. De reeks begint dus niet met de belofte maar eindigt erop, en dat is de reden dat deze drie in deze volgorde staan en niet in een andere.
+
+**Hoofdstuk 6, 7 en 8 zijn drie mechanismen, geen voorspellingen.** Er verandert niets (akte I), er wordt hard ingegrepen zonder dat er een verdienmodel onder zit (akte II), of dezelfde maatregelen mét een verdienmodel eronder (akte III). Dat onderscheid is geen finesse maar de toon van het hele document: zodra er staat dat het beleid "op akte II afkoerst", leest een ambtenaar een verwijt, en dat is precies de tegenstelling die het bestuur op 17 juni eruit wilde. Wij mogen dat weten; het document beschrijft de categorie en wat erin gebeurt. Zie toetsregel 1, 2 en 12a.
+
+**Akte I en II verliezen beide het vermogen uit hoofdstuk 5, op een andere manier.** In akte I gebeurt er niets en verdwijnt de drager langzaam; in akte II landen de maatregelen wél en verdwijnt de drager sneller. Dat is de boemerang uit sectie 6: het mechanisme dat de opgave oplost, haalt de drager weg die haar moet uitvoeren. Akte III is de enige waarin dat vermogen overeind blijft.
+
+**Daarmee is hoofdstuk 5 de meetlat voor de drie aktes.** Elke akte is af te rekenen op de vraag wat er gebeurt met wat dit gebied kan dragen. Dat is wat de dimensielijst per akte al doet, maar nu heeft de lezer het ijkpunt vlak daarvoor gelezen. In de oude ordening stond C tussen akte II en akte III en had die lijst geen ijkpunt.
+
+**Daarom staat C nu vóór de aktes en niet ertussen.** De drie aktes zijn een vergelijking: dezelfde dimensies, drie keer, met één beeld dat de ontwikkeling van I naar III toont. Wat je vergelijkt, zet je naast elkaar. De oude plaats van C was dramatisch sterker — de troef op het diepste punt — maar zij brak de vergelijking, en met de nieuwe hoofdstuktitels ("wat er gebeurt als…") is de reeks zo zichtbaar dat er niets meer tussen kan.
+
+**Het begrippenhoofdstuk vervalt.** Een woordenlijst wordt opgezocht en niet gelezen, en als hoofdstuk onderbreekt zij precies waar het verhaal op gang komt. De begrippen gaan naar de bijlage, met een fiche bij het eerste gebruik in de tekst — dat is wat `bloktypen.md` "verdieping die het lezen ophoudt" noemt. **Eén ding overleeft: de introductie van de drie aktes**, die toetsregel 13 vóór het eerste gebruik eist. Die komt als korte inzet aan het hoofd van hoofdstuk 6, waar de eerste akte begint. Dat is de enige plek waar de lezer haar nodig heeft, en zij is daarmee geen vooruitwijzing meer maar een aankondiging op het moment zelf.
 
 ### Wat dat per bestand betekent
-- **intro** valt uiteen in drie: scope, aannames, begrippen. De driesporenpassage gaat naar de bijlage.
+- **intro** valt uiteen in twee: scope en aannames. De driesporenpassage en het begrippenkader gaan naar de bijlage.
 - **e-aktes** (3.855 woorden, het grootste bestand) wordt in drieën gesplitst.
 - **d-concept** verliest de zes lagen en houdt de typologie.
 - **f-overheid** krijgt de zes lagen, in de ordening van 15.2.
@@ -524,8 +541,8 @@ De machinale check telt ze. Publiceren kan pas als de teller op nul staat of elk
 | 1 | Scope · aannames · C · akte III | Toonzettend. Hier blijkt of de lijn werkt |
 | 2 | A · B · akte I · akte II | De analyse, met de toon uit ronde 1 |
 | 3 | D · ondernemer · overheid · markt · G | De uitwerking |
-| 4 | Risico's · slot · begrippen | Sluitstukken |
-| 5 | Bijlagen: driesporen · cijfers · toolbox | Mechanisch |
+| 4 | Risico's · slot | Sluitstukken |
+| 5 | Bijlagen: de aangekondigde aanpak · cijfers · **begrippen** · toolbox | Mechanisch |
 | 6 | Laag 1 en laag 2 beleid | Uit het afgeronde geheel |
 
 Na elke ronde: machinale check over álle bestanden, niet alleen de gewijzigde. Zo wordt tegenspraak tussen rondes zichtbaar zolang hij nog goedkoop te herstellen is.

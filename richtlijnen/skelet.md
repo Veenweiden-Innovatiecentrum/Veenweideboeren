@@ -62,9 +62,9 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 # Deel II — Wat er aan de hand is en wat er kan
 
-## 3 — Waarom het model op veen vastloopt (A — De ondernemer klem) · bron: a-klem · ronde 2
+## 3 — Waarom de ondernemer vastloopt op kosten en omzet (A — De ondernemer klem) · bron: a-klem · ronde 2
 
-> Op veen komt de rekening van reguliere melkveehouderij steeds moeilijker rond: grond is duur, de kostprijs stijgt en de ruimte krimpt. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien om welke bedrijven het gaat en waar het het scherpst rekent: zij lopen vast op kosten en omzet, niet op vakmanschap of motivatie.
+> De ondernemer op veen loopt vast op kosten en omzet: grond is duur, de kostprijs stijgt en de ruimte om te ondernemen krimpt. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien om welke bedrijven het gaat, waar het het scherpst rekent, en waarom dit niet over vakmanschap of motivatie gaat.
 
 ### 3.1 Om welke bedrijven het gaat
 - de vorm van de populatie: een kleine groep hele grote bedrijven, een middengroep, een kleine niche `[beeld · auteurs]`

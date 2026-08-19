@@ -397,20 +397,31 @@ Twee van deze tien zijn voor dit kabinet de directe aanleiding om in dit gebied 
 
 ### 4.2 Waarom deze opgaven een ondernemer nodig hebben
 
-Een klemzittende middengroep is niet neutraal voor de maatschappelijke opgaves; het is per definitie negatief op alle dimensies tegelijk. Niet omdat de boer het verkeerd doet, maar omdat het systeem alleen verkeerde opties biedt.
+Wat Nederland hier vraagt is reëel, en op één punt wordt er ook al aan geleverd: er ligt weidevogelbeheer, er zijn pakketten en er zijn collectieven die ze uitvoeren. Dat is het deel waarvoor een regeling bestaat. Het meeste beheer op dit land staat in geen enkel contract, en het hangt aan één voorwaarde die niet in de tabel staat: dat er een ondernemer is die het doet, en die het kan blijven doen.
 
-**Op korte termijn vernietigt margedruk het rentmeesterschap.** Een boer die klem zit zoekt het in kostenbeperking. Slootkantenbeheer, weidevogelbeheer, ecologisch maaien — dat zijn de eerste dingen die sneuvelen. De basiskwaliteit van natuur in het boerenland holt achteruit, niet door kwade wil maar door gebrek aan financiële ruimte.
+Een klemzittende middengroep is daarom niet neutraal voor de maatschappelijke opgaven; het werkt op alle dimensies tegelijk negatief. Niet omdat de boer het verkeerd doet: wie geen marge heeft, kan het werk waarvoor niemand betaalt niet blijven doen.
 
-**Op middellange termijn maakt de schaalvergrotingsreflex de fijnmazigheid kapot.** Wie toch probeert door te groeien dicht sloten, voegt kavels samen, verwijdert landschapselementen en zet weidegang onder druk. Het fijnmazige netwerk van oevers, greppels en perceelranden waar weidevogels, insecten en bodemleven van afhankelijk zijn, dat verdwijnt. In het veenweidegebied betekent intensiveren bovendien diepere ontwatering, hogere veenoxidatie met meer CO₂-emissie, en minder waterbuffering.
-
-**Op lange termijn blokkeert de klemzittende middengroep de transitie zelf.** Ze hebben geen marge om te investeren in een nieuw bedrijfsmodel, geen buffer om de eerste kwetsbare jaren door te komen, en geen perspectief dat het risico rechtvaardigt. Omdat zij de grootste groep zijn en het meeste areaal beheren, betekent dit dat op het overgrote deel van het veenweidegebied structureel niets verandert: de bodem blijft dalen, de CO₂ blijft uitstoten, de waterkwaliteit blijft achter, de biodiversiteit gaat achteruit.
-
-<div style="background:var(--red-light);border-left:3px solid var(--red);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0;font-size:13px;line-height:1.6">
-    <strong style="display:block;margin-bottom:4px">Zonder perspectief geen opgaves</strong>
-    De maatschappelijke opgaves worden niet gehaald zolang de middengroep klem zit. Geen enkele opgave — klimaat, water, natuur, voedselzekerheid, cultuur &amp; landschap, grondstoffen &amp; kringloop, wonen — wordt structureel bereikt als 70-80% van de boeren in het veenweidegebied geen ander perspectief heeft dan doormodderen of stoppen. De waarneming uit vergelijkbare beleidscycli — uitkoopregelingen 2008–2020, eerste-generatie stikstofmaatregelen — is dat harde maatregelen zonder onderliggend bedrijfsmodel het beoogde effect niet bereiken; eerder versnellen ze de uitstroom van precies de boeren die nodig zijn voor de oplossing.
+<div class="decision-card" style="margin-bottom:12px">
+    <div class="label">Op korte termijn</div>
+    <div class="title" style="font-size:15px;line-height:1.4">Margedruk vernietigt het rentmeesterschap</div>
+    <p style="font-size:13.5px;line-height:1.65;margin:.7rem 0 0">Een boer die klem zit zoekt het in kostenbeperking. Slootkantenbeheer, weidevogelbeheer, ecologisch maaien — dat zijn de eerste dingen die sneuvelen. De basiskwaliteit van natuur in het boerenland holt achteruit, niet door kwade wil maar door gebrek aan financiële ruimte.</p>
   </div>
 
-Dat is waarom dit verhaal drie aktes heeft. Akte I laat zien wat er gebeurt als het systeem doordraait: de middengroep krimpt, en de maatschappelijke opgaves worden niet gehaald. Akte II laat zien wat er gebeurt als de overheid ingrijpt met harde maatregelen maar de systeemcondities niet verandert: de klem wordt erger, de middengroep verdwijnt sneller, en de opgaves worden tijdelijk iets beter maar structureel niet gehaald. Akte III laat zien wat er mogelijk wordt als je de drie systeemcondities wél aanpakt — grondmarkt, beleidskader en ketenstructuur tegelijk — zodat de middengroep een nieuw perspectief krijgt: veenweideboer worden, met een verdienmodel dat de opgaves als business benut.
+<div class="decision-card" style="margin-bottom:12px">
+    <div class="label">Op middellange termijn</div>
+    <div class="title" style="font-size:15px;line-height:1.4">De schaalvergrotingsreflex maakt de fijnmazigheid kapot</div>
+    <p style="font-size:13.5px;line-height:1.65;margin:.7rem 0 0">Wie toch probeert door te groeien dicht sloten, voegt kavels samen, verwijdert landschapselementen en zet weidegang onder druk. Het fijnmazige netwerk van oevers, greppels en perceelranden waar weidevogels, insecten en bodemleven van afhankelijk zijn, dat verdwijnt. In het veenweidegebied betekent intensiveren bovendien diepere ontwatering, hogere veenoxidatie met meer CO₂-emissie, en minder waterbuffering.</p>
+  </div>
+
+<div class="decision-card" style="margin-bottom:12px">
+    <div class="label">Op lange termijn</div>
+    <div class="title" style="font-size:15px;line-height:1.4">De klemzittende middengroep blokkeert de transitie zelf</div>
+    <p style="font-size:13.5px;line-height:1.65;margin:.7rem 0 0">De middengroep heeft geen marge om te investeren in een ander bedrijfsmodel, geen buffer om de eerste kwetsbare jaren door te komen, en geen perspectief dat het risico rechtvaardigt. Omdat zij de grootste groep is en het meeste areaal beheert [[CIJFER: aandeel van het veenweide-areaal dat de middengroep beheert, met het label eigen analyse VIC/JUMP]], verandert er op het overgrote deel van het veenweidegebied structureel niets: de bodem blijft dalen, de uitstoot blijft, de waterkwaliteit blijft achter, de biodiversiteit gaat achteruit.</p>
+  </div>
+
+**Wat er met zo'n ondernemer verdwijnt, is concreet en telbaar.** Het zijn de uren landbeheer waarvoor niemand een rekening krijgt: sloten en oevers schoonhouden, een duiker of een dam op tijd herstellen, opmerken dat er iets niet klopt in het water of in het land, en de aanwezigheid van iemand die het gebied kent. Die prestaties zijn niet gratis maar onbeprijsd, en dat verschil wordt pas zichtbaar wanneer het eigenaarschap verschuift. Vervang de familieondernemer door een belegger of door beheer op afstand, en dan moeten die uren uit publiek geld komen, of ze gebeuren niet. Zolang deze ondernemers er zijn, is dat te voorkomen.
+
+**Zonder perspectief geen opgaven.** De maatschappelijke opgaven worden niet gehaald zolang de middengroep klem zit. Geen enkele opgave — klimaat, water, natuur, voedselzekerheid, cultuur en landschap, grondstoffen en kringloop, wonen — wordt structureel bereikt als 70 tot 80 procent van de boeren in het veenweidegebied geen andere route heeft dan doorgaan zoals het is of stoppen. De vraag van Nederland staat of valt dus met de ondernemer die haar uitvoert.
 
 ---
 

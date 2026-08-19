@@ -118,13 +118,16 @@
 
 - [x] **"Beschermde soorten" staat nu bij Natuur — basiskwaliteit** *(Simon)*, en Natuur — gebieden houdt Natura 2000 met de staat van de habitats en de stikstofdepositie daarop
 
-### Nog open in 4.2
+### 4.2, herzien 19-8
 
-- [ ] **De areaal-claim "omdat zij de grootste groep zijn en het meeste areaal beheren" krijgt een `[[CIJFER]]`** met het label eigen analyse VIC/JUMP, of vervalt. Besluit 19-8 bij aanname 3: de 70 tot 80 procent gaat over het **aantal bedrijven**, dus een areaalclaim mag alleen terug met een eigen getal. Richting beleid is het argument sterk, want dan landen de opgaven bij die groep
-- [ ] **De alinea die de drie aktes introduceert vervalt** (toetsregel 13: die introductie staat één keer, bij hoofdstuk 6). Daarmee vervalt ook "veenweideboer worden" als perspectief, zie hierboven
-- [ ] **"Niet omdat de boer het verkeerd doet, maar omdat het systeem alleen verkeerde opties biedt"** gaat om, toetsregel 5a. Zelfde ingreep als in 3.1
-- [ ] **De waarneming over eerdere beleidsronden** (uitkoopregelingen 2008-2020, eerste-generatie stikstofmaatregelen) verhuist naar hoofdstuk 7, waar besluit 17-8 haar als fiche belegt
-- [ ] **"opgaves" wordt "opgaven"** in 4.2; in 4.1 is dat gedaan (`terminologie.md`)
+- [x] **De koppeling met 4.1 staat er:** de vraag is reëel en op één punt wordt er al aan geleverd, maar dat is het deel waarvoor een regeling bestaat en het meeste beheer staat in geen enkel contract. Zonder die regel spreken 4.1 ("het beheer bestaat, de collectieven voeren het uit") en 4.2 ("het beheer sneuvelt als eerste") elkaar tegen
+- [x] **De areaal-claim heeft een `[[CIJFER]]`** in plaats van te vervallen: "omdat zij de grootste groep is en het meeste areaal beheert" staat er nog, met de markering voor het aandeel en het label eigen analyse VIC/JUMP. Besluit 19-8 bij aanname 3 laat de claim alleen met een eigen getal terugkomen, en §16.4 schrijft dan een markering voor in plaats van een plausibel cijfer. Richting beleid is het argument sterk, want dan landen de opgaven bij die groep. **Dit is de enige open markering in dit hoofdstuk**
+- [x] **De alinea die de drie aktes introduceert is vervallen** (toetsregel 13: die introductie staat één keer, in 6.1, waar zij als element in het skelet staat). Daarmee is ook "de middengroep krijgt een nieuw perspectief: veenweideboer worden" weg, dat is de lezer al
+- [x] **"Niet omdat de boer het verkeerd doet, maar omdat het systeem alleen verkeerde opties biedt" is om** (toetsregel 5a). Er staat nu: niet omdat de boer het verkeerd doet, want wie geen marge heeft kan het werk waarvoor niemand betaalt niet blijven doen. Daarmee is de oorzaak de marge en niet een systeem dat iemand iets aandoet, en het loopt vooruit op wat er verdwijnt
+- [x] **De drie termijnen staan als `decision-card`**, gestapeld: label, kernzin, en de alinea van de auteurs eronder. Niet in drie kolommen, want dan geldt de eis van gelijke lengte uit `bloktypen.md` en zijn de drie 45, 80 en 75 woorden
+- [x] **Het rode kader "Zonder perspectief geen opgaves" is lopende tekst** (`bloktypen.md`: dit ís de conclusie van B), met "doormodderen" vervangen door "doorgaan zoals het is" (besluit 18-8, toetsregel 1)
+- [x] **"opgaves" is "opgaven"** in het hele hoofdstuk (`terminologie.md`)
+- [x] **De boemerang uit redactiebrief §3 staat er als eigen alinea:** de onbeprijsde uren, niet gratis maar onbeprijsd, en één zin over de afwendbaarheid en niet meer dan één
 - [x] ~~Fiche "Hoe te lezen" bij de opgaventabel: toelichten hoe de scores tot stand zijn gekomen~~ *(Niel)* — **vervallen 19-8.** Deze vraag gaat over de tabel met drie contexten (Polder, Stadsrand, Natuur) en stippen van ● tot ●●●●, en die staat alleen in het v2-document in `origineel/`. De gepubliceerde versie die het bestuur las heeft tien alinea's zonder scores, dus er is niets uit te leggen
 - [x] ~~De "n.v.t."-cellen in de Natuur-kolom (voedselzekerheid, grondstoffen): herbeoordelen~~ *(Simon)* — **vervallen 19-8, zelfde reden:** die cellen zaten in de contexttabel van v2 en bestaan in de gepubliceerde versie niet meer
 
@@ -172,6 +175,7 @@
 - [ ] Regel ~40: "minimaal -40 cm" → "-20 tot -40 cm" *(Simon)*
 - [ ] Vier driesporenkaders → bijlage, zie bloktypen.md. Correcties van Niel (hierboven bij intro) gelden ook daar
 - [x] Voedselzekerheid-regel in de dimensielijst: "waterbuffer aan akkerbouw" eruit conform §11, en "drie pijlers" werd "drie kanten" (19-8, in `akte-3.md`)
+- [ ] **Verhuisd uit `b-opgaves` op 19-8, voor akte II (hoofdstuk 7, ronde 2):** "De waarneming uit vergelijkbare beleidscycli — uitkoopregelingen 2008–2020, eerste-generatie stikstofmaatregelen — is dat harde maatregelen zonder onderliggend bedrijfsmodel het beoogde effect niet bereiken; eerder versnellen ze de uitstroom van precies de boeren die nodig zijn voor de oplossing." Besluit 17-8 belegt deze waarneming als fiche bij akte II, zonder oordeel: eerdere ronden van hetzelfde mechanisme. In hoofdstuk 4 stond zij in de conclusie van een analysehoofdstuk en deed daar het werk van akte II *(Lian, cluster 9: learnings uit vorige beleidscycli)*
 - [ ] **Verhuisd uit `c-omslag` op 19-8, voor akte I (hoofdstuk 6, ronde 2):** "Akte I lijkt te werken omdat er nog niks is gebeurd. Het is geen stabiele toestand maar een kwetsbaarheidspositie die zich pas openbaart bij de volgende schok, in soja, kunstmest, melkprijs, klimaat of regelgeving." Sluit aan op het besluit van 17-8 om de kwetsbaarheid van de monocultuur bij akte I toe te voegen *(Henk)*
 - [x] **Verhuisd uit `c-omslag`, geland in 8.4 op 19-8:** de ontwerpkeuze-alinea. Zonder het woord "antifragiel", want dat is jargon: "een systeem dat van variatie profiteert in plaats van eraan onderdoor te gaan"
 

@@ -409,7 +409,7 @@ Al deze opgaven landen op hetzelfde land, en in de bedrijfsvoering van hetzelfde
 
 ### 5.1 Wat deze hectare nu al levert
 
-Het veenweidegebied kan meer maatschappelijke opgaven dragen dan voedselproductie alleen. Van al die prestaties wordt er vandaag één als product afgerekend.
+Dat is veel om op één bedrijf te laten landen. En toch gebeurt er op dat land vandaag al meer dan melk produceren. Het veenweidegebied kan meer maatschappelijke opgaven dragen dan voedselproductie alleen, en van al die prestaties wordt er één als product afgerekend.
 
 <div style="overflow-x:auto">
     <table class="layer-table">

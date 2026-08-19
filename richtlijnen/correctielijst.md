@@ -87,12 +87,13 @@
 
 *Gevonden 19-8 op Tims aanwijzing. De visual bevat vier "strategievakjes" die geen van de controles ooit heeft gezien, want het is een SVG-partial en geen `content/`-tekst.*
 
-- [ ] **"1. veenweideboer worden" kan niet meer.** Volgens het besluit van 19-8 is de lezer dat al; de uitnodiging is niet "word het" maar "schuif op de schaal"
-- [ ] **"3. doormodderen" is een verboden formulering.** Op 18-8 in `scope.md` al vervangen ("de twee routes die nu overblijven: doorgaan zoals het is, of uitkopen") wegens toetsregel 1, omdat het als kwalificatie van het huidige beleid leest. In deze visual is het blijven staan
-- [ ] **Rood en groen zijn hier een oordeel over de keuze van een ondernemer.** Twee vakjes zijn groen ("echte perspectieven"), twee rood, en de legenda noemt doormodderen en stoppen "doodlopende wegen". Dat botst met toetsregel 5a en met hoofdstuk 13, waar stoppen neutraal als vierde route staat. Stoppen zonder opvolger is een legitieme keuze, geen fout
-- [ ] **"stuck in the middle" is Engels jargon én een negatieve typering** van precies de doelgroep van dit document. Het woord is "middengroep"
-- [ ] **De vier routes horen niet in een analysehoofdstuk** (toetsregel 12) en staan dubbel: hoofdstuk 13 heeft dezelfde vier. **Voorstel:** uit de visual halen, zodat die toont wat hij moet tonen — de populatie-ontwikkeling tot 2040 — en de routes in 13.1 aanscherpen langs de schaal uit 9.2
-- [ ] **De vier routes en de vier posities van de schaal zijn bijna hetzelfde, maar niet helemaal.** Doorgaan = positie 1, nieuwe activiteiten = positie 2, veenweideboer worden = positie 3, en **positie 4 (diensten als heel product) ontbreekt in de routes**. Stoppen staat buiten de schaal. Aanscherpen in 13.1, met de zin van Costas erbij: het bedrijf toekomstbestendig maken voor de volgende generatie is het reële alternatief voor stoppen
+- [x] **De vier strategievakjes zijn vervangen door de drie routes uit hoofdstuk 13** (Tim, 19-8), met dezelfde kleuren. Daarmee zijn in één keer opgelost: "veenweideboer worden" (kan niet meer, dat is de lezer al), "doormodderen" (toetsregel 1), rood en groen als oordeel over een keuze, en de ontbrekende kleine eerste stap. *De oorspronkelijke punten:*
+- [x] **"1. veenweideboer worden" kan niet meer.** Volgens het besluit van 19-8 is de lezer dat al; de uitnodiging is niet "word het" maar "schuif op de schaal"
+- [x] **"3. doormodderen" is een verboden formulering.** Op 18-8 in `scope.md` al vervangen ("de twee routes die nu overblijven: doorgaan zoals het is, of uitkopen") wegens toetsregel 1, omdat het als kwalificatie van het huidige beleid leest. In deze visual is het blijven staan
+- [x] **Rood en groen zijn hier een oordeel over de keuze van een ondernemer.** Twee vakjes zijn groen ("echte perspectieven"), twee rood, en de legenda noemt doormodderen en stoppen "doodlopende wegen". Dat botst met toetsregel 5a en met hoofdstuk 13, waar stoppen neutraal als vierde route staat. Stoppen zonder opvolger is een legitieme keuze, geen fout
+- [x] **"stuck in the middle" is Engels jargon én een negatieve typering** van precies de doelgroep van dit document. Het woord is "middengroep"
+- [x] **De vier routes zijn drie geworden en tonen wat er met de populatie gebeurt** in plaats van wat iemand moet doen; daarmee vervalt het bezwaar van toetsregel 12. *Oorspronkelijk punt:* (toetsregel 12) en staan dubbel: hoofdstuk 13 heeft dezelfde vier. **Voorstel:** uit de visual halen, zodat die toont wat hij moet tonen — de populatie-ontwikkeling tot 2040 — en de routes in 13.1 aanscherpen langs de schaal uit 9.2
+- [x] **De routes en de schaal sluiten nu aan:** route 1 is positie 1, en route 3 is de schuif over de posities 2 tot 4. *Oorspronkelijk punt:* Doorgaan = positie 1, nieuwe activiteiten = positie 2, veenweideboer worden = positie 3, en **positie 4 (diensten als heel product) ontbreekt in de routes**. Stoppen staat buiten de schaal. Aanscherpen in 13.1, met de zin van Costas erbij: het bedrijf toekomstbestendig maken voor de volgende generatie is het reële alternatief voor stoppen
 
 ## g-perspectief.md
 
@@ -102,7 +103,7 @@
 - [ ] **"Een systeem dat haar maar twee opties biedt"** in de tweede alinea moet langs toetsregel 5a: de klem is een systeemuitkomst én er zijn eigen keuzes gemaakt. Zelfde ingreep als in 3.1
 - [ ] **Dit hoofdstuk spreekt de lezer aan met "je", hoofdstuk 1 met "u".** Eén van de twee moet wijken; het is een besluit voor `terminologie.md`, niet een losse correctie
 - [ ] Het kader "Niet iedereen wíl meebewegen" wordt een fiche, zie `bloktypen.md`
-- [ ] Het driesporenkader "van drie sporen naar één gebiedsbod" gaat naar bijlage 16
+- [x] Het driesporenkader "van drie sporen naar één gebiedsbod" is 19-8 naar bijlage 16 verhuisd, omgezet naar een diagnose met de intensiteiten-gedachte erin
 
 ## b-opgaves.md
 

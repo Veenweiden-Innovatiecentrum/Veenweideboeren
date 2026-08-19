@@ -1202,11 +1202,6 @@ Concreet: een ondernemersbod vanuit de veenweideboeren richting de overheid. Wij
 
 De veenweideboer-typologie wordt dan de **basiswerkwijze voor gebiedsbiedingen**. In de Alblasserwaard, in de Krimpenerwaard, in Friesland, overal waar veenweidegebieden tegen dezelfde keuze aanlopen, wordt dit het framework waarbinnen boeren en overheden tot een gebiedsbod komen. Niet één centraal plan, maar een herbruikbaar model dat per gebied wordt ingevuld.
 
-<div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.25rem 0 0;font-size:13.5px;line-height:1.65">
-    <strong style="display:block;margin-bottom:6px;font-size:14px">Driesporenbeleid, van drie sporen naar één gebiedsbod</strong>
-    <p style="margin:0">Het driesporenbeleid ordent het veenweidegebied vanuit het Rijk: hier intensiveren, daar peilfixeren, daar omschakelen. De veenweideboer-typologie kantelt die logica. Niet drie sporen vanuit Den Haag, maar één gebiedsbod vanuit de collectieven van veenweideboeren, dat de doelen van alle drie sporen integreert in één samenhangend bedrijfsmodel. Spoor 1, 2 en 3 zijn dan geen verschillende interventies meer, maar verschillende intensiteiten van dezelfde aanpak, gedragen door dezelfde ondernemers, gecoördineerd op polderniveau. Dat is wat akte III in beleidstaal betekent.</p>
-  </div>
-
 ---
 
 <!-- ======== bestand: content/h-risicos.md ======== -->
@@ -1294,6 +1289,13 @@ De aanpak is nog niet gepubliceerd. De Kamerbrief van 26 juni 2026 ordent het be
 <div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.25rem 0;font-size:13.5px;line-height:1.65">
       <strong style="display:block;margin-bottom:6px;font-size:14px">Spoor 3, de afbakening is smaller dan de opgave</strong>
       <p style="margin:0">Spoor 3 reserveert melkveehouderij met een lagere veedichtheid voor ca. 20.000 hectare, alleen daar waar opgaves zich stapelen, buiten zonering en weidevogelgebieden. Onze eigen analyse komt op 20 tot 30 procent van het areaal dat een fundamenteel ander bedrijfsmodel nodig heeft. Het verschil zit in de hagelslag: vernatting valt niet in aaneengesloten blokken maar verspreid over percelen, waardoor delen van bedrijven onbruikbaar raken voor reguliere melkveehouderij, ook in gebieden die volgens spoor 2 door kunnen gaan. Wat daaruit volgt voor de inrichting van de volgende ronde: de omschakeling is geen uitzonderingsregeling voor randgevallen maar een route die ook binnen spoor 1 en spoor 2 beschikbaar moet zijn.</p>
+    </div>
+
+<!-- 19-8 verhuisd uit g-perspectief (hoofdstuk 13), omgezet van stellingname naar diagnose -->
+
+<div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.25rem 0;font-size:13.5px;line-height:1.65">
+      <strong style="display:block;margin-bottom:6px;font-size:14px">Drie sporen, of drie intensiteiten van dezelfde beweging</strong>
+      <p style="margin:0">De aanpak ordent het gebied naar ingreep: urgentiegebieden, generieke fixatie van het slootwaterpeil, en omschakeling naar een lagere veedichtheid. Gelezen door de aktes valt op dat die drie ook te zien zijn als drie intensiteiten van één beweging: hetzelfde bedrijfsmodel in verschillende gradaties, gedragen door dezelfde ondernemers en gecoördineerd op polderniveau. Wat dat leert voor de inrichting van de volgende ronde: één bedrijfsmodel met een schuif erin is eenvoudiger te financieren en te controleren dan drie regelingen die elk hun eigen doelgroep moeten afbakenen — en die schuif is precies de schaal uit hoofdstuk 9.</p>
     </div>
 
 <!-- 19-8 verhuisd uit akte III; de correcties uit correctielijst.md zijn hier nog niet verwerkt -->

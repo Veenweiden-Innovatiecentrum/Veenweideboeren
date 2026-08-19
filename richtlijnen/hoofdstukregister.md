@@ -20,7 +20,7 @@ De volgorde in dit register is de volgorde van `volgorde.txt`. Hoofdstukken die 
 | intro | — | — | wachtkamer, hoort leeg te raken |
 | a-klem | 4 | 2 | nog de bestuursversie |
 | b-opgaves | 5 | 2 | nog de bestuursversie |
-| c-omslag | 8 | 1 | nog de bestuursversie |
+| c-omslag | 8 | 1 | herzien; 4 markeringen open (koolstofvoorraad, vindplaats verdringingsreeks, I&W-uitgangspunt, aangevoerd water) |
 | d-concept | 10 | 3 | nog de bestuursversie |
 | e-aktes | 6, 7, 9 | 2 en 1 | nog de bestuursversie, wordt in drieën gesplitst |
 | f-ondernemer | 11 | 3 | nog de bestuursversie |

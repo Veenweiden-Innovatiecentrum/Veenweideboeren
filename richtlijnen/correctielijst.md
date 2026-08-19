@@ -68,12 +68,25 @@
 
 ## c-omslag.md
 
-- [ ] **CO₂-passage** (regel ~25): remmen van veenoxidatie is *uitstootvermindering*, geen vastlegging of opslag. Alleen paludicultuur en actieve veenaanmaak leggen vast. Formulering scheiden: vermeden uitstoot ≠ vastgelegde koolstof *(Simon)*
-- [ ] Zelfde passage: "mogelijk meer CO₂-reductie dan bosaanplant op zandgrond" — Henk vraagt of dit stelliger kan. Alleen stelliger mét bron → `[[BRON: vergelijking veenoxidatieremming vs bosaanplant per euro]]`, anders zo laten
-- [ ] Zelfde passage, mest: "context van kunstmestbeperking" — die beperking bestaat nog niet, formuleren als verwachting. En de circulariteitsclaim toetsen: is mest uit geïmporteerde soja circulair? *(Simon)*
-- [ ] **Waterbufferclaim** (zelfde passage): "in droge zomers levert het water terug" vervalt — vervangen door piekberging nu + zelfvoorzienendheid als ontwerpopgave (redactiebrief §11) *(Niel)*
-- [ ] "Diensten die ze nergens anders vandaan krijgt" vervalt (exclusiviteit, regel 8)
-- [ ] Datacenter/woonwijk/defensieterrein-passage vervalt met C (§1) *(Simon)*
+*Bijgewerkt 19-8 bij het herzien van hoofdstuk 8. De punten uit **cluster 8** stonden er al; wat uit **cluster 2, 5 en 7** aan dit hoofdstuk hangt is er toen bij gezet, want die clusters hebben geen eigen afvinklijst.*
+
+- [x] **CO₂-passage**: remmen van veenoxidatie is *uitstootvermindering*, geen vastlegging of opslag. Alleen paludicultuur en actieve veenaanmaak leggen vast. Formulering scheiden: vermeden uitstoot ≠ vastgelegde koolstof *(Simon)* → staat nu als het onderscheid dat ertoe doet zodra een afnemer betaalt: twee verschillende producten in elk certificatensysteem
+- [x] Zelfde passage: "mogelijk meer CO₂-reductie dan bosaanplant op zandgrond" — Henk vroeg of dit stelliger kan. **Opgelost door de vergelijking te laten vallen**, 19-8: er is geen bron, en de zin vergelijkt grondsoorten (toetsregel 8) en draagt een voorbehoud buiten hoofdstuk 2 (toetsregel 11a). Komt de doorrekening er ooit, dan hoort zij in de cijferbijlage
+- [x] Zelfde passage, mest: "context van kunstmestbeperking" is eruit, want die beperking bestaat nog niet en als verwachting formuleren mag hier niet. De circulariteitsclaim wordt niet gedaan maar begrensd: zolang een deel van het voer van buiten Europa komt, is de organische stof in die mest niet in dit gebied gegroeid *(Simon)*
+- [x] **Waterbufferclaim**: "in droge zomers levert het water terug" is vervallen en vervangen door piekberging nu, waterbuffering als ontwerpopgave, en het opheffen van een claim als mechanisme (redactiebrief §11) *(Niel)*. Zijn weerlegging staat er zelf in, met bronfiche
+- [x] "Diensten die ze nergens anders vandaan krijgt" vervalt (exclusiviteit, regel 8). Ook "een combinatie die nergens anders zo efficiënt kan" is weg, dezelfde claim in andere woorden
+- [x] Datacenter/woonwijk/defensieterrein-passage vervalt met C (§1) *(Simon)*. De ruimtedruk blijft als illustratie staan, mét Simons correctie erin: een woonwijk wordt via de Landelijke maatlat op groen en water ontworpen en Defensie beheert natuur
+- [x] Lian intro:1 en §1: **waarom déze boeren belonen en andere niet.** Het volle antwoord staat nu in 8.2 en het is het alternatief-argument: hier is het alternatief geen andere landbouw maar geen landbouw. Stond als bijzin in 1.3 en is daar ook zo aangekondigd
+- [x] Lian c-omslag:3: "ik vind dit kader verwarrend, ik heb akte III nog niet gelezen." Het hoofdstuk heeft nu nul akte-vermeldingen en nul accentkaders
+- [x] Lian (cluster 7): **"claimantenrij" is onuitgelegd.** Het woord staat er niet meer; er staat wat het betekende
+- [x] Simon (cluster 4): **tellfout "zes of zeven opgaven".** Het hoofdstuk noemt nu één getal, de zeven opgaven uit hoofdstuk 5, en somt ze op
+- [x] Henk (cluster 5): boeren zijn al ondernemer. 8.1 zegt dat het vermogen in de ondernemer zit en niet in de grond, met wat hij of zij nu al doet; nergens een nieuwe ondernemer
+- [ ] **`[[BRON]]` voor de omvang van de koolstofvoorraad in Nederlands veen en de jaarlijkse uitstoot uit veenoxidatie.** Hoort in de cijferbijlage van ronde 5, en de zin in 8.3 leunt erop
+- [ ] **`[[BRON]]` voor de vindplaats van de landelijke verdringingsreeks in de huidige rijksregelgeving.** Tot 2024 stond zij in het Waterbesluit; onder de Omgevingswet is dat verplaatst en van hier niet te controleren. **Vraag voor Simon**, één regel werk voor een jurist. De inhoud van de reeks staat wel in de tekst en is niet in geschil
+- [ ] **`[[BRON]]` onder "I&W stuurt sinds 2026 op waterzelfvoorzienendheid van veenweidegebieden".** Stond al zonder bron in de bestuursversie en draagt nu meer gewicht, want het is de afnemer met een doel
+- [ ] **`[[CIJFER]]`: hoeveel water wordt er nu in droge zomers naar laagveengebieden aangevoerd** om veenoxidatie te beperken. Openstaande vraag van §11 voor de ontwerpstudie; dit getal bepaalt of zelfvoorzienendheid een volume oplevert of vooral een principe
+- [ ] **Lengte.** Het hoofdstuk is van 1197 naar circa 1500 woorden gegroeid, vrijwel volledig door de waterpassage. Als Tim wil korten, is de verdringingsreeks-alinea de kandidaat voor een fiche
+- [ ] **Niel (cluster 8), meegenomen uit dit hoofdstuk:** de zoetwaterbeschikbaarheid als groeiend risico hoort bij de opgave Water in `b-opgaves` en als toekomstrisico bij akte III (besluit 17-8). Hoofdstuk 8 noemt nu wel dat de eigen watervraag bij vernatting stijgt, dus die twee moeten straks hetzelfde zeggen
 
 ## d-concept.md
 
@@ -90,6 +103,8 @@
 - [ ] Regel ~40: "minimaal -40 cm" → "-20 tot -40 cm" *(Simon)*
 - [ ] Vier driesporenkaders → bijlage, zie bloktypen.md. Correcties van Niel (hierboven bij intro) gelden ook daar
 - [ ] Voedselzekerheid-regel in de dimensielijst (regel ~145): "waterbuffer aan akkerbouw" — aanpassen conform §11
+- [ ] **Verhuisd uit `c-omslag` op 19-8, voor akte I (hoofdstuk 6, ronde 2):** "Akte I lijkt te werken omdat er nog niks is gebeurd. Het is geen stabiele toestand maar een kwetsbaarheidspositie die zich pas openbaart bij de volgende schok, in soja, kunstmest, melkprijs, klimaat of regelgeving." Sluit aan op het besluit van 17-8 om de kwetsbaarheid van de monocultuur bij akte I toe te voegen *(Henk)*
+- [ ] **Verhuisd uit `c-omslag` op 19-8, voor akte III (hoofdstuk 9, ronde 1):** de ontwerpkeuze-alinea. "Akte III is niet een morele maar een ontwerpkeuze: een antifragiel systeem dat van variatie profiteert in plaats van eraan onderdoor te gaan." Hoorde niet in een analysehoofdstuk (toetsregel 12) en past bij het antwoord
 
 ## f-ondernemer.md
 
@@ -105,6 +120,9 @@
 ## f3-bedrijfsleven.md
 
 - [ ] **Bij het uitbouwen van dit hoofdstuk (ronde 3), gebruik de feitencheck van 18-8** in het correctieblok bij redactiebrief §7. Drie dingen: Dunea is in dit gebied niet de drinkwaterpartij, Oasen betaalt alleen schade en heeft nu een juridisch conflict met agrariërs over droogteschade, en Waternet ontbreekt terwijl de Bethunepolder een derde van hun drinkwater levert. De enige echte betaalde waterdiensten in Nederland zitten bij Vitens, op zandgrond
+- [ ] **Verhuisd uit `c-omslag` op 19-8:** de institutionele kant van de drie buitengerichte diensten. Er bestaat nog geen markt voor: een akkerbouwer kan niet zomaar CO₂ compenseren door geld naar een veenweideboer over te maken, een organische-mest-marktplaats die kwaliteit en hoeveelheid borgt bestaat niet kant-en-klaar, en betalingsarrangementen voor regionale waterdiensten zijn nauwelijks ontwikkeld. Een veenweide-zuivelketen, een organische-mest-platform, een CO₂-certificatensysteem op veen en een waterdienstvergoeding tussen veen- en akkerbouwgebied vragen alle vier eigen inrichting. Hoorde niet in een analysehoofdstuk (toetsregel 12). **Let op:** de slotzin "precies het type vraagstukken waar het VIC een rol in kan spelen" komt niet terug, want de rol van het VIC blijft volgens §14 buiten de visie
+- [ ] **Ook verhuisd uit `c-omslag`, 19-8:** wie er door deze kanteling aan tafel komt. Naast LVVN ook de akkerbouw, de industrie, de waterschappen en partijen die elders compensatie zoeken; het debat verschuift van een binnengebiedsprobleem naar een gebiedsoverstijgende bron. Past bij dit hoofdstuk of bij `f-overheid`, te bepalen in ronde 3
+- [ ] **Uit `c-omslag`, 19-8:** I&W is de partij met een doel en zonder instrument (waterzelfvoorzienendheid sinds 2026). §11 noemt dat "precies de situatie waarin een opdracht ontstaat". Hoofdstuk 8 benoemt alleen het doel; de stap naar het instrument hoort hier of in `f-overheid`
 - [ ] Europese voorbeelden Vittel en München staan in de tekst; Vittel is in de LEI-studie van 2009 het contrast met de Nederlandse praktijk (individuele contracten mét vergoeding tegenover kennis zonder vergoeding). Bruikbaar, maar niet als bewijs dat het hier al zo werkt
 
 ## h-risicos.md
@@ -126,9 +144,10 @@
 - [ ] "-40 cm" als losse waarde → altijd "-20 tot -40 cm" waar het over de Nota Ruimte of generiek beleid gaat; controleer per geval of de bron een enkele waarde noemt
 - [ ] **Kaal "waterpeil" specificeren.** `terminologie.md` eist de grondwaterstand, het slootwaterpeil of beide, nooit alleen "waterpeil". Nog te doen in `d-concept` (regel ~38, 2×), `e-aktes` (regels ~14 en ~136) en `f-overheid` (regel ~64, 3×)
 - [ ] Getallen zonder bron → fiche met bron of label "eigen analyse VIC/JUMP" (regel 19)
-- [ ] **Openingsalinea's onder een kop brengen.** Nieuwe regel van 18-8: lopende tekst staat altijd onder een kop, dus elk hoofdstuk krijgt bij zijn eigen ronde een `x.1` met een kop voor de alinea's die nu los onder de hoofdstukkop staan. Dat is nu het geval in **elf hoofdstukken**: `a-klem`, `c-omslag`, `d-concept`, `e-aktes`, `f-ondernemer`, `f-overheid`, `f3-bedrijfsleven`, `g-perspectief`, `h-risicos`, `slot` en `bijlage-driesporen`. In `scope` staat op die plek een openingskader met eigen koppen, en dat is de toegestane uitzondering
+- [ ] **Openingsalinea's onder een kop brengen.** Nieuwe regel van 18-8: lopende tekst staat altijd onder een kop, dus elk hoofdstuk krijgt bij zijn eigen ronde een `x.1` met een kop voor de alinea's die nu los onder de hoofdstukkop staan. Dat is nu het geval in **tien hoofdstukken**: `a-klem`, `d-concept`, `e-aktes`, `f-ondernemer`, `f-overheid`, `f3-bedrijfsleven`, `g-perspectief`, `h-risicos`, `slot` en `bijlage-driesporen`. In `scope` staat op die plek een openingskader met eigen koppen, en dat is de toegestane uitzondering; in `c-omslag` is het 19-8 opgelost met sectie 8.1
 - [ ] **Verspreide voorbehouden naar hoofdstuk 2.** Nu hoofdstuk 2 bestaat, geldt toetsregel 11a scherp: buiten dat hoofdstuk is de tekst stellig. Bij elk hoofdstuk dat herzien wordt "mogelijk", "naar verwachting", "wij veronderstellen" en "in principe" langslopen. Nu nog één vindplaats: `f-overheid` regel ~31 ("in principe")
-- [ ] **"Hij" voor de ondernemer.** Nieuwe regel in `terminologie.md` (18-8, Tim): gebruik "de ondernemer" of "hij of zij", nooit standaard "hij", "hem" of "zijn". Bij elk hoofdstuk dat herzien wordt langslopen; in de bestuursversie staat dit overal
+- [ ] **"Hij" voor de ondernemer.** Nieuwe regel in `terminologie.md` (18-8, Tim): gebruik "de ondernemer" of "hij of zij", nooit standaard "hij", "hem" of "zijn". Bij elk hoofdstuk dat herzien wordt langslopen; in de bestuursversie staat dit overal. Gedaan in `scope`, `aannames` en `c-omslag`
+- [ ] **`terminologie.md` verbiedt nog "ecosysteemdiensten", en die regel is vervallen.** Redactiebrief §13 vervangt hem door twee definities: een *ecosysteemdienst* is wat de natuur zelf levert, *maatschappelijke dienstverlening* is de ondernemersactiviteit die dat aan een opdrachtgever levert. Het bestuur vroeg op 1 juli juist om dat onderscheid (cluster 7). Opgemerkt 19-8 bij hoofdstuk 8, dat de term niet gebruikt; de regel moet om vóór het eerste hoofdstuk dat hem wél nodig heeft, en dat is hoofdstuk 3 of 13
 
 ---
 

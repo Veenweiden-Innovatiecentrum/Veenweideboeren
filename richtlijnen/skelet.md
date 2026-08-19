@@ -62,7 +62,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 # Deel II — Wat er aan de hand is en wat er kan
 
-## 3 — Waarom de ondernemer vastloopt op kosten en omzet (A — De ondernemer klem) · bron: a-klem · ronde 2 · nu aan de beurt
+## 3 — Waarom de ondernemer klem komt te zitten (A — De ondernemer klem) · bron: a-klem · ronde 2 · nu aan de beurt
 
 > De ondernemer op veen loopt vast op kosten en omzet: grond is duur, de kostprijs stijgt en de ruimte om te ondernemen krimpt. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien om welke bedrijven het gaat, waarom het zakelijk niet meer vol te houden is, waar de uitdaging het scherpst is, en wat een andere koers kost. Het is de uitwerking van de klem die hoofdstuk 1 aankondigt, dus de scope wordt hier niet opnieuw opgebouwd.
 

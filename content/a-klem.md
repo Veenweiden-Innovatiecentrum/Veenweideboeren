@@ -1,4 +1,4 @@
-## 3 — Waarom de ondernemer vastloopt op kosten en omzet
+## 3 — Waarom de ondernemer klem komt te zitten
 
 ### 3.1 Om welke bedrijven het gaat
 

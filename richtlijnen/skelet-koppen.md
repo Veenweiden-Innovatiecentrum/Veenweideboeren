@@ -27,7 +27,7 @@ Vier aannames dragen dit verhaal. Wij zeggen ze stellig en zetten eronder waarop
 
 ## Deel II — Wat er aan de hand is en wat er kan
 
-### 3. Waarom de ondernemer vastloopt op kosten en omzet (A — De ondernemer klem)
+### 3. Waarom de ondernemer klem komt te zitten (A — De ondernemer klem)
 
 De ondernemer op veen loopt vast op kosten en omzet: grond is duur, de kostprijs stijgt en de ruimte om te ondernemen krimpt. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien om welke bedrijven het gaat, waar het het scherpst rekent, en waarom dit niet over vakmanschap of motivatie gaat.
 

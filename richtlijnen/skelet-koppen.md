@@ -27,12 +27,12 @@ Vier aannames dragen dit verhaal. Wij zeggen ze stellig en zetten eronder waarop
 
 ## Deel II — Wat er aan de hand is en wat er kan
 
-### 3. Waarom de ondernemer klem zit (A — De ondernemer klem)
+### 3. Waarom het model op veen vastloopt (A — De ondernemer klem)
 
-De middengroep zit klem: grondprijs, kostprijs en krimpende ruimte dwingen tot een productie die op veen steeds duurder wordt. Dat is een systeemuitkomst, en tegelijk zijn er eigen keuzes gemaakt in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien wie die groep is en waar het knelt: hij valt om op kosten en omzet, niet op vakmanschap of motivatie.
+Op veen komt de rekening van reguliere melkveehouderij steeds moeilijker rond: grond is duur, de kostprijs stijgt en de ruimte krimpt. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien om welke bedrijven het gaat en waar het het scherpst rekent: zij lopen vast op kosten en omzet, niet op vakmanschap of motivatie.
 
-- 3.1 Wie klem zit
-- 3.2 Waarom de middengroep klem zit
+- 3.1 Om welke bedrijven het gaat
+- 3.2 Waarom de rekening niet meer rond komt
 - 3.3 Waar de uitdaging het scherpst is
 
 ### 4. Wat Nederland van dit gebied vraagt (B — De opgaven)

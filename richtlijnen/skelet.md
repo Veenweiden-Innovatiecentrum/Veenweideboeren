@@ -62,16 +62,16 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 # Deel II — Wat er aan de hand is en wat er kan
 
-## 3 — Waarom de ondernemer klem zit (A — De ondernemer klem) · bron: a-klem · ronde 2
+## 3 — Waarom het model op veen vastloopt (A — De ondernemer klem) · bron: a-klem · ronde 2
 
-> De middengroep zit klem: grondprijs, kostprijs en krimpende ruimte dwingen tot een productie die op veen steeds duurder wordt. Dat is een systeemuitkomst, en tegelijk zijn er eigen keuzes gemaakt in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien wie die groep is en waar het knelt: hij valt om op kosten en omzet, niet op vakmanschap of motivatie.
+> Op veen komt de rekening van reguliere melkveehouderij steeds moeilijker rond: grond is duur, de kostprijs stijgt en de ruimte krimpt. Dat is deels hoe het systeem uitpakt en deels het gevolg van eigen keuzes in schaal, financiering en tempo, want niet iedereen zit er even diep in. Dit hoofdstuk laat zien om welke bedrijven het gaat en waar het het scherpst rekent: zij lopen vast op kosten en omzet, niet op vakmanschap of motivatie.
 
-### 3.1 Wie klem zit
+### 3.1 Om welke bedrijven het gaat
 - de vorm van de populatie: een kleine groep hele grote bedrijven, een middengroep, een kleine niche `[beeld · auteurs]`
 - de middengroep beheert het meeste land en heeft geen van beide routes open `[tekst · auteurs]`
 
-### 3.2 Waarom de middengroep klem zit
-- drie systeemcondities: de grondmarkt, de kostprijs, en het systeem dat intern vastloopt `[tekst · auteurs]` — nu twee kaders
+### 3.2 Waarom de rekening niet meer rond komt
+- drie dingen die de rekening bepalen: de grondmarkt, de kostprijs, en een systeem dat intern vastloopt `[tekst · auteurs]` — nu twee kaders
 - het gaspedaal werd de rem: een systeemomkering, geen verwijt `[tekst · nieuw]` één zin, besluit 17-8
 - **en er zijn eigen keuzes gemaakt.** Schaal, financiering en het moment van investeren waren beslissingen van de ondernemer zelf, en niet iedereen zit even diep in de klem. Geen verwijt, maar de andere kant van ondernemerschap: daarom is er ook binnen de klem ruimte om te kiezen, en dat is hoofdstuk 13 `[tekst · nieuw]` Tim, 19-8
 - de wetmatigheid: een lagere veedichtheid zonder betaalde prestatie ernaast geeft een lager inkomen `[tekst · verhuisd]` uit hoofdstuk 2, plus `[[CIJFER]]` voor het inkomensgat

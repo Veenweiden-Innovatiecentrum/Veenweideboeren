@@ -175,6 +175,127 @@ const VISIE_KOP = (() => {
 
 /* ---- documentvorm: één doorlopende pagina, hoofdstukken in/uitklapbaar ---- */
 
+/* ---- redactiemodus: in de tekst typen en de wijzigingen opsturen ----
+   Tim, 20-8. Waarom niet rechtstreeks in content/ schrijven: dan kan een
+   wijziging van hem botsen met een schrijfactie van een sessie, en dan toont de
+   diff in content/ niet meer exact wat er veranderde. Daarom een wachtrij:
+   serveer.py schrijft naar feedback/redactie-<datum>.md, en een sessie past het
+   toe. Zo maakt het niet uit wie er op dat moment bezig is.
+
+   Twee dingen die de tekst beschermen. Zolang deze modus aan staat pauzeert het
+   automatisch herladen (window.VIC_REDACTIE, opgevangen in index.html), en wat
+   er getypt is staat in localStorage. Een herbouw kost dus niets. */
+const REDACTIE_SLEUTEL = 'vic-redactie-wachtrij';
+
+function laadWachtrij() {
+  try { return JSON.parse(localStorage.getItem(REDACTIE_SLEUTEL)) || []; } catch (e) { return []; }
+}
+function bewaarWachtrij(rij) {
+  try { localStorage.setItem(REDACTIE_SLEUTEL, JSON.stringify(rij)); } catch (e) {}
+}
+
+function RedactieBalk({ aan, zet, rij, zetRij }) {
+  const [bezig, setBezig] = React.useState(false);
+  const [melding, setMelding] = React.useState('');
+  if (!WERKSTAND_ZICHTBAAR) return null;
+
+  const versturen = () => {
+    if (!rij.length || bezig) return;
+    setBezig(true);
+    fetch('/__redactie', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ wijzigingen: rij }),
+    })
+      .then((r) => r.json())
+      .then((a) => {
+        if (!a.ok) throw new Error(a.fout || 'onbekende fout');
+        setMelding(a.aantal + ' opgestuurd naar ' + a.bestand);
+        zetRij([]); bewaarWachtrij([]);
+      })
+      .catch((e) => setMelding('niet gelukt: ' + e.message + ' — draait serveer.py?'))
+      .then(() => setBezig(false));
+  };
+
+  const knop = (actief) => ({
+    fontFamily: 'var(--font-sans)', fontSize: 12, fontWeight: 600, cursor: 'pointer',
+    border: '1px solid ' + (actief ? 'var(--accent)' : 'rgba(0,0,0,.18)'),
+    background: actief ? 'var(--accent-light)' : '#fff',
+    color: actief ? 'var(--accent2)' : 'var(--text2)',
+    borderRadius: 5, padding: '5px 12px',
+  });
+
+  return (
+    <div style={{ position: 'sticky', top: 0, zIndex: 40, display: 'flex', alignItems: 'center',
+                  gap: 10, padding: '8px 0', marginBottom: 6, background: 'var(--bg)',
+                  borderBottom: aan ? '2px solid var(--accent)' : '1px solid rgba(0,0,0,.06)' }}>
+      <button style={knop(aan)} onClick={() => { zet(!aan); setMelding(''); }}>
+        {aan ? '\u25be redactiemodus staat aan' : '\u270e redactiemodus'}
+      </button>
+      {aan && (
+        <>
+          <span style={{ fontSize: 12, color: 'var(--text3)' }}>
+            klik in een alinea en typ. Verversen staat uit zolang dit aan staat.
+          </span>
+          <span style={{ flex: 1 }}></span>
+          <span style={{ fontSize: 12, fontWeight: 600, color: rij.length ? 'var(--accent2)' : 'var(--text3)' }}>
+            {rij.length} gewijzigd
+          </span>
+          <button style={knop(!!rij.length)} onClick={versturen} disabled={!rij.length || bezig}>
+            {bezig ? 'versturen\u2026' : 'opsturen'}
+          </button>
+          {rij.length > 0 && (
+            <button style={{ ...knop(false), fontWeight: 400 }}
+              onClick={() => { if (confirm('Alle ' + rij.length + ' wijzigingen weggooien?')) { zetRij([]); bewaarWachtrij([]); location.reload(); } }}>
+              weggooien
+            </button>
+          )}
+        </>
+      )}
+      {melding && <span style={{ fontSize: 12, color: 'var(--text2)' }}>{melding}</span>}
+    </div>
+  );
+}
+
+/* Maakt de alinea's van één hoofdstuk bewerkbaar en houdt de wijzigingen bij.
+   Alleen blokken op het hoogste niveau van de sectie: wat in een fiche of een
+   partial zit is niet een-op-een naar de bron te herleiden, en dat wordt als
+   voorstel met context geregistreerd in plaats van als exacte vervanging. */
+function useRedactie(aan, rij, zetRij) {
+  React.useEffect(() => {
+    window.VIC_REDACTIE = aan;
+    const blokken = [...document.querySelectorAll('[data-nt-sectie] p, [data-nt-sectie] li, [data-nt-sectie] td')];
+    if (!aan) { blokken.forEach((b) => { b.removeAttribute('contentEditable'); b.style.outline = ''; }); return; }
+    const opslag = new Map();
+    const bij = (e) => {
+      const el = e.target.closest('p,li,td');
+      if (!el) return;
+      const was = opslag.get(el);
+      const wordt = el.innerText.trim();
+      if (was === undefined || wordt === was) return;
+      const sectie = el.closest('section[id]');
+      const hoofdstuk = sectie ? (sectie.querySelector('h2') || {}).textContent : '?';
+      const exact = !el.closest('.fiche-popup') && !el.closest('table') && el.tagName === 'P';
+      zetRij((oud) => {
+        const zonder = oud.filter((w) => w.was !== was);
+        const nieuw = [...zonder, { hoofdstuk: (hoofdstuk || '?').replace(/\u25be.*/, '').trim(), was, wordt, exact }];
+        bewaarWachtrij(nieuw);
+        return nieuw;
+      });
+    };
+    blokken.forEach((b) => {
+      opslag.set(b, b.innerText.trim());
+      b.setAttribute('contentEditable', 'true');
+      b.style.outline = '1px dashed rgba(62,166,53,.35)';
+      b.style.outlineOffset = '3px';
+      b.addEventListener('blur', bij);
+    });
+    return () => blokken.forEach((b) => {
+      b.removeAttribute('contentEditable'); b.style.outline = '';
+      b.removeEventListener('blur', bij);
+    });
+  }, [aan, zetRij]);
+}
+
 function DocumentLezer({ openToolbox, wisselVorm }) {
   const [open, setOpen] = React.useState(() => {
     try { return JSON.parse(localStorage.getItem('vic-v4-doc-open')) || {}; } catch (e) { return {}; }
@@ -193,6 +314,9 @@ function DocumentLezer({ openToolbox, wisselVorm }) {
 
   // sticky inhoudsopgave: welk hoofdstuk is in beeld?
   const [actief, setActief] = React.useState(HOOFDSTUKKEN[0] && HOOFDSTUKKEN[0].id);
+  const [redactie, setRedactie] = React.useState(false);
+  const [rij, zetRij] = React.useState(laadWachtrij);
+  useRedactie(redactie, rij, zetRij);
   React.useEffect(() => {
     const ids = HOOFDSTUKKEN.map((h) => h.id);
     const onScroll = () => {
@@ -237,6 +361,7 @@ function DocumentLezer({ openToolbox, wisselVorm }) {
         <Html html={VISIE_KOP.h1}></Html>
       </article>
       <article className="v4-doc">
+        <RedactieBalk aan={redactie} zet={setRedactie} rij={rij} zetRij={zetRij}></RedactieBalk>
         <p className="v4-allesklap" style={{ textAlign: 'right', margin: '0 0 2px' }}>
           <span onClick={() => alles(aantalOpen === 0)}
             style={{ cursor: 'pointer', fontFamily: 'var(--font-sans)', fontSize: 13, fontWeight: 700, color: 'var(--accent2)', whiteSpace: 'nowrap' }}>

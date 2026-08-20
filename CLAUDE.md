@@ -100,6 +100,17 @@ Lukt het ophalen aan de andere kant niet, dan is dat een rate limit op het IP va
 
 Voor de sessie die aan programma A werkt is er daarnaast `richtlijnen/handoff-programma-a.md`, zelfstandig leesbaar. Werk die bij als er iets verandert dat A raakt.
 
+## Redactiemodus — Tim typt in de lezer, jij past het toe
+
+In de lezer staat bovenaan een knop **redactiemodus**. Daarmee worden de alinea's bewerkbaar en kan Tim rechtstreeks in de tekst typen. Eén knop stuurt de gewijzigde alinea's naar de server, en die schrijft ze als markdown naar **`feedback/redactie-<datum>.md`**.
+
+**Kijk bij het begin van een sessie of daar een bestand staat.** Elk blok geeft het hoofdstuk, de oude tekst en de nieuwe, met een vinkvakje. Pas ze toe in `content/`, vink af, en meld wat je hebt gedaan.
+
+- **`exact te vervangen`** betekent dat de alinea één-op-één in `content/` staat: gewoon vervangen.
+- **`voorstel met context`** betekent dat de tekst uit een fiche, een tabel of een partial komt en niet één-op-één te herleiden is. Zoek de bron op en pas hem daar aan.
+
+**Er wordt nooit uit de browser in `content/` geschreven, en dat is met opzet.** Zo kan een wijziging van Tim niet botsen met een schrijfactie van een sessie, ongeacht wie er op dat moment bezig is, en blijft de diff in `content/` exact tonen wat er veranderde. Zolang de redactiemodus aan staat pauzeert het automatisch herladen en staat wat er getypt is in de browseropslag, dus een herbouw van jou kost Tim niets.
+
 ## Bouwen
 
 Na tekstwijzigingen: `python build.py document` en de output in `dist/` controleren. `dist/` nooit handmatig bewerken.

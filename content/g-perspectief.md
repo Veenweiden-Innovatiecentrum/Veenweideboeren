@@ -18,7 +18,7 @@ Wat dit document probeert te doen, voorbij de analyse, is iets dat in de meeste 
 
     <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius-lg);padding:1.5rem;border-top:3px solid var(--accent)">
       <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--accent);margin-bottom:6px;font-weight:600">3 — Maatschappelijke diensten erbij, van één perceel tot het hele bedrijf</div>
-      <p style="font-size:13px;color:var(--text2);line-height:1.5">Naast het vee iets doen waarvoor betaald wordt. Dat kan klein beginnen: één perceel weidevogelbeheer met een contract, water bergen op de laagste hoek. Het hoeft ook niet aan de grond te hangen: zorg of recreatie op het bedrijf hoort er net zo goed bij. Het kan verder gaan, tot melk één van meerdere producten is bij een lagere veedichtheid. En het kan helemaal doorlopen, tot een bedrijf zonder koeien waar de diensten het product zijn. Waar je op die schaal gaat staan, bepaal je zelf; de posities staan in hoofdstuk 9.</p>
+      <p style="font-size:13px;color:var(--text2);line-height:1.5">Naast het vee iets doen waarvoor betaald wordt. Dat kan klein beginnen: één perceel weidevogelbeheer met een contract, water bergen op de laagste hoek. Het hoeft ook niet aan de grond te hangen: zorg of recreatie op het bedrijf hoort er net zo goed bij. Het kan verder gaan, tot melk één van meerdere producten is bij een lagere veedichtheid. En het kan helemaal doorlopen, tot een bedrijf zonder koeien waar de diensten het product zijn. Waar je op die schaal gaat staan, bepaal je zelf; de posities staan in hoofdstuk 10.</p>
     </div>
 
   </div>

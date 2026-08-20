@@ -18,7 +18,7 @@ Dit gebied kan meer maatschappelijke opgaven dragen dan voedsel alleen, en dat v
 
 ### 2. Waarop dit rust
 
-Vier aannames dragen dit verhaal. Wij zeggen ze stellig en zetten eronder waarop wij ze baseren; valt er één, dan moet het verhaal op dat punt om. Wat er moet gebeuren om ze waar te maken staat niet hier maar achteraan, in hoofdstuk 14.
+Vier aannames dragen dit verhaal. Wij zeggen ze stellig en zetten eronder waarop wij ze baseren; valt er één, dan moet het verhaal op dat punt om. Wat er moet gebeuren om ze waar te maken staat niet hier maar achteraan, in hoofdstuk 15.
 
 - 2.1 Feit, standpunt en aanname
 - 2.2 De vier aannames
@@ -89,45 +89,45 @@ Dezelfde doelen, maar de dienst wordt betaald in plaats van het verlies vergoed.
 
 Dit is het bedrijfsmodel Veenweideboeren: een bedrijf dat voedsel blijft leveren én betaald wordt voor water, koolstof, landschap en biodiversiteit, met minder koeien per hectare. Eerst wat de naam betekent: veenweideboer is geen categorie maar een schaal, en iedereen die op veen boert staat erop. Daarna wie de dragende groep is, en waarom de naam over de ondernemer gaat en niet over de landbouwmethode.
 
-- 9.1 Wat het bedrijfsmodel is
-- 9.2 Veenweideboer is een schaal, geen categorie
-- 9.3 Wie de dragende groep is
-- 9.4 Waarom veenweideboeren en niet veenweidelandbouw
-- 9.5 Twee aanscherpingen
+- 10.1 Wat het bedrijfsmodel is
+- 10.2 Veenweideboer is een schaal, geen categorie
+- 10.3 Wie de dragende groep is
+- 10.4 Waarom veenweideboeren en niet veenweidelandbouw
+- 10.5 Twee aanscherpingen
 
 ### 10. Wat de ondernemer doet
 
 De overheid zegt wat er geleverd moet worden, de ondernemer bepaalt hoe. Dit hoofdstuk is de gereedschapskist: negen categorieën maatregelen binnen het bestaande bedrijf, en daarnaast de routes naar nieuw inkomen. Niet iedereen hoeft hetzelfde te doen, en dat is het punt.
 
-- 10.1 De toolbox is de vrijheid
-- 10.2 Niveau 1 — het bestaande bedrijf beter
-- 10.3 Niveau 2 — nieuwe inkomstenstromen
-- 10.4 Drie typen, drie strategieën
+- 11.1 De toolbox is de vrijheid
+- 11.2 Niveau 1 — het bestaande bedrijf beter
+- 11.3 Niveau 2 — nieuwe inkomstenstromen
+- 11.4 Drie typen, drie strategieën
 
 ### 11. Wat de overheid doet
 
 Strakker op wat er geleverd moet worden, ruimer op hoe. Dit hoofdstuk ordent het overheidshandelen in drie: wat moet, wat mag, en wat betaalt — opdrachten waar zij een dienst inkoopt, steun waar zij niets terugkrijgt. En het benoemt de juridische adder: een echt dienstencontract botst op aanbesteding en staatssteun, en wij kiezen er toch voor.
 
-- 11.1 Het sturingsprincipe
-- 11.2 Wat moet, wat mag, wat betaalt
-- 11.3 Het juridische frame moet meekantelen
-- 11.4 Collectieven en het waterschap
+- 12.1 Het sturingsprincipe
+- 12.2 Wat moet, wat mag, wat betaalt
+- 12.3 Het juridische frame moet meekantelen
+- 12.4 Collectieven en het waterschap
 
 ### 12. Wat de markt doet
 
 Zolang al het geld van de overheid komt, houdt het weerwoord stand dat dit subsidie is met een ander etiket. Dit hoofdstuk zet de tweede geldstroom neer: de zuivelketen, banken en verzekeraars, de drinkwaterbedrijven, de koolstofmarkt. En het zegt eerlijk wat er nog niet is, want in het veenweidegebied betaalt vandaag geen enkele partij voor een geleverde dienst.
 
-- 12.1 Waarom de markt erbij hoort
-- 12.2 Wie er kunnen aanschuiven
-- 12.3 Wat er nog niet is
+- 13.1 Waarom de markt erbij hoort
+- 13.2 Wie er kunnen aanschuiven
+- 13.3 Wat er nog niet is
 
 ### 13. Wat de boer nu al kan doen (G — Terug naar de boer)
 
 Drie routes: doorgaan zoals het is, stoppen, of maatschappelijke diensten erbij — van één perceel tot het hele bedrijf. De eerste twee bestaan al, de derde is wat dit document toevoegt. Dit is het enige hoofdstuk dat de ondernemer direct aanspreekt, met drie archetypen waarin hij of zij zich kan herkennen. Erkenning eerst, dan een bod.
 
-- 13.1 Drie routes
-- 13.2 Drie archetypen: hoe verschillende ondernemers het invullen
-- 13.3 Van visie naar ondernemersbod
+- 14.1 Drie routes
+- 14.2 Drie archetypen: hoe verschillende ondernemers het invullen
+- 14.3 Van visie naar ondernemersbod
 
 ---
 
@@ -137,21 +137,21 @@ Drie routes: doorgaan zoals het is, stoppen, of maatschappelijke diensten erbij 
 
 Hier staat wat er nog niet klopt, en dat is geen disclaimer maar een opdracht. Twee dingen: wat bewezen moet worden voordat de aannames staan, en waaraan het ontwerp van de regelingen moet voldoen om niet gekaapt te worden. Elk punt staat er met zijn antwoord ernaast, en waar wij dat antwoord niet hebben staat dat er ook.
 
-- 14.1 Wat er nog bewezen moet worden
-- 14.2 Waar het ontwerp aan moet voldoen
+- 15.1 Wat er nog bewezen moet worden
+- 15.2 Waar het ontwerp aan moet voldoen
 
 ### 15. Slot
 
 Waar dit begon en waar het eindigt. En de vraag, in twee regels: wij vragen geen euro uit de lopende programma's, wel de ruimte om te bouwen wat de volgende ronde nodig heeft. Op tijd, dus nu.
 
-- 15.1 Waar dit begon en waar het eindigt
-- 15.2 Wat wij vragen
+- 16.1 Waar dit begon en waar het eindigt
+- 16.2 Wat wij vragen
 
 ### 16. Bijlagen
 
 Alles om het na te rekenen: de aangekondigde veenweide-aanpak gelezen door de scenario's, elk getal met zijn bron of label, de volledige toolbox en de begrippen. Wie een bewering wil nazoeken, is hier op de juiste plek.
 
-- 16.1 De aangekondigde veenweide-aanpak, gelezen door de scenario's
-- 16.2 Cijfers en bronnen
-- 16.3 De toolbox
-- 16.4 Begrippen
+- 17.1 De aangekondigde veenweide-aanpak, gelezen door de scenario's
+- 17.2 Cijfers en bronnen
+- 17.3 De toolbox
+- 17.4 Begrippen

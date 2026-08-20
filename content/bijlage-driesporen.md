@@ -1,4 +1,4 @@
-## 16 — Bijlage: de aangekondigde veenweide-aanpak, gelezen door de scenario's
+## 17 — Bijlage: de aangekondigde veenweide-aanpak, gelezen door de scenario's
 
 **Stand van zaken op 18 augustus 2026.** Dit is de precieze inhoud van de gebiedsspecifieke aanpak waarnaar 1.2 verwijst: het driesporenbeleid zoals het is aangekondigd, en dat de Veenweidenbrief na de zomer moet bevestigen. Deze bijlage past de leesbril van de drie scenario's daarop toe. Het is een diagnose van een specifiek moment, geen standpunt over het beleid: wij lezen mee om te leren hoe de volgende ronde beter kan worden ingericht, niet om deze ronde te herzien. De middelen die nu belegd zijn, zijn belegd.
 
@@ -18,11 +18,11 @@ De aanpak is nog niet gepubliceerd. De Kamerbrief van 26 juni 2026 ordent het be
       <p style="margin:0">Spoor 3 reserveert melkveehouderij met een lagere veedichtheid voor ca. 20.000 hectare, alleen daar waar opgaves zich stapelen, buiten zonering en weidevogelgebieden. Onze eigen analyse komt op 20 tot 30 procent van het areaal dat een fundamenteel ander bedrijfsmodel nodig heeft. Het verschil zit in de hagelslag: vernatting valt niet in aaneengesloten blokken maar verspreid over percelen, waardoor delen van bedrijven onbruikbaar raken voor reguliere melkveehouderij, ook in gebieden die volgens spoor 2 door kunnen gaan. Wat daaruit volgt voor de inrichting van de volgende ronde: de omschakeling is geen uitzonderingsregeling voor randgevallen maar een route die ook binnen spoor 1 en spoor 2 beschikbaar moet zijn.</p>
     </div>
 
-<!-- 19-8 verhuisd uit g-perspectief (hoofdstuk 13), omgezet van stellingname naar diagnose -->
+<!-- 19-8 verhuisd uit g-perspectief (hoofdstuk 14), omgezet van stellingname naar diagnose -->
 
 <div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.25rem 0;font-size:13.5px;line-height:1.65">
       <strong style="display:block;margin-bottom:6px;font-size:14px">Drie sporen, of drie intensiteiten van dezelfde beweging</strong>
-      <p style="margin:0">De aanpak ordent het gebied naar ingreep: urgentiegebieden, generieke fixatie van het slootwaterpeil, en omschakeling naar een lagere veedichtheid. Gelezen door de scenario's valt op dat die drie ook te zien zijn als drie intensiteiten van één beweging: hetzelfde bedrijfsmodel in verschillende gradaties, gedragen door dezelfde ondernemers en gecoördineerd op polderniveau. Wat dat leert voor de inrichting van de volgende ronde: één bedrijfsmodel met een schuif erin is eenvoudiger te financieren en te controleren dan drie regelingen die elk hun eigen doelgroep moeten afbakenen — en die schuif is precies de schaal uit hoofdstuk 9.</p>
+      <p style="margin:0">De aanpak ordent het gebied naar ingreep: urgentiegebieden, generieke fixatie van het slootwaterpeil, en omschakeling naar een lagere veedichtheid. Gelezen door de scenario's valt op dat die drie ook te zien zijn als drie intensiteiten van één beweging: hetzelfde bedrijfsmodel in verschillende gradaties, gedragen door dezelfde ondernemers en gecoördineerd op polderniveau. Wat dat leert voor de inrichting van de volgende ronde: één bedrijfsmodel met een schuif erin is eenvoudiger te financieren en te controleren dan drie regelingen die elk hun eigen doelgroep moeten afbakenen — en die schuif is precies de schaal uit hoofdstuk 10.</p>
     </div>
 
 <!-- 19-8 verhuisd uit scenario III; de correcties uit correctielijst.md zijn hier nog niet verwerkt -->
@@ -37,7 +37,7 @@ De aanpak is nog niet gepubliceerd. De Kamerbrief van 26 juni 2026 ordent het be
       <p style="margin:0"><strong>De €900 mln voor "50% grondafwaardering" veroorzaakt drie problemen tegelijk.</strong> Ten eerste stuurt het verkeerd: het frame is "boer levert iets in, overheid betaalt de schade", de boer is verliezer, de overheid is hulpverlener. Dat reproduceert precies de subsidie-logica die dit document afwijst — geen zakelijke transactie, maar nadeelcompensatie. Ten tweede werkt het grondspeculatie in de hand: wanneer de overheid €900 mln aankondigt om grond af te waarderen, weet de markt twee dingen tegelijk dat de grond straks (administratief) minder waard wordt én dat er overheidsgeld in dit gebied komt — precies het signaal dat beleggers aantrekt in plaats van boeren. Ten derde bevriest het het oude denken: door af te waarderen accepteert de overheid impliciet dat de hectare nooit meer een goed verdienmodel kan opleveren, een bestuurlijke vorm van opgeven. Het alternatief is geen ander bedrag, maar een andere richting: dezelfde €900 mln in een meerjarige opdrachtenstroom voor maatschappelijke diensten zet de hectare niet op een lager waarde-niveau, maar op stapelbare langjarige inkomstenstromen — een opwaardering in plaats van een afwaardering.</p>
     </div>
 
-### 16.2 De landelijke verdringingsreeks
+### 17.2 De landelijke verdringingsreeks
 
 Hoofdstuk 5 leunt hierop: bij watertekort bepaalt deze rangorde wie voorgaat. [[BRON: vindplaats van de landelijke verdringingsreeks in de huidige rijksregelgeving, na de inwerkingtreding van de Omgevingswet]]
 

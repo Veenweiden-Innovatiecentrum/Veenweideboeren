@@ -29,7 +29,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ### 1.1 Wat dit document voorstelt
 - dit gebied kan meer maatschappelijke opgaven dragen dan voedsel alleen, en dat vermogen zit in de ondernemer `[tekst · auteurs]`
-- **het openingskader zegt in één alinea voor wie dit is en wie veenweideboer is**: iedereen die in het veenweidegebied boert, want het is geen categorie maar een schaal — van melk met onbeprijsd beheer tot diensten als heel product, en elke plek erop is goed. Met de bestaande erkenning erin (wie tevreden is: prima, geen religie) en de slotregel: wij vragen dat schuiven mogelijk wordt, niet dat er geschoven wordt `[kader · auteurs + nieuw]` Tim, 19-8: de "voor wie"-vraag en de schaal zijn één antwoord, dus één alinea. De uitwerking staat in 9.2
+- **het openingskader zegt in één alinea voor wie dit is en wie veenweideboer is**: iedereen die in het veenweidegebied boert, want het is geen categorie maar een schaal — van melk met onbeprijsd beheer tot diensten als heel product, en elke plek erop is goed. Met de bestaande erkenning erin (wie tevreden is: prima, geen religie) en de slotregel: wij vragen dat schuiven mogelijk wordt, niet dat er geschoven wordt `[kader · auteurs + nieuw]` Tim, 19-8: de "voor wie"-vraag en de schaal zijn één antwoord, dus één alinea. De uitwerking staat in 10.2
 - wie dit zegt en waarom: het VIC, de statutaire missie, de ambitie, JUMP `[kader]`
 - de urgentie: deze ondernemers zitten nu al klem, en wie stopt komt niet terug `[tekst · nieuw]`
 
@@ -47,7 +47,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ## 2 — Waarop dit rust · bron: aannames · ronde 1 · af
 
-> Vier aannames dragen dit verhaal. Wij zeggen ze stellig en zetten eronder waarop wij ze baseren; valt er één, dan moet het verhaal op dat punt om. Wat er moet gebeuren om ze waar te maken staat niet hier maar achteraan, in hoofdstuk 14.
+> Vier aannames dragen dit verhaal. Wij zeggen ze stellig en zetten eronder waarop wij ze baseren; valt er één, dan moet het verhaal op dat punt om. Wat er moet gebeuren om ze waar te maken staat niet hier maar achteraan, in hoofdstuk 15.
 
 ### 2.1 Feit, standpunt en aanname
 - vier aannames dragen dit verhaal; valt er één, dan moet het verhaal op dat punt om `[tekst · nieuw]`
@@ -57,7 +57,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - 1 diensten kunnen een verdienmodel dragen · 2 naast de overheid komt er een tweede geldstroom uit de markt `[kaarten]`
 - 3 de middengroep is het onderwerp van deze visie · 4 de Europese regels gaan opdrachten toestaan `[kaarten]`
 - per aanname: wat wij denken, en **wat wij zien** waarop wij dat baseren `[kaarten]`
-- **wat er moet gebeuren om het te laten werken staat niet hier maar in hoofdstuk 14**, met één regel per aanname die daarheen wijst `[tekst · nieuw]` besluit 19-8: dit hoofdstuk zegt waarop het rust, de agenda staat achteraan
+- **wat er moet gebeuren om het te laten werken staat niet hier maar in hoofdstuk 15**, met één regel per aanname die daarheen wijst `[tekst · nieuw]` besluit 19-8: dit hoofdstuk zegt waarop het rust, de agenda staat achteraan
 
 ---
 
@@ -76,7 +76,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 *Titel gewijzigd op 19-8 (Tim): "waarom de rekening niet meer rond komt" leest ook als de maatschappelijke rekening, en de kern is dat het als bedrijf zakelijk niet meer vol te houden is. Dat is bovendien de eigen slotzin van deze sectie.*
 - drie condities bepalen de richting van de melkveehouderij: de grondmarkt, het beleidskader, de ketenstructuur `[tabel · auteurs]` — nu een kader met drie kolommen, wordt een tabel conform de vormronde van 19-8. **Let op:** de bewering dat een rem als de Oostenrijkse bergboerenregeling in Nederland "nooit heeft bestaan" is 19-8 onjuist bevonden en rechtgezet, met bronfiche
 - het systeem loopt ook intern vast: opvolging wordt onbetaalbaar en de grondmarkt raakt minder liquide. Plus: het gaspedaal werd de rem, één zin `[tekst · auteurs + nieuw]` besluit 17-8
-- **en er zijn eigen keuzes gemaakt.** Schaal, financiering en het moment van investeren waren beslissingen van de ondernemer zelf, en niet iedereen zit even diep in de klem. Geen verwijt, maar de andere kant van ondernemerschap: daarom is er ook binnen de klem ruimte om te kiezen, en dat is hoofdstuk 13 `[tekst · nieuw]` Tim, 19-8
+- **en er zijn eigen keuzes gemaakt.** Schaal, financiering en het moment van investeren waren beslissingen van de ondernemer zelf, en niet iedereen zit even diep in de klem. Geen verwijt, maar de andere kant van ondernemerschap: daarom is er ook binnen de klem ruimte om te kiezen, en dat is hoofdstuk 14 `[tekst · nieuw]` Tim, 19-8
 - **de conclusie sluit de sectie, en de wetmatigheid hoort erbij:** het loopt vast op de drie condities én op zichzelf, en de uitweg die zich het eerst aandient is er geen. Minder koeien per hectare geeft minder melk per hectare terwijl grond, gebouwen en financiering hetzelfde blijven kosten — precies de kostenstructuur die de drie condities hebben opgebouwd. Geen aanname maar een rekensom, en de reden dat dit document over geld gaat `[tekst · verhuisd + nieuw]` uit hoofdstuk 2 (Tim, 19-8: dit hoort als laatste conclusie in 3.2 en niet in een eigen sectie, want het is de uitkomst van de drie condities)
 
 *Deze sectie heeft vier elementen in plaats van de maximaal drie. Bewust: drie ervan zijn één zin, en de conclusie kan niet los van de condities staan waarop zij rust.*
@@ -84,11 +84,11 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 ### 3.3 Waar de uitdaging het scherpst is
 - de kenmerken waaraan je het gebied herkent `[lijst · auteurs]` — **hier staan de vormen van fysieke druk, volledig** (Tim, 19-8). **De lijst begint met de vier uit 1.3, in dezelfde woorden en dezelfde orde** (serieuze bodemdaling · hoge broeikasgasemissies · ligging in of tegen Natura 2000 · toenemende verzilting), en daarna komen de kenmerken die 1.3 niet noemt: gebieden die structureel te nat worden, stedelijke randen, polders waar de infrastructuur niet meekan, en dunne veenpakketten met een hydrologische functie. Zo staan de twee lijsten in dezelfde lijn en spreken zij elkaar niet tegen (Tim, 19-8)
 - tegenvoorbeeld: waar het níet over gaat `[fiche · auteurs]` — nu een accentkader
-- **de conclusie van de sectie, en zij staat vooraan: het scherpst is het waar meerdere vormen van druk samenkomen.** Omdat zij niet op dezelfde schaal werken: de grondwaterstand is per perceel hanteerbaar, stikstof raakt het hele bedrijf. Vernatting die als hagelslag valt is te dragen zolang stikstof niet óók klemt, en in en tegen Natura 2000 klemmen ze samen `[tekst · auteurs]` — zonder de coördinatie-conclusie, want dat is oplossing en hoort in hoofdstuk 11 (Lian a-klem:11). **Niet "per opgave"** (Tim, 19-8): de zeven opgaven worden pas in hoofdstuk 4 geïntroduceerd, dus dat woord wijst hier naar iets wat de lezer nog niet kent
+- **de conclusie van de sectie, en zij staat vooraan: het scherpst is het waar meerdere vormen van druk samenkomen.** Omdat zij niet op dezelfde schaal werken: de grondwaterstand is per perceel hanteerbaar, stikstof raakt het hele bedrijf. Vernatting die als hagelslag valt is te dragen zolang stikstof niet óók klemt, en in en tegen Natura 2000 klemmen ze samen `[tekst · auteurs]` — zonder de coördinatie-conclusie, want dat is oplossing en hoort in hoofdstuk 12 (Lian a-klem:11). **Niet "per opgave"** (Tim, 19-8): de zeven opgaven worden pas in hoofdstuk 4 geïntroduceerd, dus dat woord wijst hier naar iets wat de lezer nog niet kent
 
 *Hoofdstuk 3 heeft drie secties. Er stond een vierde gepland, "Wat een andere koers kost", voor de wetmatigheid uit hoofdstuk 2; die is 19-8 op Tims aanwijzing opgegaan in de slotalinea van 3.2, omdat zij de rekenkundige uitkomst van de drie condities is en dus geen eigen sectie nodig heeft.*
 
-*Wat hier uit het hoofdstuk verdwijnt, en waarheen: de scope-opbouw (200.000 hectare, "dit gaat niet over het hele gebied", de schattingsdiscussie over de 20 tot 30 procent) staat in 1.3 en wordt hier alleen aangehaald · het driesporenkader "de scope van spoor 3 is te smal" gaat naar bijlage 16 · de vraag "wanneer kom je in aanmerking voor de veenweideboerencategorie" vervalt, want dat begrip wordt pas in hoofdstuk 9 gedefinieerd (Lian a-klem:9 wordt daar beantwoord) · de twee scenario-vermeldingen vervallen, toetsregel 13.*
+*Wat hier uit het hoofdstuk verdwijnt, en waarheen: de scope-opbouw (200.000 hectare, "dit gaat niet over het hele gebied", de schattingsdiscussie over de 20 tot 30 procent) staat in 1.3 en wordt hier alleen aangehaald · het driesporenkader "de scope van spoor 3 is te smal" gaat naar bijlage 17 · de vraag "wanneer kom je in aanmerking voor de veenweideboerencategorie" vervalt, want dat begrip wordt pas in hoofdstuk 10 gedefinieerd (Lian a-klem:9 wordt daar beantwoord) · de twee scenario-vermeldingen vervallen, toetsregel 13.*
 
 ---
 
@@ -151,7 +151,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 ### 5.1 Wat hier al gebeurt, en wie het betaalt · **gehaald: 219 woorden** (was 133, en de tabel is eruit)
 
 - **wat moet staat vooraan, want daar wordt het hardst aan gewerkt:** de emissies uit de bodem omlaag, de waterkwaliteit op orde, de depositie op Natura 2000 omlaag — en dat werk levert het bedrijf niets op, het kost het geld `[tekst · nieuw]` Tim, 20-8: "nu lijkt het of die verplichte zaken er niet bij staan, maar die moeten natuurlijk als eerste." Zonder deze alinea leest 5.1 alsof die hectare alleen de vrijwillige dingen doet, en dat ziet een beleidslezer meteen
-- **wat er daarnaast al gebeurt, en het is meer dan ecosysteemdiensten:** het landschap onderhouden, de slootkant en de oever bijhouden, zorg voor elkaar, en de sociale samenhang in een gebied waar de bedrijven ver uit elkaar liggen. Eén woord vat het: rentmeesterschap, zorg voor iets wat je hebt overgenomen en weer doorgeeft `[tekst · nieuw]` Tim, 20-8. **Let op de precisering die hij aanbracht:** dit is *zorg voor elkaar* en niet zorg als betaalde activiteit op het bedrijf. Dat laatste is een inkomstenstroom in hoofdstuk 9 en 10 en hoort hier niet; mijn eerste lezing was fout. Daarmee raakt dit ook niet aan het open definitiepunt over zorg en ecosysteemdiensten in `terminologie.md`
+- **wat er daarnaast al gebeurt, en het is meer dan ecosysteemdiensten:** het landschap onderhouden, de slootkant en de oever bijhouden, zorg voor elkaar, en de sociale samenhang in een gebied waar de bedrijven ver uit elkaar liggen. Eén woord vat het: rentmeesterschap, zorg voor iets wat je hebt overgenomen en weer doorgeeft `[tekst · nieuw]` Tim, 20-8. **Let op de precisering die hij aanbracht:** dit is *zorg voor elkaar* en niet zorg als betaalde activiteit op het bedrijf. Dat laatste is een inkomstenstroom in hoofdstuk 10 en 11 en hoort hier niet; mijn eerste lezing was fout. Daarmee raakt dit ook niet aan het open definitiepunt over zorg en ecosysteemdiensten in `terminologie.md`
 - **de constatering: één ding wordt afgerekend, en dat is de melk.** Voor weidevogel- en landschapsbeheer bestaat een vergoeding die kosten en gederfde inkomsten dekt — een vergoeding dus, en geen verdienste (Tims formulering, en helderder dan "dat is geen prijs"). Dat is wel de enige prestatie waarvoor het apparaat om te leveren al staat: de pakketten liggen er en de collectieven voeren ze uit. Al het andere staat in geen contract en komt uit de marge `[tekst · verhuisd + nieuw]` uit de oude 5.5 en uit 4.2
 
 *De tabel is 20-8 vervallen op Tims vraag, en met een scherpere reden dan "is hij nodig". **Hij deed twee dingen tegelijk:** zijn kop zei "levert of kan leveren", dus koolstof en water stonden erin als potentieel — precies het onderwerp van 5.3. Daarmee liep 5.1 vooruit op de sectie erna en was de waarneming half een vooruitzicht. Tim somde zelf op wat er gebeurt (voedsel, landschap, zorg voor elkaar, cohesie, beheer met vergoeding) en noemde koolstof en water niet; dat is geen vergissing maar de juiste grens. **En er is een leesritme-argument:** hoofdstuk 4 heeft nu twee tabellen, dus een derde direct erna maakt drie op rij, precies op het punt waar het verhaal van diagnose naar aanbod kantelt. Wat we opgaven is de betaalladder in één oogopslag; die staat nu als één zin. Hoofdstuk 5 heeft daarmee nul tabellen.*
@@ -168,7 +168,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 - **de opening noemt de keten en de vier bij naam:** in die ruimte kunnen vier opgaven met **maatschappelijke dienstverlening** worden ingevuld — koolstof vastleggen, biodiversiteit verbouwen, water opslaan, landelijk wonen leveren. Wat ze onderscheidt is dat er een afnemer **in zicht** is: een partij buiten het gebied met een eigen belang en een eigen begroting `[tekst · nieuw]` Tim, 20-8. **"In die ruimte" is de koppeling met 5.2** en die moet er staan: de opgaven worden dienstverlening *omdat* die ruimte vrijkomt. **En de afnemer is een aanname en geen feit** (Tim, 20-8): er stond "dat er een afnemer bestáát", en dat is precies aanname 2 — wij verwachten dat een deel van de opdrachten van private partijen komt. De sectie wijst nu naar hoofdstuk 2 in plaats van hier een voorbehoud te maken, conform toetsregel 11a
 - de vier routes, geschreven op de volledige conceptdossiers (20-8): **koolstof vastleggen** (vernatting sluit koolstof af van zuurstof, dus opslag en niet alleen minder uitstoot) · **biodiversiteit verbouwen** (drie soorten afnemers, landbouwstatus hard) · **water opslaan** (drie leveringsvormen met elk een eigen afnemer) · **landelijk wonen leveren** (klein, licht, deels tijdelijk, zelfvoorzienend, boer als gastheer) `[tekst + 3 fiches · auteurs + nieuw]` bron: VIC-concepten 5b, 4a, 8a en 6b uit VIA, 12 juli 2026, volledig gelezen op 20-8
-- **de sectie sluit op de vraag die de conceptdossiers oproepen: moet het hele bedrijf om?** Nee. Alle vier zijn als heel bedrijf uitgewerkt, en zo hoort dat ook — je toetst een concept door te vragen of die ene activiteit een bedrijf kan dragen. Op een echt bedrijf kunnen ze alle vier naast de melk, op het deel van het land waar het gewone gebruik toch al knelt: vijftig koeien die buiten blijven lopen, een paar te natte percelen als wateropslag, een strook die met zijn beheer een afnemer vindt. Dat is één bedrijf en geen omschakeling; waar het op de schaal van 9.2 gaat staan is de keuze van de ondernemer `[tekst · nieuw]` **Tim, 20-8, en dit is een correctie op mijn eerste versie.** Die zei dat wonen en water erbij te doen zijn en dat biodiversiteit en koolstof hele bedrijven zijn. Dat leest de vorm van het conceptdossier als een eigenschap van de route, en dat is precies de categorie-lezing die 9.2 verwerpt. De getallen en ontwikkelniveaus staan in een fiche, want het zijn hypothesen op niveau 0,1 tot 0,2
+- **de sectie sluit op de vraag die de conceptdossiers oproepen: moet het hele bedrijf om?** Nee. Alle vier zijn als heel bedrijf uitgewerkt, en zo hoort dat ook — je toetst een concept door te vragen of die ene activiteit een bedrijf kan dragen. Op een echt bedrijf kunnen ze alle vier naast de melk, op het deel van het land waar het gewone gebruik toch al knelt: vijftig koeien die buiten blijven lopen, een paar te natte percelen als wateropslag, een strook die met zijn beheer een afnemer vindt. Dat is één bedrijf en geen omschakeling; waar het op de schaal van 10.2 gaat staan is de keuze van de ondernemer `[tekst · nieuw]` **Tim, 20-8, en dit is een correctie op mijn eerste versie.** Die zei dat wonen en water erbij te doen zijn en dat biodiversiteit en koolstof hele bedrijven zijn. Dat leest de vorm van het conceptdossier als een eigenschap van de route, en dat is precies de categorie-lezing die 10.2 verwerpt. De getallen en ontwikkelniveaus staan in een fiche, want het zijn hypothesen op niveau 0,1 tot 0,2
 - **het grensgeval en de drie horden sluiten de sectie:** weidevogelbeheer als opdracht en niet als product, en dan kan het · mag het · wordt het gewild, met hun adres `[tekst · ingekort]`
 
 *Op 20-8 herschreven op Tims aanwijzing, met de zes JUMP-conceptdossiers als bron. **Drie dingen zijn veranderd.** (1) **Vier routes in plaats van drie:** landelijk wonen is erbij (concept 6b). Mijn bezwaar was dat wonen een functieverandering is en tegen de landbouwstatus-voorwaarde aanloopt; het concept lost dat zelf op, want het gaat om kleine, lichte, deels tijdelijke en zelfvoorzienende woonvormen met het behoud van het agrarische karakter als expliciet doel. Die voorwaarde staat nu bij beide routes, dus de sectie spreekt zichzelf niet tegen. (2) **De koolstofafnemer is niet de akkerbouw.** Dat stond er sinds de bestuursversie en het is te smal: concept 5b noemt bedrijven met een ESG-verantwoording die verifieerbare, traceerbare en lokale credits zoeken, plus industrie, de internationale koolstofmarkt en burgers. Akkerbouw komt in het concept niet voor. (3) **Water is herschreven vanuit concept 8a**, dat drie leveringsvormen onderscheidt met elk een eigen afnemer, en dat het echte gat benoemt: tussen de wettelijke verdringingsreeks en noodlevering tegen schaarsteprijzen bestaat geen tussenvorm.*
@@ -181,11 +181,11 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - **dus geen liefhebberij erbij, en dus een prijs:** dit zijn activiteiten die investeringen, grond en jaren vragen. Betalen niet omdat zij het moeilijk hebben maar omdat zij een publieke dienst leveren, en dat is geen koerswijziging want de nutsfunctie van de landbouw wordt alleen breder `[tekst · verhuisd]` uit het slot van de oude 5.5 en uit de oude 5.3
 - **en daarom een ondernemende boer, en juist déze:** het werk zit al in een lopend bedrijf, dus fijnmaziger en goedkoper dan een vrijwilliger of een beheerder op afstand — en het verschil met andere boeren zit niet in exclusiviteit maar in het alternatief, dat hier geen landbouw is `[tekst · verhuisd]` uit de oude 5.5 en de oude 5.3. **De combinatie doet hier het werk** (Tim, 20-8): "boer" levert de aanwezigheid en de fijnmazigheid, "ondernemend" de bereidheid om een investering te dragen tegen een opbrengst. Kaal "een ondernemer" laat de uitweg open dat een beheerorganisatie ook een ondernemer is, en dat is precies de route die dit argument wil uitsluiten
 - **de marge-spiegel, erbij op 20-8 (Tim):** er staat meer op het spel dan de nieuwe activiteiten. Het onbetaalde werk uit 5.1 — het landschap, de slootkant, de zorg voor elkaar — komt uit diezelfde marge, en onverplicht werk is het eerste dat sneuvelt zodra het zakelijk niet meer rond komt. Een prijs voor de nieuwe diensten houdt dus ook overeind wat nooit een prijs heeft gehad `[tekst · nieuw]` **Dit is de positieve keerzijde van de alinea erboven** en zij maakt het argument compleet: die zegt dat het nieuwe werk de marge verkleint, deze zegt wat er met de marge verdwijnt
-- **en het is geen omschakeling** (Tim, 20-8): deze diensten komen naast de melk, op een bedrijf dat blijft melken. Eén zin, en zij sluit aan op "veenweideboer is een schaal, geen categorie" in 9.2 `[tekst · nieuw]`
+- **en het is geen omschakeling** (Tim, 20-8): deze diensten komen naast de melk, op een bedrijf dat blijft melken. Eén zin, en zij sluit aan op "veenweideboer is een schaal, geen categorie" in 10.2 `[tekst · nieuw]`
 - **de synthese, en zij is de belangrijkste toevoeging van 20-8 (Tim):** het liefst is de investeerder de boer die er blijft zitten. Dit is geen werk dat je iemand kunt opdragen — wie erin investeert moet de kans zelf zien en erin willen stappen. Doet die investering iemand die er woont, dan draagt één persoon beide kanten: de nieuwe diensten met een prijs, en het onbetaalde werk uit 5.1. Wordt het gesplitst, dan is er een partij die de dienst levert volgens contract en niemand meer die de rest doet `[tekst · nieuw]` **Dit is de knoop van het hele hoofdstuk**: 5.1 (rentmeesterschap uit de marge) en 5.3 (vier producten) komen hier samen in één persoon. Tim: "het zou fijn zijn als dat dan de boer is die er blijft zitten, die de liefde voor het gebied heeft, die het onbetaalde werk ook op zich neemt"
 - **de slotzin van de analyse:** werken aan de opgaven moet de overlevingskans van het bedrijf vergroten in plaats van bedreigen — niet ondanks ondernemerschap maar dankzij, mits de overheid de condities schept. **Ondernemende boeren zijn de motor van deze visie** `[tekst · auteurs + nieuw]` Tims zin, 20-8. Dit is de laatste zin van de analyse en de opstap naar de scenario's, die precies dit testen
 
-*Vier elementen, en de orde ís het besluit: niet uit de marge → dus een prijs → dus een ondernemende boer. **De tegenwerping "maak er dan helemaal natuur van" en de ruimtedruk uit de Ontwerp-Nota Ruimte gaan het hoofdstuk uit** (Tim, 20-8). De eerste is een tegenwerping en hoort bij hoofdstuk 14; de tweede is context. Beide staan met hun tekst in `correctielijst.md` onder het bestand waar zij landen, zodat de ronde die dát hoofdstuk doet ze oppakt. Samen ongeveer 280 woorden, en daarmee het grootste deel van wat dit hoofdstuk korter wordt.*
+*Vier elementen, en de orde ís het besluit: niet uit de marge → dus een prijs → dus een ondernemende boer. **De tegenwerping "maak er dan helemaal natuur van" en de ruimtedruk uit de Ontwerp-Nota Ruimte gaan het hoofdstuk uit** (Tim, 20-8). De eerste is een tegenwerping en hoort bij hoofdstuk 15; de tweede is context. Beide staan met hun tekst in `correctielijst.md` onder het bestand waar zij landen, zodat de ronde die dát hoofdstuk doet ze oppakt. Samen ongeveer 280 woorden, en daarmee het grootste deel van wat dit hoofdstuk korter wordt.*
 
 *Hoofdstuk 5 is af op **2.016 woorden totaal en 1.785 aan leesregel**, tegen 2.025 in de bestuursversie. Het budget van 1.560 is met 225 woorden overschreden, en dat is volledig toe te schrijven aan twee besluiten van Tim op 20-8: de vierde route in 5.3 (+93) en de synthese in 5.4 (+89), plus de eerdere marge-spiegel. **Beide zijn het waard en geen van beide is te schrappen zonder het argument te breken.** Wat er tegenover staat: de sectie-indeling is scherper, hoofdstuk 5 heeft nul tabellen, en per route is 5.3 korter dan op 19-8. **Hoofdstuk 4 en 5 samen: 3.135 woorden totaal tegen 2.857, en 2.783 aan leesregel** — dus per saldo 74 korter op de leesregel, terwijl er een sectie, een route en drie argumenten bij zijn gekomen. Het woordtotaal van 20-8 is daarmee definitief vervallen; wat overblijft is de afspraak dat niets erin staat wat niet als element is aangekondigd.*
 
@@ -202,7 +202,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 **De aktekop aan het hoofd van het hoofdstuk, als openingskader (besluit 19-8: "korte inzet aan het hoofd van hoofdstuk 6").** Drie regels, en zij noemen per scenario het sturingsmechanisme in plaats van een oordeel: **scenario I** er wordt gestuurd op middelen en het verdienmodel blijft de melk · **scenario II** er wordt gestuurd op doelen, zonder verdienmodel eronder · **scenario III** dezelfde doelsturing, mét een verdienmodel eronder. `[kader · nieuw]` De ene introductie die toetsregel 13 vraagt. **Zij staat bewust niet in 6.1**, want die sectie gaat alleen over scenario I (Tim, 20-8); een openingskader met eigen kop boven de eerste `###` is de uitzondering die `CLAUDE.md` toestaat, net als in hoofdstuk 1. **De as die de drie onderscheidt is middelsturing tegenover doelsturing**, en die staat al in het document: `d-concept` noemt het huidige beleid "vrije uitkomsten en strikte middelen" en het veenweidekader "strakker op wat geleverd moet worden, ruimer op hoe dat gebeurt". Scenario I is dus niet luiheid maar een verdedigbare keuze met een bekende ruil: doelsturing per bedrijf kost meting en verantwoording *(Niel, `correctielijst.md` bij `d-concept`)*.
 
-*Hoofdstuk 6, 7 en 8 zijn één vergelijking, en daarom krijgen zij dezelfde vier bewegingen: wat er gebeurt · waarom het zo uitpakt · wat dat betekent per opgave · de motor. Hoofdstuk 8 doet ze al; 6 en 7 hadden drie secties waarvan de eerste vijf elementen droeg en de twee andere er één. Met vier secties staat de vergelijking er ook als vorm, en dat is precies waarom C 19-8 vóór de scenario's is gezet. De tweede reden om 6 en 7 samen te pakken is de lengte: in de bestuursversie is scenario I 713 woorden leesregel en scenario II 1.290, tegen 1.053 voor scenario III, en die 1.290 zit vrijwel volledig in de vier driesporenkaders die naar bijlage 16 gaan. Wat je vergelijkt moet even lang zijn, anders leest het langste als het belangrijkste — dezelfde regel die bloktypen.md voor kolommen geeft. Budget: 6 op ±950, 7 op ±900. Die 950 is 100 meer dan ik op 20-8 eerst schreef, en de reden is te noemen: scenario I krijgt ±380 woorden bewaarde tekst uit hoofdstuk 4 erbij plus de erkenning van 6.1, en de bestuursversie stond al op 713. En hoofdstuk 5 is de meetlat: hier komt de ruimte van 5.2 nooit vrij, dus ontstaat geen van de vier routes van 5.3, en het weidevogelbeheer — de enige prestatie waarvoor de uitvoering vandaag staat — is juist het eerste dat onder margedruk sneuvelt.*
+*Hoofdstuk 6, 7 en 8 zijn één vergelijking, en daarom krijgen zij dezelfde drie bewegingen: wat er gebeurt · waarom het zo uitpakt · de motor. **De vierde beweging, "wat dat betekent per opgave", is er op 20-8 uitgehaald** en staat nu in hoofdstuk 9, waar de drie naast elkaar liggen: wat je vergelijkt, zet je naast elkaar, en dat is dezelfde regel die C 19-8 vóór de scenario's zette. Zonder die verhuizing kwamen de tien dimensies vier keer voorbij. De tweede reden om 6 en 7 samen te pakken is de lengte: in de bestuursversie is scenario I 713 woorden leesregel en scenario II 1.290, tegen 1.053 voor scenario III, en die 1.290 zit vrijwel volledig in de vier driesporenkaders die naar bijlage 17 gaan. Wat je vergelijkt moet even lang zijn, anders leest het langste als het belangrijkste — dezelfde regel die bloktypen.md voor kolommen geeft. Budget na de komst van hoofdstuk 9: **6 op ±820 en 7 op ±790**, elk in drie secties. Dat is minder dan de ±950 en ±900 van eerder op 20-8, en het verschil is precies wat naar hoofdstuk 9 verhuist: de dimensielijsten en de kostenverschuiving. Scenario I krijgt daarvoor wel ±280 woorden bewaarde tekst uit hoofdstuk 4 erbij plus de erkenning van 6.1, en de bestuursversie stond al op 713. En hoofdstuk 5 is de meetlat: hier komt de ruimte van 5.2 nooit vrij, dus ontstaat geen van de vier routes van 5.3, en het weidevogelbeheer — de enige prestatie waarvoor de uitvoering vandaag staat — is juist het eerste dat onder margedruk sneuvelt.*
 
 ### 6.1 Er wordt gestuurd op middelen · budget 280
 - **de erkenning, en zij staat vooraan:** er wordt wel degelijk gestuurd. Grondgebondenheid, regels over wat een bedrijf mag bouwen en gebruiken, pakketten voor beheer dat vrijwillig blijft, en steun waar het knelt. Dat is sturing op middelen, en zij heeft een goede reden: doelen per bedrijf meten en verantwoorden kost geld `[tekst · nieuw]` **Dit is het element dat Tim op 20-8 aandroeg en het is de hele reparatie van deze sectie.** Toetsregel 2, op dezelfde plek als in scenario II: eerst de erkenning. Zonder deze alinea leest scenario I als "u doet niets", en dat is precies wat een overheid hier zou tegenspreken — terecht
@@ -216,14 +216,10 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - **de drie termijnen:** op korte termijn vernietigt margedruk het rentmeesterschap, op middellange termijn maakt de schaalvergrotingsreflex de fijnmazigheid kapot, en op lange termijn blokkeert de klemzittende middengroep de transitie zelf `[kaarten · auteurs]` woordelijk klaar in `correctielijst.md`, vorm al gebouwd in commit `6a30ea3`. **De eerste kaart draagt de meetlat van hoofdstuk 5:** het weidevogelbeheer is de enige prestatie waarvoor de uitvoering vandaag staat, en het is het eerste dat sneuvelt
 - **de opvolging wordt onbetaalbaar:** wie neemt een kapitaalintensief bedrijf over waarvan de marge dunner wordt `[tekst · auteurs]` één zin, besluit 17-8; de zin van de auteurs staat er al ("wie neemt zo'n bedrijf nog over?") en hoeft alleen de reden erbij
 
-### 6.3 Wat dat betekent per opgave · budget 220
-- **de tien dimensies bij scenario I**, met waterkwantiteit oranje in plaats van groen `[lijst · auteurs]` correctie Niel. Langslopen op de regel *een opgave is niet een maatregel*, en op de vier labels: bij een eis staat wat er niet gehaald wordt, bij een wens dat er niemand voor betaalt
-- **de verborgen kosten die niemand op de begroting zet:** KRW-boetes, stikstofboetes, woningbouw op slot, infrastructuurschade door bodemdaling. Niemand boekt ze, de samenleving betaalt ze `[tekst · auteurs]` uit "De boodschap" van de auteurs. Feitelijk en zonder dader, dus toetsregel 1 haalt het
-- **de conclusie: zonder perspectief geen opgaven.** Geen enkele opgave wordt structureel gehaald zolang de middengroep geen andere route heeft dan doorgaan zoals het is of stoppen, en dat is 70 tot 80 procent van de bedrijven `[tekst · verhuisd]` woordelijk klaar in `correctielijst.md`, uit hoofdstuk 4. **Hier landt ook de areaal-claim met haar `[[CIJFER]]`**, en dat is de enige open markering van dit hoofdstuk
-
-### 6.4 De motor · budget 200
+### 6.3 De motor · budget 260
 - **hoe het ondernemerschap er in scenario I uitziet:** de motor draait, maar op de verkeerde brandstof. Wie overblijft ondernemt op volume en op kosten, en dan zijn de opgaven een kostenpost `[tekst · auteurs]` vaste kop, elke scenario heeft deze alinea
 - **wat er met zo'n ondernemer verdwijnt, is concreet en telbaar:** de uren landbeheer waarvoor geen rekening bestaat, en dat die onbeprijsd zijn en niet gratis blijkt pas als het eigenaarschap verschuift `[tekst · verhuisd]` woordelijk klaar in `correctielijst.md`, redactiebrief §3. **De slotzin is de ene toegestane zin over afwendbaarheid:** zolang deze ondernemers er zijn, is het te voorkomen. Dat is ook de brug naar hoofdstuk 7, waar het sneller gaat
+- **de conclusie: zonder perspectief geen opgaven.** Geen enkele opgave wordt structureel gehaald zolang de middengroep geen andere route heeft dan doorgaan zoals het is of stoppen, en dat is 70 tot 80 procent van de bedrijven `[tekst · verhuisd]` woordelijk klaar in `correctielijst.md`, uit hoofdstuk 4. **Hier landt ook de areaal-claim met haar `[[CIJFER]]`**, de enige open markering van dit hoofdstuk. Zij staat in De motor en niet in een eigen sectie, want zij is precies het motor-argument: zonder perspectief bij de ondernemer worden de opgaven niet gehaald
 
 ---
 
@@ -231,11 +227,11 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 > De maatregelen komen, en er ligt geen verdienmodel onder. De doelen zijn legitiem en de beperkingen zijn nodig; wat ontbreekt is de bodem waarop een bedrijf ze kan dragen. De ruimte uit 5.2 komt hier wél vrij en blijft leeg, de kosten landen bij de ondernemer, en de opgave blijft over zonder iemand die haar uitvoert.
 
-*De meetlat van hoofdstuk 5, aan deze kant: in scenario II komt de ruimte van 5.2 wél vrij en blijft zij leeg, en dat is de rekensom van 3.2 zonder antwoord — minder omzet bij gelijke kosten. Daarmee verliezen scenario I en scenario II hetzelfde vermogen op een andere manier: in I verdwijnt de drager langzaam, hier sneller. Twee dingen wegen in dit hoofdstuk het zwaarst: de erkenning staat vóór alles (toetsregel 2), en scenario II is niemands beleid maar een categorie, dus er staat geen enkel voorbeeld uit het beleid van vandaag in (toetsregel 12a). De vier driesporenkaders gaan om die reden naar bijlage 16.*
+*De meetlat van hoofdstuk 5, aan deze kant: in scenario II komt de ruimte van 5.2 wél vrij en blijft zij leeg, en dat is de rekensom van 3.2 zonder antwoord — minder omzet bij gelijke kosten. Daarmee verliezen scenario I en scenario II hetzelfde vermogen op een andere manier: in I verdwijnt de drager langzaam, hier sneller. Twee dingen wegen in dit hoofdstuk het zwaarst: de erkenning staat vóór alles (toetsregel 2), en scenario II is niemands beleid maar een categorie, dus er staat geen enkel voorbeeld uit het beleid van vandaag in (toetsregel 12a). De vier driesporenkaders gaan om die reden naar bijlage 17.*
 
 ### 7.1 De maatregelen kloppen, er ligt alleen niets onder · budget 280
 - **eerst de erkenning:** de doelen zijn legitiem en de beperkingen zijn nodig; wat ontbreekt is niet de wil of de inzet maar de bodem waarop een bedrijf ze kan dragen `[tekst · nieuw]` toetsregel 2, en dit is de plek waar die regel moet landen. Hij staat vóór alles wat er verder in dit hoofdstuk gebeurt
-- **scenario II is niemands beleid, het is een categorie:** wat er gebeurt bij elke ronde maatregelen zonder bedrijfsmodel eronder. Geen enkel voorbeeld uit het beleid van vandaag `[tekst · nieuw]` besluit §8 en toetsregel 12a. **De vier driesporenkaders gaan hiermee naar bijlage 16** — zij zijn precies het tegenovergestelde van deze regel, want zij kaarten de scenario op één beleidsstuk
+- **scenario II is niemands beleid, het is een categorie:** wat er gebeurt bij elke ronde maatregelen zonder bedrijfsmodel eronder. Geen enkel voorbeeld uit het beleid van vandaag `[tekst · nieuw]` besluit §8 en toetsregel 12a. **De vier driesporenkaders gaan hiermee naar bijlage 17** — zij zijn precies het tegenovergestelde van deze regel, want zij kaarten de scenario op één beleidsstuk
 - **wat het bedrijf merkt: de sturing gaat van middelen naar doelen.** De eisen worden hard en gehandhaafd, en wat ertegenover staat vergoedt schade in plaats van een prestatie te betalen `[tekst · auteurs]` de compensatie-alinea van de auteurs, ingedikt en met de vier labels erin. **De as is dezelfde als in 6.1** (Tim, 20-8): scenario I stuurt op middelen, scenario II op doelen, en dat woord gebruikt de bestuursversie zelf al. **Drie dingen moeten om:** de kop "Ingrijpen zonder pijlers", de openingszin "De overheid grijpt in met harde maatregelen" (toetsregel 12b, en dit is de zin waar het bestuur over viel), en "De overheid ziet de rode dimensies uit scenario I en grijpt in" — dat maakt scenario II een reactie op scenario I en dus een oordeel. Wat er komt te staan is het mechanisme: er wordt op doelen gestuurd. De juridische uitleg over nadeelcompensatie wordt een fiche; "minimaal -40 cm" wordt "-20 tot -40 cm" *(Simon)*
 
 ### 7.2 Waarom het bedrijf dat niet kan dragen · budget 250
@@ -243,21 +239,19 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - **en het raakt juist wie al verder is:** generieke maatregelen treffen ook de familiebedrijven die de opgaven al serieus nemen, en generieke peilfixatie raakt de laaggelegen percelen die nu al weinig uitstoten `[fiche · auteurs]` de twee kaders van de auteurs samen in één fiche; `bloktypen.md` eist dat de strekking wél in de lopende tekst landt
 - **eerdere ronden van hetzelfde mechanisme:** uitkoopregelingen 2008 tot 2020 en de eerste generatie stikstofmaatregelen, als waarneming en zonder oordeel `[fiche · verhuisd]` woordelijk klaar in `correctielijst.md`, besluit 17-8. Dit is wat "een categorie en niemands beleid" waar maakt: het mechanisme heeft al eerder gedraaid
 
-### 7.3 Wat dat betekent per opgave · budget 250
-- **de tien dimensies bij scenario II:** waterkwantiteit rood, en waterkwaliteit gaat éérst achteruit doordat bij vernatting gebonden fosfaat vrijkomt `[lijst · auteurs]` correcties Niel. Het mechanisme heet **interne eutrofiëring** en de bronnen staan in `correctielijst.md`; het is het schoolvoorbeeld dat één maatregel de ene opgave dient en de andere schaadt
+### 7.3 De motor · budget 260
+- **de motor slaat af:** de familiebedrijven die de opgaven al serieus namen kunnen de kostenstijging niet opvangen, en wat overblijft heeft geen binding met het gebied `[tekst · auteurs]` vaste kop. **Hierin gaat de zin op die eerst een eigen element was:** precies de ondernemende boer uit 5.4 is dan weg, en de investering die scenario III vraagt kan niemand opdragen
 - **de grond gaat naar wie er niet woont:** bedrijven met grondhonger van buiten het gebied, of partijen die op betere tijden wachten `[tekst · auteurs]` de grondhonger-alinea, ingedikt
-- **en dan keert de verbetering:** de maatregelen doen op papier wat ze moeten doen, en daarna verdwijnt met de ondernemer het beheer waarop die verbetering rust `[tekst · auteurs]` dit is de boemerang in zijn scherpste vorm, en het is de reden dat scenario II en scenario III niet op dezelfde plek uitkomen
-
-### 7.4 De motor · budget 200
-- **de motor slaat af:** de familiebedrijven die de opgaven al serieus namen kunnen de kostenstijging niet opvangen, en wat overblijft heeft geen binding met het gebied `[tekst · auteurs]` vaste kop
-- **precies de ondernemende boer uit 5.4 is dan weg:** de investering die scenario III vraagt kan niemand opdragen, en wie haar zou doen is vertrokken `[tekst · nieuw]` de meetlat van hoofdstuk 5, één zin. Scenario III mag hier bij naam genoemd worden, want de introductie staat in 6.1
+- **en dan keert de verbetering:** de maatregelen doen op papier wat ze moeten doen, en daarna verdwijnt met de ondernemer het beheer waarop die verbetering rust `[tekst · auteurs]` **dit is de boemerang in zijn scherpste vorm** en het is de reden dat scenario II en scenario III niet op dezelfde plek uitkomen. Het hoort in De motor omdat de verbetering keert dóór wat er met het ondernemerschap gebeurt
 - **`[[KEUZE]]` de verharding van de verhouding:** wat overblijft heeft de omzet en de adviseurs om beleid bij de rechter te bestrijden. *Lian: "wat opruiend, nodig?"* Mijn advies is eruit: het is een voorspelling over gedrag van derden en het staat in de scherpste alinea van het hoofdstuk, waar toetsregel 1 het zwaarst weegt `[tekst · auteurs]`
 
 ---
 
-## 8 — Wat er gebeurt met een verdienmodel eronder (scenario III — het antwoord) · bron: scenario-3 · ronde 1 · af
+## 8 — Wat er gebeurt met een verdienmodel eronder (scenario III — het antwoord) · bron: scenario-3 · ronde 1 · opnieuw te snijden
 
-> Dezelfde doelen, maar de dienst wordt betaald in plaats van het verlies vergoed. Er komen twee geldstromen: de overheid die een dienst inkoopt en de markt die er zelf belang bij heeft. Dit is het antwoord van het document, en het is de enige scenario waarin het vermogen uit hoofdstuk 5 overeind blijft.
+> Dezelfde doelen, maar de dienst wordt betaald in plaats van het verlies vergoed. Er komen twee geldstromen: de overheid die een dienst inkoopt en de markt die er zelf belang bij heeft. Dit is het antwoord van het document, en het is het enige scenario waarin het vermogen uit hoofdstuk 5 overeind blijft.
+
+*Dit hoofdstuk is 19-8 geschreven en gaat op één punt opnieuw langs: **met hoofdstuk 9 erbij verliest 8.3 zijn dimensielijst en het ontwikkelbeeld**, en gaat het naar drie secties zoals 6 en 7. De twee alinea's van de auteurs die nu in 8.3 staan blijven wel in dit hoofdstuk: "wat je dan ziet veranderen" gaat naar 8.2, en "waarom de verbetering standhoudt" naar De motor, waar het de spiegel is van 7.3. Dat is snijwerk in geschreven tekst en het hoort bij de sessie die hoofdstuk 9 schrijft; het staat als punt in `correctielijst.md`.*
 
 ### 8.1 De omslag: van vergoeding naar betaling
 - wat er eerst gebeurt: het grondbeleid stopt de grondhonger uit scenario II `[tekst · auteurs]`
@@ -284,102 +278,124 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
+## 9 — Wat de drie scenario's naast elkaar opleveren · ronde 2 · nieuw, nog te schrijven
+
+> Dezelfde tien dimensies, drie keer, naast elkaar. Daarna de vraag waar het geld heen gaat: in scenario I staan de kosten op niemands begroting, in scenario II lopen zij op zonder dat er iets tegenover komt te staan, en in scenario III wordt hetzelfde geld een prijs voor een prestatie. Het verschil tussen de drie zit niet in de doelen maar in de vraag of er iemand overblijft die ze kan halen.
+
+*Hoofdstuk 9 is er op 20-8 bij gekomen (Tim) en het kost de rest van het document één nummer: 9 tot 16 worden 10 tot 17, en de bijlage is weer 17. **Waarom het er hoort:** de drie scenario's zijn een vergelijking, en die vergelijking stond op drie plaatsen tegelijk — elk scenario had zijn eigen dimensielijst, en het ontwikkelbeeld hing achteraan hoofdstuk 8. Daarmee zat de vergelijking begraven in het derde scenario, precies de structuurfout die C tussen II en III maakte en die 19-8 is opgelost door C ervóór te zetten. **Wat het oplevert:** de tien dimensies komen één keer voorbij in plaats van vier keer, de kostenverschuiving staat bij elkaar in plaats van verspreid, en 6, 7 en 8 houden elk drie secties en worden korter. **Wat het niet mag worden:** een verzamelbak. Wat in één scenario thuishoort blijft daar; hier staat alleen wat pas betekenis krijgt naast de andere twee.*
+
+### 9.1 Dezelfde tien dimensies, drie keer · budget 260 plus de lijsten
+- **de drie dimensielijsten naast elkaar**, per dimensie wat er in I, II en III gebeurt `[lijst · verhuisd]` uit 6.3, 7.3 en 8.3, waar zij tot 20-8 los stonden. **De correcties van Niel gaan hier mee:** waterkwantiteit oranje in I en rood in II, en waterkwaliteit in II gaat éérst achteruit doordat bij vernatting gebonden fosfaat vrijkomt (interne eutrofiëring, bronnen in `correctielijst.md`)
+- **de leesregel bij de lijst, en zij is kort:** de tien dimensies zijn niet op te tellen, want één maatregel kan de ene opgave dienen en de andere schaden `[tekst · nieuw]` de regel *een opgave is niet een maatregel* uit `terminologie.md`, en de fosfaatnuance hierboven is er het schoolvoorbeeld van. Dit is ook de onderbouwing van "er is geen nationale hiërarchie" in 4.1
+- **en waar de vier labels landen:** bij een eis staat of zij gehaald wordt, bij een wens of er iemand voor betaalt `[tekst · nieuw]` `terminologie.md`; zonder deze regel leest een rode stip bij een wens hetzelfde als een rode stip bij een eis, en dat is niet hetzelfde soort tekort
+
+### 9.2 Wie de rekening betaalt, en wanneer · budget 300
+- **scenario I: de kosten staan op niemands begroting.** Boetes onder de KRW en het stikstofdossier, woningbouw op slot, schade aan infrastructuur door bodemdaling. Niemand boekt ze, de samenleving betaalt ze `[tekst · verhuisd]` uit "De boodschap" van scenario I. Feitelijk en zonder dader, dus toetsregel 1 haalt het
+- **scenario II: de kosten lopen op zonder dat er een verdienmodel ontstaat.** Handhaving, meting, uitvoering, uitkoop `[tekst · verhuisd]` uit de compensatie-alinea van scenario II, waar het nu tussen de juridische uitleg staat. **Let op de toon:** dit is de rekening van een instrumentkeuze en geen oordeel over wie hem maakte
+- **scenario III: hetzelfde geld, een ander instrument.** Het aandeel opdrachten groeit en het aandeel steun krimpt naarmate de contracten gaan lopen `[tekst · verhuisd]` uit 8.1 en redactiebrief §15.2, dat dit "een sterk argument richting een ministerie dat naar aflopende uitgaven zoekt" noemt. **Zonder bedragen:** §8 haalt de €1,3 miljard uit laag 2, dus hier staat de beweging en geen som
+
+### 9.3 Het beeld van de ontwikkeling · budget 140 plus het beeld
+- **het ontwikkelbeeld van I naar III** `[beeld · verhuisd]` de partial die nu achteraan hoofdstuk 8 hangt. **Twee openstaande beeldpunten komen hier samen:** de tweede pijl voor de markt naast de overheid als opdrachtgever (toetsregel 26) en de drie foute `rx`-afrondingen in de SVG. Beide staan in `correctielijst.md`
+- **de conclusie van Deel III:** het verschil tussen de drie zit niet in de doelen maar in de vraag of er iemand overblijft die ze kan halen `[tekst · nieuw]` één alinea, en zij is de opstap naar Deel IV. **Dit is de plek waar hoofdstuk 5 als meetlat wordt afgerekend:** in I komt de ruimte van 5.2 nooit vrij, in II blijft zij leeg, en in III wordt zij een product
+
+---
+
 # Deel IV — Veenweideboeren
 
-## 9 — Het bedrijfsmodel Veenweideboeren (D — De veenweideboer) · bron: d-concept · ronde 3
+## 10 — Het bedrijfsmodel Veenweideboeren (D — De veenweideboer) · bron: d-concept · ronde 3
 
 > Dit is het bedrijfsmodel Veenweideboeren: een bedrijf dat voedsel blijft leveren én betaald wordt voor water, koolstof, landschap en biodiversiteit, met minder koeien per hectare. Eerst wat de naam betekent: veenweideboer is geen categorie maar een schaal, en iedereen die op veen boert staat erop. Daarna wie de dragende groep is, en waarom de naam over de ondernemer gaat en niet over de landbouwmethode.
 
-### 9.1 Wat het bedrijfsmodel is
+### 10.1 Wat het bedrijfsmodel is
 - geen melkveehouder met beperkingen, maar een bedrijf dat voedsel levert én betaald wordt voor wat het aan de samenleving levert `[tekst · auteurs]`
 - drie bronnen van inkomen: vee houden met een lagere veedichtheid, het bedrijf optimaliseren, en nieuwe inkomstenstromen openen `[tekst · auteurs]`
 
-### 9.2 Veenweideboer is een schaal, geen categorie
+### 10.2 Veenweideboer is een schaal, geen categorie
 *Nieuw, 19-8 (Tim). Dit is het antwoord op de vraag die de titel oproept: gaat dit over mij? Iedereen die op veen boert is veenweideboer; het verschil zit in hoeveel er naast het vee gebeurt en of dat betaald wordt. Zonder deze sectie leest het document als een categorie waarin je wel of niet valt, en dat is het niet — de grens loopt door bedrijven heen (1.3).*
 - **de schaal begint niet bij nul**, en dat is het punt: vrijwel elk bedrijf op veen levert al beheer waarvoor niemand betaalt. De vier posities van melk-met-onbeprijsd-beheer tot diensten-als-heel-product `[kaarten · nieuw]` decision-card, vier gelijkvormige blokken met een as eronder
 - **twee schalen die niet samenvallen:** de plek dwingt, de ondernemer kiest. Waar ze samenvallen is er geen keuze meer; waar ze uiteenlopen is er een kans zonder dwang. Gedwongen omstandigheden zijn om te zetten in een kans, en dat is wat dit document aanbiedt `[tekst · nieuw]`
 - **de betaling volgt de dienst, niet de naam.** Daarom hoeft de grens niet op de kaart getrokken te worden: dat is breed kader, smal geld, toegepast op de identiteit `[tekst · nieuw]` één regel, en het antwoord op de begrotingsvraag
 
-### 9.3 Wie de dragende groep is
+### 10.3 Wie de dragende groep is
 - het familiebedrijf van 40 tot 80 hectare met 80 tot 130 koeien, de middengroep uit hoofdstuk 3 `[tabel · auteurs]`
 - de ondernemer die op veen woont en werkt, en die dit zelf wil `[tekst · auteurs]`
 
-### 9.4 Waarom veenweideboeren en niet veenweidelandbouw
+### 10.4 Waarom veenweideboeren en niet veenweidelandbouw
 - de ondernemer staat centraal, niet de productiemethode `[tekst · auteurs]`
-- de term bestaat al en wordt hier opnieuw geladen: van geografische aanduiding naar bedrijfsmodel `[tekst · auteurs]` — staat er al in de bestuursversie en is de opmaat naar 9.2
+- de term bestaat al en wordt hier opnieuw geladen: van geografische aanduiding naar bedrijfsmodel `[tekst · auteurs]` — staat er al in de bestuursversie en is de opmaat naar 10.2
 - verander het uitgangspunt en de uitkomst verandert `[tekst · auteurs]`
 
-### 9.5 Twee aanscherpingen
+### 10.5 Twee aanscherpingen
 - niet extensief, maar meervoudig intensief `[tekst · auteurs]`
 - "natuurinclusief" is twee verschillende dingen `[tekst · auteurs]`
 
-*De zes lagen verhuizen naar hoofdstuk 11; dit hoofdstuk houdt de typologie.*
+*De zes lagen verhuizen naar hoofdstuk 12; dit hoofdstuk houdt de typologie.*
 
 ---
 
-## 10 — Wat de ondernemer doet · bron: f-ondernemer · ronde 3
+## 11 — Wat de ondernemer doet · bron: f-ondernemer · ronde 3
 
 > De overheid zegt wat er geleverd moet worden, de ondernemer bepaalt hoe. Dit hoofdstuk is de gereedschapskist: negen categorieën maatregelen binnen het bestaande bedrijf, en daarnaast de routes naar nieuw inkomen. Niet iedereen hoeft hetzelfde te doen, en dat is het punt.
 
-### 10.1 De toolbox is de vrijheid
+### 11.1 De toolbox is de vrijheid
 - de overheid zegt wat er geleverd moet worden, de ondernemer bepaalt hoe `[tekst · auteurs]`
 - de toolbox past bij verschillende typen ondernemers, niet bij één `[tekst · auteurs]`
 
-### 10.2 Niveau 1 — het bestaande bedrijf beter
+### 11.2 Niveau 1 — het bestaande bedrijf beter
 - negen categorieën bouwstenen, van waterbeheer tot mechanisatie `[tabel · auteurs]`
 - eerst de randvoorwaarde: zonder waterinfiltratiesysteem werkt peilbeleid niet `[fiche · auteurs]`
 
-### 10.3 Niveau 2 — nieuwe inkomstenstromen
+### 11.3 Niveau 2 — nieuwe inkomstenstromen
 - koolstof, water, biodiversiteit, natte teelt, landschap `[tabel · auteurs]`
 - stikstofruimte als dienst: een denkrichting `[fiche · auteurs]`
 
-### 10.4 Drie typen, drie strategieën
+### 11.4 Drie typen, drie strategieën
 - de verkenner, de bouwer, de bewaarder `[beeld · auteurs]`
 - welke bouwstenen beschikbaar zijn verschilt per context `[tabel · auteurs]`
 
 ---
 
-## 11 — Wat de overheid doet · bron: f-overheid · ronde 3
+## 12 — Wat de overheid doet · bron: f-overheid · ronde 3
 
 > Strakker op wat er geleverd moet worden, ruimer op hoe. Dit hoofdstuk ordent het overheidshandelen in drie: wat moet, wat mag, en wat betaalt — opdrachten waar zij een dienst inkoopt, steun waar zij niets terugkrijgt. En het benoemt de juridische adder: een echt dienstencontract botst op aanbesteding en staatssteun, en wij kiezen er toch voor.
 
-### 11.1 Het sturingsprincipe
-- hardere uitkomsten, vrijere middelen `[tekst · verhuisd]` uit hoofdstuk 9
+### 12.1 Het sturingsprincipe
+- hardere uitkomsten, vrijere middelen `[tekst · verhuisd]` uit hoofdstuk 10
 
-### 11.2 Wat moet, wat mag, wat betaalt
+### 12.2 Wat moet, wat mag, wat betaalt
 - de zes lagen herordend naar moeten, mogen en betalen `[tabel · verhuisd]` §15.2
 - markttoegang verhuist van het vangnet naar "wat mag", want het is infrastructuur en geen geld `[tekst · nieuw]`
 - opdrachten groeit en steun krimpt naarmate de prestatiecontracten gaan lopen `[tekst · nieuw]`
 - langjarige contracten van 10 tot 20 jaar zijn ook voor de ondernemer winst `[tekst · nieuw]` besluit 17-8
 
-### 11.3 Het juridische frame moet meekantelen
+### 12.3 Het juridische frame moet meekantelen
 - aanbesteding en staatssteun: de haken en ogen, en waarom wij tóch voor de opdracht kiezen `[tekst · auteurs]`
 - plan B is een slim ingerichte subsidieregeling, en juristen wijzen daar terecht op `[tekst · auteurs]`
 - **mogen en willen zijn twee dingen:** ook binnen een kader dat het toestaat moet een opdrachtgever het wíllen, en dat vraagt een andere verhouding dan subsidie `[tekst · nieuw]` Tim, 19-8
 - van bijproduct naar productiemiddel: wat nu een niet-productieve investering heet, is dan een investering in productie `[tabel · verhuisd]` uit hoofdstuk 5, want het gaat over het instrument en niet over wat het gebied kan (Tim, 19-8)
 - verwijst terug naar aanname 4 en bouwt de redenering niet opnieuw op `[—]`
 
-### 11.4 Collectieven en het waterschap
+### 12.4 Collectieven en het waterschap
 - collectieven organiseren de afstemming, het waterschap neemt het peilbesluit `[tekst · nieuw]` §10
 - het collectief is breder dan melkveehouders alleen `[tekst · nieuw]`
 - derden brengen hun belang in via het peilbesluit, waar bezwaar en beroep al geregeld zijn `[tekst · nieuw]` één zin, vraag van Simon
 
 ---
 
-## 12 — Wat de markt doet · bron: f3-bedrijfsleven · ronde 3
+## 13 — Wat de markt doet · bron: f3-bedrijfsleven · ronde 3
 
 > Zolang al het geld van de overheid komt, houdt het weerwoord stand dat dit subsidie is met een ander etiket. Dit hoofdstuk zet de tweede geldstroom neer: de zuivelketen, banken en verzekeraars, de drinkwaterbedrijven, de koolstofmarkt. En het zegt eerlijk wat er nog niet is, want in het veenweidegebied betaalt vandaag geen enkele partij voor een geleverde dienst.
 
-### 12.1 Waarom de markt erbij hoort
+### 13.1 Waarom de markt erbij hoort
 - zolang alle inkomsten van de overheid komen, houdt het weerwoord stand dat dit subsidie is met een ander etiket `[tekst · nieuw]`
 - één betalende marktpartij weerlegt dat beter dan welke formulering ook `[tekst · nieuw]`
 
-### 12.2 Wie er kunnen aanschuiven
+### 13.2 Wie er kunnen aanschuiven
 - de bestaande agroketen: zuivel, voer, retail, akkerbouw `[tabel · auteurs]`
 - de financiers: banken, fondsen, verzekeraars `[tabel · auteurs]`
 - de afnemers van maatschappelijke diensten: drinkwater, koolstof, biodiversiteit `[tabel · auteurs]`
 
-### 12.3 Wat er nog niet is
+### 13.3 Wat er nog niet is
 - geen markt voor CO₂ op veen, geen mestplatform, geen vergoeding voor regionale waterdiensten `[tekst · verhuisd]` uit hoofdstuk 5
 - in het veenweidegebied betaalt geen drinkwaterbedrijf voor een dienst; die stap is elders gezet, op zandgrond `[tekst + fiche · nieuw]`
 - Vittel en München zijn een voorbeeld en geen bewijs dat het hier al zo werkt `[fiche · auteurs]`
@@ -387,33 +403,33 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 13 — Wat de boer nu al kan doen (G — Terug naar de boer) · bron: g-perspectief · ronde 3
+## 14 — Wat de boer nu al kan doen (G — Terug naar de boer) · bron: g-perspectief · ronde 3
 
 > Drie routes: doorgaan zoals het is, stoppen, of maatschappelijke diensten erbij — van één perceel tot het hele bedrijf. De eerste twee bestaan al, de derde is wat dit document toevoegt. Dit is het enige hoofdstuk dat de ondernemer direct aanspreekt, met drie archetypen waarin hij of zij zich kan herkennen. Erkenning eerst, dan een bod.
 
-### 13.1 Drie routes
+### 14.1 Drie routes
 *Waren vier; omgebouwd 19-8 (Tim). "Veenweideboer worden" is geen route meer, want dat is de lezer al, en "nieuwe activiteiten" was geen aparte keuze maar een verdere positie op dezelfde schaal.*
-- **1 doorgaan zoals het is** (amber: kan gewoon op het grootste deel, wordt kwetsbaar waar de opgaven stapelen) · **2 stoppen** (neutraal, een legitieme keuze; met de overdracht-variant van Costas erbij) · **3 diensten erbij, van één perceel tot het hele bedrijf** (groen, dit is de schaal uit 9.2) `[kaarten · auteurs + nieuw]`
+- **1 doorgaan zoals het is** (amber: kan gewoon op het grootste deel, wordt kwetsbaar waar de opgaven stapelen) · **2 stoppen** (neutraal, een legitieme keuze; met de overdracht-variant van Costas erbij) · **3 diensten erbij, van één perceel tot het hele bedrijf** (groen, dit is de schaal uit 10.2) `[kaarten · auteurs + nieuw]`
 - **de eerste twee bestaan al** — het zijn de twee die hoofdstuk 1 noemt, doorgaan of uitkopen — **en de derde is wat dit document toevoegt** `[tekst · nieuw]` de verbinding met 1.1, en de reden dat het aanbod scherper is dan vier opties waarvan twee rood
 - de transitie als het bedrijf toekomstbestendig maken voor de volgende generatie `[tekst · nieuw]` besluit 17-8, geland in de stoppen-kaart
 - de transitie als het bedrijf toekomstbestendig maken voor de volgende generatie `[tekst · nieuw]` besluit 17-8
 
-### 13.2 Drie archetypen: hoe verschillende ondernemers het invullen
+### 14.2 Drie archetypen: hoe verschillende ondernemers het invullen
 - drie archetypen in drie contexten `[tabel · auteurs]`
 - niet iedereen wíl meebewegen, en dat is verlangen en geen verzet `[fiche · auteurs]`
 
-### 13.3 Van visie naar ondernemersbod
+### 14.3 Van visie naar ondernemersbod
 - niet de overheid die oplegt, maar de ondernemer die biedt `[tekst · auteurs]`
 
 ---
 
 # Deel V — Sluitstukken
 
-## 14 — Wat er moet gebeuren om dit te laten werken (H — Risico's) · bron: h-risicos · ronde 4
+## 15 — Wat er moet gebeuren om dit te laten werken (H — Risico's) · bron: h-risicos · ronde 4
 
 > Hier staat wat er nog niet klopt, en dat is geen disclaimer maar een opdracht. Twee dingen: wat bewezen moet worden voordat de aannames staan, en waaraan het ontwerp van de regelingen moet voldoen om niet gekaapt te worden. Elk punt staat er met zijn antwoord ernaast, en waar wij dat antwoord niet hebben staat dat er ook.
 
-### 14.1 Wat er nog bewezen moet worden
+### 15.1 Wat er nog bewezen moet worden
 - per aanname de agenda: een prijs die hoog genoeg is, een looptijd die lang genoeg is, en meten dat de dienst niet opeet `[tekst · verhuisd]` uit hoofdstuk 2, aanname 1
 - één private partij die betaalt voor een dienst in plaats van voor schade, met een contract dat navolgbaar is `[tekst · verhuisd]` uit aanname 2
 - en één publieke opdrachtgever die een dienst inkoopt in plaats van kosten te vergoeden; de gewoonte, de instrumenten en de cultuur daarvoor bestaan nog niet `[tekst · nieuw]` Tim, 19-8: dit is de grootste horde en hij stond nergens
@@ -421,7 +437,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 - het Europese kader moet op tijd meebewegen `[tekst · verhuisd]` uit aanname 4
 - de drie acties die bepalen of scenario III werkelijkheid wordt `[tekst · verhuisd]` uit het slot
 
-### 14.2 Waar het ontwerp aan moet voldoen
+### 15.2 Waar het ontwerp aan moet voldoen
 - de zeven punten waar het mis kan gaan, elk als eis: dit kan gebeuren, dus moet het ontwerp dit doen `[lijst · auteurs]`
 - waar wij het antwoord niet hebben staat dat er, net als bij de aannames `[tekst · nieuw]`
 - het zijn onderliggende systeemkrachten, geen ondermijnende `[tekst · auteurs]` besluit 17-8
@@ -431,38 +447,38 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 15 — Slot · bron: slot · ronde 4
+## 16 — Slot · bron: slot · ronde 4
 
 > Waar dit begon en waar het eindigt. En de vraag, in twee regels: wij vragen geen euro uit de lopende programma's, wel de ruimte om te bouwen wat de volgende ronde nodig heeft. Op tijd, dus nu.
 
-### 15.1 Waar dit begon en waar het eindigt
+### 16.1 Waar dit begon en waar het eindigt
 - het document begon bij de ondernemer die klem zit en eindigt bij de ondernemer die de opgaven draagt `[tekst · auteurs]`
 - de verbinding met de programma's: JUMP levert de bedrijfsconcepten, deze aanpak de bewijslast, BASE moet de betaling aantonen `[tekst · verhuisd]` uit hoofdstuk 2
 - zonder "pijlers" en zonder de €1,3 miljard `[—]` besluit §8 en §9
 
-### 15.2 Wat wij vragen
+### 16.2 Wat wij vragen
 - geen wijziging van het huidige beleid en geen euro uit de lopende programma's `[tekst · nieuw]` toetsregel 3
 - wel de ruimte om te bouwen wat de volgende ronde nodig heeft: het bewijs dat maatschappelijke diensten een verdienmodel kunnen zijn, en de spelregels die dat mogelijk maken `[tekst · nieuw]`
 - en het moet klaar zijn op het moment dat die volgende ronde wordt ingericht, niet erna `[tekst · nieuw]` de zin die het bestuur op 2 september nodig heeft
 
 ---
 
-## 16 — Bijlagen · bron: bijlage-driesporen · ronde 5
+## 17 — Bijlagen · bron: bijlage-driesporen · ronde 5
 
 > Alles om het na te rekenen: de aangekondigde veenweide-aanpak gelezen door de scenario's, elk getal met zijn bron of label, de volledige toolbox en de begrippen. Wie een bewering wil nazoeken, is hier op de juiste plek.
 
-### 16.1 De aangekondigde veenweide-aanpak, gelezen door de scenario's
+### 17.1 De aangekondigde veenweide-aanpak, gelezen door de scenario's
 - de drie sporen zoals aangekondigd, met datum en bron `[kader · auteurs]`
 - de kritiek per spoor als gedateerde diagnose, niet als stellingname `[tekst · auteurs]`
 - de negen driesporenblokken samengevoegd tot één doorlopende bijlage `[tekst · auteurs]`
 
-### 16.2 Cijfers en bronnen
+### 17.2 Cijfers en bronnen
 - elk getal uit het document met zijn bron of zijn label `[tabel · nieuw]`
 
-### 16.3 De toolbox
+### 17.3 De toolbox
 - alle bouwstenen, per categorie, met literatuur `[tabel · auteurs]`
 
-### 16.4 Begrippen
+### 17.4 Begrippen
 - opdrachten (de overheid koopt een dienst in) tegenover steun (geen tegenprestatie) `[tabel · nieuw]`
 - ecosysteemdienst (wat de natuur levert) tegenover maatschappelijke dienstverlening (wat de ondernemer levert) `[tabel · nieuw]`
 - veenweideboer · middengroep · lagere veedichtheid · ronde · grondwaterstand en slootwaterpeil `[tabel · verhuisd]` uit het begrippenkader in de wachtkamer

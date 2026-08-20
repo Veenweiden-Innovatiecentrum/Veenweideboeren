@@ -22,7 +22,7 @@ Deel II is af: hoofdstuk 3 (`a-klem`), 4 (`b-opgaves`) en 5 (`c-omslag`) zijn he
 
 1. **Vier labels, en de scenario's moeten ze aanhouden.** Een **eis** zonder prijs (4.1) · een **wens** zonder eis (4.3) · een **opdracht**, waar de vraag hard is en de betaling nog kosten vergoedt — vandaag alleen het weidevogelbeheer · een **product**, met een afnemer die inkoopt. Scenario III is precies de scenario waarin de ontbrekende categorie ontstaat: een gevraagde prestatie mét prijs. Regels in `terminologie.md`.
 2. **Hoofdstuk 5 heeft vier routes, niet drie:** koolstof vastleggen, biodiversiteit verbouwen, water opslaan, landelijk wonen leveren, uit de VIC-concepten 5b, 4a, 8a en 6b. Waar scenario III beschrijft wat er gaat lopen, hoort dat rijtje te kloppen.
-3. **Alle vier kunnen naast de melk.** De conceptdossiers rekenen elk één activiteit als heel bedrijf door, omdat dat de manier is om te toetsen of zij op eigen kracht een inkomen draagt. Dat is een toetsvorm en geen voorschrift. Scenario III mag dus nooit lezen als omschakeling van het hele bedrijf; het is de schaal van 9.2, van één perceel tot het hele bedrijf.
+3. **Alle vier kunnen naast de melk.** De conceptdossiers rekenen elk één activiteit als heel bedrijf door, omdat dat de manier is om te toetsen of zij op eigen kracht een inkomen draagt. Dat is een toetsvorm en geen voorschrift. Scenario III mag dus nooit lezen als omschakeling van het hele bedrijf; het is de schaal van 10.2, van één perceel tot het hele bedrijf.
 4. **Een opgave is niet een maatregel.** Vernatting is een klimaatmaatregel, een lagere veedichtheid een natuurmaatregel, minder mest uitrijden een waterkwaliteitsmaatregel. In de dimensielijsten van de scenario's is dit de makkelijkste plek om het fout te doen. Regel in `terminologie.md`, met de bronnen.
 5. **"De ondernemende boer" waar het argument valt**, niet kaal "de ondernemer". In de motor-alinea van elke scenario is dat de juiste term.
 
@@ -65,5 +65,5 @@ Deze slag is over hoofdstuk 3, 4 en 5 gedaan en geldt vanaf nu:
 
 Ze staan in `correctielijst.md` en ze raken Deel III niet blokkerend, maar wel het geheel:
 
-- **Waarvoor moet betaald worden en wat loopt mee in de bedrijfsvoering?** De vier labels beschrijven de bestaande situatie; het criterium is nog een keuze. Landt in 5.1, 5.3 en hoofdstuk 11.
-- **Additionaliteit bij de koolstofroute.** Nu 4.1 de bodememissies als harde eis neerzet, kun je een reductie die toch al moet niet als credit verkopen. De scheiding tussen vermeden uitstoot en vastlegging die 5.3 al maakt, is daarmee ook juridisch. Raakt hoofdstuk 12.
+- **Waarvoor moet betaald worden en wat loopt mee in de bedrijfsvoering?** De vier labels beschrijven de bestaande situatie; het criterium is nog een keuze. Landt in 5.1, 5.3 en hoofdstuk 12.
+- **Additionaliteit bij de koolstofroute.** Nu 4.1 de bodememissies als harde eis neerzet, kun je een reductie die toch al moet niet als credit verkopen. De scheiding tussen vermeden uitstoot en vastlegging die 5.3 al maakt, is daarmee ook juridisch. Raakt hoofdstuk 13.

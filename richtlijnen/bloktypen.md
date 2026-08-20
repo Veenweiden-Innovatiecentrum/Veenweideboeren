@@ -41,8 +41,8 @@ Commentaar op een specifiek beleidsstuk. Besluit §8: het driesporenframe draagt
 | scenario-2 | Grootste deel van de 90.000 ha |
 | scenario-2 | De 20-30% scope binnen die 90.000 ha |
 | scenario-2 | Driesporenbeleid, hectarepremie GLB versus zakelijke transactie |
-| scenario-3 | Driesporenbeleid: €1,3 miljard, twee bestedingsroutes — *19-8 naar bijlage 16 verhuisd*|
-| scenario-3 | Spoor 3 specifiek: waarom afwaardering de verkeerde route is — *19-8 naar bijlage 16 verhuisd*|
+| scenario-3 | Driesporenbeleid: €1,3 miljard, twee bestedingsroutes — *19-8 naar bijlage 17 verhuisd*|
+| scenario-3 | Spoor 3 specifiek: waarom afwaardering de verkeerde route is — *19-8 naar bijlage 17 verhuisd*|
 | f-overheid | Driesporenbeleid, drie van de vier pijlers ontbreken |
 | g-perspectief | Driesporenbeleid, van drie sporen naar één gebiedsbod | **verhuisd 19-8**, omgezet naar diagnose met de intensiteiten-gedachte erin |
 

@@ -125,9 +125,11 @@
 *Besluit in `besluitenlog.md`, uitwerking per element in `skelet.md`.*
 
 - [x] **4.1 houdt de koppeling met 3.3 en de vier harde dimensies**, en krijgt twee dingen: de zin "om **de druk op natuur, klimaat en water** te verminderen legt Nederland een deel van die vraag vast in normen en handhaaft het — en de ondernemer krijgt daarvan geen verlichting, hij krijgt de eisen", en als sluitregel het label: dit zijn eisen zonder prijs. Budget 260 woorden tegen 538 nu
-- [x] **4.3 is nieuw en krijgt de zes zachte dimensies uit de tabel van 4.1**, met één aanloopregel en de bestaande slotregel van het hoofdstuk. **Voorwaarde: het blijft een opsomming**, anders zegt 5.3 hetzelfde nog eens. Budget 220 woorden
+- [x] **4.3 is nieuw en krijgt de zeven zachte dimensies uit de tabel van 4.1** *(20-8 bijgesteld van zes naar zeven: klimaat-bedrijf is geen harde eis, want er is geen norm per bedrijf voor methaan)*, met één aanloopregel en de bestaande slotregel van het hoofdstuk. **Voorwaarde: het blijft een opsomming**, anders zegt 5.3 hetzelfde nog eens. Budget 220 woorden
 - [x] **De weidevogel-alinea gaat uit 4.2**, naar 5.1 als waarneming en naar 5.3 als grensgeval. 4.2 houdt stikstof en krijgt één brug van twee zinnen: wat vandaag niet duwt verdwijnt niet, want de aandacht wisselt per ronde. Budget 170 woorden tegen 250 nu
 - [x] **Koolstofvastlegging komt níet in 4.3**, anders dan Tims lijst van 20-8 vraagt: Nederland eist lagere emissies en vraagt geen paludicultuur, dus vastlegging is een productroute en staat al in 5.3. Zo blijft de telling zeven opgaven en tien dimensies staan (Simons correctie)
+
+- [ ] **Optioneel in 4.2, geopend 20-8:** de ammoniaknorm van het stikstofpakket bij naam noemen — 0,164 kilo per fosfaatrecht in 2035 voor de melkveehouderij, de overige sectoren begin 2027. Dat maakt de hardheid van de natuureis concreet en dateerbaar. **Niet gedaan** omdat het nieuwe tekst is in een hoofdstuk dat korter moet, en omdat toetsregel 22 stikstof nergens dominant wil. Bron: Rijksoverheid, 26 juni 2026
 
 ### Openstaande keuze voor Tim, geopend 19-8 bij 4.2 — raakt hoofdstuk 5, 11 en 12
 

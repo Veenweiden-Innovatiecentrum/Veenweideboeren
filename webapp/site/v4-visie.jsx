@@ -38,6 +38,18 @@ const VORM_KLEUR = {
   beeld: 'var(--accent2)', '—': 'var(--text3)',
 };
 
+/* Het skelet is Markdown, dus `**vet**` en `code` stonden letterlijk in de lezer.
+   Dit maakt ze zichtbaar als opmaak: het is de tekst die beoordeeld moet worden. */
+function Md({ tekst }) {
+  if (!tekst) return null;
+  const delen = String(tekst).split(/(\*\*[^*]+\*\*|`[^`]+`)/g);
+  return <>{delen.map((d, i) => {
+    if (d.startsWith('**') && d.endsWith('**')) return <strong key={i}>{d.slice(2, -2)}</strong>;
+    if (d.startsWith('`') && d.endsWith('`')) return <code key={i} style={{ fontFamily: 'var(--font-mono, monospace)', fontSize: '.92em' }}>{d.slice(1, -1)}</code>;
+    return d;
+  })}</>;
+}
+
 function Skelet({ h }) {
   const blokken = h.skelet;
   if (!WERKSTAND_ZICHTBAAR || !blokken || !blokken.length) return null;
@@ -59,22 +71,22 @@ function Skelet({ h }) {
           )}
           {b.secties.map((s) => (
             <div key={s.kop} style={{ margin: '0 0 8px' }}>
-              <p style={{ margin: '0 0 2px', fontSize: 12.5, fontWeight: 600 }}>{s.kop}</p>
+              <p style={{ margin: '0 0 2px', fontSize: 12.5, fontWeight: 600 }}><Md tekst={s.kop}></Md></p>
               {s.elementen.map((e, i) => (
                 <p key={i} style={{ margin: '0 0 1px', paddingLeft: 12, fontSize: 12.5,
                                     lineHeight: 1.5, color: 'var(--text2)' }}>
-                  · {e.t}
+                  · <Md tekst={e.t}></Md>
                   <span style={{ fontFamily: 'var(--font-mono, monospace)', fontSize: 10.5,
                                  color: VORM_KLEUR[e.v] || 'var(--text3)', marginLeft: 6 }}>
                     [{e.v}{e.h ? ' · ' + e.h : ''}]
                   </span>
-                  {e.n && <span style={{ fontSize: 11, color: 'var(--text3)' }}> {e.n}</span>}
+                  {e.n && <span style={{ fontSize: 11, color: 'var(--text3)' }}> <Md tekst={e.n}></Md></span>}
                 </p>
               ))}
             </div>
           ))}
           {b.noot && <p style={{ margin: '4px 0 0', fontSize: 11.5, fontStyle: 'italic',
-                                 color: 'var(--text3)' }}>{b.noot}</p>}
+                                 color: 'var(--text3)' }}><Md tekst={b.noot}></Md></p>}
         </div>
       ))}
     </div>

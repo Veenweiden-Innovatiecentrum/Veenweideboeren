@@ -92,7 +92,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 4 — Wat Nederland van dit gebied vraagt (B — De opgaven) · bron: b-opgaves · ronde 2 · in herziening
+## 4 — Wat Nederland van dit gebied vraagt (B — De opgaven) · bron: b-opgaves · ronde 2 · af
 
 > Nederland vraagt zeven dingen tegelijk van dit gebied, en niet alle zeven even hard. Dit hoofdstuk zet die vraag op tafel in de orde van dwang: wat er moet en gehandhaafd wordt, welk dossier vandaag het hardst duwt, en wat er óók gevraagd wordt zonder dat het moet. Wie die vraag kan leveren, komt daarna.
 
@@ -140,7 +140,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 5 — Wat dit gebied kan dragen · bron: c-omslag · ronde 1 · in herziening
+## 5 — Wat dit gebied kan dragen · bron: c-omslag · ronde 1 · af
 
 > Op dezelfde hectare komt meer dan melk: landschap en weidevogels, koolstof in de bodem, vastgehouden water. Daarvan wordt er één afgerekend en de rest komt uit de marge van het bedrijf. Dit hoofdstuk zegt waar die klem omslaat in een kans — juist daar waar hij het strakst zit — welke prestaties een afnemer hebben, en waarom daar een ondernemende boer voor nodig is.
 
@@ -196,15 +196,11 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 # Deel III — Hoe het kan lopen
 
-*Hoofdstuk 6, 7 en 8 zijn één vergelijking, en daarom hebben zij dezelfde vier bewegingen. Hoofdstuk 8 doet ze al: **wat er gebeurt** (8.1) · **waarom het zo uitpakt** (8.2) · **wat dat betekent per opgave** (8.3) · **de motor** (8.4). Hoofdstuk 6 en 7 volgden die orde niet: zij hadden drie secties waarvan de eerste vijf elementen droeg en de twee andere er één. Voorstel van 20-8: beide naar vier secties in dezelfde orde als 8. Dan staat de vergelijking er ook als vorm, en dat is precies waarom C 19-8 vóór de aktes is gezet.*
-
-*De tweede reden om ze samen te pakken is de lengte. In de bestuursversie is akte I 713 woorden leesregel en akte II 1.290, tegen 1.053 voor akte III. Die 1.290 zit vrijwel volledig in de vier driesporenkaders die naar bijlage 16 gaan. `bloktypen.md` geeft de regel al voor kolommen en zij geldt hier net zo: wat je vergelijkt moet even lang zijn, anders leest het langste als het belangrijkste. **Budget: 6 op ±850, 7 op ±900.***
-
-*De meetlat is hoofdstuk 5, en dat levert per akte één element op dat er nog niet stond. In akte I komt de ruimte van 5.2 nooit vrij, dus geen van de vier routes uit 5.3 ontstaat — en de enige prestatie waarvoor het apparaat vandaag staat, het weidevogelbeheer, is juist het eerste dat onder margedruk sneuvelt. In akte II komt die ruimte wél vrij en blijft zij leeg, en dat is de rekensom van 3.2 zonder antwoord: minder omzet bij gelijke kosten.*
-
-## 6 — Wat er gebeurt als er niets verandert (akte I) · bron: akte-1 · ronde 2
+## 6 — Wat er gebeurt als er niets verandert (akte I) · bron: akte-1 · ronde 2 · nu aan de beurt
 
 > Er verandert niets. Dat lijkt de veilige route en is het niet: het is één product op één markt, en bij de volgende schok in melkprijs, voer, klimaat of regelgeving valt dat om. De ruimte uit 5.2 komt hier nooit vrij, dus ontstaat er ook geen enkel product uit 5.3. Dit hoofdstuk beschrijft een toestand, geen keuze van iemand.
+
+*Hoofdstuk 6, 7 en 8 zijn één vergelijking, en daarom krijgen zij dezelfde vier bewegingen: wat er gebeurt · waarom het zo uitpakt · wat dat betekent per opgave · de motor. Hoofdstuk 8 doet ze al; 6 en 7 hadden drie secties waarvan de eerste vijf elementen droeg en de twee andere er één. Met vier secties staat de vergelijking er ook als vorm, en dat is precies waarom C 19-8 vóór de aktes is gezet. De tweede reden om 6 en 7 samen te pakken is de lengte: in de bestuursversie is akte I 713 woorden leesregel en akte II 1.290, tegen 1.053 voor akte III, en die 1.290 zit vrijwel volledig in de vier driesporenkaders die naar bijlage 16 gaan. Wat je vergelijkt moet even lang zijn, anders leest het langste als het belangrijkste — dezelfde regel die bloktypen.md voor kolommen geeft. Budget: 6 op ±850, 7 op ±900. En hoofdstuk 5 is de meetlat: hier komt de ruimte van 5.2 nooit vrij, dus ontstaat geen van de vier routes van 5.3, en het weidevogelbeheer — de enige prestatie waarvoor de uitvoering vandaag staat — is juist het eerste dat onder margedruk sneuvelt.*
 
 ### 6.1 Wat je dan ziet · budget 260
 - **de inzet: de drie aktes in drie regels** — er verandert niets · de maatregelen komen zonder verdienmodel eronder · dezelfde maatregelen mét verdienmodel eronder `[kader · nieuw]` de ene introductie die toetsregel 13 vraagt, hier omdat de lezer haar hier nodig heeft en nergens eerder. Kort: drie regels, geen alinea per akte
@@ -227,9 +223,11 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 7 — Wat er gebeurt zonder verdienmodel eronder (akte II) · bron: akte-2 · ronde 2
+## 7 — Wat er gebeurt zonder verdienmodel eronder (akte II) · bron: akte-2 · ronde 2 · nu aan de beurt
 
 > De maatregelen komen, en er ligt geen verdienmodel onder. De doelen zijn legitiem en de beperkingen zijn nodig; wat ontbreekt is de bodem waarop een bedrijf ze kan dragen. De ruimte uit 5.2 komt hier wél vrij en blijft leeg, de kosten landen bij de ondernemer, en de opgave blijft over zonder iemand die haar uitvoert.
+
+*De meetlat van hoofdstuk 5, aan deze kant: in akte II komt de ruimte van 5.2 wél vrij en blijft zij leeg, en dat is de rekensom van 3.2 zonder antwoord — minder omzet bij gelijke kosten. Daarmee verliezen akte I en akte II hetzelfde vermogen op een andere manier: in I verdwijnt de drager langzaam, hier sneller. Twee dingen wegen in dit hoofdstuk het zwaarst: de erkenning staat vóór alles (toetsregel 2), en akte II is niemands beleid maar een categorie, dus er staat geen enkel voorbeeld uit het beleid van vandaag in (toetsregel 12a). De vier driesporenkaders gaan om die reden naar bijlage 16.*
 
 ### 7.1 De maatregelen kloppen, er ligt alleen niets onder · budget 280
 - **eerst de erkenning:** de doelen zijn legitiem en de beperkingen zijn nodig; wat ontbreekt is niet de wil of de inzet maar de bodem waarop een bedrijf ze kan dragen `[tekst · nieuw]` toetsregel 2, en dit is de plek waar die regel moet landen. Hij staat vóór alles wat er verder in dit hoofdstuk gebeurt
@@ -253,7 +251,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 8 — Wat er gebeurt met een verdienmodel eronder (akte III — het antwoord) · bron: akte-3 · ronde 1 · nu aan de beurt
+## 8 — Wat er gebeurt met een verdienmodel eronder (akte III — het antwoord) · bron: akte-3 · ronde 1 · af
 
 > Dezelfde doelen, maar de dienst wordt betaald in plaats van het verlies vergoed. Er komen twee geldstromen: de overheid die een dienst inkoopt en de markt die er zelf belang bij heeft. Dit is het antwoord van het document, en het is de enige akte waarin het vermogen uit hoofdstuk 5 overeind blijft.
 

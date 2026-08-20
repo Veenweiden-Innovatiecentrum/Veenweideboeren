@@ -1,5 +1,7 @@
 ## 7 — Wat er gebeurt zonder verdienmodel eronder
 
+### 7.1 De maatregelen kloppen, er ligt alleen niets onder
+
 <p>De overheid grijpt in met harde maatregelen, maar verandert de systeemcondities niet. Precies de boeren die je nodig hebt voor de oplossing worden het gebied uitgeduwd. De opgaves lijken even te verbeteren, maar de verbetering keert doordat de rentmeesters verdwijnen.</p>
 <p>De overheid ziet de rode dimensies uit scenario I en grijpt in. Harde maatregelen, verplicht. Grondwaterstanden omhoog naar minimaal -40 cm in het veld. Strenge normering op waterkwaliteit. Stikstofbeperkingen op meerdere vlakken. Natuurverplichtingen. De aanpak: doelsturing, individueel of op gebiedsniveau. De boer moet de doelen halen.</p>
 <p>Over compensatie wordt veel gesproken. Opkoopregelingen, bergboerenregelingen, uitbreiding van subsidies, discussies over langjarige contracten, het klinkt veelbelovend. Maar wat er in de praktijk komt is het juridisch minimum: privaatrechtelijke schadevergoeding bij onrechtmatig handelen, vrijwillige uitkoop. Er bestaat geen automatisch recht op nadeelcompensatie bij generieke maatregelen — daarvoor zou een individuele boer onevenredig zwaarder getroffen moeten worden dan andere veenweideboeren in vergelijkbare positie, en bij generieke peilfixatie is iedereen gelijk getroffen. Het verschil met scenario III is fundamenteel: daar wordt de boer betaald als leverancier van publieke waarde. Hier wordt de boer gecompenseerd als slachtoffer van beleid, voor zover er überhaupt iets te krijgen valt. De kosten voor de overheid lopen fors op — handhaving, monitoring, subsidieapparaat, uitkoop — maar zonder rendement: er ontstaat geen nieuw verdienmodel. De overheid legt de opgave bij de boer en laat het ondernemerschap verder volledig voor eigen rekening en risico.</p>
@@ -33,11 +35,11 @@
       <p style="margin:0 0 .75rem">Niet elk veen emitteert evenveel. Percelen die al laag liggen zijn doorgaans natter en stoten minder broeikasgassen uit dan hoog gelegen percelen. Generieke peilfixatie binnen een peilvak raakt boeren met overwegend laaggelegen percelen — die nu al weinig uitstoten — harder dan boeren met hoge percelen die veel meer uitstoten. De boer die al weinig uitstoot, betaalt. Zonder kartering en differentiatie binnen peilvakken is dat moeilijk verdedigbaar.</p>
       <p style="margin:0"><strong>Water naar boven, rust op de rest.</strong> Hoog gelegen percelen stoten het meest uit en lijden het meest onder droogteschade — daar zit de winst van actief watermanagement. Lage natte percelen kunnen vaak met rust gelaten worden. Differentiatie binnen peilvakken benut die kennis; generieke peilfixatie negeert haar.</p>
 </div>
+### 7.2 Waarom het bedrijf dat niet kan dragen
+
 <h4>Wat er verandert</h4>
 <p>De trend uit scenario I versnelt. De boeren die nog overgebleven waren — de kleinere, de lokale, de rentmeesters — kunnen nu definitief hun hoofd niet meer boven water houden. De kosten zijn toegenomen door de verplichtingen, de inkomstenderving wordt niet gecompenseerd. Ze stoppen.</p>
 <p>Even lijkt het beter: waterstand stijgt, CO₂-uitstoot neemt af, sloten worden iets groener. De harde maatregelen doen op papier wat ze moeten doen.</p>
-<div class="dim-list">
-      <div class="dim-item"><span class="dot amber"></span><span class="name">Klimaat &amp; bodemdaling</span><span class="desc">Verbetert aanvankelijk door hoger peil, maar verbetering vlakt af als actief beheer (greppelinfiltratie, slootbeheer) verdwijnt met de rentmeesters</span></div>
       <div class="dim-item"><span class="dot amber"></span><span class="name">Klimaat (bedrijf)</span><span class="desc">Onduidelijk, productie verplaatst zich naar elders, geen netto winst</span></div>
       <div class="dim-item"><span class="dot amber"></span><span class="name">Water (kwaliteit)</span><span class="desc">Normering lijkt te werken, maar na-ijleffecten en gebrek aan slootbeheer zorgen dat verbetering uitblijft</span></div>
       <div class="dim-item"><span class="dot red"></span><span class="name">Water (kwantiteit)</span><span class="desc">Vernatting vreet water op, geen actief beheer, geen buffering, waterbeschikbaarheid neemt af</span></div>
@@ -48,6 +50,8 @@
       <div class="dim-item"><span class="dot red"></span><span class="name">Grondstoffen &amp; kringloop</span><span class="desc">Geen verandering, bulksysteem blijft, kringloop blijft open</span></div>
       <div class="dim-item"><span class="dot red"></span><span class="name">Wonen &amp; recreatie</span><span class="desc">Problemen lopen door, stikstof en het slepende overgangsproces blokkeren woningbouw en recreatie</span></div>
 </div>
+### 7.3 De motor
+
 <div style="background:rgba(0,0,0,.03);border-radius:var(--radius);padding:.875rem 1rem;margin:1rem 0;font-size:13px;line-height:1.6;border-left:3px solid var(--text3)">
       <strong style="display:block;margin-bottom:3px;color:var(--text)">De motor, wat gebeurt er met ondernemerschap?</strong>
       De motor slaat af. Familieondernemers, biologisch én gangbaar — precies de mensen die de opgaves al serieus namen — kunnen de kostenstijging en inkomstenderving niet opvangen en stoppen. De grote bedrijven die overblijven hebben geen binding met het gebied. Hun motor draait op efficiëntie en afstand, niet op rentmeesterschap. En de overheid heeft de motor van het nieuwe type ondernemer nooit gevoed, alleen de verplichtingen opgelegd.
@@ -66,3 +70,6 @@
       <p style="margin:0">De kern van spoor 2 is een hectarepremie via het GLB. Dat is de subsidie-logica waar deze veenweideboeren-aanpak tegen waarschuwt: een hectarepremie compenseert grond, niet diensten. Hij vloeit weg in pachtprijzen, vergroot het kapitalisatierisico, en stuurt niet op resultaat. Hetzelfde geld kan anders worden besteed, als gebiedsspecifieke basisvergoeding voor wie in een vernattingsregime opereert, of als prestatievergoeding voor de levering van maatschappelijke diensten. Zelfde uitgave, ander instrument, fundamenteel ander effect.</p>
 </div>
 <p><strong>De boodschap:</strong> De overheid stelt de juiste doelen maar geeft de ondernemer niet de middelen om ze te halen. De maatregelen versnellen precies de trend die ze moesten stoppen: de lokale boer verdwijnt, het rentmeesterschap verdwijnt, en daarmee het fundament onder alle dimensies. En de relatie verhardt: de grote bedrijven die overblijven hebben de omzet en de juridische adviseurs om beleid bij de rechter te bestrijden — niet meer met trekkers naar het Binnenhof, maar met advocaten naar de Raad van State. Werken aan de opgaves komt dan op steeds meer terreinen in een juridisch moeras terecht.</p>
+
+<div class="dim-list">
+      <div class="dim-item"><span class="dot amber"></span><span class="name">Klimaat &amp; bodemdaling</span><span class="desc">Verbetert aanvankelijk door hoger peil, maar verbetering vlakt af als actief beheer (greppelinfiltratie, slootbeheer) verdwijnt met de rentmeesters</span></div>

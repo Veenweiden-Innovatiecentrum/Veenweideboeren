@@ -12,7 +12,7 @@ Van dit alles wordt één ding afgerekend, en dat is de melk. Voor weidevogel- e
 
 Op de plekken waar de veedichtheid omlaag moet, komt er ruimte vrij. Niet in hectares, want het bedrijf houdt zijn land. Maar percelen die niet meer op een maximale grasopbrengst hoeven te staan, kunnen natter zijn, later gemaaid worden, iets anders dragen. En omdat er tegelijk melkgeld wegvalt, komt er ook ruimte in het verdienmodel: een gat dat gevuld moet worden.
 
-Naast de vraag wat dit kost, komt daarmee een andere vraag: wat zou je op dat land kunnen doen dat past bij wat Nederland vraagt? Dat is de kans van dit gebied, en zij is voorwaardelijk. De ruimte komt vrij; wat erin komt is een keuze.
+Naast de vraag wat dit kost, komt daarmee een andere: wat zou je op dat land kunnen doen dat past bij wat Nederland vraagt? Die vraag moet gesteld worden, want ruimte die leeg blijft is alleen een omzetverlies. En als er iets op past, volgt de vraag die erover beslist: betaalt iemand daarvoor?
 
 ### 5.3 Waar deze opgaven een product kunnen worden
 

@@ -506,7 +506,7 @@ Waterkwaliteit, biodiversiteit en broeikasgasreductie worden dus pas bereikbaar 
 
 Dit is de situatie van vandaag, voortgezet. Er verandert niets in de manier waarop dit gebied bestuurd wordt: er gaat steun naartoe en er wordt gestuurd op middelen, op wat een bedrijf gebruikt, aanschaft en mag bouwen. Vernatting als verplichting en ruimere regels voor een ander gebruik van het land zijn er niet.
 
-Op het land staan de koeien verspreid over de percelen, staat de boer er zelf, en leeft het bedrijf van één prijs: die van de melk. De tankauto rijdt vol weg. Onder het land blijft de grondwaterstand laag, blijft het veen droog en gaat de uitstoot uit de bodem door.
+Op het land staan relatief veel koeien, verspreid over de percelen, want het blijft droog genoeg om ze buiten te laten. De boer staat er zelf, en het bedrijf leeft van één prijs: die van de melk. De tankauto rijdt vol weg. Onder het land blijft de grondwaterstand laag, blijft het veen droog en gaat de uitstoot uit de bodem door.
 
 Van wat Nederland vraagt komt daarmee weinig terecht. De emissies uit de bodem dalen niet en de nutriëntenbelasting blijft. Op één punt gebeurt er wel iets: voor landschap en weidevogels liggen beheerpakketten, met een vergoeding die de kosten en de gederfde inkomsten dekt, op de percelen waar een bedrijf zich er vrijwillig voor aanmeldt. Dat is de enige prestatie waarvoor de uitvoering al staat, en het gaat om een klein deel van het gebied. Al het andere beheer gebeurt onbeprijsd. Wat dit gebied levert is voedsel; wat het verder kan, blijft liggen.
 
@@ -519,8 +519,8 @@ Voor het verdienmodel van het bedrijf verandert daarmee niets. Elk van die instr
 Wat er dan gebeurt, is wat de kostenstructuur uit hoofdstuk 3 voorschrijft. Een boerderij in het veenweidegebied, van boven gezien, maar dan vijf jaar verder op het huidige pad. Strakker, efficiënter, verder geoptimaliseerd. Het landschap als productiemachine. Het resultaat van een systeem waarin grondschaarste, een op volume gerichte keten en het ontbreken van een prijs voor iets anders samen logisch gedrag produceren: schaalvergroting.
 
 <h4>Het beeld</h4>
-<p>Egaal groen grasland, strakker dan ooit: geen onkruid, geen variatie, robotmatig gemaaid en bemest. Brede, kaarsrechte sloten zonder enige begroeiing. De percelen zijn groter geworden: sloten gedempt, kavels samengevoegd. Het land oogt leeg, opvallend weinig koeien buiten.</p>
-<p>De koeien staan grotendeels op stal. Alleen als ze wél buiten staan, staan ze in grote koppels dicht bij elkaar op één perceel, een massale groep op een klein stuk land, de rest van de weiden leeg en onbenut. De stal is uitgebreid: groter, moderner, met mestopslag en voersilo's.</p>
+<p>Egaal groen grasland, strakker dan ooit: geen onkruid, geen variatie, robotmatig gemaaid en bemest. Brede, kaarsrechte sloten zonder enige begroeiing. De percelen zijn groter geworden: sloten gedempt, kavels samengevoegd.</p>
+<p>Er lopen relatief veel koeien, en omdat het land droog blijft kunnen zij ook buiten. De stal is uitgebreid: groter, moderner, met mestopslag en voersilo's.</p>
 <p>De CO₂-uitstoot is hoog en dubbel. Enerzijds de bodememissies: midden in de percelen blijft het droog, want tegenover een hogere grondwaterstand staat geen betaling en wel een lagere grasopbrengst, en dat diepe, droge veen oxideert continu. Anderzijds de bedrijfsemissies: veel vee betekent veel methaan, op stal of in de wei. Geen van beide bronnen daalt, dus de klimaatdoelen raken buiten bereik. Alleen voor ammoniak biedt de stal aanknopingspunten, en die maatregelen nemen boeren dan ook.</p>
 
 ### 6.3 Waarom dit geen stabiele toestand is
@@ -568,7 +568,7 @@ De maatregelen komen. De sturing gaat van middelen naar doelen: het bedrijf moet
 
 Onder het land werkt dat. De grondwaterstand gaat omhoog, de veenoxidatie remt en de uitstoot uit de bodem daalt. Ook de waterkwaliteit gaat vooruit, al kost dat eerst tijd. Dat zijn de twee opgaven die worden opgelegd en gehandhaafd, en zij worden gehaald.
 
-Op het land ziet het anders uit. De opdracht om melk te leveren staat er nog, maar zij staat onder druk: minder koeien per hectare geeft minder liters terwijl de kosten blijven. De middengroep houdt dat niet vol en vertrekt. Het land komt in handen van bedrijven die er niet wonen en die deze hectares vooral nodig hebben voor hun mestplaatsingsruimte. Wat overblijft is grasland met weinig variatie, en de koeien die buiten lopen staan dicht op elkaar op de huiskavel, want daar hangt de premie voor weidegang aan.
+Op het land ziet het anders uit. De opdracht om melk te leveren staat er nog, maar zij staat onder druk: minder koeien per hectare geeft minder liters terwijl de kosten blijven. De middengroep houdt dat niet vol en vertrekt. Het land komt in handen van bedrijven die er niet wonen en die deze hectares vooral nodig hebben voor hun mestplaatsingsruimte. Wat overblijft is grasland met weinig variatie. Er staan minder koeien dan in scenario I en zij staan vaker op stal, want het land is te nat geworden. Komen zij buiten, dan staan zij dicht op elkaar op de relatief droge huiskavel, en dat is ook waar de premie voor weidegang aan hangt.
 
 Wat niemand oplegt, blijft daarmee liggen: geen betaald landschapsbeheer, minder gewoond, en een sociale samenhang die terugloopt met de mensen die vertrekken. Armer wordt het gebied dus niet in productie, want de melk blijft komen, met minder koeien op meer hectares. Armer wordt het in wat daaromheen zat: minder mensen die er wonen en werken, een landschap dat zijn variatie en zijn onderhoud verliest, en een omzet die neerslaat bij een bedrijf dat hier alleen grond heeft.
 

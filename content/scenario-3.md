@@ -4,7 +4,8 @@
 <strong style="display:block;margin-bottom:6px;font-size:14px">Wat dit scenario is</strong>
 <p style="margin:0 0 .7rem">Dezelfde doelsturing als in scenario II en dezelfde vernatting. Wat erbij komt is tweeledig: de juridische ruimte om het land ook anders te gebruiken, en opdrachten waarmee een dienst wordt ingekocht tegen een prijs. Naarmate die contracten gaan lopen, krimpt de steun.</p>
 <p style="margin:0 0 .7rem">Op het land is dat te zien. Naast percelen met gras en koeien liggen een natte teelt, een strook met houtige beplanting, een perceel dat water bergt, een plek waar kleinschalig gewoond wordt en een deel dat is ingericht voor natuur en recreatie. Onder het land zit de opslag: water in de zandlaag, koolstof in het veen. De koolstof gaat de bodem in in plaats van eruit.</p>
-<p style="margin:0">Het bedrijf levert nog steeds melk en de tankauto rijdt nog weg, met minder. Daarnaast lopen er contracten voor water, koolstof, biodiversiteit, mest, wonen en zorg. Van wat Nederland vraagt wordt zo het meeste gehaald, en het bedrijf verdient aan twee dingen in plaats van aan één.</p>
+<p style="margin:0 0 .7rem">Het bedrijf levert nog steeds melk en de tankauto rijdt nog weg, met minder. Daarnaast lopen er contracten voor water, koolstof, biodiversiteit, mest, wonen en zorg. Van wat Nederland vraagt wordt zo het meeste gehaald, en het bedrijf verdient aan twee dingen in plaats van aan één.</p>
+<p style="margin:0">De pijl naar de opgaven is bijna geheel groen, en hij is breder dan in de twee andere scenario's. Er wordt dus niet alleen een groter deel gehaald van wat Nederland vraagt, er gaat ook meer naartoe.</p>
 </div>
 
 {{partial:scenario-verschil}}

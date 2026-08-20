@@ -591,20 +591,45 @@ De rekening daarvoor staat intussen op niemands begroting: boetes onder de Kader
 
 ### 7.2 De maatregelen kloppen, er ligt alleen niets onder
 
-<p>De overheid grijpt in met harde maatregelen, maar verandert de systeemcondities niet. Precies de boeren die je nodig hebt voor de oplossing worden het gebied uitgeduwd. De opgaves lijken even te verbeteren, maar de verbetering keert doordat de rentmeesters verdwijnen.</p>
-<p>De overheid ziet de rode dimensies uit scenario I en grijpt in. Harde maatregelen, verplicht. Grondwaterstanden omhoog naar minimaal -40 cm in het veld. Strenge normering op waterkwaliteit. Stikstofbeperkingen op meerdere vlakken. Natuurverplichtingen. De aanpak: doelsturing, individueel of op gebiedsniveau. De boer moet de doelen halen.</p>
-<p>Over compensatie wordt veel gesproken. Opkoopregelingen, bergboerenregelingen, uitbreiding van subsidies, discussies over langjarige contracten, het klinkt veelbelovend. Maar wat er in de praktijk komt is het juridisch minimum: privaatrechtelijke schadevergoeding bij onrechtmatig handelen, vrijwillige uitkoop. Er bestaat geen automatisch recht op nadeelcompensatie bij generieke maatregelen — daarvoor zou een individuele boer onevenredig zwaarder getroffen moeten worden dan andere veenweideboeren in vergelijkbare positie, en bij generieke peilfixatie is iedereen gelijk getroffen. Het verschil met scenario III is fundamenteel: daar wordt de boer betaald als leverancier van publieke waarde. Hier wordt de boer gecompenseerd als slachtoffer van beleid, voor zover er überhaupt iets te krijgen valt. De kosten voor de overheid lopen fors op — handhaving, monitoring, subsidieapparaat, uitkoop — maar zonder rendement: er ontstaat geen nieuw verdienmodel. De overheid legt de opgave bij de boer en laat het ondernemerschap verder volledig voor eigen rekening en risico.</p>
+De doelen zijn legitiem en de beperkingen zijn nodig. Het veen daalt, de waterkwaliteit haalt de norm niet en de depositie op nabijgelegen natuur is te hoog; dat er dan gehandhaafd wordt op wat gehaald moet worden, is de logische stap. Wat in dit scenario ontbreekt is niet de wil en niet de inzet. Het is de bodem waarop een bedrijf die eisen kan dragen.
+
+**Dit is niemands beleid.** Het is een categorie: wat er gebeurt bij elke ronde maatregelen waaronder geen tweede verdienmodel ligt. Dat mechanisme heeft eerder gedraaid, en het is niet aan één departement of één regeling toe te schrijven.{{fiche:Eerdere ronden van hetzelfde mechanisme|De uitkoopregelingen tussen 2008 en 2020 en de eerste generatie stikstofmaatregelen werkten langs dezelfde lijn: een harde vraag aan het bedrijf, met een vergoeding voor wat het inlevert en geen prijs voor wat het levert. De waarneming uit die ronden is dat het beoogde effect niet werd bereikt en dat de uitstroom versnelde van precies de bedrijven die voor de oplossing nodig zijn. Dat is een waarneming en geen oordeel: de doelen waren toen even legitiem als nu.|Dit staat hier als categorie en niet als voorbeeld uit het beleid van vandaag. De lezing van de aangekondigde veenweide-aanpak staat in bijlage 17, met datum.}}
+
+Wat het bedrijf merkt is dat de sturing van middelen naar doelen gaat. De grondwaterstand moet omhoog, naar -20 tot -40 cm in het veld. De normering op waterkwaliteit wordt strenger, er komen beperkingen rond stikstof en verplichtingen voor natuur. Het bedrijf moet die doelen halen en mag zelf kiezen hoe.
+
+Daar staat een vergoeding tegenover, en die vergoedt schade. Over compensatie wordt veel gesproken: opkoopregelingen, een bergboerenregeling, ruimere subsidies, langjarige contracten. Wat er in de praktijk komt is het juridisch minimum.{{fiche:Waarom er juridisch weinig te vergoeden valt|Er bestaat geen automatisch recht op nadeelcompensatie bij generieke maatregelen. Daarvoor zou een individueel bedrijf onevenredig zwaarder getroffen moeten zijn dan andere bedrijven in vergelijkbare positie, en bij een generieke peilfixatie is iedereen gelijk getroffen. Wat overblijft is privaatrechtelijke schadevergoeding bij onrechtmatig handelen, en vrijwillige uitkoop.|Dat is precies het verschil met scenario III: daar wordt betaald voor wat een bedrijf levert, hier wordt vergoed wat het inlevert.}}
+
+En dan valt het bedrijf om op kosten en omzet, niet op motivatie of vakmanschap. De kosten stijgen met de verplichtingen, de omzet daalt met de veedichtheid, en het verschil wordt niet betaald. Aan de kant van de overheid lopen de kosten juist op: handhaving, meting, uitvoering, uitkoop. Er komt alleen geen verdienmodel uit voort, dus die uitgave houdt niet op.
 
 <div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.25rem 0;font-size:13.5px;line-height:1.65">
       <strong style="display:block;margin-bottom:6px;font-size:14px">Generieke peilfixatie pakt de boer die al weinig uitstoot</strong>
       <p style="margin:0 0 .75rem">Niet elk veen emitteert evenveel. Percelen die al laag liggen zijn doorgaans natter en stoten minder broeikasgassen uit dan hoog gelegen percelen. Generieke peilfixatie binnen een peilvak raakt boeren met overwegend laaggelegen percelen — die nu al weinig uitstoten — harder dan boeren met hoge percelen die veel meer uitstoten. De boer die al weinig uitstoot, betaalt. Zonder kartering en differentiatie binnen peilvakken is dat moeilijk verdedigbaar.</p>
       <p style="margin:0"><strong>Water naar boven, rust op de rest.</strong> Hoog gelegen percelen stoten het meest uit en lijden het meest onder droogteschade — daar zit de winst van actief watermanagement. Lage natte percelen kunnen vaak met rust gelaten worden. Differentiatie binnen peilvakken benut die kennis; generieke peilfixatie negeert haar.</p>
 </div>
+
 ### 7.3 Waarom de verbetering niet standhoudt
 
-<h4>Wat er verandert</h4>
-<p>De trend uit scenario I versnelt. De boeren die nog overgebleven waren — de kleinere, de lokale, de rentmeesters — kunnen nu definitief hun hoofd niet meer boven water houden. De kosten zijn toegenomen door de verplichtingen, de inkomstenderving wordt niet gecompenseerd. Ze stoppen.</p>
-<p>Even lijkt het beter: waterstand stijgt, CO₂-uitstoot neemt af, sloten worden iets groener. De harde maatregelen doen op papier wat ze moeten doen.</p>
+Eerst gaat het beter, en dat is geen schijn. De grondwaterstand stijgt, de uitstoot uit de bodem daalt, de sloten worden groener. De maatregelen doen wat zij moeten doen.
+
+<p>Daarna versnelt de trend uit scenario I. De bedrijven die er nog waren, de kleinere en de lokale, houden het niet meer vol: de kosten zijn toegenomen door de verplichtingen en de gederfde inkomsten worden niet gecompenseerd. Ze stoppen.</p>
+
+<p>Hun land wordt overgenomen door bedrijven die er niet wonen, vaak uit de kleigebieden, met een grote behoefte aan hectares voor hun mestplaatsingsruimte. Vrijkomend veenweideland is goedkoop. Of het gaat naar partijen die het aanhouden tot de tijden beter zijn.</p>
+
+<p>En dan keert de beweging. Wie op afstand beheert, doet wat er in het contract staat: geen zorg voor de slootkanten, geen oog voor de weidevogels, geen greppel die op tijd wordt opengetrokken. De verbetering die de maatregelen opleverden rustte op dat beheer, en zij loopt terug met de mensen die het deden. Op papier is het doel gehaald. In de praktijk is het beheer verdwenen waarop het gehaalde doel stond.</p>
+
+<div style="background:var(--blue-light);border-left:3px solid var(--blue);border-radius:var(--radius);padding:.875rem 1rem;margin:1rem 0;font-size:13px;line-height:1.6">
+      <strong style="display:block;margin-bottom:3px">Let op: ook koploper-familieondernemers worden geraakt</strong>
+      Grove maatregelen zonder maatwerk treffen niet alleen de schaaloptimaliseerders. Familieondernemers die al verder zijn in de transitie — biologisch of anderszins, precies de mensen die de maatschappij wil behouden — vallen onder dezelfde normering. Het risico is reëel dat je met scenario II precies degenen wegdrukt die je nodig hebt voor scenario III.
+</div>
+
+### 7.4 De motor
+
+De motor slaat af. Het zijn de familiebedrijven die de opgaven al serieus namen, biologisch en gangbaar, die de kostenstijging en de gederfde inkomsten niet kunnen opvangen en stoppen. Wat overblijft heeft geen binding met het gebied: die motor draait op efficiëntie en op afstand.
+
+Daarmee verdwijnt precies de figuur die scenario III nodig heeft. Een dienst leveren tegen een prijs vraagt iemand die de investering wil doen en de kans zelf ziet, en dat kun je niemand opdragen. Wie dat zou doen is in dit scenario vertrokken, en zijn land is gekocht door een partij die er niet woont.
+
+<div class="dim-list">
+      <div class="dim-item"><span class="dot amber"></span><span class="name">Klimaat &amp; bodemdaling</span><span class="desc">Verbetert aanvankelijk door hoger peil, maar verbetering vlakt af als actief beheer (greppelinfiltratie, slootbeheer) verdwijnt met de rentmeesters</span></div>
       <div class="dim-item"><span class="dot amber"></span><span class="name">Klimaat (bedrijf)</span><span class="desc">Onduidelijk, productie verplaatst zich naar elders, geen netto winst</span></div>
       <div class="dim-item"><span class="dot amber"></span><span class="name">Water (kwaliteit)</span><span class="desc">Normering lijkt te werken, maar na-ijleffecten en gebrek aan slootbeheer zorgen dat verbetering uitblijft</span></div>
       <div class="dim-item"><span class="dot red"></span><span class="name">Water (kwantiteit)</span><span class="desc">Vernatting vreet water op, geen actief beheer, geen buffering, waterbeschikbaarheid neemt af</span></div>
@@ -615,25 +640,6 @@ De rekening daarvoor staat intussen op niemands begroting: boetes onder de Kader
       <div class="dim-item"><span class="dot red"></span><span class="name">Grondstoffen &amp; kringloop</span><span class="desc">Geen verandering, bulksysteem blijft, kringloop blijft open</span></div>
       <div class="dim-item"><span class="dot red"></span><span class="name">Wonen &amp; recreatie</span><span class="desc">Problemen lopen door, stikstof en het slepende overgangsproces blokkeren woningbouw en recreatie</span></div>
 </div>
-### 7.4 De motor
-
-<div style="background:rgba(0,0,0,.03);border-radius:var(--radius);padding:.875rem 1rem;margin:1rem 0;font-size:13px;line-height:1.6;border-left:3px solid var(--text3)">
-      <strong style="display:block;margin-bottom:3px;color:var(--text)">De motor, wat gebeurt er met ondernemerschap?</strong>
-      De motor slaat af. Familieondernemers, biologisch én gangbaar — precies de mensen die de opgaves al serieus namen — kunnen de kostenstijging en inkomstenderving niet opvangen en stoppen. De grote bedrijven die overblijven hebben geen binding met het gebied. Hun motor draait op efficiëntie en afstand, niet op rentmeesterschap. En de overheid heeft de motor van het nieuwe type ondernemer nooit gevoed, alleen de verplichtingen opgelegd.
-</div>
-<h4>Wat er dan gebeurt</h4>
-<p>De lokale rentmeesters verdwijnen. Hun land wordt ingenomen door grote boeren die misschien niet eens in het gebied zitten, bedrijven vanuit de kleigebieden met een enorme grondhonger. De schaalvergroting in combinatie met de grondgebondenheidsregel maakt dat ze vele hectares nodig hebben, en het vrijkomende veenweideland is goedkoop. Of het land gaat naar grondspeculanten en institutionele investeerders die wachten op betere tijden.</p>
-<p>En dan keert de beweging. De grote boeren op afstand hebben geen binding met het land. Geen liefde voor het veenweidelandschap, geen zorg voor de slootkanten, geen oog voor de weidevogels. Ze beheren op efficiëntie, niet op rentmeesterschap. De verbeteringen die de harde maatregelen even opleverden — klimaat, water, natuur — worden weer teruggedraaid doordat de zorg voor het landschap verdwijnt met de mensen die het kenden.</p>
-<p>De doelsturing werkt op papier. In de praktijk stuurt het de rentmeesters het gebied uit en vervangt het ze door beheerders op afstand.
-</p><div style="background:var(--blue-light);border-left:3px solid var(--blue);border-radius:var(--radius);padding:.875rem 1rem;margin:1rem 0;font-size:13px;line-height:1.6">
-      <strong style="display:block;margin-bottom:3px">Let op: ook koploper-familieondernemers worden geraakt</strong>
-      Grove maatregelen zonder maatwerk treffen niet alleen de schaaloptimaliseerders. Familieondernemers die al verder zijn in de transitie — biologisch of anderszins, precies de mensen die de maatschappij wil behouden — vallen onder dezelfde normering. Het risico is reëel dat je met scenario II precies degenen wegdrukt die je nodig hebt voor scenario III.
-</div><p></p>
-
-<p><strong>De boodschap:</strong> De overheid stelt de juiste doelen maar geeft de ondernemer niet de middelen om ze te halen. De maatregelen versnellen precies de trend die ze moesten stoppen: de lokale boer verdwijnt, het rentmeesterschap verdwijnt, en daarmee het fundament onder alle dimensies. En de relatie verhardt: de grote bedrijven die overblijven hebben de omzet en de juridische adviseurs om beleid bij de rechter te bestrijden — niet meer met trekkers naar het Binnenhof, maar met advocaten naar de Raad van State. Werken aan de opgaves komt dan op steeds meer terreinen in een juridisch moeras terecht.</p>
-
-<div class="dim-list">
-      <div class="dim-item"><span class="dot amber"></span><span class="name">Klimaat &amp; bodemdaling</span><span class="desc">Verbetert aanvankelijk door hoger peil, maar verbetering vlakt af als actief beheer (greppelinfiltratie, slootbeheer) verdwijnt met de rentmeesters</span></div>
 
 ---
 

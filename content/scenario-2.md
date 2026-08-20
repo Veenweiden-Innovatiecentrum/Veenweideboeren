@@ -1,18 +1,20 @@
 ## 7 — Wat er gebeurt zonder verdienmodel eronder
 
-<div style="background:var(--bg2);border-left:4px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0 1.5rem;font-size:13.5px;line-height:1.65">
-<strong style="display:block;margin-bottom:6px;font-size:14px">Wat dit scenario is</strong>
-<p style="margin:0 0 .7rem">De maatregelen komen. De sturing gaat van middelen naar doelen: het bedrijf moet de doelen halen en mag zelf kiezen hoe. Vernatting wordt een verplichting op de plekken waar zij nodig is, de steun neemt iets toe, en de juridische ruimte om het land ook anders te gebruiken blijft beperkt.</p>
-<p style="margin:0 0 .7rem">Onder het land werkt dat. De grondwaterstand gaat omhoog, de veenoxidatie remt en de uitstoot uit de bodem daalt. Ook de waterkwaliteit gaat vooruit, al kost dat eerst tijd. Dat zijn de twee opgaven die worden opgelegd en gehandhaafd, en zij worden gehaald.</p>
-<p style="margin:0 0 .7rem">Op het land ziet het anders uit. De opdracht om melk te leveren staat er nog, maar zij staat onder druk: minder koeien per hectare geeft minder liters terwijl de kosten blijven. De middengroep houdt dat niet vol en vertrekt. Het land komt in handen van bedrijven die er niet wonen en die deze hectares vooral nodig hebben voor hun mestplaatsingsruimte. Wat overblijft is grasland met weinig variatie, en de koeien die buiten lopen staan dicht op elkaar op de huiskavel, want daar hangt de premie voor weidegang aan.</p>
-<p style="margin:0">Wat niemand oplegt, blijft daarmee liggen: geen betaald landschapsbeheer, minder gewoond, en een sociale samenhang die terugloopt met de mensen die vertrekken. Armer wordt het gebied dus niet in productie, want de melk blijft komen, met minder koeien op meer hectares. Armer wordt het in wat daaromheen zat: minder mensen die er wonen en werken, een landschap dat zijn variatie en zijn onderhoud verliest, en een omzet die neerslaat bij een bedrijf dat hier alleen grond heeft.</p>
-</div>
+### 7.1 Wat dit scenario is
 
 {{partial:scenario-verschil}}
 
 {{partial:scenario-2-beeld}}
 
-### 7.1 De maatregelen kloppen, er ligt alleen niets onder
+De maatregelen komen. De sturing gaat van middelen naar doelen: het bedrijf moet de doelen halen en mag zelf kiezen hoe. Vernatting wordt een verplichting op de plekken waar zij nodig is, de steun neemt iets toe, en de juridische ruimte om het land ook anders te gebruiken blijft beperkt.
+
+Onder het land werkt dat. De grondwaterstand gaat omhoog, de veenoxidatie remt en de uitstoot uit de bodem daalt. Ook de waterkwaliteit gaat vooruit, al kost dat eerst tijd. Dat zijn de twee opgaven die worden opgelegd en gehandhaafd, en zij worden gehaald.
+
+Op het land ziet het anders uit. De opdracht om melk te leveren staat er nog, maar zij staat onder druk: minder koeien per hectare geeft minder liters terwijl de kosten blijven. De middengroep houdt dat niet vol en vertrekt. Het land komt in handen van bedrijven die er niet wonen en die deze hectares vooral nodig hebben voor hun mestplaatsingsruimte. Wat overblijft is grasland met weinig variatie, en de koeien die buiten lopen staan dicht op elkaar op de huiskavel, want daar hangt de premie voor weidegang aan.
+
+Wat niemand oplegt, blijft daarmee liggen: geen betaald landschapsbeheer, minder gewoond, en een sociale samenhang die terugloopt met de mensen die vertrekken. Armer wordt het gebied dus niet in productie, want de melk blijft komen, met minder koeien op meer hectares. Armer wordt het in wat daaromheen zat: minder mensen die er wonen en werken, een landschap dat zijn variatie en zijn onderhoud verliest, en een omzet die neerslaat bij een bedrijf dat hier alleen grond heeft.
+
+### 7.2 De maatregelen kloppen, er ligt alleen niets onder
 
 <p>De overheid grijpt in met harde maatregelen, maar verandert de systeemcondities niet. Precies de boeren die je nodig hebt voor de oplossing worden het gebied uitgeduwd. De opgaves lijken even te verbeteren, maar de verbetering keert doordat de rentmeesters verdwijnen.</p>
 <p>De overheid ziet de rode dimensies uit scenario I en grijpt in. Harde maatregelen, verplicht. Grondwaterstanden omhoog naar minimaal -40 cm in het veld. Strenge normering op waterkwaliteit. Stikstofbeperkingen op meerdere vlakken. Natuurverplichtingen. De aanpak: doelsturing, individueel of op gebiedsniveau. De boer moet de doelen halen.</p>
@@ -47,7 +49,7 @@
       <p style="margin:0 0 .75rem">Niet elk veen emitteert evenveel. Percelen die al laag liggen zijn doorgaans natter en stoten minder broeikasgassen uit dan hoog gelegen percelen. Generieke peilfixatie binnen een peilvak raakt boeren met overwegend laaggelegen percelen — die nu al weinig uitstoten — harder dan boeren met hoge percelen die veel meer uitstoten. De boer die al weinig uitstoot, betaalt. Zonder kartering en differentiatie binnen peilvakken is dat moeilijk verdedigbaar.</p>
       <p style="margin:0"><strong>Water naar boven, rust op de rest.</strong> Hoog gelegen percelen stoten het meest uit en lijden het meest onder droogteschade — daar zit de winst van actief watermanagement. Lage natte percelen kunnen vaak met rust gelaten worden. Differentiatie binnen peilvakken benut die kennis; generieke peilfixatie negeert haar.</p>
 </div>
-### 7.2 Waarom het bedrijf dat niet kan dragen
+### 7.3 Waarom het bedrijf dat niet kan dragen
 
 <h4>Wat er verandert</h4>
 <p>De trend uit scenario I versnelt. De boeren die nog overgebleven waren — de kleinere, de lokale, de rentmeesters — kunnen nu definitief hun hoofd niet meer boven water houden. De kosten zijn toegenomen door de verplichtingen, de inkomstenderving wordt niet gecompenseerd. Ze stoppen.</p>
@@ -62,7 +64,7 @@
       <div class="dim-item"><span class="dot red"></span><span class="name">Grondstoffen &amp; kringloop</span><span class="desc">Geen verandering, bulksysteem blijft, kringloop blijft open</span></div>
       <div class="dim-item"><span class="dot red"></span><span class="name">Wonen &amp; recreatie</span><span class="desc">Problemen lopen door, stikstof en het slepende overgangsproces blokkeren woningbouw en recreatie</span></div>
 </div>
-### 7.3 De motor
+### 7.4 De motor
 
 <div style="background:rgba(0,0,0,.03);border-radius:var(--radius);padding:.875rem 1rem;margin:1rem 0;font-size:13px;line-height:1.6;border-left:3px solid var(--text3)">
       <strong style="display:block;margin-bottom:3px;color:var(--text)">De motor, wat gebeurt er met ondernemerschap?</strong>

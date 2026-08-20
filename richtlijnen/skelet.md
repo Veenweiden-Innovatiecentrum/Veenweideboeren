@@ -204,19 +204,23 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 *Hoofdstuk 6, 7 en 8 zijn één vergelijking, en daarom krijgen zij dezelfde drie bewegingen: wat er gebeurt · waarom het zo uitpakt · de motor. **De vierde beweging, "wat dat betekent per opgave", is er op 20-8 uitgehaald** en staat nu in hoofdstuk 9, waar de drie naast elkaar liggen: wat je vergelijkt, zet je naast elkaar, en dat is dezelfde regel die C 19-8 vóór de scenario's zette. Zonder die verhuizing kwamen de tien dimensies vier keer voorbij. De tweede reden om 6 en 7 samen te pakken is de lengte: in de bestuursversie is scenario I 713 woorden leesregel en scenario II 1.290, tegen 1.053 voor scenario III, en die 1.290 zit vrijwel volledig in de vier driesporenkaders die naar bijlage 17 gaan. Wat je vergelijkt moet even lang zijn, anders leest het langste als het belangrijkste — dezelfde regel die bloktypen.md voor kolommen geeft. Budget na de komst van hoofdstuk 9: **6 op ±820 en 7 op ±790**, elk in drie secties. Dat is minder dan de ±950 en ±900 van eerder op 20-8, en het verschil is precies wat naar hoofdstuk 9 verhuist: de dimensielijsten en de kostenverschuiving. Scenario I krijgt daarvoor wel ±280 woorden bewaarde tekst uit hoofdstuk 4 erbij plus de erkenning van 6.1, en de bestuursversie stond al op 713. En hoofdstuk 5 is de meetlat: hier komt de ruimte van 5.2 nooit vrij, dus ontstaat geen van de vier routes van 5.3, en het weidevogelbeheer — de enige prestatie waarvoor de uitvoering vandaag staat — is juist het eerste dat onder margedruk sneuvelt.*
 
-### 6.1 Er wordt gestuurd op middelen · budget 280
+### 6.1 Wat dit scenario is · **gehaald: 195 woorden**
+
+- **de omschrijving van het scenario, in drie of vier alinea's en in dezelfde vorm bij alle drie:** wat er ingaat aan sturing en steun, wat er onder het land gebeurt, wat er op het land te zien is, en welke opgaven daarmee wel en niet gehaald worden `[tekst · nieuw]` **Tim, 20-8, en op de tekeningen zelf geschreven.** Zij zijn 195, 259 en 187 woorden en dat is bewust: hij vroeg om rijker. **Twee valkuilen die hier al een keer zijn ingelopen:** beschrijf het gebied en niet de plaat (een zin over "de pijl" vraagt van de lezer dat hij gaat kijken), en zeg het over de opgaven één keer. De tabel `scenario-verschil` en de illustratie staan boven de tekst, dus de lezer weet waar hij is voordat hij leest
+
+### 6.2 Er wordt gestuurd op middelen · budget 280
 - **de erkenning, en zij staat vooraan:** er wordt wel degelijk gestuurd. Grondgebondenheid, regels over wat een bedrijf mag bouwen en gebruiken, pakketten voor beheer dat vrijwillig blijft, en steun waar het knelt. Dat is sturing op middelen, en zij heeft een goede reden: doelen per bedrijf meten en verantwoorden kost geld `[tekst · nieuw]` **Dit is het element dat Tim op 20-8 aandroeg en het is de hele reparatie van deze sectie.** Toetsregel 2, op dezelfde plek als in scenario II: eerst de erkenning. Zonder deze alinea leest scenario I als "u doet niets", en dat is precies wat een overheid hier zou tegenspreken — terecht
 - **en toch verandert er voor het bedrijf niets:** elk van die instrumenten vergoedt kosten of geeft ruimte, en geen ervan zet een prestatie mét een prijs naast de melk. Het bedrijf houdt één product dat wordt afgerekend `[tekst · nieuw]` De vier labels uit `terminologie.md` doen hier het werk, en de ANLb-correctie van 18-8 is het mechanisme: het pakket vergoedt kosten en gederfde inkomsten, dus het is een vergoeding en geen verdienste. **Dit is ook de zin die de aktetitel waarmaakt:** wat er niet verandert is de grondslag onder het bedrijf, niet de inspanning van het beleid
 - **het beeld:** hetzelfde land, strakker. Grotere percelen, gedempte sloten, weinig koeien buiten, een grotere stal, en midden in de percelen blijft het droog `[tekst · auteurs]` het "startbeeld" en "het beeld" van de auteurs, ingedikt tot één alinea. **Twee dingen moeten hier om:** "de boeren zijn niet genegen het waterpeil te verhogen" is een verwijt aan de ondernemer (toetsregel 5) en gebruikt kaal "waterpeil" (`terminologie.md`) — het wordt: er staat geen betaling tegenover een hogere grondwaterstand, dus gebeurt het niet. En de alinea over vrijwilligheid die "precies oplevert wat je verwacht: weinig" is een oordeel over het beleid (toetsregel 1) en gaat eruit
 
 *Twee besluiten van 20-8 die je hier terugziet. **De inzet met de drie scenario's is uit deze sectie gehaald** en staat als openingskader boven 6.1, want 6.1 gaat alleen over scenario I. **En het element "geen verwijt aan wie niets doet" is vervallen**: het veronderstelde zelf dat iemand niets doet, en de erkenning hierboven doet dat werk concreter. Wat blijft is de vangrail zelf, en die zit nu in de eerste twee elementen.*
 
-### 6.2 Waarom dit geen stabiele toestand is · budget 280
+### 6.3 Waarom dit geen stabiele toestand is · budget 280
 - **het lijkt te werken zolang de melkprijs meezit:** één product op één markt is een kwetsbare positie, en zij wordt pas zichtbaar bij de volgende schok in soja, kunstmest, melkprijs, klimaat of regelgeving `[tekst · verhuisd + bijgesteld]` de bewaarde tekst in `correctielijst.md` opent met "scenario I lijkt te werken omdat er nog niks is gebeurd". **Die halve zin gaat eruit** (Tim, 20-8) en niet omdat hij scherp is: hij spreekt 5.1 letterlijk tegen, waar staat dat aan de drie eisen "het hardst gewerkt" wordt, en hij is de zin waarin een overheid een verwijt leest. De kwetsbaarheid zelf blijft, en zij hangt aan het aantal producten en niet aan de vraag of er beleid is. Besluit 17-8 over de monocultuur valt hiermee samen
 - **de drie termijnen:** op korte termijn vernietigt margedruk het rentmeesterschap, op middellange termijn maakt de schaalvergrotingsreflex de fijnmazigheid kapot, en op lange termijn blokkeert de klemzittende middengroep de transitie zelf `[kaarten · auteurs]` woordelijk klaar in `correctielijst.md`, vorm al gebouwd in commit `6a30ea3`. **De eerste kaart draagt de meetlat van hoofdstuk 5:** het weidevogelbeheer is de enige prestatie waarvoor de uitvoering vandaag staat, en het is het eerste dat sneuvelt
 - **de opvolging wordt onbetaalbaar:** wie neemt een kapitaalintensief bedrijf over waarvan de marge dunner wordt `[tekst · auteurs]` één zin, besluit 17-8; de zin van de auteurs staat er al ("wie neemt zo'n bedrijf nog over?") en hoeft alleen de reden erbij
 
-### 6.3 De motor · budget 260
+### 6.4 De motor · budget 260
 - **hoe het ondernemerschap er in scenario I uitziet:** de motor draait, maar op de verkeerde brandstof. Wie overblijft ondernemt op volume en op kosten, en dan zijn de opgaven een kostenpost `[tekst · auteurs]` vaste kop, elke scenario heeft deze alinea
 - **wat er met zo'n ondernemer verdwijnt, is concreet en telbaar:** de uren landbeheer waarvoor geen rekening bestaat, en dat die onbeprijsd zijn en niet gratis blijkt pas als het eigenaarschap verschuift `[tekst · verhuisd]` woordelijk klaar in `correctielijst.md`, redactiebrief §3. **De slotzin is de ene toegestane zin over afwendbaarheid:** zolang deze ondernemers er zijn, is het te voorkomen. Dat is ook de brug naar hoofdstuk 7, waar het sneller gaat
 - **de conclusie: zonder perspectief geen opgaven.** Geen enkele opgave wordt structureel gehaald zolang de middengroep geen andere route heeft dan doorgaan zoals het is of stoppen, en dat is 70 tot 80 procent van de bedrijven `[tekst · verhuisd]` woordelijk klaar in `correctielijst.md`, uit hoofdstuk 4. **Hier landt ook de areaal-claim met haar `[[CIJFER]]`**, de enige open markering van dit hoofdstuk. Zij staat in De motor en niet in een eigen sectie, want zij is precies het motor-argument: zonder perspectief bij de ondernemer worden de opgaven niet gehaald
@@ -229,17 +233,21 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 *De meetlat van hoofdstuk 5, aan deze kant: in scenario II komt de ruimte van 5.2 wél vrij en blijft zij leeg, en dat is de rekensom van 3.2 zonder antwoord — minder omzet bij gelijke kosten. Daarmee verliezen scenario I en scenario II hetzelfde vermogen op een andere manier: in I verdwijnt de drager langzaam, hier sneller. Twee dingen wegen in dit hoofdstuk het zwaarst: de erkenning staat vóór alles (toetsregel 2), en scenario II is niemands beleid maar een categorie, dus er staat geen enkel voorbeeld uit het beleid van vandaag in (toetsregel 12a). De vier driesporenkaders gaan om die reden naar bijlage 17.*
 
-### 7.1 De maatregelen kloppen, er ligt alleen niets onder · budget 280
+### 7.1 Wat dit scenario is · **gehaald: 259 woorden**
+
+- **de omschrijving van het scenario, in drie of vier alinea's en in dezelfde vorm bij alle drie:** wat er ingaat aan sturing en steun, wat er onder het land gebeurt, wat er op het land te zien is, en welke opgaven daarmee wel en niet gehaald worden `[tekst · nieuw]` **Tim, 20-8, en op de tekeningen zelf geschreven.** Zij zijn 195, 259 en 187 woorden en dat is bewust: hij vroeg om rijker. **Twee valkuilen die hier al een keer zijn ingelopen:** beschrijf het gebied en niet de plaat (een zin over "de pijl" vraagt van de lezer dat hij gaat kijken), en zeg het over de opgaven één keer. De tabel `scenario-verschil` en de illustratie staan boven de tekst, dus de lezer weet waar hij is voordat hij leest
+
+### 7.2 De maatregelen kloppen, er ligt alleen niets onder · budget 280
 - **eerst de erkenning:** de doelen zijn legitiem en de beperkingen zijn nodig; wat ontbreekt is niet de wil of de inzet maar de bodem waarop een bedrijf ze kan dragen `[tekst · nieuw]` toetsregel 2, en dit is de plek waar die regel moet landen. Hij staat vóór alles wat er verder in dit hoofdstuk gebeurt
 - **scenario II is niemands beleid, het is een categorie:** wat er gebeurt bij elke ronde maatregelen zonder bedrijfsmodel eronder. Geen enkel voorbeeld uit het beleid van vandaag `[tekst · nieuw]` besluit §8 en toetsregel 12a. **De vier driesporenkaders gaan hiermee naar bijlage 17** — zij zijn precies het tegenovergestelde van deze regel, want zij kaarten de scenario op één beleidsstuk
 - **wat het bedrijf merkt: de sturing gaat van middelen naar doelen.** De eisen worden hard en gehandhaafd, en wat ertegenover staat vergoedt schade in plaats van een prestatie te betalen `[tekst · auteurs]` de compensatie-alinea van de auteurs, ingedikt en met de vier labels erin. **De as is dezelfde als in 6.1** (Tim, 20-8): scenario I stuurt op middelen, scenario II op doelen, en dat woord gebruikt de bestuursversie zelf al. **Drie dingen moeten om:** de kop "Ingrijpen zonder pijlers", de openingszin "De overheid grijpt in met harde maatregelen" (toetsregel 12b, en dit is de zin waar het bestuur over viel), en "De overheid ziet de rode dimensies uit scenario I en grijpt in" — dat maakt scenario II een reactie op scenario I en dus een oordeel. Wat er komt te staan is het mechanisme: er wordt op doelen gestuurd. De juridische uitleg over nadeelcompensatie wordt een fiche; "minimaal -40 cm" wordt "-20 tot -40 cm" *(Simon)*
 
-### 7.2 Waarom het bedrijf dat niet kan dragen · budget 250
+### 7.3 Waarom het bedrijf dat niet kan dragen · budget 250
 - **de ondernemer valt om op kosten en omzet, niet op motivatie of vakmanschap:** de kosten stijgen met de verplichtingen, en de gederfde omzet wordt niet betaald `[tekst · auteurs]` toetsregel 5. **En dit is de plek voor de rekensom van 5.2:** de ruimte komt hier wel vrij, alleen komt er niets voor in de plaats, dus is zij alleen omzetverlies
 - **en het raakt juist wie al verder is:** generieke maatregelen treffen ook de familiebedrijven die de opgaven al serieus nemen, en generieke peilfixatie raakt de laaggelegen percelen die nu al weinig uitstoten `[fiche · auteurs]` de twee kaders van de auteurs samen in één fiche; `bloktypen.md` eist dat de strekking wél in de lopende tekst landt
 - **eerdere ronden van hetzelfde mechanisme:** uitkoopregelingen 2008 tot 2020 en de eerste generatie stikstofmaatregelen, als waarneming en zonder oordeel `[fiche · verhuisd]` woordelijk klaar in `correctielijst.md`, besluit 17-8. Dit is wat "een categorie en niemands beleid" waar maakt: het mechanisme heeft al eerder gedraaid
 
-### 7.3 De motor · budget 260
+### 7.4 De motor · budget 260
 - **de motor slaat af:** de familiebedrijven die de opgaven al serieus namen kunnen de kostenstijging niet opvangen, en wat overblijft heeft geen binding met het gebied `[tekst · auteurs]` vaste kop. **Hierin gaat de zin op die eerst een eigen element was:** precies de ondernemende boer uit 5.4 is dan weg, en de investering die scenario III vraagt kan niemand opdragen
 - **de grond gaat naar wie er niet woont:** bedrijven met grondhonger van buiten het gebied, of partijen die op betere tijden wachten `[tekst · auteurs]` de grondhonger-alinea, ingedikt
 - **en dan keert de verbetering:** de maatregelen doen op papier wat ze moeten doen, en daarna verdwijnt met de ondernemer het beheer waarop die verbetering rust `[tekst · auteurs]` **dit is de boemerang in zijn scherpste vorm** en het is de reden dat scenario II en scenario III niet op dezelfde plek uitkomen. Het hoort in De motor omdat de verbetering keert dóór wat er met het ondernemerschap gebeurt
@@ -247,27 +255,27 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 8 — Wat er gebeurt met een verdienmodel eronder (scenario III — het antwoord) · bron: scenario-3 · ronde 1 · opnieuw te snijden
+## 8 — Wat er gebeurt met een verdienmodel eronder (scenario III — het antwoord) · bron: scenario-3 · ronde 1 · af
 
 > Dezelfde doelen, maar de dienst wordt betaald in plaats van het verlies vergoed. Er komen twee geldstromen: de overheid die een dienst inkoopt en de markt die er zelf belang bij heeft. Dit is het antwoord van het document, en het is het enige scenario waarin het vermogen uit hoofdstuk 5 overeind blijft.
 
-*Dit hoofdstuk is 19-8 geschreven en gaat op één punt opnieuw langs: **met hoofdstuk 9 erbij verliest 8.3 zijn dimensielijst en het ontwikkelbeeld**, en gaat het naar drie secties zoals 6 en 7. De twee alinea's van de auteurs die nu in 8.3 staan blijven wel in dit hoofdstuk: "wat je dan ziet veranderen" gaat naar 8.2, en "waarom de verbetering standhoudt" naar De motor, waar het de spiegel is van 7.3. Dat is snijwerk in geschreven tekst en het hoort bij de sessie die hoofdstuk 9 schrijft; het staat als punt in `correctielijst.md`.*
+*Op 20-8 opnieuw gesneden: **de sectie "wat dat betekent per opgave" is opgeheven.** De drie alinea's van de auteurs staan nu aan het eind van 8.3, en de dimensielijst plus het ontwikkelbeeld staan onder aan het hoofdstuk zonder kop, klaar om naar hoofdstuk 9 te gaan. Daarmee heeft dit hoofdstuk vier secties, net als 6 en 7.*
 
-### 8.1 De omslag: van vergoeding naar betaling
+### 8.1 Wat dit scenario is · **gehaald: 187 woorden**
+
+- **de omschrijving van het scenario, in drie of vier alinea's en in dezelfde vorm bij alle drie:** wat er ingaat aan sturing en steun, wat er onder het land gebeurt, wat er op het land te zien is, en welke opgaven daarmee wel en niet gehaald worden `[tekst · nieuw]` **Tim, 20-8, en op de tekeningen zelf geschreven.** Zij zijn 195, 259 en 187 woorden en dat is bewust: hij vroeg om rijker. **Twee valkuilen die hier al een keer zijn ingelopen:** beschrijf het gebied en niet de plaat (een zin over "de pijl" vraagt van de lezer dat hij gaat kijken), en zeg het over de opgaven één keer. De tabel `scenario-verschil` en de illustratie staan boven de tekst, dus de lezer weet waar hij is voordat hij leest
+
+### 8.2 De omslag: van vergoeding naar betaling
 - wat er eerst gebeurt: het grondbeleid stopt de grondhonger uit scenario II `[tekst · auteurs]`
 - de omkering: betaald worden voor een geleverde dienst in plaats van gecompenseerd voor een verlies `[tekst · auteurs]`
 - het begint moeizaam: de eerste jaren zijn kwetsbaar, en na zeven tot tien jaar staat het bedrijfsmodel `[tekst · auteurs]`
 - drie tempo's, één transitie `[fiche · auteurs]`
 
-### 8.2 Twee geldstromen, niet één
+### 8.3 Twee geldstromen, niet één
 - de overheid als opdrachtgever én de markt als afnemer, in het kernbeeld zelf `[beeld + tekst · nieuw]` toetsregel 26
 - water is het voorbeeld waar een afnemer met een eigen belang en een eigen begroting zit `[tekst · nieuw]` besluit 18-8
 - ammoniakreductie als denkbare dienst `[fiche · verhuisd]` uit de wachtkamer
-
-### 8.3 Wat dat betekent per opgave
-- wat je dan ziet veranderen: de uitstoot daalt aan beide kanten, en het inkomen herstelt naar een leefbaar familiebedrijf uit meerdere stromen `[tekst · auteurs]`
-- de dimensies bij scenario III, en de ontwikkeling over de drie scenario's `[beeld · auteurs]`
-- waarom de verbetering standhoudt: in scenario II keerde de beweging omdat de rentmeesters verdwenen, hier blijven zij `[tekst · auteurs]`
+- **wat je dan ziet veranderen** `[tekst · auteurs]` de drie alinea's die tot 20-8 in de opgeheven sectie 8.3 stonden: de bouwstenen worden beschikbaar, de uitstoot daalt aan beide kanten, en het inkomen herstelt uit meerdere stromen
 
 ### 8.4 De motor
 - de motor draait op de juiste brandstof: de opgaven zijn geen kostenpost maar het product `[tekst · auteurs]` vaste kop, elke scenario heeft deze alinea

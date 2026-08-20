@@ -1,17 +1,18 @@
 ## 8 — Wat er gebeurt met een verdienmodel eronder
 
-<div style="background:var(--bg2);border-left:4px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0 1.5rem;font-size:13.5px;line-height:1.65">
-<strong style="display:block;margin-bottom:6px;font-size:14px">Wat dit scenario is</strong>
-<p style="margin:0 0 .7rem">Dezelfde doelsturing als in scenario II en dezelfde vernatting. Wat erbij komt is tweeledig: de juridische ruimte om het land ook anders te gebruiken, en opdrachten waarmee een dienst wordt ingekocht tegen een prijs. Die opdrachten komen van twee kanten: van de overheid, waar zij zelf een doel te halen heeft, en vanuit de markt, waar een partij er zelf belang bij heeft.</p>
-<p style="margin:0 0 .7rem">Op het land liggen naast de percelen met gras en koeien een natte teelt, een strook met houtige beplanting, een perceel dat water bergt, een plek waar kleinschalig gewoond wordt en een deel dat is ingericht voor natuur en recreatie. Onder het land zit de opslag: water in de zandlaag, koolstof in het veen. De koolstof gaat de bodem in in plaats van eruit.</p>
-<p style="margin:0">Het bedrijf levert nog steeds melk en de tankauto rijdt nog weg, met minder. Daarnaast lopen er contracten voor water, koolstof, biodiversiteit, mest, wonen en zorg. Van wat Nederland vraagt wordt zo het meeste gehaald, en er komt meer van dit land af dan in de twee andere scenario's. Het bedrijf verdient aan twee dingen in plaats van aan één.</p>
-</div>
+### 8.1 Wat dit scenario is
 
 {{partial:scenario-verschil}}
 
 {{partial:scenario-3-beeld}}
 
-### 8.1 De omslag: van vergoeding naar betaling
+Dezelfde doelsturing als in scenario II en dezelfde vernatting. Wat erbij komt is tweeledig: de juridische ruimte om het land ook anders te gebruiken, en opdrachten waarmee een dienst wordt ingekocht tegen een prijs. Die opdrachten komen van twee kanten: van de overheid, waar zij zelf een doel te halen heeft, en vanuit de markt, waar een partij er zelf belang bij heeft.
+
+Op het land liggen naast de percelen met gras en koeien een natte teelt, een strook met houtige beplanting, een perceel dat water bergt, een plek waar kleinschalig gewoond wordt en een deel dat is ingericht voor natuur en recreatie. Onder het land zit de opslag: water in de zandlaag, koolstof in het veen. De koolstof gaat de bodem in in plaats van eruit.
+
+Het bedrijf levert nog steeds melk en de tankauto rijdt nog weg, met minder. Daarnaast lopen er contracten voor water, koolstof, biodiversiteit, mest, wonen en zorg. Van wat Nederland vraagt wordt zo het meeste gehaald, en er komt meer van dit land af dan in de twee andere scenario's. Het bedrijf verdient aan twee dingen in plaats van aan één.
+
+### 8.2 De omslag: van vergoeding naar betaling
 
 Dezelfde maatregelen als in scenario II, en dezelfde doelsturing. Wat erbij komt is een verdienmodel eronder. Daarmee verschuift de kernvraag: niet meer hoe de ondernemer gecompenseerd wordt voor wat hij inlevert, maar hoe hij betaald wordt voor wat hij levert. Dat is de omkering waar dit document op rust, en zij staat als aanname 1 in hoofdstuk 2: dat maatschappelijke diensten een verdienmodel kunnen dragen achten wij aannemelijk, en bewezen is het niet.
 
@@ -23,7 +24,7 @@ Wat er eerst gebeurt is het grondbeleid. Dat stopt de grondhonger uit scenario I
 Het begint moeizaam. De ondernemer maakt de lastige overstap: minder koeien, ander landgebruik, nieuwe vaardigheden. De eerste jaren zijn kwetsbaar — daarvoor staat de transitie-infrastructuur klaar. Het bedrijfsmodel staat na zeven tot tien jaar volwaardig.{{fiche:Drie tempo's, één transitie|Er zijn drie tempo's tegelijk in beweging, en zij lopen niet gelijk. Politieke tijd loopt in jaren tot decennia — wetgeving, EU-richtlijnen, instrumentontwikkeling. Ondernemerstijd loopt in maanden tot jaren — marge, pacht, investeringshorizon. Systeemtijd loopt in fasen — agroketens 2-3 jaar, banken 3-5, marktpartijen voor maatschappelijke diensten 7-15. Scenario II synchroniseert deze tempo's niet; daarom valt de ondernemer weg voordat het beleid uitontwikkeld is. Scenario III versnelt politieke tijd niet en vertraagt ondernemerstijd niet — het koppelt ze. Transitiesteun overbrugt ondernemerstijd zolang politieke tijd loopt. Prestatiecontracten van 10-20 jaar synchroniseren ondernemerstijd met systeemtijd. Hoofdstuk 13 mobiliseert systeemtijd binnen de termijn die ondernemerstijd vraagt. De tempo's worden in elkaar geschoven.|De vraag "wanneer zijn alle beperkingen opgeheven?"is daarmee verkeerd gesteld: vernatting, KRW-normen en stikstofeisen zijn de permanente nieuwe ordening, niet tijdelijke maatregelen. Tijdelijk zijn de transitie-instrumenten zelf. Het bedrijfsmodel staat in de orde van 7-10 jaar volwaardig.}} Maar anders dan in scenario II blijft de boer op het land. En daarmee het rentmeesterschap: de liefde voor het land, de kennis van elk perceel, de zorg voor de slootkanten.
 
 
-### 8.2 Twee geldstromen, niet één
+### 8.3 Twee geldstromen, niet één
 
 Er komt in scenario III niet één geldstroom bij maar twee. De overheid koopt diensten in waar zij zelf een doel heeft te halen. Daarnaast zijn er private partijen met een eigen belang en een eigen begroting: een drinkwaterbedrijf dat zijn bron beschermt, een zuivelketen die op een certificaat stuurt, een bank die een langjarig contract als onderpand ziet. Dat onderscheid doet werk, want zolang alle inkomsten van de overheid komen houdt het weerwoord stand dat dit subsidie is met een ander etiket. Wie de partijen wil zien, vindt ze in hoofdstuk 13.
 
@@ -32,11 +33,20 @@ Water is daarvan het schoonste voorbeeld, want de afnemer is er al. Oasen wint z
 Bij stikstof ligt een vergelijkbare denkrichting, en die is verder van de praktijk af. {{fiche:Toelichting|Stikstofruimte als denkbare dienst. Het kabinet zoekt stikstofruimte, en snel: bouwen, het stroomnet en defensie wachten erop. Uitkoop levert die ruimte één keer, en daarna is het gebied zijn beheerder kwijt. Een lagere veedichtheid levert dezelfde ammoniakreductie, blijvend, en precies waar die het meest telt: tegen Natura 2000 aan. Eén voorwaarde: het wegvallende vee-inkomen wordt aangevuld met betaling voor maatschappelijke diensten, anders is het uitkoop in vertraagde vorm. Doorgedacht kan ammoniakreductie zelf zo'n dienst worden, en die denkrichting vraagt eerst juridische uitwerking: extern salderen en vergunningenrecht.}}
 
 
-### 8.3 Wat dat betekent per opgave
-
 <p>De bouwstenen worden beschikbaar. Elke ingezette bouwsteen verandert het landschap én verbetert de opgaves. Maar nu werken de veranderingen mét in plaats van tégen de boer.</p>
 <p>De CO₂-uitstoot daalt, beide bronnen. De bodememissies verminderen omdat de boer natte teelt en koolstofopslag als verdienmodel inzet: de grondwaterstand midden in de percelen gaat omhoog omdat het nu loont. De bedrijfsemissies nemen af omdat het bedrijf anders is opgezet: minder maar beter vee, lagere emissies per hectare. Waterkwaliteit verbetert, niet door normering alleen, maar omdat ecologisch slootbeheer weer de moeite waard is. Waterkwantiteit verbetert ook: wateropslag op het bedrijf wordt een bouwsteen, de boer buffert water lokaal en wordt betaald voor wateropslag als dienst. Natuur keert terug, niet als verplichting die hectares inneemt, maar omdat biodiversiteitsdiensten en natuur als dienst het rentmeesterschap weer rendabel maken.</p>
 <p>Het inkomen herstelt naar het niveau van een leefbaar familiebedrijf, niet de pieken van bulkmelk op schaal, wel structureel zekerder dan het marginale inkomen van scenario I. Opgebouwd uit meerdere stabiele inkomstenstromen: maatschappelijke diensten, premium voedsel, waterberging, CO₂-credits.</p>
+
+### 8.4 De motor
+
+De motor draait op de juiste brandstof. De verbonden ondernemer ziet de opgaves niet als kostenpost maar als verdienmodel: schoon water, vastgehouden koolstof, weidevogels, landschapskwaliteit, dat zijn diensten waarvoor betaald wordt. Niet als compensatie, maar als vergoeding voor geleverde publieke waarde. De motor trekt de opgaves mee, in plaats van er tegenin te werken.
+<p>Het ondernemerschap in scenario III is fundamenteel anders dan in scenario I. Daar was de ondernemer een handelsgerichte schaaloptimalisator, gericht op uniformiteit, replicatie en schaalvergroting, met het land als productiemiddel voor de bulkmarkt<span class="fiche-wrap"><button class="fiche-btn" type="button" aria-label="Bron tonen">ⓘ</button><span class="fiche-popup"><span class="fiche-label">Bron</span><span class="fiche-source">ZuivelNL, Blik op Zuivel 2026: ca. 75% van de Nederlandse zuivelafzet blijft binnen de EU (waarvan ca. 40% binnen Nederland); ca. 25% gaat naar o.a. China, de VS en het VK.</span></span></span>. Hier wordt dezelfde ondernemer bréder: gebiedsgericht en verbonden, met diversiteit en lokale verbondenheid als verdienprincipe. Intrinsiek gedreven, verbonden met de omgeving, met het land en met de mensen eromheen.</p>
+<p>Het doel van scenario III is dat het veenweidegebied vol zit met dit soort ondernemers. Niet één pioniersboer die het lukt ondanks het systeem, maar veel verbonden ondernemers die de opgaves helpen halen mét behoud van eigen perspectief. Het ondernemerschap is nog steeds de motor, maar de motor draait nu op een andere brandstof.</p>
+<p>In scenario II leken klimaat, water en natuur even te verbeteren, maar de beweging keerde doordat de rentmeesters verdwenen. Hier houdt de verbetering stand, omdat de mensen die het land kennen en liefhebben er nog zijn. Ze hebben nu een reden om te blijven, niet alleen de liefde voor het land, maar ook een daadwerkelijk verdienvermogen en perspectief. En daarmee een reden om de opgaves te omarmen in plaats van ertegen te vechten.</p>
+<p><strong>Let op, conflicten worden zichtbaar:</strong> Niet alle bouwstenen passen bij elkaar. Sommige combinaties bijten. De ondernemer moet kiezen, en dat is precies het punt. De transitie is geen optimalisatieoefening maar een reeks dilemma's. Scenario III is in die zin geen morele maar een ontwerpkeuze: een systeem dat van variatie profiteert in plaats van eraan onderdoor te gaan.</p>
+
+<!-- DIMENSIE-ONTWIKKELING -->
+
 <div class="dim-list">
 <div class="dim-item"><span class="dot green"></span><span class="name">Klimaat &amp; bodemdaling</span><span class="desc">Waterpeil omhoog omdat het loont, koolstofopslag als verdienmodel</span></div>
 <div class="dim-item"><span class="dot green"></span><span class="name">Klimaat (bedrijf)</span><span class="desc">Lagere veedichtheid: minder vee, lagere emissies per hectare</span></div>
@@ -49,14 +59,5 @@ Bij stikstof ligt een vergelijkbare denkrichting, en die is verder van de prakti
 <div class="dim-item"><span class="dot green"></span><span class="name">Grondstoffen &amp; kringloop</span><span class="desc">Natte teelt levert eigen strooisel en biomassa, kringloop sluit zich op bedrijfsniveau</span></div>
 <div class="dim-item"><span class="dot amber"></span><span class="name">Wonen &amp; recreatie</span><span class="desc">RO-typologie maakt functiemenging mogelijk: wonen bij de boer, recreatiewoningen, tiny houses</span></div>
 </div>
-### 8.4 De motor
-
-De motor draait op de juiste brandstof. De verbonden ondernemer ziet de opgaves niet als kostenpost maar als verdienmodel: schoon water, vastgehouden koolstof, weidevogels, landschapskwaliteit, dat zijn diensten waarvoor betaald wordt. Niet als compensatie, maar als vergoeding voor geleverde publieke waarde. De motor trekt de opgaves mee, in plaats van er tegenin te werken.
-<p>Het ondernemerschap in scenario III is fundamenteel anders dan in scenario I. Daar was de ondernemer een handelsgerichte schaaloptimalisator, gericht op uniformiteit, replicatie en schaalvergroting, met het land als productiemiddel voor de bulkmarkt<span class="fiche-wrap"><button class="fiche-btn" type="button" aria-label="Bron tonen">ⓘ</button><span class="fiche-popup"><span class="fiche-label">Bron</span><span class="fiche-source">ZuivelNL, Blik op Zuivel 2026: ca. 75% van de Nederlandse zuivelafzet blijft binnen de EU (waarvan ca. 40% binnen Nederland); ca. 25% gaat naar o.a. China, de VS en het VK.</span></span></span>. Hier wordt dezelfde ondernemer bréder: gebiedsgericht en verbonden, met diversiteit en lokale verbondenheid als verdienprincipe. Intrinsiek gedreven, verbonden met de omgeving, met het land en met de mensen eromheen.</p>
-<p>Het doel van scenario III is dat het veenweidegebied vol zit met dit soort ondernemers. Niet één pioniersboer die het lukt ondanks het systeem, maar veel verbonden ondernemers die de opgaves helpen halen mét behoud van eigen perspectief. Het ondernemerschap is nog steeds de motor, maar de motor draait nu op een andere brandstof.</p>
-<p>In scenario II leken klimaat, water en natuur even te verbeteren, maar de beweging keerde doordat de rentmeesters verdwenen. Hier houdt de verbetering stand, omdat de mensen die het land kennen en liefhebben er nog zijn. Ze hebben nu een reden om te blijven, niet alleen de liefde voor het land, maar ook een daadwerkelijk verdienvermogen en perspectief. En daarmee een reden om de opgaves te omarmen in plaats van ertegen te vechten.</p>
-<p><strong>Let op, conflicten worden zichtbaar:</strong> Niet alle bouwstenen passen bij elkaar. Sommige combinaties bijten. De ondernemer moet kiezen, en dat is precies het punt. De transitie is geen optimalisatieoefening maar een reeks dilemma's. Scenario III is in die zin geen morele maar een ontwerpkeuze: een systeem dat van variatie profiteert in plaats van eraan onderdoor te gaan.</p>
-
-<!-- DIMENSIE-ONTWIKKELING -->
 
 {{partial:e-aktes-dimensie-ontwikkeling}}

@@ -63,8 +63,12 @@ def lees_register():
             buiten.add(kolom[0])
             continue
         if sectie == 'te maken':
-            # kolom 0 is hier het nummer, het hoofdstuk bestaat nog niet
-            for n in re.findall(r'\d+', kolom[0]):
+            # Zelfde kolommen als de hoofdtabel (id | nummer | ronde | stand), zodat
+            # build.py en dit script hem gelijk lezen. Het bestand bestaat nog niet,
+            # dus het nummer wordt wel als op te volgen geteld maar niet aan een id
+            # gebonden. Stond tot 20-8 op kolom 0 en dan telde hoofdstuk 9 niet mee.
+            bron = kolom[1] if len(kolom) > 1 and re.search(r'\d', kolom[1]) else kolom[0]
+            for n in re.findall(r'\d+', bron):
                 doel.setdefault('(nog te maken)', []).append(n)
             continue
         nummers = re.findall(r'\d+', kolom[1]) if len(kolom) > 1 else []

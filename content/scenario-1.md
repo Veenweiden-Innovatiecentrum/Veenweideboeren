@@ -7,18 +7,19 @@
 <p style="margin:0">Dit deel zet die twee in drie standen en kijkt per stand wat er gebeurt, met het bedrijf en met wat Nederland van dit gebied vraagt. Het zijn geen voorspellingen en zij volgen elkaar niet op; het zijn drie standen van hetzelfde systeem. In alle drie blijft het bedrijf melken, en wat verschilt is of maatschappelijke dienstverlening daar als betaalde dienst naast komt staan, even zwaar als de melk. De drie naast elkaar staan in hoofdstuk 9.</p>
   </div>
 
-<div style="background:var(--bg2);border-left:4px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0 1.5rem;font-size:13.5px;line-height:1.65">
-<strong style="display:block;margin-bottom:6px;font-size:14px">Wat dit scenario is</strong>
-<p style="margin:0 0 .7rem">Dit is de situatie van vandaag, voortgezet. Er verandert niets in de manier waarop dit gebied bestuurd wordt: er gaat steun naartoe en er wordt gestuurd op middelen, op wat een bedrijf gebruikt, aanschaft en mag bouwen. Vernatting als verplichting en ruimere regels voor een ander gebruik van het land zijn er niet.</p>
-<p style="margin:0 0 .7rem">Op het land staan de koeien verspreid over de percelen, staat de boer er zelf, en leeft het bedrijf van één prijs: die van de melk. De tankauto rijdt vol weg. Onder het land blijft de grondwaterstand laag, blijft het veen droog en gaat de uitstoot uit de bodem door.</p>
-<p style="margin:0">Van wat Nederland vraagt komt daarmee weinig terecht. De emissies uit de bodem dalen niet en de nutriëntenbelasting blijft. Op één punt gebeurt er wel iets: voor landschap en weidevogels liggen beheerpakketten, met een vergoeding die de kosten en de gederfde inkomsten dekt, op de percelen waar een bedrijf zich er vrijwillig voor aanmeldt. Dat is de enige prestatie waarvoor de uitvoering al staat, en het gaat om een klein deel van het gebied. Al het andere beheer gebeurt onbeprijsd. Wat dit gebied levert is voedsel; wat het verder kan, blijft liggen.</p>
-</div>
+### 6.1 Wat dit scenario is
 
 {{partial:scenario-verschil}}
 
 {{partial:scenario-1-beeld}}
 
-### 6.1 Er wordt gestuurd op middelen
+Dit is de situatie van vandaag, voortgezet. Er verandert niets in de manier waarop dit gebied bestuurd wordt: er gaat steun naartoe en er wordt gestuurd op middelen, op wat een bedrijf gebruikt, aanschaft en mag bouwen. Vernatting als verplichting en ruimere regels voor een ander gebruik van het land zijn er niet.
+
+Op het land staan de koeien verspreid over de percelen, staat de boer er zelf, en leeft het bedrijf van één prijs: die van de melk. De tankauto rijdt vol weg. Onder het land blijft de grondwaterstand laag, blijft het veen droog en gaat de uitstoot uit de bodem door.
+
+Van wat Nederland vraagt komt daarmee weinig terecht. De emissies uit de bodem dalen niet en de nutriëntenbelasting blijft. Op één punt gebeurt er wel iets: voor landschap en weidevogels liggen beheerpakketten, met een vergoeding die de kosten en de gederfde inkomsten dekt, op de percelen waar een bedrijf zich er vrijwillig voor aanmeldt. Dat is de enige prestatie waarvoor de uitvoering al staat, en het gaat om een klein deel van het gebied. Al het andere beheer gebeurt onbeprijsd. Wat dit gebied levert is voedsel; wat het verder kan, blijft liggen.
+
+### 6.2 Er wordt gestuurd op middelen
 
 Er wordt in dit gebied wel degelijk gestuurd. Er zijn belangrijke maatregelen genomen, grondgebondenheid voorop. Voor het beheer van natuur en landschap liggen er pakketten waarop een bedrijf zich kan aanmelden, en waar het knelt is er steun. Wat die instrumenten met elkaar delen, is dat zij aangrijpen op de middelen: op wat een bedrijf gebruikt, aanschaft en mag bouwen. Daar is een reden voor. Sturen op doelen per bedrijf vraagt meten en verantwoorden, en dat kost geld dat aan de uitvoering opgaat in plaats van aan de opgave.
 
@@ -31,11 +32,11 @@ Wat er dan gebeurt, is wat de kostenstructuur uit hoofdstuk 3 voorschrijft. Een 
 <p>De koeien staan grotendeels op stal. Alleen als ze wél buiten staan, staan ze in grote koppels dicht bij elkaar op één perceel, een massale groep op een klein stuk land, de rest van de weiden leeg en onbenut. De stal is uitgebreid: groter, moderner, met mestopslag en voersilo's.</p>
 <p>De CO₂-uitstoot is hoog en dubbel. Enerzijds de bodememissies: midden in de percelen blijft het droog, want tegenover een hogere grondwaterstand staat geen betaling en wel een lagere grasopbrengst, en dat diepe, droge veen oxideert continu. Anderzijds de bedrijfsemissies: veel vee betekent veel methaan, op stal of in de wei. Geen van beide bronnen daalt, dus de klimaatdoelen raken buiten bereik. Alleen voor ammoniak biedt de stal aanknopingspunten, en die maatregelen nemen boeren dan ook.</p>
 
-### 6.2 Waarom dit geen stabiele toestand is
+### 6.3 Waarom dit geen stabiele toestand is
 
 <p>De boer verdient nog steeds, maar de marges worden dunner. De schaal compenseert wat de prijs per liter niet meer doet. Margedruk vernietigt het rentmeesterschap. En het tast de overdraagbaarheid aan: wie neemt zo’n bedrijf nog over? Boerenfamilies dreigen achter te blijven met kapitaalintensieve, onverkoopbare bedrijven.</p>
 
-### 6.3 De motor
+### 6.4 De motor
 
 <p>Het rentmeesterschap is verdwenen. Deze boeren hebben vooral veel hectares nodig. De liefde voor het land, het zorgvuldig beheren van slootkanten, het onderhouden van oevers, het kennen van elk perceel, is vervangen door efficiëntie. Natuur en biodiversiteit verdwijnen niet door kwade wil, maar doordat er simpelweg geen ruimte en aandacht meer voor is.</p>
 <div style="background:rgba(0,0,0,.03);border-radius:var(--radius);padding:.875rem 1rem;margin:1rem 0;font-size:13px;line-height:1.6;border-left:3px solid var(--text3)">

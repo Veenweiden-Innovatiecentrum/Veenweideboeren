@@ -37,7 +37,40 @@ De aanpak is nog niet gepubliceerd. De Kamerbrief van 26 juni 2026 ordent het be
       <p style="margin:0"><strong>De €900 mln voor "50% grondafwaardering" veroorzaakt drie problemen tegelijk.</strong> Ten eerste stuurt het verkeerd: het frame is "boer levert iets in, overheid betaalt de schade", de boer is verliezer, de overheid is hulpverlener. Dat reproduceert precies de subsidie-logica die dit document afwijst — geen zakelijke transactie, maar nadeelcompensatie. Ten tweede werkt het grondspeculatie in de hand: wanneer de overheid €900 mln aankondigt om grond af te waarderen, weet de markt twee dingen tegelijk dat de grond straks (administratief) minder waard wordt én dat er overheidsgeld in dit gebied komt — precies het signaal dat beleggers aantrekt in plaats van boeren. Ten derde bevriest het het oude denken: door af te waarderen accepteert de overheid impliciet dat de hectare nooit meer een goed verdienmodel kan opleveren, een bestuurlijke vorm van opgeven. Het alternatief is geen ander bedrag, maar een andere richting: dezelfde €900 mln in een meerjarige opdrachtenstroom voor maatschappelijke diensten zet de hectare niet op een lager waarde-niveau, maar op stapelbare langjarige inkomstenstromen — een opwaardering in plaats van een afwaardering.</p>
     </div>
 
-### 17.2 De landelijke verdringingsreeks
+#### Spoor 2, gelezen door scenario II
+
+*Verhuisd uit hoofdstuk 7 op 20 augustus 2026, conform besluit §8 en toetsregel 12a: geen enkel argument in de lopende tekst leunt op het driesporenbeleid. Vier blokken, met de correcties uit `correctielijst.md` erin en de kritiek omgezet naar een gedateerde diagnose. Gelezen op de stand van augustus 2026; de Veenweidenbrief moet de inhoud nog bevestigen.*
+
+<div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.25rem 0;font-size:13.5px;line-height:1.65">
+      <strong style="display:block;margin-bottom:6px;font-size:14px">Driesporenbeleid, spoor 2 is scenario II in beleidsvorm</strong>
+      <p style="margin:0">Spoor 2 van het Rijksbeleid — peilfixatie op 90.000 ha met flankerend beleid via GLB-hectarepremie — is in instrumentele logica scenario II: het drukt het peil omhoog en het compenseert grond, en de condities waarin een bedrijf een tweede verdienmodel kan opbouwen komen er niet uit. De aanname van het beleid is dat 25 jaar geleidelijkheid<span class="fiche-wrap"><button class="fiche-btn" type="button" aria-label="Bron tonen">ⓘ</button><span class="fiche-popup"><span class="fiche-label">Bron</span><span class="fiche-source">Douwe Jonkers (LVVN), ambtelijke voorbespreking conceptbrief gebiedsspecifieke aanpak veenweide.</span><span class="fiche-note">Nog niet publiek; bronaanduiding wordt aangevuld zodra de kamerbrief is verzonden.</span></span></span> (8 mm/jaar bodemdaling<span class="fiche-wrap"><button class="fiche-btn" type="button" aria-label="Bron tonen">ⓘ</button><span class="fiche-popup"><span class="fiche-label">Bron</span><span class="fiche-source">Douwe Jonkers (LVVN), ambtelijke voorbespreking conceptbrief gebiedsspecifieke aanpak veenweide.</span><span class="fiche-note">Nog niet publiek; bronaanduiding wordt aangevuld zodra de kamerbrief is verzonden.</span></span></span>) ondernemers de tijd geeft zich aan te passen. Maar geleidelijkheid in het peil is geen geleidelijkheid in het bedrijfsmodel. De ondernemer heeft die 25 jaar niet: zijn marge valt nu weg, zijn investeringshorizon is 5-10 jaar, zijn pacht is jaarlijks. Zonder verdienroute is geleidelijkheid een uitgesmeerde uitval.</p>
+</div>
+
+<div style="margin:1.5rem 0 1rem">
+      <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--text3);font-weight:600;margin-bottom:.5rem">De 90.000 ha is niet de scope van dit document</div>
+      <p style="font-size:13.5px;line-height:1.6;color:var(--text2);margin:0 0 .75rem">De 90.000 ha van spoor 2 en de 20-30% waar dit document over gaat zijn niet hetzelfde gebied. De scope is een deelverzameling binnen de 90.000 ha. Dat onderscheid maakt de diagnose scherper:</p>
+
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px">
+
+        <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius);padding:1rem 1.25rem;font-size:13px;line-height:1.55">
+          <strong style="display:block;margin-bottom:4px;font-size:13.5px;color:var(--text)">Grootste deel van de 90.000 ha</strong>
+          <div style="color:var(--text2)">Reguliere melkveehouderij blijft mogelijk. Vernatting werkt hier met waterinfiltratiesystemen (WIS) als instrument en aangepast graslandbeheer. Geen andere typologie nodig. De veenweideboeren-aanpak is daar niet voor bedoeld. <strong>Het probleem is hier instrumenteel:</strong> hectarepremie compenseert grond in plaats van diensten te belonen, en generieke peilfixatie pakt de boer die al weinig uitstoot (zie hieronder).</div>
+        </div>
+
+        <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.06);border-radius:var(--radius);padding:1rem 1.25rem;font-size:13px;line-height:1.55">
+          <strong style="display:block;margin-bottom:4px;font-size:13.5px;color:var(--text)">De 20-30% scope binnen die 90.000 ha</strong>
+          <div style="color:var(--text2)">Hier loopt zelfs reguliere melkveehouderij met WIS dood — door zeer lage ligging, sterke kwel, dunne veenpakketten of Natura 2000-druk. <strong>Het probleem is hier fundamenteel:</strong> vernatten zonder andere ondernemerstypologie loopt vast. Niet "aangepast regulier", maar de veenweideboer.</div>
+        </div>
+
+      </div>
+</div>
+
+<div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1rem 0;font-size:13.5px;line-height:1.65">
+      <strong style="display:block;margin-bottom:6px;font-size:14px">Driesporenbeleid, hectarepremie GLB versus zakelijke transactie</strong>
+      <p style="margin:0">De kern van spoor 2 is een hectarepremie via het GLB. Dat is de vorm van betalen die deze aanpak juist wil vervangen: een hectarepremie vergoedt grond en koopt geen dienst in. Hij vloeit weg in pachtprijzen, vergroot het kapitalisatierisico, en stuurt niet op resultaat. Hetzelfde geld kan anders worden besteed, als gebiedsspecifieke basisvergoeding voor wie in een vernattingsregime opereert, of als prestatievergoeding voor de levering van maatschappelijke diensten. Zelfde uitgave, ander instrument, fundamenteel ander effect.</p>
+</div>
+
+#### De landelijke verdringingsreeks
 
 Hoofdstuk 5 leunt hierop: bij watertekort bepaalt deze rangorde wie voorgaat. [[BRON: vindplaats van de landelijke verdringingsreeks in de huidige rijksregelgeving, na de inwerkingtreding van de Omgevingswet]]
 

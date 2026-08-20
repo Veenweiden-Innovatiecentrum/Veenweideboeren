@@ -14,7 +14,7 @@
 
 ### 8.2 De omslag: van vergoeding naar betaling
 
-Dezelfde maatregelen als in scenario II, en dezelfde doelsturing. Wat erbij komt is een verdienmodel eronder. Daarmee verschuift de kernvraag: niet meer hoe de ondernemer gecompenseerd wordt voor wat hij inlevert, maar hoe hij betaald wordt voor wat hij levert. Dat is de omkering waar dit document op rust, en zij staat als aanname 1 in hoofdstuk 2: dat maatschappelijke diensten een verdienmodel kunnen dragen achten wij aannemelijk, en bewezen is het niet.
+De kernvraag verschuift: niet meer hoe de ondernemer gecompenseerd wordt voor wat hij inlevert, maar hoe hij betaald wordt voor wat hij levert. Dat is de omkering waar dit document op rust, en zij staat als aanname 1 in hoofdstuk 2: dat maatschappelijke diensten een verdienmodel kunnen dragen achten wij aannemelijk, en bewezen is het niet.
 
 Wat de overheid daarbij doet valt in twee delen die uit elkaar gehouden moeten worden. Zij koopt diensten in, en dat is een opdracht met een prijs en een prestatie. En zij regelt een aantal zaken zonder er iets voor terug te krijgen, en dat is steun. Naarmate de prestatiecontracten gaan lopen groeit het eerste deel en krimpt het tweede; hoe dat kader eruitziet staat in hoofdstuk 12.
 
@@ -26,7 +26,7 @@ Het begint moeizaam. De ondernemer maakt de lastige overstap: minder koeien, and
 
 ### 8.3 Twee geldstromen, niet één
 
-Er komt in scenario III niet één geldstroom bij maar twee. De overheid koopt diensten in waar zij zelf een doel heeft te halen. Daarnaast zijn er private partijen met een eigen belang en een eigen begroting: een drinkwaterbedrijf dat zijn bron beschermt, een zuivelketen die op een certificaat stuurt, een bank die een langjarig contract als onderpand ziet. Dat onderscheid doet werk, want zolang alle inkomsten van de overheid komen houdt het weerwoord stand dat dit subsidie is met een ander etiket. Wie de partijen wil zien, vindt ze in hoofdstuk 13.
+Dat er twee geldstromen zijn en niet één, doet werk: zolang alle inkomsten van de overheid komen houdt het weerwoord stand dat dit subsidie is met een ander etiket. Aan de private kant gaat het om partijen met een eigen belang en een eigen begroting, zoals een drinkwaterbedrijf dat zijn bron beschermt, een zuivelketen die op een certificaat stuurt of een bank die een langjarig contract als onderpand ziet. Wie de partijen wil zien, vindt ze in hoofdstuk 13.
 
 Water is daarvan het schoonste voorbeeld, want de afnemer is er al. Oasen wint zijn drinkwater als oevergrondwater midden in dit gebied, en Waternet haalt ongeveer een derde van het zijne uit de Bethunepolder. Wat zij vandaag betalen is schade en geen dienst: wettelijk verplichte droogteschade. Daarnaast stuurt I&W sinds 2026 op waterzelfvoorzienendheid van veenweidegebieden, dus ook aan de publieke kant zit een partij met een doel en zonder instrument. De bronnen bij die partijen staan bij aanname 2 in hoofdstuk 2.
 

@@ -148,6 +148,16 @@ section{scroll-margin-top:2rem}
 .layer-table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:13px}
 .layer-table th{text-align:left;font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--text3);padding:8px 10px;border-bottom:2px solid rgba(0,0,0,.08)}
 .layer-table td{padding:8px 10px;border-bottom:1px solid rgba(0,0,0,.04);vertical-align:top}
+/* De scenariotabel staat boven alle drie de hoofdstukken en is één partial.
+   Welke rij "u bent hier" is, bepaalt de CSS op het id van de sectie, zodat er
+   geen drie bijna gelijke kopieën van de tabel hoeven te bestaan. */
+[id$="scenario-1"] .scenario-verschil tr.s1 > td,
+[id$="scenario-2"] .scenario-verschil tr.s2 > td,
+[id$="scenario-3"] .scenario-verschil tr.s3 > td{background:var(--accent-light);font-weight:600}
+[id$="scenario-1"] .scenario-verschil tr.s1 > td:first-child::after,
+[id$="scenario-2"] .scenario-verschil tr.s2 > td:first-child::after,
+[id$="scenario-3"] .scenario-verschil tr.s3 > td:first-child::after{content:" \2190 dit hoofdstuk";font-weight:400;font-size:11px;color:var(--accent2);white-space:nowrap}
+
 
 /* Meta badge */
 .meta-row{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:2rem}
@@ -346,6 +356,16 @@ section{scroll-margin-top:2rem}
 .layer-table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:13px}
 .layer-table th{text-align:left;font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--text3);padding:8px 10px;border-bottom:2px solid rgba(0,0,0,.08)}
 .layer-table td{padding:8px 10px;border-bottom:1px solid rgba(0,0,0,.04);vertical-align:top}
+/* De scenariotabel staat boven alle drie de hoofdstukken en is één partial.
+   Welke rij "u bent hier" is, bepaalt de CSS op het id van de sectie, zodat er
+   geen drie bijna gelijke kopieën van de tabel hoeven te bestaan. */
+[id$="scenario-1"] .scenario-verschil tr.s1 > td,
+[id$="scenario-2"] .scenario-verschil tr.s2 > td,
+[id$="scenario-3"] .scenario-verschil tr.s3 > td{background:var(--accent-light);font-weight:600}
+[id$="scenario-1"] .scenario-verschil tr.s1 > td:first-child::after,
+[id$="scenario-2"] .scenario-verschil tr.s2 > td:first-child::after,
+[id$="scenario-3"] .scenario-verschil tr.s3 > td:first-child::after{content:" \2190 dit hoofdstuk";font-weight:400;font-size:11px;color:var(--accent2);white-space:nowrap}
+
 
 /* Meta badge */
 .meta-row{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:2rem}

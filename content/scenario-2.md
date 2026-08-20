@@ -1,5 +1,10 @@
 ## 7 — Wat er gebeurt zonder verdienmodel eronder
 
+<div style="background:var(--bg2);border-left:4px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0 1.5rem;font-size:13.5px;line-height:1.65">
+<strong style="display:block;margin-bottom:4px;font-size:14px">Wat dit scenario is</strong>
+<p style="margin:0">De maatregelen komen, hard en gehandhaafd. Er wordt niet meer op middelen gestuurd maar op doelen: een hogere grondwaterstand, strengere normen voor de waterkwaliteit, beperkingen rond stikstof. Wat eronder ontbreekt is een tweede verdienmodel, en wat ertegenover staat vergoedt schade in plaats van een prestatie te betalen. Het bedrijf houdt één product, en dat brengt minder op.</p>
+</div>
+
 {{partial:scenario-verschil}}
 
 {{partial:scenario-2-beeld}}

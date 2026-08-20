@@ -1,5 +1,10 @@
 ## 8 — Wat er gebeurt met een verdienmodel eronder
 
+<div style="background:var(--bg2);border-left:4px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0 1.5rem;font-size:13.5px;line-height:1.65">
+<strong style="display:block;margin-bottom:4px;font-size:14px">Wat dit scenario is</strong>
+<p style="margin:0">Dezelfde doelsturing als in scenario II, met één verschil: de gevraagde dienst wordt ingekocht tegen een prijs. Naast het product melk staat maatschappelijke dienstverlening, betaald door de overheid als opdrachtgever en door partijen die er zelf belang bij hebben.</p>
+</div>
+
 {{partial:scenario-verschil}}
 
 {{partial:scenario-3-beeld}}

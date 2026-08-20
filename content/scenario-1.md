@@ -7,6 +7,11 @@
 <p style="margin:0">Dit deel zet die twee in drie standen en kijkt per stand wat er gebeurt, met het bedrijf en met wat Nederland van dit gebied vraagt. Het zijn geen voorspellingen en zij volgen elkaar niet op; het zijn drie standen van hetzelfde systeem. In alle drie blijft het bedrijf melken, en wat verschilt is of maatschappelijke dienstverlening daar als betaalde dienst naast komt staan, even zwaar als de melk. De drie naast elkaar staan in hoofdstuk 9.</p>
   </div>
 
+<div style="background:var(--bg2);border-left:4px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0 1.5rem;font-size:13.5px;line-height:1.65">
+<strong style="display:block;margin-bottom:4px;font-size:14px">Wat dit scenario is</strong>
+<p style="margin:0">De huidige koers loopt door. Er wordt gestuurd op middelen, met steun waar het knelt en met pakketten voor beheer dat vrijwillig blijft; grote maatregelen op vernatting en waterkwaliteit blijven uit. Het bedrijf houdt één product met een prijs, de melk, en zoekt zijn ruimte in schaal.</p>
+</div>
+
 {{partial:scenario-verschil}}
 
 {{partial:scenario-1-beeld}}

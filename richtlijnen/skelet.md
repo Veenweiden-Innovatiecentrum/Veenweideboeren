@@ -196,7 +196,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 # Deel III — Hoe het kan lopen
 
-## 6 — Wat er gebeurt als er niets verandert (akte I) · bron: e-aktes · ronde 2
+## 6 — Wat er gebeurt als er niets verandert (akte I) · bron: akte-1 · ronde 2
 
 > Er verandert niets. Dat lijkt de veilige route en is het niet: bij de volgende schok in melkprijs, voer, klimaat of regelgeving valt een monocultuur om, en de opvolging is dan al onbetaalbaar geworden. Dit hoofdstuk beschrijft een toestand, geen keuze van iemand.
 
@@ -215,7 +215,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 7 — Wat er gebeurt zonder verdienmodel eronder (akte II) · bron: e-aktes · ronde 2
+## 7 — Wat er gebeurt zonder verdienmodel eronder (akte II) · bron: akte-2 · ronde 2
 
 > De maatregelen komen, en er ligt geen verdienmodel onder. De doelen zijn legitiem en de beperkingen zijn nodig; wat ontbreekt is de bodem waarop een bedrijf ze kan dragen. Dan landen de kosten bij de ondernemer, verdwijnt hij, en blijft de opgave over zonder iemand die haar uitvoert.
 

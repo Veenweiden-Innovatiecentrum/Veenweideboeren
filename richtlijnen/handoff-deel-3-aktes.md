@@ -8,11 +8,11 @@ Deel II is af: hoofdstuk 3 (`a-klem`), 4 (`b-opgaves`) en 5 (`c-omslag`) zijn he
 
 | Hoofdstuk | Bestand | Stand |
 |---|---|---|
-| 6 — akte I, er verandert niets | `e-aktes.md` | nog de bestuursversie |
-| 7 — akte II, zonder verdienmodel eronder | `e-aktes.md` | nog de bestuursversie |
+| 6 — akte I, er verandert niets | `akte-1.md` | nog de bestuursversie |
+| 7 — akte II, zonder verdienmodel eronder | `akte-2.md` | nog de bestuursversie |
 | 8 — akte III, mét verdienmodel eronder | `akte-3.md` | herzien in ronde 1; open punt is beeldwerk |
 
-**Eerste stap: splits `e-aktes.md` in twee bestanden.** Akte III is op 19-8 al uit dit bestand gehaald naar `akte-3.md`, dus het precedent staat. Bij het splitsen gaan drie dingen mee: `volgorde.txt`, de regel in `hoofdstukregister.md` (nu één id met "6, 7") en de kolom `nummer`.
+**Gedaan op 20-8: `e-aktes.md` is gesplitst in `akte-1.md` (hoofdstuk 6) en `akte-2.md` (hoofdstuk 7)**, en bestaat niet meer. Meegegaan: `volgorde.txt`, het register, het skelet (de regel `bron:`), de correctielijst, `bloktypen.md` en de lezer.
 
 ## Waar de aktes op moeten aansluiten
 
@@ -48,7 +48,7 @@ Dit is het deel waar de toon het meest op het spel staat. Vier regels wegen hier
 - **Toetsregel 12b:** het kader bij akte II heet nu "Ingrijpen zonder pijlers" en begint met "De overheid grijpt in met harde maatregelen". Beide moeten om. Een akte heet naar wat er met het bedrijf gebeurt, en de overheid komt in de kop niet handelend voor. Het bestuur op 17 juni: "als jij gaat vertellen dat ze een fout voorzitten, ga je ze alleen maar van je vervreemden."
 - **Toetsregel 12a en 2:** akte II is niemands beleid. Het is een categorie, en er staat geen enkel voorbeeld uit het beleid van vandaag in. Zodra er staat dat het beleid "op akte II afkoerst", leest een ambtenaar een verwijt. Wij mogen dat weten; het document beschrijft de categorie.
 - **Toetsregel 13:** de introductie van de drie aktes staat één keer, als korte inzet aan het hoofd van hoofdstuk 6. Nergens eerder een vooruitwijzing.
-- **Toetsregel 26:** het kernbeeld van akte III toont alleen de overheid als opdrachtgever en heeft een tweede pijl nodig voor de markt. Dat is beeldwerk, samen op te pakken met de drie foute `rx`-afrondingen in `partials/e-aktes-dimensie-ontwikkeling.html`.
+- **Toetsregel 26:** het kernbeeld van akte III toont alleen de overheid als opdrachtgever en heeft een tweede pijl nodig voor de markt. Dat is beeldwerk, samen op te pakken met de drie foute `rx`-afrondingen in `partials/e-aktes-dimensie-ontwikkeling.html` (die partial staat in `akte-3.md`).
 
 ## De schrijfstandaard van 20-8
 

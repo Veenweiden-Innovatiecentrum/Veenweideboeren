@@ -139,7 +139,7 @@ const PULL_QUOTES = {
   'b-opgaves': 'Op korte termijn vernietigt margedruk het rentmeesterschap.',
   'c-omslag': 'De boer is niet het probleem, de boer is de motor.',
   'd-concept': 'Het is niet strenger én slechter, het is anders én beter.',
-  'e-aktes': 'De motor draait, maar op de verkeerde brandstof.',
+  'akte-1': 'De motor draait, maar op de verkeerde brandstof.',
   'f-ondernemer': 'De veenweideboer — de ondernemer van akte III — bepaalt zelf hóe de doelen gehaald worden.',
   'f-overheid': 'Ze werken alleen als systeem, je moet op zes niveaus tegelijk bewegen.',
   'f3-bedrijfsleven': 'Het verdienmodel bestaat alleen als de markt aan de andere kant aansluit.',
@@ -233,7 +233,7 @@ function DocumentLezer({ openToolbox, wisselVorm }) {
         </p>
         {HOOFDSTUKKEN.map((h) => {
           const isOpen = isUit(h.id);
-          const isAktes = h.id === 'e-aktes';
+          const isAktes = h.id === 'akte-1';
           const isToolbox = h.id === 'f-ondernemer';
           const klap = (
             <span style={{ fontSize: 13, fontFamily: 'var(--font-heading)', fontWeight: 700, color: isOpen ? 'var(--accent2)' : 'var(--text3)', whiteSpace: 'nowrap', flexShrink: 0 }}>
@@ -317,7 +317,7 @@ function MagazineLezer({ openToolbox, wisselVorm }) {
         }
         return (
           <MagHoofdstuk key={h.id} h={h} index={i} foto={foto} quote={PULL_QUOTES[h.id]}
-            vooraf={h.id === 'e-aktes' ? <div className="magh-akteviewer"><AkteViewer></AkteViewer></div> : null}
+            vooraf={h.id === 'akte-1' ? <div className="magh-akteviewer"><AkteViewer></AkteViewer></div> : null}
             naBody={h.id === 'f-ondernemer' ? (
               <div className="magh-nabody">
                 <DocCard naam="de toolbox" sub="alle maatregelen als fiches — per categorie, met literatuur; de verdieping waarmee we aan de slag gaan" onClick={openToolbox}></DocCard>

@@ -485,11 +485,11 @@ Waterkwaliteit, biodiversiteit en broeikasgasreductie worden dus pas bereikbaar 
 
 ---
 
-<!-- ======== bestand: content/e-aktes.md ======== -->
+<!-- ======== bestand: content/akte-1.md ======== -->
 
 ---
 
-## E — Het verhaal: drie aktes
+## 6 — Wat er gebeurt als er niets verandert
 
 Drie aktes voor het veenweidegebied. Niet drie gelijkwaardige scenario's, maar drie keuzes die elkaar opvolgen in het beleidsdebat. Akte I: status quo. Akte II: hard ingrijpen zonder pijlers. Akte III: systeemcondities aanpassen.
 
@@ -523,6 +523,14 @@ Drie aktes voor het veenweidegebied. Niet drie gelijkwaardige scenario's, maar d
     </div>
     <p><strong>De boodschap:</strong> Dit is niet houdbaar. Vrijwel alle opgaves staan op rood of oranje, maar dat is niet eens het diepste probleem. Het diepste probleem is de motor. De ondernemers die overblijven hebben geen enkele prikkel om de opgaves te halen. Ze zoeken de ruimte om te produceren <em>ondanks</em> de maatschappelijke doelen, niet dankzij. Ze doen wat het systeem beloont: schaal, liters, efficiëntie. Zolang dat zo is, worden de opgaves nooit gehaald, niet omdat boeren kwaadwillend zijn, maar omdat het systeem ze nooit vraagt of beloont om iets anders te doen. De verborgen kosten lopen intussen op: KRW-boetes, stikstofboetes, woningbouw op slot, infrastructuurschade door bodemdaling. Niemand zet ze op de begroting, maar de samenleving betaalt ze wel.</p>
   </div>
+
+---
+
+<!-- ======== bestand: content/akte-2.md ======== -->
+
+---
+
+## 7 — Wat er gebeurt zonder verdienmodel eronder
 
 <div class="akte akte-2" id="akte2">
     <div class="akte-number">Akte II</div>

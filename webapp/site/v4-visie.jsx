@@ -225,9 +225,11 @@ function RedactieBalk({ aan, zet, rij, zetRij }) {
   });
 
   return (
-    <div style={{ position: 'sticky', top: 0, zIndex: 40, display: 'flex', alignItems: 'center',
-                  gap: 10, padding: '8px 0', marginBottom: 6, background: 'var(--bg)',
-                  borderBottom: aan ? '2px solid var(--accent)' : '1px solid rgba(0,0,0,.06)' }}>
+    <div style={{ position: 'fixed', bottom: 0, left: 0, right: 0, zIndex: 60,
+                  background: 'var(--bg)', borderTop: aan ? '2px solid var(--accent)' : '1px solid rgba(0,0,0,.10)',
+                  boxShadow: '0 -2px 12px rgba(0,0,0,.06)' }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: 10, flexWrap: 'wrap',
+                    maxWidth: 1020, margin: '0 auto', padding: '8px 20px' }}>
       <button style={knop(aan)} onClick={() => { zet(!aan); setMelding(''); }}>
         {aan ? '\u25be redactiemodus staat aan' : '\u270e redactiemodus'}
       </button>
@@ -252,6 +254,7 @@ function RedactieBalk({ aan, zet, rij, zetRij }) {
         </>
       )}
       {melding && <span style={{ fontSize: 12, color: 'var(--text2)' }}>{melding}</span>}
+      </div>
     </div>
   );
 }
@@ -317,6 +320,12 @@ function DocumentLezer({ openToolbox, wisselVorm }) {
   const [redactie, setRedactie] = React.useState(false);
   const [rij, zetRij] = React.useState(laadWachtrij);
   useRedactie(redactie, rij, zetRij);
+  // de balk staat vast onderaan: ruimte eronder, anders valt de laatste regel erachter
+  React.useEffect(() => {
+    if (!WERKSTAND_ZICHTBAAR) return;
+    document.body.style.paddingBottom = '58px';
+    return () => { document.body.style.paddingBottom = ''; };
+  }, []);
   React.useEffect(() => {
     const ids = HOOFDSTUKKEN.map((h) => h.id);
     const onScroll = () => {

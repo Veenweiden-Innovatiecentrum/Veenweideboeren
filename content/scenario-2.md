@@ -1,8 +1,11 @@
 ## 7 — Wat er gebeurt zonder verdienmodel eronder
 
 <div style="background:var(--bg2);border-left:4px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0 1.5rem;font-size:13.5px;line-height:1.65">
-<strong style="display:block;margin-bottom:4px;font-size:14px">Wat dit scenario is</strong>
-<p style="margin:0">De maatregelen komen, hard en gehandhaafd. Er wordt niet meer op middelen gestuurd maar op doelen: een hogere grondwaterstand, strengere normen voor de waterkwaliteit, beperkingen rond stikstof. Wat eronder ontbreekt is een tweede verdienmodel, en wat ertegenover staat vergoedt schade in plaats van een prestatie te betalen. Het bedrijf houdt één product, en dat brengt minder op.</p>
+<strong style="display:block;margin-bottom:6px;font-size:14px">Wat dit scenario is</strong>
+<p style="margin:0 0 .7rem">De maatregelen komen. De sturing gaat van middelen naar doelen: het bedrijf moet de doelen halen en mag zelf kiezen hoe. Vernatting wordt een verplichting op de plekken waar zij nodig is, de steun neemt iets toe, en de juridische ruimte om het land ook anders te gebruiken blijft beperkt.</p>
+<p style="margin:0 0 .7rem">Onder het land werkt dat. De grondwaterstand gaat omhoog, de veenoxidatie remt, en de uitstoot uit de bodem daalt. Ook de waterkwaliteit gaat vooruit, al kost dat eerst tijd. Op die twee punten gaat het dus de goede kant op.</p>
+<p style="margin:0 0 .7rem">Op het land ziet het anders uit. De opdracht om melk te leveren staat er nog, maar zij staat onder druk: minder koeien per hectare geeft minder liters terwijl de kosten blijven. De middengroep houdt dat niet vol en vertrekt. Het land komt in handen van bedrijven die er niet wonen en die deze hectares vooral nodig hebben voor hun mestplaatsingsruimte. Wat overblijft is grasland met weinig variatie, en de koeien die buiten lopen staan dicht op elkaar op de huiskavel, want daar hangt de premie voor weidegang aan.</p>
+<p style="margin:0">De opgaven die niemand oplegt, blijven daarmee liggen. Er is geen betaald landschapsbeheer, er wordt niet gewoond, en de sociale samenhang loopt weg met de mensen die er woonden. Twee opgaven vooruit, de rest niet, en een gebied dat armer wordt.</p>
 </div>
 
 {{partial:scenario-verschil}}

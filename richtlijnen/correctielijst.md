@@ -243,6 +243,14 @@
 - [x] **Verhuisd uit `c-omslag`, geland in 8.4 op 19-8:** de ontwerpkeuze-alinea. Zonder het woord "antifragiel", want dat is jargon: "een systeem dat van variatie profiteert in plaats van eraan onderdoor te gaan"
 - [ ] **Het kernbeeld van scenario III toont alleen de overheid als opdrachtgever.** Toetsregel 26 vraagt een tweede pijl voor de markt. Dat is beeldwerk en geen tekst; zie ook `bloktypen.md`, "nog te toetsen bij het schrijven". *Stond tot 19-8 als `[[TODO]]` in de tekst*
 
+## De drie scenario-illustraties
+
+*`webapp/assets/illustraties/akte-1.jpg`, `-2` en `-3`. Op 20-8 zijn de scenario-omschrijvingen hierop geschreven, dus de tekeningen zijn nu de bron voor die drie kaders. Wat er in staat: links de ingangen (steun, middel- of doelsturing, vernatting, juridische ruimte), boven de melkprijs, rechts de tankauto, rechtsboven de opgavenpijl die van rood naar groen verloopt, en boven het blok de CO₂ die in scenario III naar binnen wijst in plaats van naar buiten.*
+
+- [ ] **In scenario III staat het woord "PIJLERS" in de tekening**, linksboven bij het blok met de opdrachten. Dat is de verboden term uit toetsregel 27 en hij staat in beeld, dus zichtbaar voor het bestuur. Moet "opdrachten" worden. Beeldwerk
+- [ ] **De bestandsnamen dragen nog "akte"** (`akte-1.jpg`). Bewust niet meegenomen in de veegronde van 20-8: het is een machinenaam en hij staat op drie plaatsen in de code. Meenemen als de tekeningen toch worden bijgewerkt
+- [ ] **De drie JPEG's zijn 5.964 pixels breed en samen ruim 2 MB.** Verkleinen vóór publicatie; ze staan nu in elk hoofdstuk en worden dus alle drie geladen
+
 ## partials/e-aktes-dimensie-ontwikkeling.html
 
 *Deze partial hangt nu achteraan `scenario-3.md` en verhuist naar hoofdstuk 9. Op 20-8 is de term er doorgevoerd en zijn de kolomkoppen omgezet: "Akte II — Ingrijpen zonder pijlers" en "Akte III — Mét pijlers" heetten naar wat de overheid doet en gebruikten een verboden term. Nu: "Scenario I — Sturen op middelen", "Scenario II — Doelen zonder verdienmodel", "Scenario III — Doelen mét verdienmodel". Ook "drie pijlers" is "drie kanten" geworden en de waterbuffer aan de akkerbouw is eruit, dezelfde correctie als 19-8 in `scenario-3.md`.*

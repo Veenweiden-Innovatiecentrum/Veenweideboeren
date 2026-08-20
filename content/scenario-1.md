@@ -8,8 +8,10 @@
   </div>
 
 <div style="background:var(--bg2);border-left:4px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0 1.5rem;font-size:13.5px;line-height:1.65">
-<strong style="display:block;margin-bottom:4px;font-size:14px">Wat dit scenario is</strong>
-<p style="margin:0">De huidige koers loopt door. Er wordt gestuurd op middelen, met steun waar het knelt en met pakketten voor beheer dat vrijwillig blijft; grote maatregelen op vernatting en waterkwaliteit blijven uit. Het bedrijf houdt één product met een prijs, de melk, en zoekt zijn ruimte in schaal.</p>
+<strong style="display:block;margin-bottom:6px;font-size:14px">Wat dit scenario is</strong>
+<p style="margin:0 0 .7rem">Er verandert niets in de manier waarop dit gebied bestuurd wordt. Er gaat steun naartoe en er wordt gestuurd op middelen: op wat een bedrijf gebruikt, aanschaft en mag bouwen. Vernatting als verplichting en ruimere regels voor een ander gebruik van het land zijn er niet.</p>
+<p style="margin:0 0 .7rem">Op het land is dat te zien. De koeien staan verspreid over de percelen, de boer staat er zelf, en het bedrijf leeft van één prijs: die van de melk. De tankauto rijdt vol weg. Onder het land blijft de grondwaterstand laag, blijft het veen droog en gaat de uitstoot uit de bodem door.</p>
+<p style="margin:0">Van wat Nederland vraagt komt daarmee weinig terecht. De emissies uit de bodem dalen niet, de nutriëntenbelasting blijft, en het beheer van slootkant, oever en landschap gebeurt onbeprijsd of niet. Wat dit gebied levert is voedsel. Wat het verder kan, blijft liggen.</p>
 </div>
 
 {{partial:scenario-verschil}}

@@ -499,8 +499,10 @@ Waterkwaliteit, biodiversiteit en broeikasgasreductie worden dus pas bereikbaar 
   </div>
 
 <div style="background:var(--bg2);border-left:4px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0 1.5rem;font-size:13.5px;line-height:1.65">
-<strong style="display:block;margin-bottom:4px;font-size:14px">Wat dit scenario is</strong>
-<p style="margin:0">De huidige koers loopt door. Er wordt gestuurd op middelen, met steun waar het knelt en met pakketten voor beheer dat vrijwillig blijft; grote maatregelen op vernatting en waterkwaliteit blijven uit. Het bedrijf houdt één product met een prijs, de melk, en zoekt zijn ruimte in schaal.</p>
+<strong style="display:block;margin-bottom:6px;font-size:14px">Wat dit scenario is</strong>
+<p style="margin:0 0 .7rem">Er verandert niets in de manier waarop dit gebied bestuurd wordt. Er gaat steun naartoe en er wordt gestuurd op middelen: op wat een bedrijf gebruikt, aanschaft en mag bouwen. Vernatting als verplichting en ruimere regels voor een ander gebruik van het land zijn er niet.</p>
+<p style="margin:0 0 .7rem">Op het land is dat te zien. De koeien staan verspreid over de percelen, de boer staat er zelf, en het bedrijf leeft van één prijs: die van de melk. De tankauto rijdt vol weg. Onder het land blijft de grondwaterstand laag, blijft het veen droog en gaat de uitstoot uit de bodem door.</p>
+<p style="margin:0">Van wat Nederland vraagt komt daarmee weinig terecht. De emissies uit de bodem dalen niet, de nutriëntenbelasting blijft, en het beheer van slootkant, oever en landschap gebeurt onbeprijsd of niet. Wat dit gebied levert is voedsel. Wat het verder kan, blijft liggen.</p>
 </div>
 
 {{partial:scenario-verschil}}
@@ -556,8 +558,11 @@ Wat er dan gebeurt, is wat de kostenstructuur uit hoofdstuk 3 voorschrijft. Een 
 ## 7 — Wat er gebeurt zonder verdienmodel eronder
 
 <div style="background:var(--bg2);border-left:4px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0 1.5rem;font-size:13.5px;line-height:1.65">
-<strong style="display:block;margin-bottom:4px;font-size:14px">Wat dit scenario is</strong>
-<p style="margin:0">De maatregelen komen, hard en gehandhaafd. Er wordt niet meer op middelen gestuurd maar op doelen: een hogere grondwaterstand, strengere normen voor de waterkwaliteit, beperkingen rond stikstof. Wat eronder ontbreekt is een tweede verdienmodel, en wat ertegenover staat vergoedt schade in plaats van een prestatie te betalen. Het bedrijf houdt één product, en dat brengt minder op.</p>
+<strong style="display:block;margin-bottom:6px;font-size:14px">Wat dit scenario is</strong>
+<p style="margin:0 0 .7rem">De maatregelen komen. De sturing gaat van middelen naar doelen: het bedrijf moet de doelen halen en mag zelf kiezen hoe. Vernatting wordt een verplichting op de plekken waar zij nodig is, de steun neemt iets toe, en de juridische ruimte om het land ook anders te gebruiken blijft beperkt.</p>
+<p style="margin:0 0 .7rem">Onder het land werkt dat. De grondwaterstand gaat omhoog, de veenoxidatie remt, en de uitstoot uit de bodem daalt. Ook de waterkwaliteit gaat vooruit, al kost dat eerst tijd. Op die twee punten gaat het dus de goede kant op.</p>
+<p style="margin:0 0 .7rem">Op het land ziet het anders uit. De opdracht om melk te leveren staat er nog, maar zij staat onder druk: minder koeien per hectare geeft minder liters terwijl de kosten blijven. De middengroep houdt dat niet vol en vertrekt. Het land komt in handen van bedrijven die er niet wonen en die deze hectares vooral nodig hebben voor hun mestplaatsingsruimte. Wat overblijft is grasland met weinig variatie, en de koeien die buiten lopen staan dicht op elkaar op de huiskavel, want daar hangt de premie voor weidegang aan.</p>
+<p style="margin:0">De opgaven die niemand oplegt, blijven daarmee liggen. Er is geen betaald landschapsbeheer, er wordt niet gewoond, en de sociale samenhang loopt weg met de mensen die er woonden. Twee opgaven vooruit, de rest niet, en een gebied dat armer wordt.</p>
 </div>
 
 {{partial:scenario-verschil}}
@@ -647,8 +652,10 @@ Wat er dan gebeurt, is wat de kostenstructuur uit hoofdstuk 3 voorschrijft. Een 
 ## 8 — Wat er gebeurt met een verdienmodel eronder
 
 <div style="background:var(--bg2);border-left:4px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0 1.5rem;font-size:13.5px;line-height:1.65">
-<strong style="display:block;margin-bottom:4px;font-size:14px">Wat dit scenario is</strong>
-<p style="margin:0">Dezelfde doelsturing als in scenario II, met één verschil: de gevraagde dienst wordt ingekocht tegen een prijs. Naast het product melk staat maatschappelijke dienstverlening, betaald door de overheid als opdrachtgever en door partijen die er zelf belang bij hebben.</p>
+<strong style="display:block;margin-bottom:6px;font-size:14px">Wat dit scenario is</strong>
+<p style="margin:0 0 .7rem">Dezelfde doelsturing als in scenario II en dezelfde vernatting. Wat erbij komt is tweeledig: de juridische ruimte om het land ook anders te gebruiken, en opdrachten waarmee een dienst wordt ingekocht tegen een prijs. Naarmate die contracten gaan lopen, krimpt de steun.</p>
+<p style="margin:0 0 .7rem">Op het land is dat te zien. Naast percelen met gras en koeien liggen een natte teelt, een strook met houtige beplanting, een perceel dat water bergt, een plek waar kleinschalig gewoond wordt en een deel dat is ingericht voor natuur en recreatie. Onder het land zit de opslag: water in de zandlaag, koolstof in het veen. De koolstof gaat de bodem in in plaats van eruit.</p>
+<p style="margin:0">Het bedrijf levert nog steeds melk en de tankauto rijdt nog weg, met minder. Daarnaast lopen er contracten voor water, koolstof, biodiversiteit, mest, wonen en zorg. Van wat Nederland vraagt wordt zo het meeste gehaald, en het bedrijf verdient aan twee dingen in plaats van aan één.</p>
 </div>
 
 {{partial:scenario-verschil}}

@@ -1,8 +1,10 @@
 ## 8 — Wat er gebeurt met een verdienmodel eronder
 
 <div style="background:var(--bg2);border-left:4px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0 1.5rem;font-size:13.5px;line-height:1.65">
-<strong style="display:block;margin-bottom:4px;font-size:14px">Wat dit scenario is</strong>
-<p style="margin:0">Dezelfde doelsturing als in scenario II, met één verschil: de gevraagde dienst wordt ingekocht tegen een prijs. Naast het product melk staat maatschappelijke dienstverlening, betaald door de overheid als opdrachtgever en door partijen die er zelf belang bij hebben.</p>
+<strong style="display:block;margin-bottom:6px;font-size:14px">Wat dit scenario is</strong>
+<p style="margin:0 0 .7rem">Dezelfde doelsturing als in scenario II en dezelfde vernatting. Wat erbij komt is tweeledig: de juridische ruimte om het land ook anders te gebruiken, en opdrachten waarmee een dienst wordt ingekocht tegen een prijs. Naarmate die contracten gaan lopen, krimpt de steun.</p>
+<p style="margin:0 0 .7rem">Op het land is dat te zien. Naast percelen met gras en koeien liggen een natte teelt, een strook met houtige beplanting, een perceel dat water bergt, een plek waar kleinschalig gewoond wordt en een deel dat is ingericht voor natuur en recreatie. Onder het land zit de opslag: water in de zandlaag, koolstof in het veen. De koolstof gaat de bodem in in plaats van eruit.</p>
+<p style="margin:0">Het bedrijf levert nog steeds melk en de tankauto rijdt nog weg, met minder. Daarnaast lopen er contracten voor water, koolstof, biodiversiteit, mest, wonen en zorg. Van wat Nederland vraagt wordt zo het meeste gehaald, en het bedrijf verdient aan twee dingen in plaats van aan één.</p>
 </div>
 
 {{partial:scenario-verschil}}

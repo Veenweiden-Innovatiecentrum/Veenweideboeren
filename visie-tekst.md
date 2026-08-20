@@ -521,29 +521,11 @@ Voor het verdienmodel van het bedrijf verandert daarmee niets. Elk van die instr
 
 Van buiten lijkt dit te werken, en dat komt doordat er nog niets is gebeurd wat het bedrijf niet kon opvangen. Het is één product op één markt, en dat maakt de positie kwetsbaar. Zij wordt pas zichtbaar bij de volgende schok, en die kan uit vier hoeken komen: de prijs van soja of kunstmest, de melkprijs zelf, het weer, of een nieuwe regel.
 
-<p>De boer verdient nog steeds, maar de marges worden dunner. De schaal compenseert wat de prijs per liter niet meer doet. En het tast de overdraagbaarheid aan: wie neemt zo’n bedrijf nog over? Boerenfamilies dreigen achter te blijven met kapitaalintensieve, onverkoopbare bedrijven. Dat is niet alleen een probleem voor de opvolger. Wie geen overdracht ziet, investeert de laatste jaren niet meer, en juist het beheer waarvoor niemand betaalt is dan het eerste dat blijft liggen.</p>
+<p>De boer verdient nog steeds, maar de marges worden dunner. De schaal compenseert wat de prijs per liter niet meer doet. En het tast de overdraagbaarheid aan: wie neemt zo’n bedrijf nog over? Boerenfamilies dreigen achter te blijven met kapitaalintensieve, onverkoopbare bedrijven. Dat is niet alleen een probleem voor de opvolger, want wie geen overdracht ziet investeert de laatste jaren niet meer.</p>
 
-Wat er daarna gebeurt, gaat in drie tempo's.
+Wat er daarna gebeurt, gaat in drie tempo's. Op korte termijn sneuvelt het werk waarvoor geen rekening bestaat: het beheer van slootkanten, het weidevogelbeheer, het ecologisch maaien. Op middellange termijn maakt de reflex om te groeien het landschap grover, met gedempte sloten en samengevoegde kavels, en verdwijnt het fijnmazige netwerk van oevers, greppels en perceelranden waar weidevogels, insecten en bodemleven van afhankelijk zijn; op veen betekent intensiveren bovendien dieper ontwateren, en dus meer veenoxidatie. Op lange termijn blokkeert de middengroep de omslag zelf: geen marge om te investeren, geen buffer om de eerste kwetsbare jaren door te komen, en geen perspectief dat het risico rechtvaardigt.
 
-<div class="decision-card" style="margin-bottom:12px">
-    <div class="label">Op korte termijn</div>
-    <div class="title" style="font-size:15px;line-height:1.4">Margedruk vernietigt het rentmeesterschap</div>
-    <p style="font-size:13.5px;line-height:1.65;margin:.7rem 0 0">Een boer die klem zit zoekt het in kostenbeperking. Slootkantenbeheer, weidevogelbeheer, ecologisch maaien — dat zijn de eerste dingen die sneuvelen. De basiskwaliteit van natuur in het boerenland holt achteruit, niet door kwade wil maar door gebrek aan financiële ruimte.</p>
-  </div>
-
-<div class="decision-card" style="margin-bottom:12px">
-    <div class="label">Op middellange termijn</div>
-    <div class="title" style="font-size:15px;line-height:1.4">De schaalvergrotingsreflex maakt de fijnmazigheid kapot</div>
-    <p style="font-size:13.5px;line-height:1.65;margin:.7rem 0 0">Wie toch probeert door te groeien dicht sloten, voegt kavels samen, verwijdert landschapselementen en zet weidegang onder druk. Het fijnmazige netwerk van oevers, greppels en perceelranden waar weidevogels, insecten en bodemleven van afhankelijk zijn, dat verdwijnt. In het veenweidegebied betekent intensiveren bovendien diepere ontwatering, hogere veenoxidatie met meer CO₂-emissie, en minder waterbuffering.</p>
-  </div>
-
-<div class="decision-card" style="margin-bottom:12px">
-    <div class="label">Op lange termijn</div>
-    <div class="title" style="font-size:15px;line-height:1.4">De klemzittende middengroep blokkeert de transitie zelf</div>
-    <p style="font-size:13.5px;line-height:1.65;margin:.7rem 0 0">De middengroep heeft geen marge om te investeren in een ander bedrijfsmodel, geen buffer om de eerste kwetsbare jaren door te komen, en geen perspectief dat het risico rechtvaardigt. Omdat zij de grootste groep is en het meeste areaal beheert [[CIJFER: aandeel van het veenweide-areaal dat de middengroep beheert, met het label eigen analyse VIC/JUMP]], verandert er op het overgrote deel van het veenweidegebied structureel niets: de bodem blijft dalen, de uitstoot blijft, de waterkwaliteit blijft achter, de biodiversiteit gaat achteruit.</p>
-  </div>
-
-**Zonder perspectief geen opgaven.** Geen enkele opgave wordt structureel gehaald zolang de middengroep geen andere route heeft dan doorgaan zoals het is of stoppen, en dat is 70 tot 80 procent van de bedrijven in dit gebied.
+**Zonder perspectief geen opgaven.** Geen enkele opgave wordt structureel gehaald zolang de middengroep geen andere route heeft dan doorgaan zoals het is of stoppen. Dat is 70 tot 80 procent van de bedrijven in dit gebied, en zij beheert het meeste areaal `[[CIJFER: aandeel van het veenweide-areaal dat de middengroep beheert, met het label eigen analyse VIC/JUMP]]`.
 
 ### 6.4 De motor
 

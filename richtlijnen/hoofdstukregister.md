@@ -39,7 +39,7 @@ De volgorde in dit register is de volgorde van `volgorde.txt`. Hoofdstukken die 
 
 | id | nummer | ronde | stand |
 |---|---|---|---|
-| *nog geen bestand* | 9 | 2 | **Wat de drie scenario's naast elkaar opleveren** — nieuw op 20-8 (Tim). Drie secties: 9.1 dezelfde tien dimensies drie keer · 9.2 wie de rekening betaalt en wanneer · 9.3 het ontwikkelbeeld. De inhoud komt uit 6.3, 7.3 en 8.3, die daarmee vervallen. Skelet staat er; het bestand nog niet, dus ook nog niet in `volgorde.txt` |
+| scenario-vergelijking | 9 | 2 | **Wat de drie scenario's naast elkaar opleveren** — nieuw op 20-8 (Tim). Drie secties: 9.1 dezelfde tien dimensies drie keer · 9.2 wie de rekening betaalt en wanneer · 9.3 het ontwikkelbeeld. De inhoud komt uit 6.3, 7.3 en 8.3, die daarmee vervallen. Skelet staat er; het bestand nog niet, dus ook nog niet in `volgorde.txt`. De id staat er wel, zodat `verwijzingen.py` een verwijzing naar hoofdstuk 9 kan oplossen |
 
 *Het begrippenhoofdstuk is 19-8 vervallen: de begrippen gaan naar bijlage 17 en de scenario-introductie naar hoofdstuk 6.*
 

@@ -435,45 +435,11 @@ Al deze opgaven landen op hetzelfde land, en in de bedrijfsvoering van hetzelfde
 
 ### 5.1 Wat hier al gebeurt, en wie het betaalt
 
-Dat is veel om op één bedrijf te laten landen. En toch gebeurt er op dat land vandaag al meer dan melk produceren. Het veenweidegebied kan meer maatschappelijke opgaven dragen dan voedselproductie alleen, en van al die prestaties wordt er één als product afgerekend.
+Dat is veel om op één bedrijf te laten landen, en er gebeurt op dat veen dan ook al veel. Aan de drie eisen uit 4.1 wordt het hardst gewerkt: de emissies uit de bodem omlaag, de waterkwaliteit op orde, de depositie op Natura 2000 omlaag. Dat werk levert het bedrijf niets op — het kost het geld.
 
-<div style="overflow-x:auto">
-    <table class="layer-table">
-      <thead>
-        <tr>
-          <th style="width:32%">Wat deze hectare levert of kan leveren</th>
-          <th style="width:34%">Wie er belang bij heeft</th>
-          <th style="width:34%">Wordt er nu voor betaald</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><strong>Voedsel</strong></td>
-          <td>de zuivelketen en de consument</td>
-          <td>ja, via de melkprijs</td>
-        </tr>
-        <tr>
-          <td><strong>Landschap en weidevogels</strong></td>
-          <td>de samenleving, de recreatie, het natuurbeleid</td>
-          <td>deels, en dan als vergoeding van kosten en gederfde inkomsten; dat is geen prijs (hoofdstuk 2)</td>
-        </tr>
-        <tr>
-          <td><strong>Koolstof</strong> — de uitstoot uit het veen beperken</td>
-          <td>de klimaatopgave, en partijen die compensatie zoeken</td>
-          <td>niet structureel</td>
-        </tr>
-        <tr>
-          <td><strong>Water</strong> — vasthouden, bergen, kwaliteit</td>
-          <td>het waterschap en de omliggende landbouw</td>
-          <td>nee</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
+Daarnaast gebeurt er op dat land al meer dan melk produceren. Het landschap wordt onderhouden, de slootkant en de oever bijgehouden. Er is zorg voor elkaar, en in een gebied waar de bedrijven ver uit elkaar liggen houden dezelfde mensen de sociale samenhang overeind. Dat alles bij elkaar is rentmeesterschap: zorg voor iets wat je hebt overgenomen en weer doorgeeft.
 
-**Wat er al gebeurt, gebeurt onverplicht.** Het beheer op dit land staat grotendeels in geen enkel contract. Er wordt wél om gevraagd, want de basiskwaliteit van natuur, het landschap en de kwaliteit van het slootwater staan alle drie in de lijst van hoofdstuk 4. Alleen draagt niemand dit werk op en staat er geen rekening tegenover. Gratis is het daarmee niet: het wordt betaald uit de marge van een melkveebedrijf, en de samenleving heeft het decennialang op die manier meegekregen.
-
-Bij één prestatie is dat anders, en dat is het weidevogelbeheer. Daar staat de uitvoering al: de pakketten liggen er en de collectieven voeren ze uit. Dat is de enige plek in dit rijtje waar het apparaat om een gevraagde dienst te leveren bestaat.
+Van dit alles wordt één ding afgerekend, en dat is de melk. Voor weidevogel- en landschapsbeheer bestaat een vergoeding, en die dekt de kosten en de gederfde inkomsten — een vergoeding dus, en geen verdienste. Dat is wel de enige prestatie waarvoor het apparaat om te leveren al staat: de pakketten liggen er en de collectieven voeren ze uit. Al het andere staat in geen enkel contract, en gratis is het niet — het komt uit de marge van een melkveebedrijf, en de samenleving heeft het decennialang op die manier meegekregen.
 
 ### 5.2 De kans zit waar de klem het strakst is
 
@@ -483,7 +449,7 @@ Daarmee staat er één vraag open, en het is de goede: betaalt iemand daarvoor?
 
 ### 5.3 Waar deze opgaven een product kunnen worden
 
-Drie van deze prestaties kunnen een product worden: koolstof, biodiversiteit en water. Wat ze onderscheidt is de afnemer — een partij buiten het gebied met een eigen belang en een eigen begroting. Alle drie zijn richtingen die in JUMP verkend worden en die nog niet zijn uitgekristalliseerd.
+Drie prestaties kunnen wél een product worden: koolstof, biodiversiteit en water. Wat ze onderscheidt is de afnemer — een partij buiten het gebied met een eigen belang en een eigen begroting. Alle drie zijn richtingen die in JUMP verkend worden en die nog niet zijn uitgekristalliseerd.
 
 **CO₂-compensatie voor de akkerbouw.** Akkerbouwgebieden produceren voedsel met aanzienlijke CO₂-uitstoot en zoeken compensatieroutes om aan klimaatdoelen te voldoen. In plaats van het planten van bos op een polder of het inrichten van compensatieprojecten elders, kan een aanzienlijk deel van die compensatie in het veenweidegebied plaatsvinden. De CO₂-voorraad in het veen is enorm. Twee dingen moeten daarbij uit elkaar blijven, want voor wie ervoor betaalt zijn het twee producten: het remmen van veenoxidatie is *vermeden uitstoot*, en *vastlegging* komt van paludicultuur en actieve veenaanmaak.
 

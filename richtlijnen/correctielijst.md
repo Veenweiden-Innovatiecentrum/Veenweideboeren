@@ -178,13 +178,13 @@
 
 *Besluit in `besluitenlog.md`, uitwerking per element in `skelet.md`. Wat hier staat is wat er bij het herschrijven van elke sectie moet gebeuren.*
 
-- [ ] **5.1 krijgt de marge-observatie uit de oude 5.5** (het beheer staat in geen contract, er wordt wél om gevraagd, gratis is het niet want het komt uit de marge) **en de weidevogel als waarneming** uit 4.2. Budget 260 woorden
-- [ ] **5.2 is nieuw en is het scharnier:** juist waar minder koeien nodig zijn daalt het inkomen terwijl de kosten blijven, en juist daar komt hectare vrij voor de prestaties van hoofdstuk 4. Sluit af met de vraag die 5.3 beantwoordt: betaalt iemand daarvoor? Budget 150 woorden — de enige sectie die volledig nieuw geschreven wordt
-- [ ] **5.3 krijgt het grensgeval en de drie horden, en verliest twee dingen.** Erbij: weidevogelbeheer als **opdracht** en niet als product (harde vraag, bestaande uitvoering, betaling vergoedt kosten), en de drie horden in drie zinnen met hun adres. Eruit: de bosaanplant-vergelijking en het stippenblokje bij piekberging. Budget 700 woorden
+- [x] **5.1 krijgt de marge-observatie uit de oude 5.5** (het beheer staat in geen contract, er wordt wél om gevraagd, gratis is het niet want het komt uit de marge) **en de weidevogel als waarneming** uit 4.2. Budget 260 woorden
+- [x] **5.2 is nieuw en is het scharnier:** juist waar minder koeien nodig zijn daalt het inkomen terwijl de kosten blijven, en juist daar komt hectare vrij voor de prestaties van hoofdstuk 4. Sluit af met de vraag die 5.3 beantwoordt: betaalt iemand daarvoor? Budget 150 woorden — de enige sectie die volledig nieuw geschreven wordt
+- [x] **5.3 krijgt het grensgeval en de drie horden, en verliest twee dingen.** Erbij: weidevogelbeheer als **opdracht** en niet als product (harde vraag, bestaande uitvoering, betaling vergoedt kosten), en de drie horden in drie zinnen met hun adres. Eruit: de bosaanplant-vergelijking en het stippenblokje bij piekberging. Budget 700 woorden
 - [x] **De bosaanplant-vergelijking gaat eruit** *(besloten 20-8)*. Zij was 19-8 al als geschrapt afgevinkt maar stond er nog: geen bron, zij vergelijkt grondsoorten (toetsregel 8) en draagt een voorbehoud buiten hoofdstuk 2 (toetsregel 11a). **Daarmee vervalt de open bronvraag hieronder bij "5.3, koolstof"** — er is niets meer te onderbouwen
-- [ ] **5.4 heet "En daarom een ondernemende boer" en de orde is het besluit:** dit kan niet uit de marge komen → dus geen liefhebberij en dus een prijs → dus een ondernemende boer, en juist déze → de slotzin van de analyse. Budget 450 woorden. **De omzetting is niet cosmetisch:** staat de marge-zin achteraan, dan arriveert de ondernemer vóór de reden dat hij betaald moet worden
-- [ ] **De oude 5.3 vervalt als sectie.** Het nutsfunctie-argument en het alternatief-argument gaan naar 5.4; de tegenwerping en de ruimtedruk gaan het hoofdstuk uit, zie de regels onder `h-risicos.md` en `scope.md`
-- [ ] **Doorlopend in dit hoofdstuk: "de ondernemende boer" waar het argument valt**, niet kaal "de ondernemer". Regel in `terminologie.md` (Tim, 20-8)
+- [x] **5.4 heet "En daarom een ondernemende boer" en de orde is het besluit:** dit kan niet uit de marge komen → dus geen liefhebberij en dus een prijs → dus een ondernemende boer, en juist déze → de slotzin van de analyse. Budget 450 woorden. **De omzetting is niet cosmetisch:** staat de marge-zin achteraan, dan arriveert de ondernemer vóór de reden dat hij betaald moet worden
+- [x] **De oude 5.3 vervalt als sectie.** Het nutsfunctie-argument en het alternatief-argument gaan naar 5.4; de tegenwerping en de ruimtedruk gaan het hoofdstuk uit, zie de regels onder `h-risicos.md` en `scope.md`
+- [x] **Doorlopend in dit hoofdstuk: "de ondernemende boer" waar het argument valt**, niet kaal "de ondernemer". Regel in `terminologie.md` (Tim, 20-8)
 
 ### Bronnen en getallen die in hoofdstuk 5 nog toegevoegd moeten worden
 

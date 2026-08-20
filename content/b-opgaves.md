@@ -51,6 +51,8 @@ Wat een dossier hard laat duwen is dus niet de omvang van de opgave, maar of er 
 
 ### 4.3 Wat er ook gevraagd wordt, zonder dat het moet
 
+Dat het beleid zijn geld en aandacht zet op wat nu het hardst nodig is, is logisch; met een tekort aan allebei kan het niet anders. Maar wat daarmee even blijft liggen, verdwijnt niet. De waterkwaliteit laat zien hoe snel iets van deze lijst naar de vorige verhuist.
+
 De andere zeven dimensies worden even goed gevraagd. Alleen staat er vooralsnog geen norm en geen handhaving achter. Bij het bedrijf en het klimaat is dat het scherpst te zien: voor methaan is er een sectordoel en geen norm per bedrijf. Wat de stal wél hard bindt is de ammoniakuitstoot, en die hoort bij de natuuropgave hierboven.
 
 <div style="overflow-x:auto">

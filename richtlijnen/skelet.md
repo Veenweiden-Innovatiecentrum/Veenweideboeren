@@ -121,8 +121,9 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 *Vier elementen in plaats van drie, en de reden is de tijdlijn: drie dossiers plus het mechanisme dat ze ordent. **Wat het mechanisme oplevert:** het verklaart de rotatie zonder een oordeel over het beleid te geven (toetsregel 1), en het is de onderbouwing van het meerproducten-argument in hoofdstuk 5 — een bedrijf moet meer dan één prestatie kunnen dragen omdat het slot verschuift. De kop noemt nog steeds geen dossier bij naam, want toetsregel 22 wil stikstof nergens dominant.*
 
-### 4.3 Wat er ook gevraagd wordt, zonder dat het moet · **gehaald: 293 woorden** (nieuw; zeven rijen uit 4.1, plus de regel dat methaan een sectordoel heeft en geen norm per bedrijf)
+### 4.3 Wat er ook gevraagd wordt, zonder dat het moet · **gehaald: 342 woorden** (nieuw; zeven rijen uit 4.1, de regel over methaan, en de brug van 20-8)
 
+- **de brug van 4.2 naar 4.3, en zij komt vóór de lijst** (Tim, 20-8): dat het beleid zijn geld en aandacht zet op wat nu het hardst nodig is is logisch, met een tekort aan allebei kan het niet anders — maar wat daarmee even blijft liggen verdwijnt niet, en de waterkwaliteit laat zien hoe snel iets van deze lijst naar de vorige verhuist `[tekst · nieuw]` drie zinnen. **Wat er bewust níet staat: dat hier kansen liggen.** Tim stelde die derde stap voor en ik heb hem afgeraden; het antwoord "en daar zit een afnemer bij" is 5.3, en een kans zonder afnemer is een wens met een vrolijker woord. Zeg je het hier al, dan is 5.2 geen bocht meer maar een herhaling. Wat 4.3 wél mag zeggen gaat over tijd en niet over geld, en dat staat al aan het eind van 4.2
 - één aanloop: naast wat moet, vraagt Nederland meer van dit veenweidegebied — en daarvoor staat er **vooralsnog** geen norm en geen handhaving achter `[tekst · nieuw]` twee zinnen. **Het woord vooralsnog is van Tim (20-8) en het is niet vrijblijvend:** 4.2 laat net zien dat een dossier hard wordt zodra er een slot op komt, en water is daarvan het voorbeeld met een datum. Zonder dat woord leest de lijst als blijvend zacht. *Let op: "en geen geld" stond hier eerst en is fout — voedselzekerheid staat in deze lijst en wordt wél betaald, via de melkprijs, precies zoals de betaalladder in 5.1 zegt*
 - de zeven zachte dimensies, uit dezelfde tabel: klimaat en het bedrijf · waterkwantiteit · de basiskwaliteit van het boerenland · voedselzekerheid · cultuur en landschap · grondstoffen en kringloop · wonen `[tabel · auteurs · verhuisd]` uit 4.1, cellen ongewijzigd. **Koolstofvastlegging staat hier niet**, anders dan Tims lijst van 20-8 vraagt: Nederland eist lagere emissies en vraagt geen paludicultuur, dus vastlegging is een productroute en hoort in 5.3, waar zij al staat. Zo blijft de telling zeven opgaven en tien dimensies overeind
 - **de slotregel van het hoofdstuk, en zij is de brug naar hoofdstuk 5:** al deze opgaven landen op hetzelfde land en in de bedrijfsvoering van hetzelfde bedrijf, en dat is het bedrijf dat in hoofdstuk 3 klem komt te zitten `[tekst · auteurs · verhuisd]` uit 4.2, ongewijzigd
@@ -143,11 +144,11 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 > Op dezelfde hectare komt meer dan melk: landschap en weidevogels, koolstof in de bodem, vastgehouden water. Daarvan wordt er één afgerekend en de rest komt uit de marge van het bedrijf. Dit hoofdstuk zegt waar die klem omslaat in een kans — juist daar waar hij het strakst zit — welke prestaties een afnemer hebben, en waarom daar een ondernemende boer voor nodig is.
 
-*Op **20-8 in vieren gedeeld** (Tim), met één nieuwe sectie en één die vervalt. Nieuw is **5.2, het scharnier**: de kans zit waar de klem het strakst is. Vervallen als eigen sectie is "waarom betalen, en waarom deze ondernemers" — de rechtvaardiging gaat naar 5.4, waar zij achter de kansen staat in plaats van ervoor. De drie horden van de oude 5.4 worden drie zinnen aan het eind van 5.3.*
+*Op **20-8 in vieren gedeeld en geschreven** (Tim), met één nieuwe sectie en één die vervalt. Nieuw is **5.2, het scharnier**: de kans zit waar de klem het strakst is. Vervallen als eigen sectie is "waarom betalen, en waarom deze ondernemers" — de rechtvaardiging gaat naar 5.4, waar zij achter de kansen staat in plaats van ervoor. De drie horden van de oude 5.4 worden drie zinnen aan het eind van 5.3.*
 
 *De vier labels die hoofdstuk 4 en 5 aan elkaar knopen, staan in `terminologie.md`: een **eis** zonder prijs (4.1) · een **wens** zonder eis (4.3) · een **opdracht**, waar de vraag hard is en de uitvoering bestaat maar de betaling nog kosten vergoedt (5.3, het weidevogelbeheer) · een **product**, waar een afnemer met een eigen begroting inkoopt (5.3).*
 
-### 5.1 Wat hier al gebeurt, en wie het betaalt · budget 260 woorden (nu 133)
+### 5.1 Wat hier al gebeurt, en wie het betaalt · **gehaald: 259 woorden** (was 133, budget 260)
 
 - **de sectie opent op de brug uit hoofdstuk 4:** dat is veel om op één bedrijf te laten landen, en tóch gebeurt er op dat land al meer dan melk produceren `[tekst · auteurs]`
 - de tabel is de kern: wat deze hectare levert of kan leveren, wie er belang bij heeft, en of er nu voor betaald wordt. De orde is een aflopende betaalladder: voedsel · landschap en weidevogels · koolstof · water `[tabel · auteurs]`
@@ -155,7 +156,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 *De marge-observatie staat nu hier en niet meer aan de kop van de slotsectie. Zij hoort bij de waarneming: dit gebeurt er, en dit is wie het betaalt. Wat er in 5.4 van overblijft is de omslag — dat het nieuwe werk er niet meer uit kan.*
 
-### 5.2 De kans zit waar de klem het strakst is · budget 150 woorden (nieuw)
+### 5.2 De kans zit waar de klem het strakst is · **gehaald: 110 woorden** (nieuw, budget 150)
 
 - **de omslag, en het is een rekensom en geen hoop:** juist waar minder koeien per hectare nodig zijn, daalt het inkomen uit melk terwijl grond, gebouwen en financiering hetzelfde blijven kosten (3.2) — en juist daar komt op dezelfde hectare ruimte vrij voor de prestaties die hoofdstuk 4 vraagt `[tekst · nieuw]` Tim, 20-8
 - **daarmee kantelt de reeks van hoofdstuk 3:** dezelfde stapeling die het bedrijf klem zet, maakt de meeste ruimte voor iets anders `[tekst · nieuw]` één zin
@@ -163,7 +164,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 *Deze sectie is nieuw en zij is de bocht die de lezer tot nu toe zelf moest maken: van "één van de vier wordt betaald" naar "hier zijn drie producten". **Waarom zij eigen ruimte krijgt:** dit is het punt waar het document van diagnose naar aanbod gaat, en het is Tims vondst van 20-8 — de kans ligt niet naast de klem maar op dezelfde plek. Daarmee wordt de crescendo van hoofdstuk 3 de reden dat er iets te bieden is, in plaats van alleen slecht nieuws dat gecompenseerd moet worden.*
 
-### 5.3 Waar deze opgaven een product kunnen worden · budget 700 woorden (nu 789)
+### 5.3 Waar deze opgaven een product kunnen worden · **gehaald: 838 woorden, 647 leesregel** (was 789, budget 700)
 
 - **de opening zegt wat een opgave tot product maakt, in twee zinnen:** van wat hoofdstuk 4 vraagt hebben drie een afnemer buiten het gebied, met een eigen belang en een eigen begroting `[tekst · auteurs]` ingekort, want 4.3 heeft de lijst net genoemd en de huidige opening doet haar over
 - één keer vooraf: dit zijn richtingen die in JUMP verkend worden en die nog niet zijn uitgekristalliseerd `[tekst · auteurs]`
@@ -173,7 +174,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 *Vijf elementen in plaats van drie, en de reden staat hier. **De drie routes zijn één element in drie gelijke delen:** haal je er een uit, dan valt de parallel weg en leest de langste als de belangrijkste. Het grensgeval en de horden zijn elk twee tot drie zinnen. **De inlevering is echt:** "wordt het gewild" was de grootste horde met een eigen blok, en wordt een zin. Dat kan omdat hoofdstuk 14 er helemaal over gaat, maar op deze plek is het een verlies.*
 
-### 5.4 En daarom een ondernemende boer · budget 450 woorden (nu 373, plus ±150 verhuisd uit de oude 5.3)
+### 5.4 En daarom een ondernemende boer · **gehaald: 521 woorden** (was 373 plus ±150 verhuisd, budget 450)
 
 - **dit kan niet uit de marge komen, en dat staat vooraan:** water vasthouden en de koolstof in de bodem houden grijpen in de bedrijfsvoering in en kosten productie, en zij verkleinen precies de marge waaruit het kleine beheer tot nu toe betaald werd `[tekst · verhuisd]` uit de oude 5.5. **De omzetting is het besluit van 20-8:** in de oude orde kwam deze "maar" ná de conclusie, en dat kon zolang alle drie de alinea's in één sectie stonden. Nu de marge-observatie in 5.1 staat, arriveert de ondernemende boer zonder deze zin vóór de reden dat hij betaald moet worden — en dan is het weer een pleidooi voor gratis werk
 - **dus geen liefhebberij erbij, en dus een prijs:** dit zijn activiteiten die investeringen, grond en jaren vragen. Betalen niet omdat zij het moeilijk hebben maar omdat zij een publieke dienst leveren, en dat is geen koerswijziging want de nutsfunctie van de landbouw wordt alleen breder `[tekst · verhuisd]` uit het slot van de oude 5.5 en uit de oude 5.3
@@ -182,7 +183,8 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 *Vier elementen, en de orde ís het besluit: niet uit de marge → dus een prijs → dus een ondernemende boer. **De tegenwerping "maak er dan helemaal natuur van" en de ruimtedruk uit de Ontwerp-Nota Ruimte gaan het hoofdstuk uit** (Tim, 20-8). De eerste is een tegenwerping en hoort bij hoofdstuk 14; de tweede is context. Beide staan met hun tekst in `correctielijst.md` onder het bestand waar zij landen, zodat de ronde die dát hoofdstuk doet ze oppakt. Samen ongeveer 280 woorden, en daarmee het grootste deel van wat dit hoofdstuk korter wordt.*
 
-*Budget voor het hele hoofdstuk: **1.560 woorden tegen 2.025 nu.** Hoofdstuk 4 en 5 samen: **2.210 tegen 2.857**, dus ruim 640 korter, met nieuw geschreven tekst alleen in 5.2, de brug van 4.2, de aanloop van 4.3, het grensgeval en twee sluitregels.*
+*Hoofdstuk 5 is af op **1.732 woorden totaal en 1.541 aan leesregel**, tegen 2.025 in de bestuursversie. Het budget van 1.560 is dus gehaald op de leesregel. Waar de winst zit: de tegenwerping "maak er dan helemaal natuur van" en de ruimtedruk uit de Ontwerp-Nota Ruimte zijn het hoofdstuk uit (samen ±280 woorden, geparkeerd in `correctielijst.md` onder `h-risicos` en `scope`), de drie horden zijn van 185 naar 70 woorden gegaan, en de opening van 5.3 en het stippenblokje bij piekberging zijn eruit. **5.4 staat 70 woorden over zijn budget** en dat laat ik zo: de sectie draagt vier bewegingen en de laatste zin van de hele analyse. **Hoofdstuk 4 en 5 samen: 2.851 woorden totaal tegen 2.857, en 2.539 aan leesregel** — dus ruim 300 korter op de regel die de lezer volgt, en gelijk als je de fiches meetelt.*
+
 
 ---
 

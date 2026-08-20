@@ -9,6 +9,7 @@ c-omslag
 scenario-1
 scenario-2
 scenario-3
+scenario-vergelijking
 d-concept
 f-ondernemer
 f-overheid

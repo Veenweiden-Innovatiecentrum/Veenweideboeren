@@ -25,7 +25,8 @@ De volgorde in dit register is de volgorde van `volgorde.txt`. Hoofdstukken die 
 | c-omslag | 5 | 1 | **herzien (20-8): vier secties** — 5.1 wat hier al gebeurt en wie het betaalt · **5.2 de kans zit waar de klem het strakst is** (nieuw scharnier) · 5.3 waar deze opgaven een product kunnen worden, met het weidevogelbeheer als grensgeval en de drie horden ingekort · **5.4 en daarom een ondernemende boer**, met de marge-omkering vooraan. 2.138 woorden totaal en 1.838 leesregel tegen 2.025; nul tabellen. 5.2 heet 'De ruimte die vrijkomt'; 5.3 heeft vier routes uit de JUMP-concepten (5b, 4a, 8a, 6b); 5.4 sluit op de synthese dat de investeerder liefst de blijvende boer is. Open: de tegenstrijdige cijfers over de watervraag (30-40% versus factor 1,5-3). Nog toe te voegen: twee bronnen en één getal, de lijst staat in `correctielijst.md` |
 | scenario-1 | 6 | 2 | **áf op 20-8, vier secties**: 6.1 wat dit scenario is (250) · 6.2 er wordt gestuurd op middelen (226) · 6.3 waarom dit geen stabiele toestand is (288, de drie termijnen in één alinea) · 6.4 de motor (290). 1.120 woorden leesregel. Uit de kaartvorm, met de scenariotabel en de illustratie in 6.1. Eén markering open: het areaal dat de middengroep beheert. De dimensielijst staat onderaan en gaat naar hoofdstuk 9 |
 | scenario-2 | 7 | 2 | **áf op 20-8, vier secties**: 7.1 wat dit scenario is (286) · 7.2 de maatregelen kloppen, er ligt alleen niets onder (369, met 2 fiches) · 7.3 waarom de verbetering niet standhoudt (238) · 7.4 de motor (245). 1.072 woorden leesregel tegen 1.616 aan het begin van 20-8. Geen markering open. De vier driesporenkaders zijn 20-8 naar bijlage 17 verhuisd, waarmee het hoofdstuk van 1.616 naar 1.237 woorden ging; de dimensielijst gaat nog naar hoofdstuk 9 |
-| scenario-3 | 8 | 1 | herzien; **op 20-8 opnieuw gesneden naar vier secties**: 8.1 wat dit scenario is (nieuw) · 8.2 de omslag, mét de twee geldstromen · 8.3 waarom het dan wél standhoudt · 8.4 de motor. De sectie "wat dat betekent per opgave" is opgeheven; de dimensielijst en het ontwikkelbeeld staan onderaan, klaar voor hoofdstuk 9. Open punt in de beeldlijst: tweede pijl voor de markt in het kernbeeld |
+| scenario-3 | 8 | 1 | **áf op 20-8, vier secties**: 8.1 wat dit scenario is (189) · 8.2 de omslag, mét de twee geldstromen (381) · 8.3 waarom het dan wél standhoudt (209) · 8.4 de motor (249). 1.028 woorden leesregel. De sectie "wat dat betekent per opgave" is opgeheven; de dimensielijst en het ontwikkelbeeld staan onderaan, klaar voor hoofdstuk 9. Open punt in de beeldlijst: tweede pijl voor de markt in het kernbeeld |
+| scenario-vergelijking | 9 | 2 | **in de steigers (20-8)**: 9.1 dezelfde tien dimensies drie keer, met de tabel uit de gesplitste partial · 9.2 wie de rekening betaalt en wanneer, met het kostendiagram en de drie alinea's van de auteurs · 9.3 wat de drie samen laten zien, nog te schrijven. De partial `e-aktes-dimensie-ontwikkeling` is in twee gesplitst en hing tot 20-8 achteraan hoofdstuk 8 |
 | d-concept | 10 | 3 | bestuursversie, met één nieuwe sectie vooraan: "veenweideboer is een schaal, geen categorie" (19-8) |
 | f-ondernemer | 11 | 3 | nog de bestuursversie |
 | f-overheid | 12 | 3 | nog de bestuursversie |
@@ -37,9 +38,7 @@ De volgorde in dit register is de volgorde van `volgorde.txt`. Hoofdstukken die 
 
 ## Nog te maken
 
-| id | nummer | ronde | stand |
-|---|---|---|---|
-| scenario-vergelijking | 9 | 2 | **Wat de drie scenario's naast elkaar opleveren** — nieuw op 20-8 (Tim). Drie secties: 9.1 dezelfde tien dimensies drie keer · 9.2 wie de rekening betaalt en wanneer · 9.3 het ontwikkelbeeld. De inhoud komt uit 6.3, 7.3 en 8.3, die daarmee vervallen. Skelet staat er; het bestand nog niet, dus ook nog niet in `volgorde.txt`. De id staat er wel, zodat `verwijzingen.py` een verwijzing naar hoofdstuk 9 kan oplossen |
+*Leeg: hoofdstuk 9 staat sinds 20-8 in de hoofdtabel.*
 
 *Het begrippenhoofdstuk is 19-8 vervallen: de begrippen gaan naar bijlage 17 en de scenario-introductie naar hoofdstuk 6.*
 

@@ -265,19 +265,19 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 - **de omschrijving van het scenario, in drie of vier alinea's en in dezelfde vorm bij alle drie:** wat er ingaat aan sturing en steun, wat er onder het land gebeurt, wat er op het land te zien is, en welke opgaven daarmee wel en niet gehaald worden `[tekst · nieuw]` **Tim, 20-8, en op de tekeningen zelf geschreven.** Zij zijn 195, 259 en 187 woorden en dat is bewust: hij vroeg om rijker. **Twee valkuilen die hier al een keer zijn ingelopen:** beschrijf het gebied en niet de plaat (een zin over "de pijl" vraagt van de lezer dat hij gaat kijken), en zeg het over de opgaven één keer. De tabel `scenario-verschil` en de illustratie staan boven de tekst, dus de lezer weet waar hij is voordat hij leest
 
-### 8.2 De omslag: van vergoeding naar betaling
+### 8.2 De omslag: van vergoeding naar betaling · **gehaald: 381 woorden**, mét de twee geldstromen
 - wat er eerst gebeurt: het grondbeleid stopt de grondhonger uit scenario II `[tekst · auteurs]`
 - de omkering: betaald worden voor een geleverde dienst in plaats van gecompenseerd voor een verlies `[tekst · auteurs]`
 - het begint moeizaam: de eerste jaren zijn kwetsbaar, en na zeven tot tien jaar staat het bedrijfsmodel `[tekst · auteurs]`
 - drie tempo's, één transitie `[fiche · auteurs]`
 
-### 8.3 Waarom het dan wél standhoudt
+### 8.3 Waarom het dan wél standhoudt · **gehaald: 209 woorden**
 - de overheid als opdrachtgever én de markt als afnemer, in het kernbeeld zelf `[beeld + tekst · nieuw]` toetsregel 26
 - water is het voorbeeld waar een afnemer met een eigen belang en een eigen begroting zit `[tekst · nieuw]` besluit 18-8
 - ammoniakreductie als denkbare dienst `[fiche · verhuisd]` uit de wachtkamer
 - **wat je dan ziet veranderen** `[tekst · auteurs]` de drie alinea's die tot 20-8 in de opgeheven sectie 8.3 stonden: de bouwstenen worden beschikbaar, de uitstoot daalt aan beide kanten, en het inkomen herstelt uit meerdere stromen
 
-### 8.4 De motor
+### 8.4 De motor · **gehaald: 249 woorden**
 - de motor draait op de juiste brandstof: de opgaven zijn geen kostenpost maar het product `[tekst · auteurs]` vaste kop, elke scenario heeft deze alinea
 - de ondernemer wordt bréder ondernemer, geen andere ondernemer `[tekst · auteurs]` correctie Henk
 - het doel is een gebied vol met dit soort ondernemers, niet één pionier die het lukt ondanks het systeem `[tekst · auteurs]`
@@ -286,24 +286,24 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 ---
 
-## 9 — Wat de drie scenario's naast elkaar opleveren · ronde 2 · nieuw, nog te schrijven
+## 9 — Wat de drie scenario's naast elkaar opleveren · bron: scenario-vergelijking · ronde 2 · in de steigers
 
 > Dezelfde tien dimensies, drie keer, naast elkaar. Daarna de vraag waar het geld heen gaat: in scenario I staan de kosten op niemands begroting, in scenario II lopen zij op zonder dat er iets tegenover komt te staan, en in scenario III wordt hetzelfde geld een prijs voor een prestatie. Het verschil tussen de drie zit niet in de doelen maar in de vraag of er iemand overblijft die ze kan halen.
 
 *Hoofdstuk 9 is er op 20-8 bij gekomen (Tim) en het kost de rest van het document één nummer: 9 tot 16 worden 10 tot 17, en de bijlage is weer 17. **Vondst bij het opruimen van het beeldwerk: dit hoofdstuk bestaat grotendeels al.** De partial `e-aktes-dimensie-ontwikkeling.html`, die nu achteraan hoofdstuk 8 hangt, bevat niet alleen het ontwikkelbeeld maar ook een sectie **"Kostenverschuiving per scenario"** met een diagram en drie uitgeschreven alinea's van de auteurs: het boereninkomen dat van karakter verschuift, de overheidsinvestering die van labeling verandert, en de verborgen kosten. Dat is 9.2, woordelijk, al geschreven. Het stond alleen op de verkeerde plek: achteraan het derde scenario in plaats van in de vergelijking. Daarmee is dit hoofdstuk veel meer `auteurs` dan `nieuw`. **Waarom het er hoort:** de drie scenario's zijn een vergelijking, en die vergelijking stond op drie plaatsen tegelijk — elk scenario had zijn eigen dimensielijst, en het ontwikkelbeeld hing achteraan hoofdstuk 8. Daarmee zat de vergelijking begraven in het derde scenario, precies de structuurfout die C tussen II en III maakte en die 19-8 is opgelost door C ervóór te zetten. **Wat het oplevert:** de tien dimensies komen één keer voorbij in plaats van vier keer, de kostenverschuiving staat bij elkaar in plaats van verspreid, en 6, 7 en 8 houden elk drie secties en worden korter. **Wat het niet mag worden:** een verzamelbak. Wat in één scenario thuishoort blijft daar; hier staat alleen wat pas betekenis krijgt naast de andere twee.*
 
-### 9.1 Dezelfde tien dimensies, drie keer · budget 260 plus de lijsten
+### 9.1 Dezelfde tien dimensies, drie keer · **gehaald: 118 woorden plus de tabel**
 - **de drie dimensielijsten naast elkaar**, per dimensie wat er in I, II en III gebeurt `[lijst · verhuisd]` uit 6.3, 7.3 en 8.3, waar zij tot 20-8 los stonden. **De correcties van Niel gaan hier mee:** waterkwantiteit oranje in I en rood in II, en waterkwaliteit in II gaat éérst achteruit doordat bij vernatting gebonden fosfaat vrijkomt (interne eutrofiëring, bronnen in `correctielijst.md`)
 - **de leesregel bij de lijst, en zij is kort:** de tien dimensies zijn niet op te tellen, want één maatregel kan de ene opgave dienen en de andere schaden `[tekst · nieuw]` de regel *een opgave is niet een maatregel* uit `terminologie.md`, en de fosfaatnuance hierboven is er het schoolvoorbeeld van. Dit is ook de onderbouwing van "er is geen nationale hiërarchie" in 4.1
 - **en waar de vier labels landen:** bij een eis staat of zij gehaald wordt, bij een wens of er iemand voor betaalt `[tekst · nieuw]` `terminologie.md`; zonder deze regel leest een rode stip bij een wens hetzelfde als een rode stip bij een eis, en dat is niet hetzelfde soort tekort
 
-### 9.2 Wie de rekening betaalt, en wanneer · budget 300
+### 9.2 Wie de rekening betaalt, en wanneer · **de partial doet het werk**
 - **het kostendiagram en de drie alinea's eronder** `[beeld + tekst · auteurs]` uit de partial die nu achteraan hoofdstuk 8 hangt: kosten naast opbrengsten per scenario, boven de lijn de ondernemer en onder de lijn de samenleving, met de drie alinea's over het boereninkomen, de overheidsinvestering en de verborgen kosten. **Dit is de kern van de sectie en het is bestaande tekst**
 - **scenario I: de kosten staan op niemands begroting.** Boetes onder de KRW en het stikstofdossier, woningbouw op slot, schade aan infrastructuur door bodemdaling. Niemand boekt ze, de samenleving betaalt ze `[tekst · verhuisd]` uit "De boodschap" van scenario I, en het staat ook in de alinea over de verborgen kosten hierboven; die twee moeten samengevoegd worden en niet naast elkaar blijven staan
 - **scenario II: de kosten lopen op zonder dat er een verdienmodel ontstaat.** Handhaving, meting, uitvoering, uitkoop `[tekst · verhuisd]` uit de compensatie-alinea van scenario II, waar het nu tussen de juridische uitleg staat. **Let op de toon:** dit is de rekening van een instrumentkeuze en geen oordeel over wie hem maakte
 - **scenario III: hetzelfde geld, een ander instrument.** Het aandeel opdrachten groeit en het aandeel steun krimpt naarmate de contracten gaan lopen `[tekst · verhuisd]` uit 8.1 en redactiebrief §15.2, dat dit "een sterk argument richting een ministerie dat naar aflopende uitgaven zoekt" noemt. **Zonder bedragen:** §8 haalt de €1,3 miljard uit laag 2, dus hier staat de beweging en geen som
 
-### 9.3 Het beeld van de ontwikkeling · budget 140 plus het beeld
+### 9.3 Wat de drie samen laten zien · budget 120
 - **het ontwikkelbeeld van I naar III** `[beeld · verhuisd]` de partial die nu achteraan hoofdstuk 8 hangt. **Twee openstaande beeldpunten komen hier samen:** de tweede pijl voor de markt naast de overheid als opdrachtgever (toetsregel 26) en de drie foute `rx`-afrondingen in de SVG. Beide staan in `correctielijst.md`
 - **de conclusie van Deel III:** het verschil tussen de drie zit niet in de doelen maar in de vraag of er iemand overblijft die ze kan halen `[tekst · nieuw]` één alinea, en zij is de opstap naar Deel IV. **Dit is de plek waar hoofdstuk 5 als meetlat wordt afgerekend:** in I komt de ruimte van 5.2 nooit vrij, in II blijft zij leeg, en in III wordt zij een product
 

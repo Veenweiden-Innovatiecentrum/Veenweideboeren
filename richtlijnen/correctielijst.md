@@ -8,6 +8,8 @@
 
 ## scope.md
 
+- [ ] **Verhuisd uit `c-omslag` op 20-8: de ruimtedruk uit de Ontwerp-Nota Ruimte.** Zij stond als slot van de oude 5.3 en is daar context, geen dragend argument voor de vierslag. **Mijn voorstel:** twee zinnen bij het urgentie-element in 1.1, want dat is waar zij werk doet — wat er met die ruimte gebeurt wordt de komende jaren beslist, met of zonder een verhaal uit dit gebied zelf. Wat bewaard moet blijven: wonen, defensie, datacenters, energie-infrastructuur, voedselproductie, bouwmaterialen en handelsroutes maken aanspraak op dezelfde vierkante meters · ook die functies vullen vaak meer dan één opgave in (de Landelijke maatlat bij een woonwijk, Defensie dat natuur beheert op zijn terreinen — Simons correctie, die erin moet blijven) · uitzonderlijk is dit gebied dus niet, wat het onderscheidt is de omvang: honderdduizenden hectares. **Schrappen mag ook**, want het slot van hoofdstuk 15 zegt de kern al ("op tijd, dus nu"); dat is Tims keuze bij ronde 6
+
 *Toegevoegd 18-8 bij het herzien van hoofdstuk 1. Dit zijn punten uit **cluster 3 (Scope)** die nooit in deze lijst waren omgezet, omdat de lijst uit cluster 8 komt. Ze bleven daardoor liggen.*
 
 - [x] Bestuur 1 juli #1: scope te smal, begin-gebied ≠ reikwijdte → breed kader, smal geld in 1.3 plus de reikwijdtetabel
@@ -118,6 +120,15 @@
 
 - [x] **"Beschermde soorten" staat nu bij Natuur — basiskwaliteit** *(Simon)*, en Natuur — gebieden houdt Natura 2000 met de staat van de habitats en de stikstofdepositie daarop
 
+### De herindeling van 20-8 — drie secties, geordend naar dwang
+
+*Besluit in `besluitenlog.md`, uitwerking per element in `skelet.md`.*
+
+- [ ] **4.1 houdt de koppeling met 3.3 en de vier harde dimensies**, en krijgt twee dingen: de zin "om **de druk op natuur, klimaat en water** te verminderen legt Nederland een deel van die vraag vast in normen en handhaaft het — en de ondernemer krijgt daarvan geen verlichting, hij krijgt de eisen", en als sluitregel het label: dit zijn eisen zonder prijs. Budget 260 woorden tegen 538 nu
+- [ ] **4.3 is nieuw en krijgt de zes zachte dimensies uit de tabel van 4.1**, met één aanloopregel en de bestaande slotregel van het hoofdstuk. **Voorwaarde: het blijft een opsomming**, anders zegt 5.3 hetzelfde nog eens. Budget 220 woorden
+- [ ] **De weidevogel-alinea gaat uit 4.2**, naar 5.1 als waarneming en naar 5.3 als grensgeval. 4.2 houdt stikstof en krijgt één brug van twee zinnen: wat vandaag niet duwt verdwijnt niet, want de aandacht wisselt per ronde. Budget 170 woorden tegen 250 nu
+- [ ] **Koolstofvastlegging komt níet in 4.3**, anders dan Tims lijst van 20-8 vraagt: Nederland eist lagere emissies en vraagt geen paludicultuur, dus vastlegging is een productroute en staat al in 5.3. Zo blijft de telling zeven opgaven en tien dimensies staan (Simons correctie)
+
 ### Openstaande keuze voor Tim, geopend 19-8 bij 4.2 — raakt hoofdstuk 5, 11 en 12
 
 **Waarvoor moet betaald worden, en wat blijft meelopen in de bedrijfsvoering?** Tim zag de tegenwind in mijn eigen argument: als het onbetaalde beheer "uit de marge van het bedrijf" wordt betaald, kan een overheid antwoorden dat dat prima zo kan blijven. Het document heeft daarom een grens nodig, en die staat er nu nergens expliciet.
@@ -127,6 +138,8 @@
 - **Mijn suggestie:** het criterium is niet de opgave maar het type prestatie. Wat binnen een normale bedrijfsvoering meeloopt, blijft onbeprijsd zolang er marge is. Wat een investering, een blijvende ingreep of productieverlies vraagt, is een dienst met een prijs. Dan valt landschapsbeheer aan twee kanten: het gewone onderhoud loopt mee, mozaïekbeheer met uitgestelde maaidatum en hoge waterstanden kost productie en is dus een dienst. Water vasthouden en de koolstof in de bodem houden vallen altijd in de tweede categorie
 - **Let op het gat in de eenvoudige variant** (landschap in de marge, water en koolstof betaald): juist de basiskwaliteit is wat als eerste wegvalt zodra de marge verdwijnt, en dat is wat 4.2 vaststelt. Wie die in de marge laat, laat hem dus vallen op het moment dat de klem toeslaat
 - **Waar het besluit landt:** de tabel in 5.1 (wordt er nu voor betaald), de diensten in 5.3, en "wat betaalt" in hoofdstuk 11. Hoofdstuk 4 hoeft niet mee te veranderen zolang het de grens beschrijvend houdt
+
+**Stand na 20-8: de vier labels zijn een halve antwoord, het criterium nog niet.** De herindeling legt de grens nu wél expliciet — een **eis** zonder prijs (4.1), een **wens** zonder eis (4.3), een **opdracht** waar de vraag hard is en de betaling kosten vergoedt (weidevogelbeheer), en een **product** met een afnemer die inkoopt (5.3) — en 5.4 sluit de marge-uitweg met de zin dat het gevraagde werk die marge juist verkleint. **Wat nog open is,** is de vraag die daar niet in zit: welke prestatie een prijs krijgt en welke meeloopt. De vier labels beschrijven de bestaande situatie, het criterium is een keuze. Mijn suggestie staat hierboven ongewijzigd overeind: niet de opgave maar het type prestatie. Landt in 5.1, 5.3 en hoofdstuk 11.
 
 ### Het oude 4.2, 19-8 uitgesplitst
 
@@ -159,11 +172,23 @@
 - [x] Simon (cluster 4): **tellfout "zes of zeven opgaven".** Het hoofdstuk noemt nu één getal, de zeven opgaven uit hoofdstuk 5, en somt ze op
 - [x] Henk (cluster 5): boeren zijn al ondernemer. 8.1 zegt dat het vermogen in de ondernemer zit en niet in de grond, met wat hij of zij nu al doet; nergens een nieuwe ondernemer
 - [x] **JUMP-concept 4a gevonden en verwerkt** (19-8): "Verkoopbare veen-biodiversiteit op maat — Biodivers Veen", op SharePoint in VIA, versie 12 juli 2026. 5.3 zegt nu wát er verbouwd wordt, met de drie afnemers en de landbouwstatus als harde voorwaarde. **Let op:** het concept staat op ontwikkelniveau 0,2 met drie open validatievragen, dus in de visie is het een richting en geen product
+### De herindeling van 20-8 — vier secties in plaats van vijf
+
+*Besluit in `besluitenlog.md`, uitwerking per element in `skelet.md`. Wat hier staat is wat er bij het herschrijven van elke sectie moet gebeuren.*
+
+- [ ] **5.1 krijgt de marge-observatie uit de oude 5.5** (het beheer staat in geen contract, er wordt wél om gevraagd, gratis is het niet want het komt uit de marge) **en de weidevogel als waarneming** uit 4.2. Budget 260 woorden
+- [ ] **5.2 is nieuw en is het scharnier:** juist waar minder koeien nodig zijn daalt het inkomen terwijl de kosten blijven, en juist daar komt hectare vrij voor de prestaties van hoofdstuk 4. Sluit af met de vraag die 5.3 beantwoordt: betaalt iemand daarvoor? Budget 150 woorden — de enige sectie die volledig nieuw geschreven wordt
+- [ ] **5.3 krijgt het grensgeval en de drie horden, en verliest twee dingen.** Erbij: weidevogelbeheer als **opdracht** en niet als product (harde vraag, bestaande uitvoering, betaling vergoedt kosten), en de drie horden in drie zinnen met hun adres. Eruit: de bosaanplant-vergelijking en het stippenblokje bij piekberging. Budget 700 woorden
+- [x] **De bosaanplant-vergelijking gaat eruit** *(besloten 20-8)*. Zij was 19-8 al als geschrapt afgevinkt maar stond er nog: geen bron, zij vergelijkt grondsoorten (toetsregel 8) en draagt een voorbehoud buiten hoofdstuk 2 (toetsregel 11a). **Daarmee vervalt de open bronvraag hieronder bij "5.3, koolstof"** — er is niets meer te onderbouwen
+- [ ] **5.4 heet "En daarom een ondernemende boer" en de orde is het besluit:** dit kan niet uit de marge komen → dus geen liefhebberij en dus een prijs → dus een ondernemende boer, en juist déze → de slotzin van de analyse. Budget 450 woorden. **De omzetting is niet cosmetisch:** staat de marge-zin achteraan, dan arriveert de ondernemer vóór de reden dat hij betaald moet worden
+- [ ] **De oude 5.3 vervalt als sectie.** Het nutsfunctie-argument en het alternatief-argument gaan naar 5.4; de tegenwerping en de ruimtedruk gaan het hoofdstuk uit, zie de regels onder `h-risicos.md` en `scope.md`
+- [ ] **Doorlopend in dit hoofdstuk: "de ondernemende boer" waar het argument valt**, niet kaal "de ondernemer". Regel in `terminologie.md` (Tim, 20-8)
+
 ### Bronnen en getallen die in hoofdstuk 5 nog toegevoegd moeten worden
 
 *De markeringen zijn 19-8 op Tims verzoek uit de tekst gehaald, zodat het hoofdstuk leesbaar is. Ze staan hier met de zin waaraan ze hingen, zodat de plek terug te vinden is. **Zonder deze lijst lijkt hoofdstuk 5 volledig van bronnen voorzien, en dat is het niet.***
 
-- [ ] **5.3, koolstof.** Bij *"Beide leveren per geïnvesteerde euro mogelijk meer CO₂-reductie op dan bosaanplant op zandgrond."* → bron voor die vergelijking, of het woord "mogelijk" eruit zodra de doorrekening er is. En bij *"De CO₂-voorraad in het veen is enorm"* → een getal met bron; dat is nu een kwalitatieve bewering van de auteurs
+- [x] ~~**5.3, koolstof.** De bron voor de vergelijking met bosaanplant~~ — **vervallen 20-8: de zin gaat eruit**, dus er is geen bron nodig. Komt de doorrekening er ooit, dan hoort zij in de cijferbijlage
 - [ ] **5.3, water.** Bij *"I&W stuurt sinds 2026 op waterzelfvoorzienendheid van veenweidegebieden"* → de vindplaats van dat uitgangspunt. Stond ook in de bestuursversie zonder bron en draagt nu meer gewicht, want het is de afnemer met een doel
 - [ ] **5.3, water.** Bij *"Hoeveel water dat vrijmaakt is niet bekend"* → het getal: hoeveel water wordt er nu in droge zomers naar laagveengebieden aangevoerd om veenoxidatie te beperken. Openstaande vraag van §11 voor de ontwerpstudie; dit bepaalt of zelfvoorzienendheid een volume oplevert of vooral een principe
 - [ ] **Bijlage 16, verdringingsreeks.** De vindplaats in de huidige rijksregelgeving. Tot 2024 stond zij in het Waterbesluit; onder de Omgevingswet is dat verplaatst en van hier niet te controleren. **Vraag voor Simon**, één regel werk voor een jurist. De markering staat nog wél in de bijlage, want die is nog in aanbouw
@@ -231,6 +256,8 @@
 - [ ] Europese voorbeelden Vittel en München staan in de tekst; Vittel is in de LEI-studie van 2009 het contrast met de Nederlandse praktijk (individuele contracten mét vergoeding tegenover kennis zonder vergoeding). Bruikbaar, maar niet als bewijs dat het hier al zo werkt
 
 ## h-risicos.md
+
+- [ ] **Verhuisd uit `c-omslag` op 20-8, voor hoofdstuk 14 (ronde 4): de tegenwerping "maar maak er dan helemaal natuur van".** Zij stond in de oude 5.3 en is daar een tegenwerping in een analysehoofdstuk; hoofdstuk 14 is de plek waar het document zegt wat er nog niet klopt en wat het antwoord is. Wat er bewaard moet blijven, uit de bestuursversie: pure natuur betekent voedselproductie verplaatsen met alle import-, transport- en klimaatkosten van dien · de veenweideboer levert meerdere producten op één plek en dat is geen tweederangs natuur en geen tweederangs landbouw · natuurbeheer kost óók publiek geld, maar dan zonder voedsel, zonder ondernemerschap en zonder beheerder met eigen belang bij het resultaat · en voedselproductie in eigen gebied is strategisch een waarde op zich. **Let bij het herplaatsen op de stijl:** deze passage heeft drie "niet X maar Y"-constructies in één alinea en is de meest geschreven tekst van hoofdstuk 5
 
 - [ ] Regel ~36: "verborgen waarden die deze ondernemers **gratis** leverden" → **onbeprijsd**. Redactiebrief §3 maakt dat onderscheid uitdrukkelijk: "die prestaties zijn niet gratis maar onbeprijsd". Gratis suggereert zonder waarde, onbeprijsd betekent met waarde en zonder prijs. Besluit van 18-8 bij hoofdstuk 1
 

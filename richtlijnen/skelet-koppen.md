@@ -37,20 +37,20 @@ De ondernemer op veen loopt vast op kosten en omzet: grond is duur, de kostprijs
 
 ### 4. Wat Nederland van dit gebied vraagt (B — De opgaven)
 
-Nederland vraagt zeven dingen tegelijk van dit gebied: klimaat, water, natuur, kringloop, voedsel, landschap en wonen. Dit hoofdstuk doet één ding: het zet die vraag op tafel, met per dimensie waar zij het zwaarst is. Wat er van die vraag terechtkomt en wie haar kan leveren, komt daarna.
+Nederland vraagt zeven dingen tegelijk van dit gebied — klimaat, water, natuur, kringloop, voedsel, landschap en wonen — en niet alle zeven even hard. Dit hoofdstuk zet die vraag op tafel in de orde van dwang: wat er moet en gehandhaafd wordt, welk dossier vandaag het hardst duwt, en wat er óók gevraagd wordt zonder dat het moet. Wie die vraag kan leveren, komt daarna.
 
-- 4.1 De zeven opgaven, en waar ze het zwaarst zijn
-- 4.2 De twee dossiers die nu de aandacht bepalen
+- 4.1 Wat er moet, en waar het het zwaarst is
+- 4.2 Welk dossier nu het hardst duwt
+- 4.3 Wat er ook gevraagd wordt, zonder dat het moet
 
 ### 5. Wat dit gebied kan dragen
 
-Op dezelfde hectare komt meer dan melk: landschap en weidevogels, koolstof in de bodem, vastgehouden water. Daarvan wordt er één afgerekend. Dit hoofdstuk zegt wat er nog meer te leveren valt, waarom betalen juist hier gerechtvaardigd is — niet omdat het elders onmogelijk zou zijn maar omdat hier het alternatief geen landbouw is — en het sluit af met de reden dat dit een ondernemer met een verdienmodel vraagt en geen vrijwilliger.
+Op dezelfde hectare komt meer dan melk: landschap en weidevogels, koolstof in de bodem, vastgehouden water. Daarvan wordt er één afgerekend en de rest komt uit de marge van het bedrijf. Dit hoofdstuk zegt waar die klem omslaat in een kans — juist daar waar hij het strakst zit — welke prestaties een afnemer buiten het gebied hebben, en waarom daar een ondernemende boer met een verdienmodel voor nodig is en geen vrijwilliger.
 
-- 5.1 Wat deze hectare nu al levert
-- 5.2 Waar deze opgaven een product kunnen worden
-- 5.3 Waarom betalen, en waarom deze ondernemers
-- 5.4 Wat kan, is er nog niet
-- 5.5 En dit gaat niet op vrijwilligheid
+- 5.1 Wat hier al gebeurt, en wie het betaalt
+- 5.2 De kans zit waar de klem het strakst is
+- 5.3 Waar deze opgaven een product kunnen worden
+- 5.4 En daarom een ondernemende boer
 
 ---
 

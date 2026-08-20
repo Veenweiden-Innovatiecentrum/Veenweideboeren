@@ -203,6 +203,8 @@
 
 ## e-aktes.md
 
+- [ ] **Aangevuld 20-8 bij Niels punt over de waterkwaliteit in akte II:** het mechanisme heet **interne eutrofiëring** en het is online bevestigd. Bij vernatting lossen ijzer(hydr)oxiden op, waardoor het daaraan gebonden fosfaat vrijkomt; de concentratie na vernatting is een veelvoud van die in het aangevoerde water. Dus de waterkwaliteit gaat er éérst van achteruit, en dat is geen detail maar het schoolvoorbeeld dat één maatregel de ene opgave dient en de andere schaadt. **Waar het nog meer werk doet:** dit is de onderbouwing van de coördinatievraag in hoofdstuk 11, die tot nu toe alleen als bewering staat. Bronnen: STOWA ter Info 90, Louis Bolk (klimaatmaatregelen in het veenweidegebied in relatie tot biodiversiteit, bodem en waterkwaliteit), NMI-rapport 1721.N.18
+
 - [ ] **De zin waar het bestuur over viel staat hier letterlijk:** het kader bij akte II heet "Ingrijpen zonder pijlers" en begint met "De overheid grijpt in met harde maatregelen". Beide moeten om conform toetsregel 12b (19-8): de akte heet naar wat er met het bedrijf gebeurt, en de overheid komt in de kop niet handelend voor. Bestuur 17 juni: "als jij gaat vertellen dat ze een fout voorzitten, ga je ze alleen maar van je vervreemden"
 - [ ] **Dimensietabel akte I**: waterkwantiteit van groen naar oranje *(Niel)*
 - [ ] **Dimensietabel akte II**: waterkwantiteit wordt rood *(Niel)*

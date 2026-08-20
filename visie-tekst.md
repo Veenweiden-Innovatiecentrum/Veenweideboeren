@@ -321,9 +321,9 @@ Deze gebieden liggen niet als aaneengesloten blokken op de kaart. Vernatting val
 
 ### 4.1 Wat er moet, en waar het het zwaarst is
 
-Wat voor een bedrijf een vorm van druk is, is voor Nederland een opgave. De vernatting die hoofdstuk 3 als kenmerk van zo'n gebied noemt is hier de wateropgave, de snelle veenoxidatie de klimaatopgave, de ligging in of tegen Natura 2000 de natuuropgave. Eén lijst, van twee kanten bekeken: een ondernemer die het bedrijf op die plek moeilijker rond krijgt, en een samenleving die op diezelfde hectare iets wil bereiken. Waar de vormen van druk samenkomen, ligt de vraag van Nederland dus ook het dikst gestapeld (3.3).
+Nederland formuleert doelen voor dit gebied, en om die te halen komen er maatregelen. Wat de ondernemer op zijn land merkt is de maatregel, niet het doel. De vernatting die hoofdstuk 3 als kenmerk van zo'n gebied noemt is een klimaatmaatregel en geen wateropgave: een hogere grondwaterstand remt de veenoxidatie en daarmee de uitstoot uit de bodem. Zij vraagt juist méér water, want een nat gebied heeft in een droge zomer meer aanvoer nodig (4.3). Een lagere veedichtheid hoort bij de natuuropgave, want minder vee betekent minder ammoniak op nabijgelegen Natura 2000. Minder mest uitrijden hoort bij de waterkwaliteit. Eén lijst dus, van twee kanten bekeken: voor de samenleving een doel, voor het bedrijf een ingreep in de bedrijfsvoering. En omdat die maatregelen op dezelfde plekken landen, geldt de conclusie van 3.3 hier ook: waar de vormen van druk samenkomen, stapelen ze het dikst.
 
-Nederland vraagt zeven dingen van dit gebied: klimaat, water, natuur, voedselzekerheid, cultuur en landschap, grondstoffen en kringloop, en wonen. Bij de eerste drie valt de opgave in twee dimensies uiteen — het klimaat vraagt iets van de bodem en iets van het bedrijf, water gaat over kwaliteit en over kwantiteit, natuur over beschermde gebieden en over de basiskwaliteit van het boerenland — en zo zijn het er tien. Alle zeven zijn reëel en legitiem, en er is geen nationale hiërarchie: wat het zwaarst weegt hangt af van de plek, en dat staat per dimensie in de derde kolom.
+Nederland vraagt zeven dingen van dit gebied: klimaat, water, natuur, voedselzekerheid, cultuur en landschap, grondstoffen en kringloop, en wonen. Bij de eerste drie valt de opgave in twee dimensies uiteen — het klimaat vraagt iets van de bodem en iets van het bedrijf, water gaat over kwaliteit en over kwantiteit, natuur over beschermde gebieden en over de basiskwaliteit van het boerenland — en zo zijn het er tien. Alle zeven zijn reëel en legitiem, en een nationale hiërarchie is er niet: één maatregel kan de ene opgave dienen en de andere schaden, dus optellen gaat niet.
 
 Van die tien is een deel hard. Om de druk op natuur, klimaat en water te verminderen heeft Nederland vier dimensies in normen vastgelegd en handhaaft het die. De ondernemer krijgt daarvan geen verlichting: hij krijgt de eisen.
 
@@ -349,7 +349,7 @@ Van die tien is een deel hard. Om de druk op natuur, klimaat en water te vermind
       </tr>
       <tr>
         <td><strong>Water — kwaliteit</strong></td>
-        <td>Slootbeheer, de nutriëntenbelasting, de doelen van de Kaderrichtlijn Water. Op veen gaat het om het oppervlaktewater; nitraat in het grondwater is een vraagstuk van de zandgronden</td>
+        <td>De nutriëntenbelasting omlaag, tot de doelen van de Kaderrichtlijn Water. Op veen gaat het om het oppervlaktewater; nitraat in het grondwater is een vraagstuk van de zandgronden</td>
         <td>In zuivere veengebieden, en nog zwaarder waar die aan natuurgebieden grenzen: uitspoeling van nutriënten heeft daar direct effect op beschermde habitats</td>
       </tr>
       <tr>
@@ -361,7 +361,7 @@ Van die tien is een deel hard. Om de druk op natuur, klimaat en water te vermind
   </table>
 </div>
 
-Dit zijn eisen zonder prijs. Ze moeten gehaald worden, en het bedrijf verdient er niets aan.
+Dit zijn eisen zonder prijs. Ze moeten gehaald worden, het bedrijf verdient er niets aan, en het maakt er kosten voor.
 
 ### 4.2 Welk dossier nu het hardst duwt
 

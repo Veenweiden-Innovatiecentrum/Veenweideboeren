@@ -6,11 +6,11 @@
 
 {{partial:scenario-3-beeld}}
 
-Dezelfde doelsturing als in scenario II en dezelfde vernatting. Wat erbij komt is tweeledig: de juridische ruimte om het land ook anders te gebruiken, en opdrachten waarmee een dienst wordt ingekocht tegen een prijs. Die opdrachten komen van twee kanten: van de overheid, waar zij zelf een doel te halen heeft, en vanuit de markt, waar een partij er zelf belang bij heeft.
-
-Op het land liggen naast de percelen met gras en koeien een natte teelt, een strook met houtige beplanting, een perceel dat water bergt, een plek waar kleinschalig gewoond wordt en een deel dat is ingericht voor natuur en recreatie. Onder het land zit de opslag: water in de zandlaag, koolstof in het veen. De koolstof gaat de bodem in in plaats van eruit.
-
-Het bedrijf levert nog steeds melk en de tankauto rijdt nog weg, met minder. Daarnaast lopen er contracten voor water, koolstof, biodiversiteit, mest, wonen en zorg. Van wat Nederland vraagt wordt zo het meeste gehaald, en er komt meer van dit land af dan in de twee andere scenario's. Het bedrijf verdient aan twee dingen in plaats van aan één.
+<div class="scenario-lead">
+<p>Dezelfde doelsturing als in scenario II en dezelfde vernatting. Wat erbij komt is tweeledig: de juridische ruimte om het land ook anders te gebruiken, en opdrachten waarmee een dienst wordt ingekocht tegen een prijs. Die opdrachten komen van twee kanten: van de overheid, waar zij zelf een doel te halen heeft, en vanuit de markt, waar een partij er zelf belang bij heeft.</p>
+<p>Op het land liggen naast de percelen met gras en koeien een natte teelt, een strook met houtige beplanting, een perceel dat water bergt, een plek waar kleinschalig gewoond wordt en een deel dat is ingericht voor natuur en recreatie. Onder het land zit de opslag: water in de zandlaag, koolstof in het veen. De koolstof gaat de bodem in in plaats van eruit.</p>
+<p>Het bedrijf levert nog steeds melk en de tankauto rijdt nog weg, met minder. Daarnaast lopen er contracten voor water, koolstof, biodiversiteit, mest, wonen en zorg. Van wat Nederland vraagt wordt zo het meeste gehaald, en er komt meer van dit land af dan in de twee andere scenario's. Het bedrijf verdient aan twee dingen in plaats van aan één.</p>
+</div>
 
 ### 8.2 De omslag: van vergoeding naar betaling
 

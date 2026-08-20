@@ -504,11 +504,11 @@ Waterkwaliteit, biodiversiteit en broeikasgasreductie worden dus pas bereikbaar 
 
 {{partial:scenario-1-beeld}}
 
-Dit is de situatie van vandaag, voortgezet. Er verandert niets in de manier waarop dit gebied bestuurd wordt: er gaat steun naartoe en er wordt gestuurd op middelen, op wat een bedrijf gebruikt, aanschaft en mag bouwen. Vernatting als verplichting en ruimere regels voor een ander gebruik van het land zijn er niet.
-
-Op het land staan relatief veel koeien, verspreid over de percelen, want het blijft droog genoeg om ze buiten te laten. De boer staat er zelf, en het bedrijf leeft van één prijs: die van de melk. De tankauto rijdt vol weg. Onder het land blijft de grondwaterstand laag, blijft het veen droog en gaat de uitstoot uit de bodem door.
-
-Van wat Nederland vraagt komt daarmee weinig terecht. De emissies uit de bodem dalen niet en de nutriëntenbelasting blijft. Op één punt gebeurt er wel iets: voor landschap en weidevogels liggen beheerpakketten, met een vergoeding die de kosten en de gederfde inkomsten dekt, op de percelen waar een bedrijf zich er vrijwillig voor aanmeldt. Dat is de enige prestatie waarvoor de uitvoering al staat, en het gaat om een klein deel van het gebied. Al het andere beheer gebeurt onbeprijsd. Wat dit gebied levert is voedsel; wat het verder kan, blijft liggen.
+<div class="scenario-lead">
+<p>Dit is de situatie van vandaag, voortgezet. Er verandert niets in de manier waarop dit gebied bestuurd wordt: er gaat steun naartoe en er wordt gestuurd op middelen, op wat een bedrijf gebruikt, aanschaft en mag bouwen. Vernatting als verplichting en ruimere regels voor een ander gebruik van het land zijn er niet.</p>
+<p>Op het land staan relatief veel koeien, verspreid over de percelen, want het blijft droog genoeg om ze buiten te laten. De boer staat er zelf, en het bedrijf leeft van één prijs: die van de melk. De tankauto rijdt vol weg. Onder het land blijft de grondwaterstand laag, blijft het veen droog en gaat de uitstoot uit de bodem door.</p>
+<p>Van wat Nederland vraagt komt daarmee weinig terecht. De emissies uit de bodem dalen niet en de nutriëntenbelasting blijft. Op één punt gebeurt er wel iets: voor landschap en weidevogels liggen beheerpakketten, met een vergoeding die de kosten en de gederfde inkomsten dekt, op de percelen waar een bedrijf zich er vrijwillig voor aanmeldt. Dat is de enige prestatie waarvoor de uitvoering al staat, en het gaat om een klein deel van het gebied. Al het andere beheer gebeurt onbeprijsd. Wat dit gebied levert is voedsel; wat het verder kan, blijft liggen.</p>
+</div>
 
 ### 6.2 Er wordt gestuurd op middelen
 
@@ -564,13 +564,12 @@ Wat er dan gebeurt, is wat de kostenstructuur uit hoofdstuk 3 voorschrijft. Een 
 
 {{partial:scenario-2-beeld}}
 
-De maatregelen komen. De sturing gaat van middelen naar doelen: het bedrijf moet de doelen halen en mag zelf kiezen hoe. Vernatting wordt een verplichting op de plekken waar zij nodig is, de steun neemt iets toe, en de juridische ruimte om het land ook anders te gebruiken blijft beperkt.
-
-Onder het land werkt dat. De grondwaterstand gaat omhoog, de veenoxidatie remt en de uitstoot uit de bodem daalt. Ook de waterkwaliteit gaat vooruit, al kost dat eerst tijd. Dat zijn de twee opgaven die worden opgelegd en gehandhaafd, en zij worden gehaald.
-
-Op het land ziet het anders uit. De opdracht om melk te leveren staat er nog, maar zij staat onder druk: minder koeien per hectare geeft minder liters terwijl de kosten blijven. De middengroep houdt dat niet vol en vertrekt. Het land komt in handen van bedrijven die er niet wonen en die deze hectares vooral nodig hebben voor hun mestplaatsingsruimte. Wat overblijft is grasland met weinig variatie. Er staan minder koeien dan in scenario I en zij staan vaker op stal, want het land is te nat geworden. Komen zij buiten, dan staan zij dicht op elkaar op de relatief droge huiskavel, en dat is ook waar de premie voor weidegang aan hangt.
-
-Wat niemand oplegt, blijft daarmee liggen: geen betaald landschapsbeheer, minder gewoond, en een sociale samenhang die terugloopt met de mensen die vertrekken. Armer wordt het gebied dus niet in productie, want de melk blijft komen, met minder koeien op meer hectares. Armer wordt het in wat daaromheen zat: minder mensen die er wonen en werken, een landschap dat zijn variatie en zijn onderhoud verliest, en een omzet die neerslaat bij een bedrijf dat hier alleen grond heeft.
+<div class="scenario-lead">
+<p>De maatregelen komen. De sturing gaat van middelen naar doelen: het bedrijf moet de doelen halen en mag zelf kiezen hoe. Vernatting wordt een verplichting op de plekken waar zij nodig is, de steun neemt iets toe, en de juridische ruimte om het land ook anders te gebruiken blijft beperkt.</p>
+<p>Onder het land werkt dat. De grondwaterstand gaat omhoog, de veenoxidatie remt en de uitstoot uit de bodem daalt. Ook de waterkwaliteit gaat vooruit, al kost dat eerst tijd. Dat zijn de twee opgaven die worden opgelegd en gehandhaafd, en zij worden gehaald.</p>
+<p>Op het land ziet het anders uit. De opdracht om melk te leveren staat er nog, maar zij staat onder druk: minder koeien per hectare geeft minder liters terwijl de kosten blijven. De middengroep houdt dat niet vol en vertrekt. Het land komt in handen van bedrijven die er niet wonen en die deze hectares vooral nodig hebben voor hun mestplaatsingsruimte. Wat overblijft is grasland met weinig variatie. Er staan minder koeien dan in scenario I en zij staan vaker op stal, want het land is te nat geworden. Komen zij buiten, dan staan zij dicht op elkaar op de relatief droge huiskavel, en dat is ook waar de premie voor weidegang aan hangt.</p>
+<p>Wat niemand oplegt, blijft daarmee liggen: geen betaald landschapsbeheer, minder gewoond, en een sociale samenhang die terugloopt met de mensen die vertrekken. Armer wordt het gebied dus niet in productie, want de melk blijft komen, met minder koeien op meer hectares. Armer wordt het in wat daaromheen zat: minder mensen die er wonen en werken, een landschap dat zijn variatie en zijn onderhoud verliest, en een omzet die neerslaat bij een bedrijf dat hier alleen grond heeft.</p>
+</div>
 
 ### 7.2 De maatregelen kloppen, er ligt alleen niets onder
 
@@ -660,11 +659,11 @@ Wat niemand oplegt, blijft daarmee liggen: geen betaald landschapsbeheer, minder
 
 {{partial:scenario-3-beeld}}
 
-Dezelfde doelsturing als in scenario II en dezelfde vernatting. Wat erbij komt is tweeledig: de juridische ruimte om het land ook anders te gebruiken, en opdrachten waarmee een dienst wordt ingekocht tegen een prijs. Die opdrachten komen van twee kanten: van de overheid, waar zij zelf een doel te halen heeft, en vanuit de markt, waar een partij er zelf belang bij heeft.
-
-Op het land liggen naast de percelen met gras en koeien een natte teelt, een strook met houtige beplanting, een perceel dat water bergt, een plek waar kleinschalig gewoond wordt en een deel dat is ingericht voor natuur en recreatie. Onder het land zit de opslag: water in de zandlaag, koolstof in het veen. De koolstof gaat de bodem in in plaats van eruit.
-
-Het bedrijf levert nog steeds melk en de tankauto rijdt nog weg, met minder. Daarnaast lopen er contracten voor water, koolstof, biodiversiteit, mest, wonen en zorg. Van wat Nederland vraagt wordt zo het meeste gehaald, en er komt meer van dit land af dan in de twee andere scenario's. Het bedrijf verdient aan twee dingen in plaats van aan één.
+<div class="scenario-lead">
+<p>Dezelfde doelsturing als in scenario II en dezelfde vernatting. Wat erbij komt is tweeledig: de juridische ruimte om het land ook anders te gebruiken, en opdrachten waarmee een dienst wordt ingekocht tegen een prijs. Die opdrachten komen van twee kanten: van de overheid, waar zij zelf een doel te halen heeft, en vanuit de markt, waar een partij er zelf belang bij heeft.</p>
+<p>Op het land liggen naast de percelen met gras en koeien een natte teelt, een strook met houtige beplanting, een perceel dat water bergt, een plek waar kleinschalig gewoond wordt en een deel dat is ingericht voor natuur en recreatie. Onder het land zit de opslag: water in de zandlaag, koolstof in het veen. De koolstof gaat de bodem in in plaats van eruit.</p>
+<p>Het bedrijf levert nog steeds melk en de tankauto rijdt nog weg, met minder. Daarnaast lopen er contracten voor water, koolstof, biodiversiteit, mest, wonen en zorg. Van wat Nederland vraagt wordt zo het meeste gehaald, en er komt meer van dit land af dan in de twee andere scenario's. Het bedrijf verdient aan twee dingen in plaats van aan één.</p>
+</div>
 
 ### 8.2 De omslag: van vergoeding naar betaling
 

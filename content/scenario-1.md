@@ -13,11 +13,11 @@
 
 {{partial:scenario-1-beeld}}
 
-Dit is de situatie van vandaag, voortgezet. Er verandert niets in de manier waarop dit gebied bestuurd wordt: er gaat steun naartoe en er wordt gestuurd op middelen, op wat een bedrijf gebruikt, aanschaft en mag bouwen. Vernatting als verplichting en ruimere regels voor een ander gebruik van het land zijn er niet.
-
-Op het land staan relatief veel koeien, verspreid over de percelen, want het blijft droog genoeg om ze buiten te laten. De boer staat er zelf, en het bedrijf leeft van één prijs: die van de melk. De tankauto rijdt vol weg. Onder het land blijft de grondwaterstand laag, blijft het veen droog en gaat de uitstoot uit de bodem door.
-
-Van wat Nederland vraagt komt daarmee weinig terecht. De emissies uit de bodem dalen niet en de nutriëntenbelasting blijft. Op één punt gebeurt er wel iets: voor landschap en weidevogels liggen beheerpakketten, met een vergoeding die de kosten en de gederfde inkomsten dekt, op de percelen waar een bedrijf zich er vrijwillig voor aanmeldt. Dat is de enige prestatie waarvoor de uitvoering al staat, en het gaat om een klein deel van het gebied. Al het andere beheer gebeurt onbeprijsd. Wat dit gebied levert is voedsel; wat het verder kan, blijft liggen.
+<div class="scenario-lead">
+<p>Dit is de situatie van vandaag, voortgezet. Er verandert niets in de manier waarop dit gebied bestuurd wordt: er gaat steun naartoe en er wordt gestuurd op middelen, op wat een bedrijf gebruikt, aanschaft en mag bouwen. Vernatting als verplichting en ruimere regels voor een ander gebruik van het land zijn er niet.</p>
+<p>Op het land staan relatief veel koeien, verspreid over de percelen, want het blijft droog genoeg om ze buiten te laten. De boer staat er zelf, en het bedrijf leeft van één prijs: die van de melk. De tankauto rijdt vol weg. Onder het land blijft de grondwaterstand laag, blijft het veen droog en gaat de uitstoot uit de bodem door.</p>
+<p>Van wat Nederland vraagt komt daarmee weinig terecht. De emissies uit de bodem dalen niet en de nutriëntenbelasting blijft. Op één punt gebeurt er wel iets: voor landschap en weidevogels liggen beheerpakketten, met een vergoeding die de kosten en de gederfde inkomsten dekt, op de percelen waar een bedrijf zich er vrijwillig voor aanmeldt. Dat is de enige prestatie waarvoor de uitvoering al staat, en het gaat om een klein deel van het gebied. Al het andere beheer gebeurt onbeprijsd. Wat dit gebied levert is voedsel; wat het verder kan, blijft liggen.</p>
+</div>
 
 ### 6.2 Er wordt gestuurd op middelen
 

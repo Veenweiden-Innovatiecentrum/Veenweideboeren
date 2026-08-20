@@ -6,13 +6,12 @@
 
 {{partial:scenario-2-beeld}}
 
-De maatregelen komen. De sturing gaat van middelen naar doelen: het bedrijf moet de doelen halen en mag zelf kiezen hoe. Vernatting wordt een verplichting op de plekken waar zij nodig is, de steun neemt iets toe, en de juridische ruimte om het land ook anders te gebruiken blijft beperkt.
-
-Onder het land werkt dat. De grondwaterstand gaat omhoog, de veenoxidatie remt en de uitstoot uit de bodem daalt. Ook de waterkwaliteit gaat vooruit, al kost dat eerst tijd. Dat zijn de twee opgaven die worden opgelegd en gehandhaafd, en zij worden gehaald.
-
-Op het land ziet het anders uit. De opdracht om melk te leveren staat er nog, maar zij staat onder druk: minder koeien per hectare geeft minder liters terwijl de kosten blijven. De middengroep houdt dat niet vol en vertrekt. Het land komt in handen van bedrijven die er niet wonen en die deze hectares vooral nodig hebben voor hun mestplaatsingsruimte. Wat overblijft is grasland met weinig variatie. Er staan minder koeien dan in scenario I en zij staan vaker op stal, want het land is te nat geworden. Komen zij buiten, dan staan zij dicht op elkaar op de relatief droge huiskavel, en dat is ook waar de premie voor weidegang aan hangt.
-
-Wat niemand oplegt, blijft daarmee liggen: geen betaald landschapsbeheer, minder gewoond, en een sociale samenhang die terugloopt met de mensen die vertrekken. Armer wordt het gebied dus niet in productie, want de melk blijft komen, met minder koeien op meer hectares. Armer wordt het in wat daaromheen zat: minder mensen die er wonen en werken, een landschap dat zijn variatie en zijn onderhoud verliest, en een omzet die neerslaat bij een bedrijf dat hier alleen grond heeft.
+<div class="scenario-lead">
+<p>De maatregelen komen. De sturing gaat van middelen naar doelen: het bedrijf moet de doelen halen en mag zelf kiezen hoe. Vernatting wordt een verplichting op de plekken waar zij nodig is, de steun neemt iets toe, en de juridische ruimte om het land ook anders te gebruiken blijft beperkt.</p>
+<p>Onder het land werkt dat. De grondwaterstand gaat omhoog, de veenoxidatie remt en de uitstoot uit de bodem daalt. Ook de waterkwaliteit gaat vooruit, al kost dat eerst tijd. Dat zijn de twee opgaven die worden opgelegd en gehandhaafd, en zij worden gehaald.</p>
+<p>Op het land ziet het anders uit. De opdracht om melk te leveren staat er nog, maar zij staat onder druk: minder koeien per hectare geeft minder liters terwijl de kosten blijven. De middengroep houdt dat niet vol en vertrekt. Het land komt in handen van bedrijven die er niet wonen en die deze hectares vooral nodig hebben voor hun mestplaatsingsruimte. Wat overblijft is grasland met weinig variatie. Er staan minder koeien dan in scenario I en zij staan vaker op stal, want het land is te nat geworden. Komen zij buiten, dan staan zij dicht op elkaar op de relatief droge huiskavel, en dat is ook waar de premie voor weidegang aan hangt.</p>
+<p>Wat niemand oplegt, blijft daarmee liggen: geen betaald landschapsbeheer, minder gewoond, en een sociale samenhang die terugloopt met de mensen die vertrekken. Armer wordt het gebied dus niet in productie, want de melk blijft komen, met minder koeien op meer hectares. Armer wordt het in wat daaromheen zat: minder mensen die er wonen en werken, een landschap dat zijn variatie en zijn onderhoud verliest, en een omzet die neerslaat bij een bedrijf dat hier alleen grond heeft.</p>
+</div>
 
 ### 7.2 De maatregelen kloppen, er ligt alleen niets onder
 

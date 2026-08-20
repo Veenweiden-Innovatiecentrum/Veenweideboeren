@@ -148,6 +148,16 @@ section{scroll-margin-top:2rem}
 .layer-table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:13px}
 .layer-table th{text-align:left;font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--text3);padding:8px 10px;border-bottom:2px solid rgba(0,0,0,.08)}
 .layer-table td{padding:8px 10px;border-bottom:1px solid rgba(0,0,0,.04);vertical-align:top}
+/* De scenario-omschrijving in 6.1, 7.1 en 8.1 is het dragende stuk van dat
+   hoofdstuk. Gezet als lead: iets groter, ruimer geregeld, met één dunne lijn in
+   de accentkleur ernaast. Geen achtergrond en geen kader, want besluit 19-8 houdt
+   het accentkader voorbehouden aan de openingssectie, en de tekst mag niets over
+   zijn eigen gewicht zeggen (Tim, 20-8). */
+.scenario-lead{font-size:16.5px;line-height:1.75;border-left:3px solid var(--accent);
+  padding-left:1.1rem;margin:1.25rem 0 1.75rem;color:var(--text)}
+.scenario-lead p{margin-bottom:.85rem}
+.scenario-lead p:last-child{margin-bottom:0}
+
 /* De scenariotabel staat boven alle drie de hoofdstukken en is één partial.
    Welke rij "u bent hier" is, bepaalt de CSS op het id van de sectie, zodat er
    geen drie bijna gelijke kopieën van de tabel hoeven te bestaan. */
@@ -356,6 +366,16 @@ section{scroll-margin-top:2rem}
 .layer-table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:13px}
 .layer-table th{text-align:left;font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--text3);padding:8px 10px;border-bottom:2px solid rgba(0,0,0,.08)}
 .layer-table td{padding:8px 10px;border-bottom:1px solid rgba(0,0,0,.04);vertical-align:top}
+/* De scenario-omschrijving in 6.1, 7.1 en 8.1 is het dragende stuk van dat
+   hoofdstuk. Gezet als lead: iets groter, ruimer geregeld, met één dunne lijn in
+   de accentkleur ernaast. Geen achtergrond en geen kader, want besluit 19-8 houdt
+   het accentkader voorbehouden aan de openingssectie, en de tekst mag niets over
+   zijn eigen gewicht zeggen (Tim, 20-8). */
+.scenario-lead{font-size:16.5px;line-height:1.75;border-left:3px solid var(--accent);
+  padding-left:1.1rem;margin:1.25rem 0 1.75rem;color:var(--text)}
+.scenario-lead p{margin-bottom:.85rem}
+.scenario-lead p:last-child{margin-bottom:0}
+
 /* De scenariotabel staat boven alle drie de hoofdstukken en is één partial.
    Welke rij "u bent hier" is, bepaalt de CSS op het id van de sectie, zodat er
    geen drie bijna gelijke kopieën van de tabel hoeven te bestaan. */

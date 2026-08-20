@@ -1,5 +1,9 @@
 ## 8 — Wat er gebeurt met een verdienmodel eronder
 
+{{partial:scenario-verschil}}
+
+{{partial:scenario-3-beeld}}
+
 ### 8.1 De omslag: van vergoeding naar betaling
 
 Dezelfde maatregelen als in scenario II, en dezelfde doelsturing. Wat erbij komt is een verdienmodel eronder. Daarmee verschuift de kernvraag: niet meer hoe de ondernemer gecompenseerd wordt voor wat hij inlevert, maar hoe hij betaald wordt voor wat hij levert. Dat is de omkering waar dit document op rust, en zij staat als aanname 1 in hoofdstuk 2: dat maatschappelijke diensten een verdienmodel kunnen dragen achten wij aannemelijk, en bewezen is het niet.

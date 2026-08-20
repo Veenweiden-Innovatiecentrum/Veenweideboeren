@@ -44,6 +44,7 @@ def build_document():
     template = open('templates/document/template.html', encoding='utf-8').read()
     out = template.replace('{{SECTIONS}}', '\n\n'.join(parts))
     os.makedirs('dist', exist_ok=True)
+    kopieer_assets()
     dest = "dist/VIC's Veenweideboeren visie.html"
     open(dest, 'w', encoding='utf-8').write(out)
     print(f'Gebouwd: {dest} ({len(out)//1000}k tekens)')
@@ -219,6 +220,21 @@ def ontleed_sectie(sid, register=None, skelet=None):
     return uit
 
 
+def kopieer_assets():
+    """Beelden uit content/ verwijzen relatief naar assets/. In webapp/ staat die
+    map naast index.html; in dist/ bestond zij niet, dus daar bleef een <img>
+    leeg. Hier gekopieerd in plaats van als data-URI ingebed: de drie
+    scenario-illustraties zijn samen ruim 2 MB en dat hoort niet in content/."""
+    for doel in ('dist', 'dist/hoofdstukken'):
+        bron = 'webapp/assets/illustraties'
+        if not os.path.isdir(bron):
+            continue
+        naar = f'{doel}/assets/illustraties'
+        os.makedirs(naar, exist_ok=True)
+        for naam in os.listdir(bron):
+            shutil.copy2(f'{bron}/{naam}', f'{naar}/{naam}')
+
+
 def vergelijk_site(uiting, secties, dest):
     """Zegt per hoofdstuk of de zichtbare tekst van de repo afwijkt van de
     bestuursversie. Zonder --schrijf gebeurt er verder niets.
@@ -351,6 +367,7 @@ def build_hoofdstuk(sid):
         'beoordeling — geen publicatie</div></div></div></div>')
     out = (f'{template_hoofd()}\n<body>\n{kop}\n<main>\n<section id="{sid}">\n{body}\n'
            f'</section>\n</main>\n</body>\n</html>\n')
+    kopieer_assets()
     os.makedirs('dist/hoofdstukken', exist_ok=True)
     dest = f'dist/hoofdstukken/{sid}.html'
     open(dest, 'w', encoding='utf-8').write(out)

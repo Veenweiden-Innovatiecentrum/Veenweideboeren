@@ -1,5 +1,9 @@
 ## 7 — Wat er gebeurt zonder verdienmodel eronder
 
+{{partial:scenario-verschil}}
+
+{{partial:scenario-2-beeld}}
+
 ### 7.1 De maatregelen kloppen, er ligt alleen niets onder
 
 <p>De overheid grijpt in met harde maatregelen, maar verandert de systeemcondities niet. Precies de boeren die je nodig hebt voor de oplossing worden het gebied uitgeduwd. De opgaves lijken even te verbeteren, maar de verbetering keert doordat de rentmeesters verdwijnen.</p>

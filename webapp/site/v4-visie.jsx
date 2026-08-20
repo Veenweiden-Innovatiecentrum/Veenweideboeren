@@ -245,7 +245,6 @@ function DocumentLezer({ openToolbox, wisselVorm }) {
         </p>
         {HOOFDSTUKKEN.map((h) => {
           const isOpen = isUit(h.id);
-          const isScenarios = h.id === 'scenario-1';
           const isToolbox = h.id === 'f-ondernemer';
           const klap = (
             <span style={{ fontSize: 13, fontFamily: 'var(--font-heading)', fontWeight: 700, color: isOpen ? 'var(--accent2)' : 'var(--text3)', whiteSpace: 'nowrap', flexShrink: 0 }}>
@@ -266,14 +265,8 @@ function DocumentLezer({ openToolbox, wisselVorm }) {
                   {h.intro.slice(0, 220)}{h.intro.length > 220 ? '\u2026' : ''}
                 </p>
               )}
-              {!isOpen && isScenarios && (
-                <div onClick={() => toggle(h.id)} style={{ display: 'flex', gap: 10, cursor: 'pointer' }}>
-                  {SCENARIOS.map((a) => <img key={a.n} src={a.src} alt={'Scenario ' + a.n} style={{ width: 120, borderRadius: 6, border: '1px solid var(--vic-border)' }} />)}
-                </div>
-              )}
               {isOpen && (
                 <div className="v4-doc-inline">
-                  {isScenarios && <div style={{ margin: '6px 0 26px' }}><ScenarioViewer></ScenarioViewer></div>}
                   <Html html={h.html}></Html>
                   {isToolbox && (
                     <div style={{ margin: '18px 0' }}>
@@ -330,7 +323,6 @@ function MagazineLezer({ openToolbox, wisselVorm }) {
         return (
           <MagHoofdstuk key={h.id} h={h} index={i} foto={foto} quote={PULL_QUOTES[h.id]}
             werkstand={<><Werkstand h={h}></Werkstand><Skelet h={h}></Skelet></>}
-            vooraf={h.id === 'scenario-1' ? <div className="magh-scenarioviewer"><ScenarioViewer></ScenarioViewer></div> : null}
             naBody={h.id === 'f-ondernemer' ? (
               <div className="magh-nabody">
                 <DocCard naam="de toolbox" sub="alle maatregelen als fiches — per categorie, met literatuur; de verdieping waarmee we aan de slag gaan" onClick={openToolbox}></DocCard>

@@ -493,11 +493,12 @@ Waterkwaliteit, biodiversiteit en broeikasgasreductie worden dus pas bereikbaar 
 
 <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.08);border-left:3px solid var(--accent);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 2rem;font-size:13.5px;line-height:1.65">
 <strong style="display:block;margin-bottom:8px;font-size:14px">Drie scenario's, en waarin zij verschillen</strong>
-<p style="margin:0 0 .75rem">Dit deel zet drie scenario's naast elkaar. Het zijn geen voorspellingen en zij volgen elkaar niet op: het zijn drie standen van hetzelfde systeem, die op twee dingen van elkaar verschillen. Waarop er gestuurd wordt, en of er een verdienmodel onder ligt.</p>
-<p style="margin:0 0 .3rem"><strong>Scenario I</strong> — er wordt gestuurd op middelen, en het verdienmodel blijft de melk.</p>
-<p style="margin:0 0 .3rem"><strong>Scenario II</strong> — er wordt gestuurd op doelen, zonder verdienmodel eronder.</p>
-<p style="margin:0"><strong>Scenario III</strong> — dezelfde doelsturing, mét een verdienmodel eronder.</p>
+<p style="margin:0">Dit deel zet drie scenario's naast elkaar. Het zijn geen voorspellingen en zij volgen elkaar niet op: het zijn drie standen van hetzelfde systeem, en zij verschillen op twee dingen. Waarop er gestuurd wordt, en of er naast de melk een tweede verdienmodel komt. In alle drie blijft het bedrijf melken, dus het gaat niet om een ander verdienmodel maar om een tweede. Die twee assen staan hieronder, en het overzicht komt boven elk van de drie hoofdstukken terug.</p>
   </div>
+
+{{partial:scenario-verschil}}
+
+{{partial:scenario-1-beeld}}
 
 ### 6.1 Er wordt gestuurd op middelen
 
@@ -546,6 +547,10 @@ Wat er dan gebeurt, is wat de kostenstructuur uit hoofdstuk 3 voorschrijft. Een 
 ---
 
 ## 7 — Wat er gebeurt zonder verdienmodel eronder
+
+{{partial:scenario-verschil}}
+
+{{partial:scenario-2-beeld}}
 
 ### 7.1 De maatregelen kloppen, er ligt alleen niets onder
 
@@ -628,6 +633,10 @@ Wat er dan gebeurt, is wat de kostenstructuur uit hoofdstuk 3 voorschrijft. Een 
 ---
 
 ## 8 — Wat er gebeurt met een verdienmodel eronder
+
+{{partial:scenario-verschil}}
+
+{{partial:scenario-3-beeld}}
 
 ### 8.1 De omslag: van vergoeding naar betaling
 

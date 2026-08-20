@@ -16,7 +16,7 @@ Naast de vraag wat dit kost, komt daarmee een andere: wat zou je op dat land kun
 
 ### 5.3 Waar deze opgaven een product kunnen worden
 
-In die ruimte kunnen vier van die opgaven met maatschappelijke dienstverlening worden ingevuld: koolstof vastleggen, biodiversiteit verbouwen, water opslaan, en landelijk wonen leveren. Wat ze onderscheidt van de rest van de lijst is dat er een afnemer bestaat — een partij buiten het gebied met een eigen belang en een eigen begroting. Alle vier worden in JUMP als concept verkend, en geen van de vier is uitgekristalliseerd.
+In die ruimte kunnen vier van die opgaven met maatschappelijke dienstverlening worden ingevuld: koolstof vastleggen, biodiversiteit verbouwen, water opslaan, en landelijk wonen leveren. Wat ze van de rest van de lijst onderscheidt is dat er een afnemer in zicht is: een partij buiten het gebied met een eigen belang en een eigen begroting. Dát die afnemer er is en ook gaat betalen, is aanname 2, en het is per concept wat in JUMP wordt onderzocht. Geen van de vier is uitgekristalliseerd.
 
 **Koolstof vastleggen.** Vernatting sluit koolstof af van zuurstof, en daarmee wordt langdurige opslag mogelijk. Dat is een ander product dan minder uitstoot, en dat onderscheid is de kern: het remmen van veenoxidatie is *vermeden uitstoot* en gebeurt deels toch al omdat het moet, terwijl *vastlegging* uit paludicultuur en actieve veenaanmaak iets toevoegt wat er zonder de ondernemer niet zou zijn. De afnemer is geen enkele sector. Bedrijven die via hun ESG-rapportage verantwoording afleggen zoeken credits die verifieerbaar, traceerbaar en lokaal zijn; daarnaast zijn er de industrie, de internationale koolstofmarkt en burgers die zich aan een plek in de buurt willen verbinden.
 

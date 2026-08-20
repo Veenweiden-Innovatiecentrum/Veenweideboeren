@@ -48,7 +48,7 @@ Dit is het deel waar de toon het meest op het spel staat. Vier regels wegen hier
 - **Toetsregel 12b:** het kader bij scenario II heet nu "Ingrijpen zonder pijlers" en begint met "De overheid grijpt in met harde maatregelen". Beide moeten om. Een scenario heet naar wat er met het bedrijf gebeurt, en de overheid komt in de kop niet handelend voor. Het bestuur op 17 juni: "als jij gaat vertellen dat ze een fout voorzitten, ga je ze alleen maar van je vervreemden."
 - **Toetsregel 12a en 2:** scenario II is niemands beleid. Het is een categorie, en er staat geen enkel voorbeeld uit het beleid van vandaag in. Zodra er staat dat het beleid "op scenario II afkoerst", leest een ambtenaar een verwijt. Wij mogen dat weten; het document beschrijft de categorie.
 - **Toetsregel 13:** de introductie van de drie scenario's staat één keer, als korte inzet aan het hoofd van hoofdstuk 6. Nergens eerder een vooruitwijzing.
-- **Toetsregel 26:** het kernbeeld van scenario III toont alleen de overheid als opdrachtgever en heeft een tweede pijl nodig voor de markt. Dat is beeldwerk, samen op te pakken met de drie foute `rx`-afrondingen in `partials/e-aktes-dimensie-ontwikkeling.html` (die partial staat in `scenario-3.md`).
+- **Toetsregel 26:** het kernbeeld van scenario III toont alleen de overheid als opdrachtgever en heeft een tweede pijl nodig voor de markt. **Al het beeldwerk aan de drie scenariotekeningen staat sinds 20-8 op één lijst** in `correctielijst.md` onder "De drie scenario-illustraties", met de titels die nog "AKTE" zeggen, het woord "PIJLERS" in scenario III en het ontbrekende beheerpakket in scenario I. De SVG met de dimensie-ontwikkeling is een ander beeld en heeft zijn eigen kopje.
 
 ## De schrijfstandaard van 20-8
 

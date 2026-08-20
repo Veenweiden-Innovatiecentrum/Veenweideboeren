@@ -241,15 +241,29 @@
 - [ ] **Drie foute afrondingen in datzelfde beeld.** `rx="0 0 2 2"` en `rx="2 2 0 0"` (regels ~220, ~224 en ~232) zijn CSS-schrijfwijze in een SVG-attribuut, dat maar één waarde aanvaardt; de browser meldt het in de console en laat de hoeken vierkant. Bedoeld was: alleen boven of alleen onder afgerond, en dat kan in SVG niet met `rx`. Beeldwerk, dus samen met de tweede pijl voor de markt (`bloktypen.md`) op te pakken
 - [x] Voedselzekerheid-regel in de dimensielijst: "waterbuffer aan akkerbouw" eruit conform §11, en "drie pijlers" werd "drie kanten" (19-8, in `scenario-3.md`)
 - [x] **Verhuisd uit `c-omslag`, geland in 8.4 op 19-8:** de ontwerpkeuze-alinea. Zonder het woord "antifragiel", want dat is jargon: "een systeem dat van variatie profiteert in plaats van eraan onderdoor te gaan"
-- [ ] **Het kernbeeld van scenario III toont alleen de overheid als opdrachtgever.** Toetsregel 26 vraagt een tweede pijl voor de markt. Dat is beeldwerk en geen tekst; zie ook `bloktypen.md`, "nog te toetsen bij het schrijven". *Stond tot 19-8 als `[[TODO]]` in de tekst*
+- [ ] *Het kernbeeld-punt (tweede pijl voor de markt, toetsregel 26) staat 20-8 verplaatst naar de lijst "De drie scenario-illustraties" hierboven, waar al het beeldwerk aan die platen bij elkaar staat*
 
-## De drie scenario-illustraties
+## De drie scenario-illustraties — `webapp/assets/illustraties/akte-{1,2,3}.jpg`
 
-*`webapp/assets/illustraties/akte-1.jpg`, `-2` en `-3`. Op 20-8 zijn de scenario-omschrijvingen hierop geschreven, dus de tekeningen zijn nu de bron voor die drie kaders. Wat er in staat: links de ingangen (steun, middel- of doelsturing, vernatting, juridische ruimte), boven de melkprijs, rechts de tankauto, rechtsboven de opgavenpijl die van rood naar groen verloopt, en boven het blok de CO₂ die in scenario III naar binnen wijst in plaats van naar buiten.*
+*Dit is **de** lijst voor het beeldwerk aan de drie scenariotekeningen. Houd hem hier bij en niet verspreid over de hoofdstukken (Tim, 20-8). De platen staan sinds 20-8 boven elk scenariohoofdstuk en zijn de bron voor de drie kaders "Wat dit scenario is", dus een fout in de plaat is nu ook een fout in de tekst.*
 
-- [ ] **In de tekening van scenario I ontbreekt het beheerpakket.** Tim, 20-8: er wordt hier en daar wél aan landschap- en weidevogelbeheer gedaan, tegen een kostenvergoeding, en dat hoort er als klein element bij, want dit is de huidige situatie. Nu suggereert de plaat dat er niets naast de melk staat. Denkbaar: een klein pakketje bij één perceel, of een dunne extra ingangspijl bij "steun". De tekst van het kader zegt het inmiddels wél
-- [ ] **In scenario III staat het woord "PIJLERS" in de tekening**, linksboven bij het blok met de opdrachten. Dat is de verboden term uit toetsregel 27 en hij staat in beeld, dus zichtbaar voor het bestuur. Moet "opdrachten" worden. Beeldwerk
-- [ ] **De bestandsnamen dragen nog "akte"** (`akte-1.jpg`). Bewust niet meegenomen in de veegronde van 20-8: het is een machinenaam en hij staat op drie plaatsen in de code. Meenemen als de tekeningen toch worden bijgewerkt
+**Wat er in staat, zodat je de lijst kunt lezen zonder de plaat te openen.** Links de ingangen: steun, middel- of doelsturing, vernatting (een peilbuis) en (juridische) ruimte. Boven: de melkprijs die binnenkomt. Rechts: de tankauto die wegrijdt. Rechtsboven: de opgavenpijl, die van rood naar groen verloopt naarmate er meer gehaald wordt. Boven het blok: de CO₂, die in scenario III naar bínnen wijst in plaats van naar buiten. In scenario I staan vernatting en juridische ruimte grijs weggezet, want die bestaan daar nog niet.
+
+### Taal in de plaat
+
+- [ ] **De titel van alle drie de platen zegt "AKTE I", "AKTE II" en "AKTE III".** Moet "SCENARIO I", "II" en "III" worden *(Tim, 20-8)*. Zie het besluit van 20-8 over de term
+- [ ] **In scenario III staat het woord "PIJLERS"** linksboven, bij het blok met de opdrachten. Verboden term onder toetsregel 27; moet **opdrachten** worden
+- [ ] **De bestandsnamen dragen nog "akte"** (`akte-1.jpg`). Bewust niet meegenomen in de veegronde van 20-8, want het is een machinenaam en hij staat op drie plaatsen in de code. Meenemen als de platen toch worden bijgewerkt, samen met de partials `scenario-{1,2,3}-beeld.html`
+
+### Inhoud van de plaat
+
+- [ ] **In scenario I ontbreekt het beheerpakket.** Er wordt hier en daar wél aan landschap- en weidevogelbeheer gedaan, tegen een kostenvergoeding, zeer beperkt, en dit is de huidige situatie *(Tim, 20-8)*. Nu suggereert de plaat dat er niets naast de melk staat, terwijl 5.1 dit juist het grensgeval noemt: de enige prestatie waarvoor de uitvoering al staat. Denkbaar: een klein pakketje bij één perceel, of een dunne extra ingangspijl naast "steun". Het kader zegt het inmiddels wél
+- [ ] **Het kernbeeld van scenario III toont alleen de overheid als opdrachtgever.** Toetsregel 26 vraagt een tweede pijl voor de markt. De uitgaande bundel "maatschappelijke diensten" is er wel, maar er komt geen geld van een private partij binnen; de enige inkomende geldpijl naast de opdrachten is de melkprijs. *Stond tot 19-8 als `[[TODO]]` in de tekst en tot 20-8 onder `scenario-3.md`*
+- [ ] **De uitgaande bundel in scenario III noemt zes diensten** (zorg, mest, water, CO₂, biodiversiteit, wonen), terwijl 5.3 vier routes uitwerkt (koolstof, biodiversiteit, water, landelijk wonen). Dat verdraagt elkaar, want `terminologie.md` zegt dat maatschappelijke diensten ook zorg en recreatie dekt, maar de plaat en de tekst horen wel op elkaar te wijzen. Uitzoeken bij hoofdstuk 9 of bij de cijferbijlage
+- [ ] **`[[KEUZE]]` De vorm met "FLEVO" erop in scenario II**, met een pijl naar een figuur op het land. Dat is de boer van ver, en het argument klopt (deze hectares zijn elders nodig als mestplaatsingsruimte). Maar de plaat wijst daarmee één provincie aan. Neutraal maken, of bewust laten staan? Vraag voor Tim
+
+### Vorm en techniek
+
 - [ ] **De drie JPEG's zijn 5.964 pixels breed en samen ruim 2 MB.** Verkleinen vóór publicatie; ze staan nu in elk hoofdstuk en worden dus alle drie geladen
 
 ## partials/e-aktes-dimensie-ontwikkeling.html

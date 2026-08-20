@@ -229,8 +229,8 @@
 - [ ] **Aangevuld 20-8 bij Niels punt over de waterkwaliteit in scenario II:** het mechanisme heet **interne eutrofiëring** en het is online bevestigd. Bij vernatting lossen ijzer(hydr)oxiden op, waardoor het daaraan gebonden fosfaat vrijkomt; de concentratie na vernatting is een veelvoud van die in het aangevoerde water. Dus de waterkwaliteit gaat er éérst van achteruit, en dat is geen detail maar het schoolvoorbeeld dat één maatregel de ene opgave dient en de andere schaadt. **Waar het nog meer werk doet:** dit is de onderbouwing van de coördinatievraag in hoofdstuk 12, die tot nu toe alleen als bewering staat. Bronnen: STOWA ter Info 90, Louis Bolk (klimaatmaatregelen in het veenweidegebied in relatie tot biodiversiteit, bodem en waterkwaliteit), NMI-rapport 1721.N.18
 - [ ] **Dimensietabel scenario II**: waterkwantiteit wordt rood *(Niel)*
 - [ ] **Dimensietabel scenario II**: waterkwaliteit verslechtert éérst door fosfaatmobilisatie bij vernatting, verbetert daarna — nuance toevoegen *(Niel)*
-- [ ] Regel ~40: "minimaal -40 cm" → "-20 tot -40 cm" *(Simon)*
-- [ ] Vier driesporenkaders → bijlage, zie bloktypen.md. Correcties van Niel (hierboven bij intro) gelden ook daar
+- [ ] Regel ~40: "minimaal -40 cm" → "-20 tot -40 cm" *(Simon)*. Gedaan in de verhuisde blokken; **staat nog in de body van 7.2** ("Grondwaterstanden omhoog naar minimaal -40 cm in het veld") en gaat om bij het schrijven van die sectie
+- [x] **Vier driesporenkaders → bijlage 17, gedaan 20-8.** Het kader "spoor 2 is scenario II in beleidsvorm", de drie blokken over de 90.000 hectare, en het kader over de hectarepremie. Meegegaan bij de verhuizing: "minimaal -40 cm" werd "-20 tot -40 cm" *(Simon)*, en de kritiek is omgezet naar een gedateerde diagnose conform besluit §8. **Het kader "generieke peilfixatie pakt de boer die al weinig uitstoot" is blijven staan** in 7.2, want dat is geen commentaar op een beleidsstuk maar een eigenschap van het veen; het wordt daar een fiche. Hoofdstuk 7 ging van 1.616 naar 1.237 woorden leesregel, en Deel III is vrij van driesporen
 - [ ] **Verhuisd uit `b-opgaves` op 19-8, voor scenario II (hoofdstuk 7, ronde 2):** "De waarneming uit vergelijkbare beleidscycli — uitkoopregelingen 2008–2020, eerste-generatie stikstofmaatregelen — is dat harde maatregelen zonder onderliggend bedrijfsmodel het beoogde effect niet bereiken; eerder versnellen ze de uitstroom van precies de boeren die nodig zijn voor de oplossing." Besluit 17-8 belegt deze waarneming als fiche bij scenario II, zonder oordeel: eerdere ronden van hetzelfde mechanisme. In hoofdstuk 4 stond zij in de conclusie van een analysehoofdstuk en deed daar het werk van scenario II *(Lian, cluster 9: learnings uit vorige beleidscycli)*
 
 ## scenario-3.md
@@ -279,7 +279,7 @@
 
 *Deze bijlage is in aanbouw en wordt in ronde 5 afgemaakt. De routering stond tot 19-8 als `[[TODO]]` in de tekst zelf.*
 
-- [ ] **Drie van de negen driesporenblokken staan er nu.** De andere zes staan nog in `scenario-2` (4×), `f-overheid` en `g-perspectief` en komen hier bij elkaar, waarna de negen tot één doorlopende bijlage worden samengevoegd
+- [ ] **Zeven van de negen driesporenblokken staan er nu** (vier erbij op 20-8 uit hoofdstuk 7). Wat er nog buiten staat is `f-overheid` en het stikstofblok in de wachtkamer `intro` en komen hier bij elkaar, waarna de negen tot één doorlopende bijlage worden samengevoegd
 - [ ] **De tweede alinea van het openingskader is nog een stellingname** ("het risico om precies het tegenovergestelde effect te bereiken") en moet de vorm van een gedateerde diagnose krijgen: wat dit ons leert over de inrichting van de volgende ronde. Besluit §8
 - [ ] De drie `[[CHECK DOUWE]]`-markeringen en de `[[BRON]]` bij de verdringingsreeks blijven **wel** in de tekst staan zolang deze bijlage in aanbouw is: zij staan precies bij de bedragen en de vindplaats die niet publiek te verifiëren zijn, en zonder die markering leest het kader als bronvast
 

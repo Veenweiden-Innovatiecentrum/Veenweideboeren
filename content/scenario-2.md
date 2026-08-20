@@ -24,7 +24,7 @@
       <p style="margin:0 0 .75rem">Niet elk veen emitteert evenveel. Percelen die al laag liggen zijn doorgaans natter en stoten minder broeikasgassen uit dan hoog gelegen percelen. Generieke peilfixatie binnen een peilvak raakt boeren met overwegend laaggelegen percelen — die nu al weinig uitstoten — harder dan boeren met hoge percelen die veel meer uitstoten. De boer die al weinig uitstoot, betaalt. Zonder kartering en differentiatie binnen peilvakken is dat moeilijk verdedigbaar.</p>
       <p style="margin:0"><strong>Water naar boven, rust op de rest.</strong> Hoog gelegen percelen stoten het meest uit en lijden het meest onder droogteschade — daar zit de winst van actief watermanagement. Lage natte percelen kunnen vaak met rust gelaten worden. Differentiatie binnen peilvakken benut die kennis; generieke peilfixatie negeert haar.</p>
 </div>
-### 7.3 Waarom het bedrijf dat niet kan dragen
+### 7.3 Waarom de verbetering niet standhoudt
 
 <h4>Wat er verandert</h4>
 <p>De trend uit scenario I versnelt. De boeren die nog overgebleven waren — de kleinere, de lokale, de rentmeesters — kunnen nu definitief hun hoofd niet meer boven water houden. De kosten zijn toegenomen door de verplichtingen, de inkomstenderving wordt niet gecompenseerd. Ze stoppen.</p>

@@ -9,9 +9,10 @@
 
 <div style="background:var(--bg2);border-left:4px solid var(--accent);border-radius:var(--radius);padding:1rem 1.25rem;margin:1.25rem 0 1.5rem;font-size:13.5px;line-height:1.65">
 <strong style="display:block;margin-bottom:6px;font-size:14px">Wat dit scenario is</strong>
-<p style="margin:0 0 .7rem">Er verandert niets in de manier waarop dit gebied bestuurd wordt. Er gaat steun naartoe en er wordt gestuurd op middelen: op wat een bedrijf gebruikt, aanschaft en mag bouwen. Vernatting als verplichting en ruimere regels voor een ander gebruik van het land zijn er niet.</p>
+<p style="margin:0 0 .7rem">Dit is de situatie van vandaag, voortgezet. Er verandert niets in de manier waarop dit gebied bestuurd wordt: er gaat steun naartoe en er wordt gestuurd op middelen, op wat een bedrijf gebruikt, aanschaft en mag bouwen. Vernatting als verplichting en ruimere regels voor een ander gebruik van het land zijn er niet.</p>
 <p style="margin:0 0 .7rem">Op het land is dat te zien. De koeien staan verspreid over de percelen, de boer staat er zelf, en het bedrijf leeft van één prijs: die van de melk. De tankauto rijdt vol weg. Onder het land blijft de grondwaterstand laag, blijft het veen droog en gaat de uitstoot uit de bodem door.</p>
-<p style="margin:0">Van wat Nederland vraagt komt daarmee weinig terecht. De emissies uit de bodem dalen niet, de nutriëntenbelasting blijft, en het beheer van slootkant, oever en landschap gebeurt onbeprijsd of niet. Wat dit gebied levert is voedsel. Wat het verder kan, blijft liggen.</p>
+<p style="margin:0 0 .7rem">Van wat Nederland vraagt komt daarmee weinig terecht. De emissies uit de bodem dalen niet en de nutriëntenbelasting blijft.</p>
+<p style="margin:0">Op één punt gebeurt er wel iets. Voor landschap en weidevogels liggen er beheerpakketten, en op een deel van de percelen worden die uitgevoerd. Daar staat een vergoeding tegenover die de kosten en de gederfde inkomsten dekt. Het is de enige prestatie waarvoor de uitvoering al staat, en zij blijft beperkt tot de percelen waar een bedrijf zich er vrijwillig voor aanmeldt. Al het andere beheer gebeurt onbeprijsd. Wat dit gebied levert is voedsel; wat het verder kan, blijft liggen.</p>
 </div>
 
 {{partial:scenario-verschil}}

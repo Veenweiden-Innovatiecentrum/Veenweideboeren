@@ -262,8 +262,6 @@
 - [ ] **De uitgaande bundel in scenario III noemt zes diensten** (zorg, mest, water, CO₂, biodiversiteit, wonen), terwijl 5.3 vier routes uitwerkt (koolstof, biodiversiteit, water, landelijk wonen). Dat verdraagt elkaar, want `terminologie.md` zegt dat maatschappelijke diensten ook zorg en recreatie dekt, maar de plaat en de tekst horen wel op elkaar te wijzen. Uitzoeken bij hoofdstuk 9 of bij de cijferbijlage
 - [ ] **`[[KEUZE]]` De vorm met "FLEVO" erop in scenario II**, met een pijl naar een figuur op het land. Dat is de boer van ver, en het argument klopt (deze hectares zijn elders nodig als mestplaatsingsruimte). Maar de plaat wijst daarmee één provincie aan. Neutraal maken, of bewust laten staan? Vraag voor Tim
 
-- [ ] **De opgavenpijl is nu ook tekst geworden**, dus plaat en kader moeten op elkaar blijven kloppen. Verandert de verhouding groen-rood of de breedte van de pijl in een herziene plaat, dan gaat de slotalinea van dat kader mee. De breedte in scenario III is het punt dat het snelst stil kan sneuvelen bij een hertekening
-
 ### Vorm en techniek
 
 - [ ] **De drie JPEG's zijn 5.964 pixels breed en samen ruim 2 MB.** Verkleinen vóór publicatie; ze staan nu in elk hoofdstuk en worden dus alle drie geladen

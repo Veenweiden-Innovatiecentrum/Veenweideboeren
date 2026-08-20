@@ -26,6 +26,8 @@ Er wordt in dit gebied wel degelijk gestuurd. Er zijn belangrijke maatregelen ge
 
 Voor het verdienmodel van het bedrijf verandert daarmee niets. Elk van die instrumenten vergoedt kosten of geeft ruimte, en geen ervan zet een gevraagde prestatie mét een prijs naast de melk. Het weidevogel- en landschapsbeheer komt daar het dichtst bij, en ook daar dekt de vergoeding de kosten en de gederfde inkomsten. Er wordt dus betaald, en er wordt niets ingekocht. Er staat op dit bedrijf één prijs, en die staat op de melk. Al het andere komt uit de marge die daarop overblijft. Wat er dan gebeurt is het gedrag dat een systeem oplevert waarin grond schaars is, de keten volume beloont en er voor iets anders geen prijs bestaat: schaalvergroting.
 
+Wat dat per opgave betekent, laat zich uit dat mechanisme aflezen. Waar een doel aan een middel hangt, gebeurt er iets: de ammoniakuitstoot uit de stal daalt, want daar is een investering voor. Waar een doel een prijs vraagt, gebeurt het niet: de emissies uit de bodem dalen niet, de nutriëntenbelasting blijft, en het landschap en de basiskwaliteit van natuur lopen terug met het beheer dat niemand betaalt. De tien dimensies staan naast elkaar in hoofdstuk 9.
+
 ### 6.3 Waarom dit geen stabiele toestand is
 
 Van buiten lijkt dit te werken, en dat komt doordat er nog niets is gebeurd wat het bedrijf niet kon opvangen. Het is één product op één markt, en dat maakt de positie kwetsbaar. Zij wordt pas zichtbaar bij de volgende schok, en die kan uit vier hoeken komen: de prijs van soja of kunstmest, de melkprijs zelf, het weer, of een nieuwe regel.
@@ -46,15 +48,4 @@ Het ondernemerschap is ook hier de motor, maar hij draait op de verkeerde brands
 
 De rekening daarvoor staat intussen op niemands begroting: boetes onder de Kaderrichtlijn Water en het stikstofdossier, woningbouw die niet doorgaat, en schade aan wegen en leidingen door bodemdaling. Niemand boekt die kosten, en de samenleving betaalt ze wel.
 
-<div class="dim-list">
-      <div class="dim-item"><span class="dot red"></span><span class="name">Klimaat &amp; bodemdaling</span><span class="desc">Diepe ontwatering, hoge veenoxidatie, bodememissies blijven onverminderd hoog</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Klimaat (bedrijf)</span><span class="desc">Veel vee, hoge methaanuitstoot — geen daling van de bedrijfsemissies</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Water (kwaliteit)</span><span class="desc">Verwaarloosd slootbeheer, hoge nutriëntenbelasting</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Water (kwantiteit)</span><span class="desc">Geen berging, droogtegevoelig, geen actief peilbeheer</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Natuur (gebieden)</span><span class="desc">Stikstofdepositie te hoog, Natura 2000-doelen buiten bereik</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Natuur (basiskwaliteit)</span><span class="desc">Rentmeesterschap verdwijnt, slootkanten verwaarloosd, weidevogels weg</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Voedselzekerheid</span><span class="desc">Hoog volume bulkmelk, maar afhankelijk van geïmporteerde soja en kunstmest, mest is afvoerprobleem — schijnzekerheid</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Cultuur &amp; landschap</span><span class="desc">Industrieel grasland, geen veenweide-identiteit, geen beleving</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Grondstoffen &amp; kringloop</span><span class="desc">Hoge import van veevoer en kunstmest, geen gesloten kringloop</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Wonen &amp; recreatie</span><span class="desc">Bodemdaling en stikstof blokkeren woningbouw en recreatie, alles op slot</span></div>
 </div>

@@ -517,6 +517,8 @@ Er wordt in dit gebied wel degelijk gestuurd. Er zijn belangrijke maatregelen ge
 
 Voor het verdienmodel van het bedrijf verandert daarmee niets. Elk van die instrumenten vergoedt kosten of geeft ruimte, en geen ervan zet een gevraagde prestatie mét een prijs naast de melk. Het weidevogel- en landschapsbeheer komt daar het dichtst bij, en ook daar dekt de vergoeding de kosten en de gederfde inkomsten. Er wordt dus betaald, en er wordt niets ingekocht. Er staat op dit bedrijf één prijs, en die staat op de melk. Al het andere komt uit de marge die daarop overblijft. Wat er dan gebeurt is het gedrag dat een systeem oplevert waarin grond schaars is, de keten volume beloont en er voor iets anders geen prijs bestaat: schaalvergroting.
 
+Wat dat per opgave betekent, laat zich uit dat mechanisme aflezen. Waar een doel aan een middel hangt, gebeurt er iets: de ammoniakuitstoot uit de stal daalt, want daar is een investering voor. Waar een doel een prijs vraagt, gebeurt het niet: de emissies uit de bodem dalen niet, de nutriëntenbelasting blijft, en het landschap en de basiskwaliteit van natuur lopen terug met het beheer dat niemand betaalt. De tien dimensies staan naast elkaar in hoofdstuk 9.
+
 ### 6.3 Waarom dit geen stabiele toestand is
 
 Van buiten lijkt dit te werken, en dat komt doordat er nog niets is gebeurd wat het bedrijf niet kon opvangen. Het is één product op één markt, en dat maakt de positie kwetsbaar. Zij wordt pas zichtbaar bij de volgende schok, en die kan uit vier hoeken komen: de prijs van soja of kunstmest, de melkprijs zelf, het weer, of een nieuwe regel.
@@ -537,17 +539,6 @@ Het ondernemerschap is ook hier de motor, maar hij draait op de verkeerde brands
 
 De rekening daarvoor staat intussen op niemands begroting: boetes onder de Kaderrichtlijn Water en het stikstofdossier, woningbouw die niet doorgaat, en schade aan wegen en leidingen door bodemdaling. Niemand boekt die kosten, en de samenleving betaalt ze wel.
 
-<div class="dim-list">
-      <div class="dim-item"><span class="dot red"></span><span class="name">Klimaat &amp; bodemdaling</span><span class="desc">Diepe ontwatering, hoge veenoxidatie, bodememissies blijven onverminderd hoog</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Klimaat (bedrijf)</span><span class="desc">Veel vee, hoge methaanuitstoot — geen daling van de bedrijfsemissies</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Water (kwaliteit)</span><span class="desc">Verwaarloosd slootbeheer, hoge nutriëntenbelasting</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Water (kwantiteit)</span><span class="desc">Geen berging, droogtegevoelig, geen actief peilbeheer</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Natuur (gebieden)</span><span class="desc">Stikstofdepositie te hoog, Natura 2000-doelen buiten bereik</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Natuur (basiskwaliteit)</span><span class="desc">Rentmeesterschap verdwijnt, slootkanten verwaarloosd, weidevogels weg</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Voedselzekerheid</span><span class="desc">Hoog volume bulkmelk, maar afhankelijk van geïmporteerde soja en kunstmest, mest is afvoerprobleem — schijnzekerheid</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Cultuur &amp; landschap</span><span class="desc">Industrieel grasland, geen veenweide-identiteit, geen beleving</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Grondstoffen &amp; kringloop</span><span class="desc">Hoge import van veevoer en kunstmest, geen gesloten kringloop</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Wonen &amp; recreatie</span><span class="desc">Bodemdaling en stikstof blokkeren woningbouw en recreatie, alles op slot</span></div>
 </div>
 
 ---
@@ -589,6 +580,8 @@ En dan valt het bedrijf om op kosten en omzet, niet op motivatie of vakmanschap.
       <p style="margin:0"><strong>Water naar boven, rust op de rest.</strong> Hoog gelegen percelen stoten het meest uit en lijden het meest onder droogteschade — daar zit de winst van actief watermanagement. Lage natte percelen kunnen vaak met rust gelaten worden. Differentiatie binnen peilvakken benut die kennis; generieke peilfixatie negeert haar.</p>
 </div>
 
+Wat dat per opgave betekent, splitst zich netjes langs de lijn van de handhaving. Wat is opgelegd, wordt gehaald: de emissies uit de bodem dalen en de depositie op nabijgelegen natuur neemt af. Wat gevraagd wordt zonder norm, gebeurt niet: geen betaald landschapsbeheer, geen berging, geen wonen. En bij de waterkwaliteit valt het tussenin, want bij vernatting komt eerst gebonden fosfaat vrij en gaat de kwaliteit achteruit voordat zij vooruitgaat. De tien dimensies staan naast elkaar in hoofdstuk 9.
+
 ### 7.3 Waarom de verbetering niet standhoudt
 
 Eerst gaat het beter, en dat is geen schijn. De grondwaterstand stijgt, de uitstoot uit de bodem daalt, de sloten worden groener. De maatregelen doen wat zij moeten doen.
@@ -610,17 +603,6 @@ De motor slaat af. Het zijn de familiebedrijven die de opgaven al serieus namen,
 
 Daarmee verdwijnt precies de figuur die scenario III nodig heeft. Een dienst leveren tegen een prijs vraagt iemand die de investering wil doen en de kans zelf ziet, en dat kun je niemand opdragen. Wie dat zou doen is in dit scenario vertrokken, en zijn land is gekocht door een partij die er niet woont.
 
-<div class="dim-list">
-      <div class="dim-item"><span class="dot amber"></span><span class="name">Klimaat &amp; bodemdaling</span><span class="desc">Verbetert aanvankelijk door hoger peil, maar verbetering vlakt af als actief beheer (greppelinfiltratie, slootbeheer) verdwijnt met de rentmeesters</span></div>
-      <div class="dim-item"><span class="dot amber"></span><span class="name">Klimaat (bedrijf)</span><span class="desc">Onduidelijk, productie verplaatst zich naar elders, geen netto winst</span></div>
-      <div class="dim-item"><span class="dot amber"></span><span class="name">Water (kwaliteit)</span><span class="desc">Normering lijkt te werken, maar na-ijleffecten en gebrek aan slootbeheer zorgen dat verbetering uitblijft</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Water (kwantiteit)</span><span class="desc">Vernatting vreet water op, geen actief beheer, geen buffering, waterbeschikbaarheid neemt af</span></div>
-      <div class="dim-item"><span class="dot amber"></span><span class="name">Natuur (gebieden)</span><span class="desc">Stikstofdepositie daalt door minder vee, Natura 2000-druk neemt iets af</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Natuur (basiskwaliteit)</span><span class="desc">Sloten op de oude manier geschoond, basiskwaliteit wordt niet beter, eerder slechter</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Voedselzekerheid</span><span class="desc">Verlies op alle drie de kanten: minder productie, geen mest- of waterdienst ontwikkeld, kringloop niet gesloten</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Cultuur &amp; landschap</span><span class="desc">De mensen die het landschap kenden zijn weg, identiteit en beleving verdwijnen</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Grondstoffen &amp; kringloop</span><span class="desc">Geen verandering, bulksysteem blijft, kringloop blijft open</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Wonen &amp; recreatie</span><span class="desc">Problemen lopen door, stikstof en het slepende overgangsproces blokkeren woningbouw en recreatie</span></div>
 </div>
 
 ---
@@ -654,14 +636,14 @@ Water is daarvan het schoonste voorbeeld, want de afnemer is er al. Oasen wint z
 
 Bij stikstof ligt een vergelijkbare denkrichting, en die is verder van de praktijk af. {{fiche:Toelichting|Stikstofruimte als denkbare dienst. Het kabinet zoekt stikstofruimte, en snel: bouwen, het stroomnet en defensie wachten erop. Uitkoop levert die ruimte één keer, en daarna is het gebied zijn beheerder kwijt. Een lagere veedichtheid levert dezelfde ammoniakreductie, blijvend, en precies waar die het meest telt: tegen Natura 2000 aan. Eén voorwaarde: het wegvallende vee-inkomen wordt aangevuld met betaling voor maatschappelijke diensten, anders is het uitkoop in vertraagde vorm. Doorgedacht kan ammoniakreductie zelf zo'n dienst worden, en die denkrichting vraagt eerst juridische uitwerking: extern salderen en vergunningenrecht.}}
 
-<p>De bouwstenen worden beschikbaar. Elke ingezette bouwsteen verandert het landschap én verbetert de opgaves. Maar nu werken de veranderingen mét in plaats van tégen de boer.</p>
-<p>De CO₂-uitstoot daalt, beide bronnen. De bodememissies verminderen omdat de boer natte teelt en koolstofopslag als verdienmodel inzet: de grondwaterstand midden in de percelen gaat omhoog omdat het nu loont. De bedrijfsemissies nemen af omdat het bedrijf anders is opgezet: minder maar beter vee, lagere emissies per hectare. Waterkwaliteit verbetert, niet door normering alleen, maar omdat ecologisch slootbeheer weer de moeite waard is. Waterkwantiteit verbetert ook: wateropslag op het bedrijf wordt een bouwsteen, de boer buffert water lokaal en wordt betaald voor wateropslag als dienst. Natuur keert terug, niet als verplichting die hectares inneemt, maar omdat biodiversiteitsdiensten en natuur als dienst het rentmeesterschap weer rendabel maken.</p>
-<p>Het inkomen herstelt naar het niveau van een leefbaar familiebedrijf, niet de pieken van bulkmelk op schaal, wel structureel zekerder dan het marginale inkomen van scenario I. Opgebouwd uit meerdere stabiele inkomstenstromen: maatschappelijke diensten, premium voedsel, waterberging, CO₂-credits.</p>
+Wat dat per opgave betekent, verschuift daarmee van kostenpost naar opbrengst. De grondwaterstand gaat omhoog omdat het loont, het slootbeheer wordt rendabel, en de berging en de biodiversiteit worden geleverd omdat er een opdrachtgever voor is. De natuur komt daarmee terug als opbrengst en niet als verplichting die hectares inneemt. Twee dimensies blijven achter: de totale watervraag bij vernatting blijft een ruimtelijk vraagstuk, en wonen en recreatie hangen aan wat het omgevingsplan toestaat. De tien dimensies staan naast elkaar in hoofdstuk 9.
 
 ### 8.3 Waarom het dan wél standhoudt
 Wat er eerst gebeurt is het grondbeleid. Dat stopt de grondhonger uit scenario II: een grondbank vangt de waardedaling door vernatting op, zodat familiebedrijven niet gedwongen zijn te verkopen. Transitiesteun overbrugt de kwetsbare eerste jaren tot de contracten lopen, en de bergboerenregeling, de Europese regeling die bedrijven in gebieden met een natuurlijke handicap een structurele basisvergoeding geeft, biedt daarbij basiszekerheid.
 
 Het begint moeizaam. De ondernemer maakt de lastige overstap: minder koeien, ander landgebruik, nieuwe vaardigheden. De eerste jaren zijn kwetsbaar — daarvoor staat de transitie-infrastructuur klaar. Het bedrijfsmodel staat na zeven tot tien jaar volwaardig.{{fiche:Drie tempo's, één transitie|Er zijn drie tempo's tegelijk in beweging, en zij lopen niet gelijk. Politieke tijd loopt in jaren tot decennia — wetgeving, EU-richtlijnen, instrumentontwikkeling. Ondernemerstijd loopt in maanden tot jaren — marge, pacht, investeringshorizon. Systeemtijd loopt in fasen — agroketens 2-3 jaar, banken 3-5, marktpartijen voor maatschappelijke diensten 7-15. Scenario II synchroniseert deze tempo's niet; daarom valt de ondernemer weg voordat het beleid uitontwikkeld is. Scenario III versnelt politieke tijd niet en vertraagt ondernemerstijd niet — het koppelt ze. Transitiesteun overbrugt ondernemerstijd zolang politieke tijd loopt. Prestatiecontracten van 10-20 jaar synchroniseren ondernemerstijd met systeemtijd. Hoofdstuk 13 mobiliseert systeemtijd binnen de termijn die ondernemerstijd vraagt. De tempo's worden in elkaar geschoven.|De vraag "wanneer zijn alle beperkingen opgeheven?"is daarmee verkeerd gesteld: vernatting, KRW-normen en stikstofeisen zijn de permanente nieuwe ordening, niet tijdelijke maatregelen. Tijdelijk zijn de transitie-instrumenten zelf. Het bedrijfsmodel staat in de orde van 7-10 jaar volwaardig.}} Maar anders dan in scenario II blijft de boer op het land. En daarmee het rentmeesterschap: de liefde voor het land, de kennis van elk perceel, de zorg voor de slootkanten.
+
+<p>Het inkomen herstelt naar het niveau van een leefbaar familiebedrijf, niet de pieken van bulkmelk op schaal, wel structureel zekerder dan het marginale inkomen van scenario I. Opgebouwd uit meerdere stabiele inkomstenstromen: maatschappelijke diensten, premium voedsel, waterberging, CO₂-credits.</p>
 
 ### 8.4 De motor
 
@@ -673,17 +655,6 @@ De motor draait op de juiste brandstof. De verbonden ondernemer ziet de opgaves 
 
 <!-- DIMENSIE-ONTWIKKELING -->
 
-<div class="dim-list">
-<div class="dim-item"><span class="dot green"></span><span class="name">Klimaat &amp; bodemdaling</span><span class="desc">Waterpeil omhoog omdat het loont, koolstofopslag als verdienmodel</span></div>
-<div class="dim-item"><span class="dot green"></span><span class="name">Klimaat (bedrijf)</span><span class="desc">Lagere veedichtheid: minder vee, lagere emissies per hectare</span></div>
-<div class="dim-item"><span class="dot green"></span><span class="name">Water (kwaliteit)</span><span class="desc">Ecologisch sloot- en oeverbeheer is nu rendabel, kwaliteit verbetert structureel</span></div>
-<div class="dim-item"><span class="dot amber"></span><span class="name">Water (kwantiteit)</span><span class="desc">Wateropslag als betaalde dienst helpt, maar de totale watervraag bij vernatting blijft een ruimtelijk vraagstuk</span></div>
-<div class="dim-item"><span class="dot green"></span><span class="name">Natuur (gebieden)</span><span class="desc">Minder depositie + actief bufferbeheer rond Natura 2000 als betaalde dienst</span></div>
-<div class="dim-item"><span class="dot green"></span><span class="name">Natuur (basiskwaliteit)</span><span class="desc">Rentmeesterschap terug: weidevogels, slootkanten, biodiversiteit als verdienmodel</span></div>
-<div class="dim-item"><span class="dot green"></span><span class="name">Voedselzekerheid</span><span class="desc">Drie kanten: duurzamere directe productie, organische stof naar de akkerbouw, en minder afhankelijkheid van soja en kunstmest</span></div>
-<div class="dim-item"><span class="dot green"></span><span class="name">Cultuur &amp; landschap</span><span class="desc">Landschapsidentiteit terug, weidegang, divers veenweidelandschap</span></div>
-<div class="dim-item"><span class="dot green"></span><span class="name">Grondstoffen &amp; kringloop</span><span class="desc">Natte teelt levert eigen strooisel en biomassa, kringloop sluit zich op bedrijfsniveau</span></div>
-<div class="dim-item"><span class="dot amber"></span><span class="name">Wonen &amp; recreatie</span><span class="desc">RO-typologie maakt functiemenging mogelijk: wonen bij de boer, recreatiewoningen, tiny houses</span></div>
 </div>
 
 {{partial:e-aktes-dimensie-ontwikkeling}}

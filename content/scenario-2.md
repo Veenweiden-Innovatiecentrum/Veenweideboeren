@@ -31,6 +31,8 @@ En dan valt het bedrijf om op kosten en omzet, niet op motivatie of vakmanschap.
       <p style="margin:0"><strong>Water naar boven, rust op de rest.</strong> Hoog gelegen percelen stoten het meest uit en lijden het meest onder droogteschade — daar zit de winst van actief watermanagement. Lage natte percelen kunnen vaak met rust gelaten worden. Differentiatie binnen peilvakken benut die kennis; generieke peilfixatie negeert haar.</p>
 </div>
 
+Wat dat per opgave betekent, splitst zich netjes langs de lijn van de handhaving. Wat is opgelegd, wordt gehaald: de emissies uit de bodem dalen en de depositie op nabijgelegen natuur neemt af. Wat gevraagd wordt zonder norm, gebeurt niet: geen betaald landschapsbeheer, geen berging, geen wonen. En bij de waterkwaliteit valt het tussenin, want bij vernatting komt eerst gebonden fosfaat vrij en gaat de kwaliteit achteruit voordat zij vooruitgaat. De tien dimensies staan naast elkaar in hoofdstuk 9.
+
 ### 7.3 Waarom de verbetering niet standhoudt
 
 Eerst gaat het beter, en dat is geen schijn. De grondwaterstand stijgt, de uitstoot uit de bodem daalt, de sloten worden groener. De maatregelen doen wat zij moeten doen.
@@ -52,15 +54,4 @@ De motor slaat af. Het zijn de familiebedrijven die de opgaven al serieus namen,
 
 Daarmee verdwijnt precies de figuur die scenario III nodig heeft. Een dienst leveren tegen een prijs vraagt iemand die de investering wil doen en de kans zelf ziet, en dat kun je niemand opdragen. Wie dat zou doen is in dit scenario vertrokken, en zijn land is gekocht door een partij die er niet woont.
 
-<div class="dim-list">
-      <div class="dim-item"><span class="dot amber"></span><span class="name">Klimaat &amp; bodemdaling</span><span class="desc">Verbetert aanvankelijk door hoger peil, maar verbetering vlakt af als actief beheer (greppelinfiltratie, slootbeheer) verdwijnt met de rentmeesters</span></div>
-      <div class="dim-item"><span class="dot amber"></span><span class="name">Klimaat (bedrijf)</span><span class="desc">Onduidelijk, productie verplaatst zich naar elders, geen netto winst</span></div>
-      <div class="dim-item"><span class="dot amber"></span><span class="name">Water (kwaliteit)</span><span class="desc">Normering lijkt te werken, maar na-ijleffecten en gebrek aan slootbeheer zorgen dat verbetering uitblijft</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Water (kwantiteit)</span><span class="desc">Vernatting vreet water op, geen actief beheer, geen buffering, waterbeschikbaarheid neemt af</span></div>
-      <div class="dim-item"><span class="dot amber"></span><span class="name">Natuur (gebieden)</span><span class="desc">Stikstofdepositie daalt door minder vee, Natura 2000-druk neemt iets af</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Natuur (basiskwaliteit)</span><span class="desc">Sloten op de oude manier geschoond, basiskwaliteit wordt niet beter, eerder slechter</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Voedselzekerheid</span><span class="desc">Verlies op alle drie de kanten: minder productie, geen mest- of waterdienst ontwikkeld, kringloop niet gesloten</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Cultuur &amp; landschap</span><span class="desc">De mensen die het landschap kenden zijn weg, identiteit en beleving verdwijnen</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Grondstoffen &amp; kringloop</span><span class="desc">Geen verandering, bulksysteem blijft, kringloop blijft open</span></div>
-      <div class="dim-item"><span class="dot red"></span><span class="name">Wonen &amp; recreatie</span><span class="desc">Problemen lopen door, stikstof en het slepende overgangsproces blokkeren woningbouw en recreatie</span></div>
 </div>

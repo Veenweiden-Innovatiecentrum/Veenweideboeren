@@ -196,40 +196,60 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 # Deel III — Hoe het kan lopen
 
+*Hoofdstuk 6, 7 en 8 zijn één vergelijking, en daarom hebben zij dezelfde vier bewegingen. Hoofdstuk 8 doet ze al: **wat er gebeurt** (8.1) · **waarom het zo uitpakt** (8.2) · **wat dat betekent per opgave** (8.3) · **de motor** (8.4). Hoofdstuk 6 en 7 volgden die orde niet: zij hadden drie secties waarvan de eerste vijf elementen droeg en de twee andere er één. Voorstel van 20-8: beide naar vier secties in dezelfde orde als 8. Dan staat de vergelijking er ook als vorm, en dat is precies waarom C 19-8 vóór de aktes is gezet.*
+
+*De tweede reden om ze samen te pakken is de lengte. In de bestuursversie is akte I 713 woorden leesregel en akte II 1.290, tegen 1.053 voor akte III. Die 1.290 zit vrijwel volledig in de vier driesporenkaders die naar bijlage 16 gaan. `bloktypen.md` geeft de regel al voor kolommen en zij geldt hier net zo: wat je vergelijkt moet even lang zijn, anders leest het langste als het belangrijkste. **Budget: 6 op ±850, 7 op ±900.***
+
+*De meetlat is hoofdstuk 5, en dat levert per akte één element op dat er nog niet stond. In akte I komt de ruimte van 5.2 nooit vrij, dus geen van de vier routes uit 5.3 ontstaat — en de enige prestatie waarvoor het apparaat vandaag staat, het weidevogelbeheer, is juist het eerste dat onder margedruk sneuvelt. In akte II komt die ruimte wél vrij en blijft zij leeg, en dat is de rekensom van 3.2 zonder antwoord: minder omzet bij gelijke kosten.*
+
 ## 6 — Wat er gebeurt als er niets verandert (akte I) · bron: akte-1 · ronde 2
 
-> Er verandert niets. Dat lijkt de veilige route en is het niet: bij de volgende schok in melkprijs, voer, klimaat of regelgeving valt een monocultuur om, en de opvolging is dan al onbetaalbaar geworden. Dit hoofdstuk beschrijft een toestand, geen keuze van iemand.
+> Er verandert niets. Dat lijkt de veilige route en is het niet: het is één product op één markt, en bij de volgende schok in melkprijs, voer, klimaat of regelgeving valt dat om. De ruimte uit 5.2 komt hier nooit vrij, dus ontstaat er ook geen enkel product uit 5.3. Dit hoofdstuk beschrijft een toestand, geen keuze van iemand.
 
-### 6.1 Een toestand die stabiel lijkt
-- de drie aktes in drie regels: er verandert niets · de maatregelen komen zonder verdienmodel eronder · dezelfde maatregelen mét verdienmodel eronder `[kader · nieuw]` — de ene introductie die toetsregel 13 vraagt, hier omdat de lezer haar hier nodig heeft en nergens eerder
-- akte I lijkt te werken omdat er nog niets is gebeurd `[tekst · verhuisd]` uit hoofdstuk 5
-- **geen verwijt aan wie niets doet:** dit is de beschrijving van een toestand die van buiten stabiel lijkt, niet van een keuze van iemand `[tekst · nieuw]` toetsregel 12b
-- het is geen stabiele toestand maar een kwetsbaarheidspositie: een monocultuur die bij de volgende schok omvalt `[tekst · nieuw]` besluit 17-8
-- bedrijfsopvolging wordt onbetaalbaar door het kapitalisatierisico `[tekst · nieuw]` één zin, besluit 17-8
+### 6.1 Wat je dan ziet · budget 260
+- **de inzet: de drie aktes in drie regels** — er verandert niets · de maatregelen komen zonder verdienmodel eronder · dezelfde maatregelen mét verdienmodel eronder `[kader · nieuw]` de ene introductie die toetsregel 13 vraagt, hier omdat de lezer haar hier nodig heeft en nergens eerder. Kort: drie regels, geen alinea per akte
+- **het beeld:** hetzelfde land, strakker. Grotere percelen, gedempte sloten, weinig koeien buiten, een grotere stal, en midden in de percelen blijft het droog. De uitkomst van grondschaarste, een keten die volume beloont en het ontbreken van een betaling voor iets anders `[tekst · auteurs]` het "startbeeld" en "het beeld" van de auteurs, ingedikt tot één alinea. **Twee dingen moeten hier om:** "de boeren zijn niet genegen het waterpeil te verhogen" is een verwijt aan de ondernemer (toetsregel 5) en gebruikt kaal "waterpeil" (`terminologie.md`) — het wordt: er staat geen betaling tegenover een hogere grondwaterstand, dus gebeurt het niet. En de alinea over vrijwilligheid die "precies oplevert wat je verwacht: weinig" is een oordeel over het beleid (toetsregel 1) en gaat eruit
+- **geen verwijt aan wie niets doet:** dit is een toestand die van buiten stabiel lijkt, en niet iemands keuze `[tekst · nieuw]` toetsregel 12b, dezelfde vangrail die akte II krijgt
 
-### 6.2 Wat dat betekent per opgave
-- de tien dimensies bij akte I, met waterkwantiteit oranje in plaats van groen `[lijst · auteurs]` correctie Niel
+### 6.2 Waarom dit geen stabiele toestand is · budget 280
+- **akte I lijkt te werken omdat er nog niets is gebeurd:** geen stabiele toestand maar een kwetsbaarheidspositie, die zich pas openbaart bij de volgende schok in soja, kunstmest, melkprijs, klimaat of regelgeving `[tekst · verhuisd]` woordelijk klaar in `correctielijst.md`, uit hoofdstuk 5; besluit 17-8 over de monocultuur valt hiermee samen
+- **de drie termijnen:** op korte termijn vernietigt margedruk het rentmeesterschap, op middellange termijn maakt de schaalvergrotingsreflex de fijnmazigheid kapot, en op lange termijn blokkeert de klemzittende middengroep de transitie zelf `[kaarten · auteurs]` woordelijk klaar in `correctielijst.md`, vorm al gebouwd in commit `6a30ea3`. **De eerste kaart draagt de meetlat van hoofdstuk 5:** het weidevogelbeheer is de enige prestatie waarvoor de uitvoering vandaag staat, en het is het eerste dat sneuvelt
+- **de opvolging wordt onbetaalbaar:** wie neemt een kapitaalintensief bedrijf over waarvan de marge dunner wordt `[tekst · auteurs]` één zin, besluit 17-8; de zin van de auteurs staat er al ("wie neemt zo'n bedrijf nog over?") en hoeft alleen de reden erbij
 
-### 6.3 De motor
-- hoe het ondernemerschap er in akte I uitziet `[tekst · auteurs]` — vaste kop, elke akte heeft deze alinea
+### 6.3 Wat dat betekent per opgave · budget 240
+- **de tien dimensies bij akte I**, met waterkwantiteit oranje in plaats van groen `[lijst · auteurs]` correctie Niel. Langslopen op de regel *een opgave is niet een maatregel*, en op de vier labels: bij een eis staat wat er niet gehaald wordt, bij een wens dat er niemand voor betaalt
+- **de verborgen kosten die niemand op de begroting zet:** KRW-boetes, stikstofboetes, woningbouw op slot, infrastructuurschade door bodemdaling. Niemand boekt ze, de samenleving betaalt ze `[tekst · auteurs]` uit "De boodschap" van de auteurs. Feitelijk en zonder dader, dus toetsregel 1 haalt het
+- **de conclusie: zonder perspectief geen opgaven.** Geen enkele opgave wordt structureel gehaald zolang de middengroep geen andere route heeft dan doorgaan zoals het is of stoppen, en dat is 70 tot 80 procent van de bedrijven `[tekst · verhuisd]` woordelijk klaar in `correctielijst.md`, uit hoofdstuk 4. **Hier landt ook de areaal-claim met haar `[[CIJFER]]`**, en dat is de enige open markering van dit hoofdstuk
+
+### 6.4 De motor · budget 220
+- **hoe het ondernemerschap er in akte I uitziet:** de motor draait, maar op de verkeerde brandstof. Wie overblijft ondernemt op volume en op kosten, en dan zijn de opgaven een kostenpost `[tekst · auteurs]` vaste kop, elke akte heeft deze alinea
+- **wat er met zo'n ondernemer verdwijnt, is concreet en telbaar:** de uren landbeheer waarvoor geen rekening bestaat, en dat die onbeprijsd zijn en niet gratis blijkt pas als het eigenaarschap verschuift `[tekst · verhuisd]` woordelijk klaar in `correctielijst.md`, redactiebrief §3. **De slotzin is de ene toegestane zin over afwendbaarheid:** zolang deze ondernemers er zijn, is het te voorkomen. Dat is ook de brug naar hoofdstuk 7, waar het sneller gaat
 
 ---
 
 ## 7 — Wat er gebeurt zonder verdienmodel eronder (akte II) · bron: akte-2 · ronde 2
 
-> De maatregelen komen, en er ligt geen verdienmodel onder. De doelen zijn legitiem en de beperkingen zijn nodig; wat ontbreekt is de bodem waarop een bedrijf ze kan dragen. Dan landen de kosten bij de ondernemer, verdwijnt hij, en blijft de opgave over zonder iemand die haar uitvoert.
+> De maatregelen komen, en er ligt geen verdienmodel onder. De doelen zijn legitiem en de beperkingen zijn nodig; wat ontbreekt is de bodem waarop een bedrijf ze kan dragen. De ruimte uit 5.2 komt hier wél vrij en blijft leeg, de kosten landen bij de ondernemer, en de opgave blijft over zonder iemand die haar uitvoert.
 
-### 7.1 De maatregelen kloppen, er ligt alleen niets onder
-- **eerst de erkenning:** de doelen zijn legitiem en de beperkingen zijn nodig; wat ontbreekt is niet de wil of de inzet maar het verdienmodel eronder `[tekst · nieuw]` toetsregel 2, en dit is de plek waar die regel moet landen
-- **akte II is niemands beleid.** Het is een categorie: wat er gebeurt bij elke ronde maatregelen zonder bedrijfsmodel eronder. Geen enkel voorbeeld uit het beleid van vandaag `[tekst · nieuw]` besluit §8 en toetsregel 12b
-- de uitkoopregelingen van 2008 tot 2020 als eerdere ronde van hetzelfde mechanisme, zonder oordeel `[fiche · nieuw]` besluit 17-8
-- de ondernemer valt om op kosten en omzet, niet op motivatie of vakmanschap `[tekst · auteurs]` toetsregel 5
+### 7.1 De maatregelen kloppen, er ligt alleen niets onder · budget 280
+- **eerst de erkenning:** de doelen zijn legitiem en de beperkingen zijn nodig; wat ontbreekt is niet de wil of de inzet maar de bodem waarop een bedrijf ze kan dragen `[tekst · nieuw]` toetsregel 2, en dit is de plek waar die regel moet landen. Hij staat vóór alles wat er verder in dit hoofdstuk gebeurt
+- **akte II is niemands beleid, het is een categorie:** wat er gebeurt bij elke ronde maatregelen zonder bedrijfsmodel eronder. Geen enkel voorbeeld uit het beleid van vandaag `[tekst · nieuw]` besluit §8 en toetsregel 12a. **De vier driesporenkaders gaan hiermee naar bijlage 16** — zij zijn precies het tegenovergestelde van deze regel, want zij kaarten de akte op één beleidsstuk
+- **wat het bedrijf merkt:** de eisen worden hard en gehandhaafd, en wat ertegenover staat vergoedt schade in plaats van een prestatie te betalen `[tekst · auteurs]` de compensatie-alinea van de auteurs, ingedikt en met de vier labels erin. **Twee dingen moeten om:** de kop "Ingrijpen zonder pijlers" en de openingszin "De overheid grijpt in met harde maatregelen" (toetsregel 12b, en dit is de zin waar het bestuur over viel). De juridische uitleg over nadeelcompensatie wordt een fiche; "minimaal -40 cm" wordt "-20 tot -40 cm" *(Simon)*
 
-### 7.2 Wat dat betekent per opgave
-- de dimensies bij akte II: waterkwantiteit rood, en waterkwaliteit verslechtert eerst door fosfaatmobilisatie `[lijst · auteurs]` correcties Niel
+### 7.2 Waarom het bedrijf dat niet kan dragen · budget 250
+- **de ondernemer valt om op kosten en omzet, niet op motivatie of vakmanschap:** de kosten stijgen met de verplichtingen, en de gederfde omzet wordt niet betaald `[tekst · auteurs]` toetsregel 5. **En dit is de plek voor de rekensom van 5.2:** de ruimte komt hier wel vrij, alleen komt er niets voor in de plaats, dus is zij alleen omzetverlies
+- **en het raakt juist wie al verder is:** generieke maatregelen treffen ook de familiebedrijven die de opgaven al serieus nemen, en generieke peilfixatie raakt de laaggelegen percelen die nu al weinig uitstoten `[fiche · auteurs]` de twee kaders van de auteurs samen in één fiche; `bloktypen.md` eist dat de strekking wél in de lopende tekst landt
+- **eerdere ronden van hetzelfde mechanisme:** uitkoopregelingen 2008 tot 2020 en de eerste generatie stikstofmaatregelen, als waarneming en zonder oordeel `[fiche · verhuisd]` woordelijk klaar in `correctielijst.md`, besluit 17-8. Dit is wat "een categorie en niemands beleid" waar maakt: het mechanisme heeft al eerder gedraaid
 
-### 7.3 De motor
-- ook koploper-familieondernemers worden geraakt, en generieke peilfixatie raakt wie al weinig uitstoot `[fiche · auteurs]` — de strekking hoort in de lopende tekst te landen
+### 7.3 Wat dat betekent per opgave · budget 250
+- **de tien dimensies bij akte II:** waterkwantiteit rood, en waterkwaliteit gaat éérst achteruit doordat bij vernatting gebonden fosfaat vrijkomt `[lijst · auteurs]` correcties Niel. Het mechanisme heet **interne eutrofiëring** en de bronnen staan in `correctielijst.md`; het is het schoolvoorbeeld dat één maatregel de ene opgave dient en de andere schaadt
+- **de grond gaat naar wie er niet woont:** bedrijven met grondhonger van buiten het gebied, of partijen die op betere tijden wachten `[tekst · auteurs]` de grondhonger-alinea, ingedikt
+- **en dan keert de verbetering:** de maatregelen doen op papier wat ze moeten doen, en daarna verdwijnt met de ondernemer het beheer waarop die verbetering rust `[tekst · auteurs]` dit is de boemerang in zijn scherpste vorm, en het is de reden dat akte II en akte III niet op dezelfde plek uitkomen
+
+### 7.4 De motor · budget 200
+- **de motor slaat af:** de familiebedrijven die de opgaven al serieus namen kunnen de kostenstijging niet opvangen, en wat overblijft heeft geen binding met het gebied `[tekst · auteurs]` vaste kop
+- **precies de ondernemende boer uit 5.4 is dan weg:** de investering die akte III vraagt kan niemand opdragen, en wie haar zou doen is vertrokken `[tekst · nieuw]` de meetlat van hoofdstuk 5, één zin. Akte III mag hier bij naam genoemd worden, want de introductie staat in 6.1
+- **`[[KEUZE]]` de verharding van de verhouding:** wat overblijft heeft de omzet en de adviseurs om beleid bij de rechter te bestrijden. *Lian: "wat opruiend, nodig?"* Mijn advies is eruit: het is een voorspelling over gedrag van derden en het staat in de scherpste alinea van het hoofdstuk, waar toetsregel 1 het zwaarst weegt `[tekst · auteurs]`
 
 ---
 

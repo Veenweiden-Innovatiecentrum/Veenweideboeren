@@ -1,8 +1,9 @@
 ## 6 — Wat er gebeurt als er niets verandert
 
 <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.08);border-left:3px solid var(--accent);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 2rem;font-size:13.5px;line-height:1.65">
-<strong style="display:block;margin-bottom:8px;font-size:14px">Drie scenario's, en waarin zij verschillen</strong>
-<p style="margin:0">Dit deel zet drie scenario's naast elkaar. Het zijn geen voorspellingen en zij volgen elkaar niet op: het zijn drie standen van hetzelfde systeem, en zij verschillen op twee dingen. Waarop er gestuurd wordt, en of er één product wordt afgerekend of twee. In alle drie blijft het bedrijf melken; wat verschilt is of maatschappelijke diensten een tweede product worden, van hetzelfde gewicht als de melk. Die twee assen staan hieronder, en het overzicht komt boven elk van de drie hoofdstukken terug.</p>
+<strong style="display:block;margin-bottom:8px;font-size:14px">Van wat er nodig is naar wat er gebeurt</strong>
+<p style="margin:0 0 .75rem">Hoofdstuk 5 eindigt op wat er nodig is. Naast de melk kan een tweede product staan, en daarvoor is een ondernemende boer nodig die de investering wil doen. Of het zover komt, beslist die boer niet alleen. Het hangt aan twee dingen die buiten het bedrijf worden bepaald: waarop de overheid stuurt, en of er voor die tweede dienst betaald wordt.</p>
+<p style="margin:0">Dit deel zet die twee in drie standen en kijkt per stand wat er gebeurt, met het bedrijf en met wat Nederland van dit gebied vraagt. Het zijn geen voorspellingen en zij volgen elkaar niet op; het zijn drie standen van hetzelfde systeem. In alle drie blijft het bedrijf melken, en wat verschilt is of maatschappelijke diensten een tweede product worden van hetzelfde gewicht. De drie naast elkaar staan in hoofdstuk 9.</p>
   </div>
 
 {{partial:scenario-verschil}}

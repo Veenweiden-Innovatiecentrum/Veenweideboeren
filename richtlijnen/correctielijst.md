@@ -186,6 +186,11 @@
 - [x] **De oude 5.3 vervalt als sectie.** Het nutsfunctie-argument en het alternatief-argument gaan naar 5.4; de tegenwerping en de ruimtedruk gaan het hoofdstuk uit, zie de regels onder `h-risicos.md` en `scope.md`
 - [x] **Doorlopend in dit hoofdstuk: "de ondernemende boer" waar het argument valt**, niet kaal "de ondernemer". Regel in `terminologie.md` (Tim, 20-8)
 
+### Openstaande keuze voor Tim, geopend 20-8 bij 5.3
+
+- [ ] **Hoort landelijk wonen bij de producten in 5.3?** Tim noemde het 20-8 als vierde, naast koolstofopslag, wateropslag en het verbouwen van biodiversiteit. **Ik heb het er nog niet in gezet, want het is een andere soort.** De andere drie zijn prestaties van de grond met een afnemer die een begroting heeft; wonen is een functieverandering, met een planologisch besluit eraan vast. Bovendien heeft 5.3 als harde voorwaarde dat de grond de status landbouw houdt, omdat de omliggende bedrijven anders in dezelfde regelgeving vastlopen — en wonen wringt daartegenaan. **Twee routes:** wonen erbij als vierde met één regel die het onderscheid maakt (prestatie van de grond tegenover functie op het erf), of wonen laten waar het staat, in 4.3 als gevraagde wens en in hoofdstuk 10 als inkomstenstroom. Mijn voorstel is het tweede, maar dit is Tims keuze
+- [ ] **Additionaliteit bij de CO₂-route, gevonden 20-8.** Sinds 4.1 de bodememissies als harde eis neerzet, is het remmen van veenoxidatie deels iets wat toch al moet — en wat je toch al moet doen, kun je niet als reductie verkopen. 5.3 maakt de scheiding tussen *vermeden uitstoot* en *vastlegging* al; die is nu niet alleen boekhoudkundig maar ook juridisch, want alleen wat verder gaat dan het peilbesluit is additioneel. Aan te scherpen bij de ronde die de koolstofroute uitwerkt, en het raakt hoofdstuk 12
+
 ### Bronnen en getallen die in hoofdstuk 5 nog toegevoegd moeten worden
 
 *De markeringen zijn 19-8 op Tims verzoek uit de tekst gehaald, zodat het hoofdstuk leesbaar is. Ze staan hier met de zin waaraan ze hingen, zodat de plek terug te vinden is. **Zonder deze lijst lijkt hoofdstuk 5 volledig van bronnen voorzien, en dat is het niet.***

@@ -493,7 +493,7 @@ Waterkwaliteit, biodiversiteit en broeikasgasreductie worden dus pas bereikbaar 
 
 <div style="background:var(--bg3);border:1px solid rgba(0,0,0,.08);border-left:3px solid var(--accent);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 2rem;font-size:13.5px;line-height:1.65">
 <strong style="display:block;margin-bottom:8px;font-size:14px">Drie scenario's, en waarin zij verschillen</strong>
-<p style="margin:0">Dit deel zet drie scenario's naast elkaar. Het zijn geen voorspellingen en zij volgen elkaar niet op: het zijn drie standen van hetzelfde systeem, en zij verschillen op twee dingen. Waarop er gestuurd wordt, en of er naast de melk een tweede verdienmodel komt. In alle drie blijft het bedrijf melken, dus het gaat niet om een ander verdienmodel maar om een tweede. Die twee assen staan hieronder, en het overzicht komt boven elk van de drie hoofdstukken terug.</p>
+<p style="margin:0">Dit deel zet drie scenario's naast elkaar. Het zijn geen voorspellingen en zij volgen elkaar niet op: het zijn drie standen van hetzelfde systeem, en zij verschillen op twee dingen. Waarop er gestuurd wordt, en of er één product wordt afgerekend of twee. In alle drie blijft het bedrijf melken; wat verschilt is of de maatschappelijke prestatie een tweede product wordt, van hetzelfde gewicht als de melk. Die twee assen staan hieronder, en het overzicht komt boven elk van de drie hoofdstukken terug.</p>
   </div>
 
 {{partial:scenario-verschil}}

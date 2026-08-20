@@ -121,6 +121,12 @@ De winst zit niet alleen in rust. Acht blokken die nu als terzijde lezen, blijke
 | **Bouwsteentabellen** | 11 | Blijven in de toolbox |
 | **Partials** | 4 | populatiemodel (a-klem) en dimensieontwikkeling (staat in `scenario-3`) blijven. `f-ondernemer-visual-1` bij het hoofdstuk. `i-vic-rol-visual-1` verhuist mee naar het programmavoorstel |
 
+## De lead (20-8, bij Deel III)
+
+**Klasse `scenario-lead`, drie vindplaatsen: 6.1, 7.1 en 8.1.** De scenario-omschrijving is het dragende stuk van zijn hoofdstuk en wordt daarom gezet op 16,5 punt tegen 14,5 voor de lopende tekst, ruimer geregeld, met één dunne verticale lijn in de accentkleur ernaast. **Geen achtergrond, geen kop, dus geen accentkader.**
+
+Tim vroeg op 20-8 hoe je kunt tonen dat die drie de belangrijkste stukken zijn. Twee bestaande regels sloten de gemakkelijke antwoorden af, en dat maakte de keuze scherper. Een doos kon niet, want besluit 19-8 houdt het accentkader met eigen kop voorbehouden aan de openingssectie, en dezelfde dag was de kaartvorm juist weggehaald. Een label als "de kern" of een zwaardere kop kon ook niet, want dan zegt het document zelf welk deel het belangrijkste is, en dat is wat de redactiebrief commentaar op het eigen document noemt; het roept bovendien de vraag op wat de rest dan is. **Wat overblijft is de journalistieke lead: dezelfde tekst, meer gewicht, geen uitspraak.** De prijs is dat het subtiel is, en die is bewust aanvaard.
+
 ## Twee vormen die niet in de inventaris stonden (19-8, bij hoofdstuk 3)
 
 De dertig accentkaders zijn geteld, maar deze twee vormen zaten er niet bij en doen wél werk:

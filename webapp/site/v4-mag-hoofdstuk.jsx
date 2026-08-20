@@ -77,7 +77,7 @@ function MagOpener({ h, foto, variant }) {
   );
 }
 
-function MagHoofdstuk({ h, index, foto, quote, vooraf, naBody }) {
+function MagHoofdstuk({ h, index, foto, quote, vooraf, naBody, werkstand }) {
   const v = React.useMemo(() => magVerwerk(h.html), [h.id]);
   const variant = (!foto || h.id === 'intro' || h.id === 'slot')
     ? 'typo'
@@ -85,6 +85,7 @@ function MagHoofdstuk({ h, index, foto, quote, vooraf, naBody }) {
   return (
     <section id={'mag-' + h.id} className={'magh' + (index === 0 ? ' magh--eerste' : '')}>
       <MagOpener h={h} foto={foto} variant={variant}></MagOpener>
+      {werkstand && <div className="magh-body" style={{ margin: '0 auto 8px' }}>{werkstand}</div>}
       {v.lead && (
         <div className={'magh-lead' + (v.dropcap ? ' magh-heeft-dropcap' : '')}>
           <Html html={v.lead}></Html>

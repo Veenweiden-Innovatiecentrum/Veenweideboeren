@@ -23,7 +23,7 @@ function Werkstand({ h }) {
   return (
     <p style={{ fontFamily: 'var(--font-mono, monospace)', fontSize: 11, color: 'var(--text3)',
                 margin: '-6px 0 14px', letterSpacing: '.01em' }}>
-      content/{h.id}.md{nummer}{ronde} · {w.stand}
+      content/{h.id}.md{nummer}{ronde} · <Md tekst={w.stand}></Md>
     </p>
   );
 }
@@ -260,6 +260,7 @@ function DocumentLezer({ openToolbox, wisselVorm }) {
                 {klap}
               </h2>
               <Werkstand h={h}></Werkstand>
+              <Skelet h={h}></Skelet>
               {!isOpen && h.intro && (
                 <p onClick={() => toggle(h.id)} style={{ cursor: 'pointer', color: 'var(--text2)' }}>
                   {h.intro.slice(0, 220)}{h.intro.length > 220 ? '\u2026' : ''}
@@ -272,7 +273,6 @@ function DocumentLezer({ openToolbox, wisselVorm }) {
               )}
               {isOpen && (
                 <div className="v4-doc-inline">
-                  <Skelet h={h}></Skelet>
                   {isScenarios && <div style={{ margin: '6px 0 26px' }}><ScenarioViewer></ScenarioViewer></div>}
                   <Html html={h.html}></Html>
                   {isToolbox && (
@@ -329,6 +329,7 @@ function MagazineLezer({ openToolbox, wisselVorm }) {
         }
         return (
           <MagHoofdstuk key={h.id} h={h} index={i} foto={foto} quote={PULL_QUOTES[h.id]}
+            werkstand={<><Werkstand h={h}></Werkstand><Skelet h={h}></Skelet></>}
             vooraf={h.id === 'scenario-1' ? <div className="magh-scenarioviewer"><ScenarioViewer></ScenarioViewer></div> : null}
             naBody={h.id === 'f-ondernemer' ? (
               <div className="magh-nabody">

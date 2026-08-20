@@ -243,6 +243,15 @@
 - [x] **Verhuisd uit `c-omslag`, geland in 8.4 op 19-8:** de ontwerpkeuze-alinea. Zonder het woord "antifragiel", want dat is jargon: "een systeem dat van variatie profiteert in plaats van eraan onderdoor te gaan"
 - [ ] **Het kernbeeld van scenario III toont alleen de overheid als opdrachtgever.** Toetsregel 26 vraagt een tweede pijl voor de markt. Dat is beeldwerk en geen tekst; zie ook `bloktypen.md`, "nog te toetsen bij het schrijven". *Stond tot 19-8 als `[[TODO]]` in de tekst*
 
+## partials/e-aktes-dimensie-ontwikkeling.html
+
+*Deze partial hangt nu achteraan `scenario-3.md` en verhuist naar hoofdstuk 9. Op 20-8 is de term er doorgevoerd en zijn de kolomkoppen omgezet: "Akte II — Ingrijpen zonder pijlers" en "Akte III — Mét pijlers" heetten naar wat de overheid doet en gebruikten een verboden term. Nu: "Scenario I — Sturen op middelen", "Scenario II — Doelen zonder verdienmodel", "Scenario III — Doelen mét verdienmodel". Ook "drie pijlers" is "drie kanten" geworden en de waterbuffer aan de akkerbouw is eruit, dezelfde correctie als 19-8 in `scenario-3.md`.*
+
+- [ ] Kleurfout in de opmaak van de dimensieweergave herstellen *(Niel)*
+- [ ] **Drie foute `rx`-afrondingen.** `rx="0 0 2 2"` en `rx="2 2 0 0"` zijn CSS-schrijfwijze in een SVG-attribuut, dat maar één waarde aanvaardt; de browser meldt het in de console en laat de hoeken vierkant. Bedoeld was: alleen boven of alleen onder afgerond, en dat kan in SVG niet met `rx`
+- [ ] **De tweede pijl voor de markt** naast de overheid als opdrachtgever (toetsregel 26)
+- [ ] **Bij de verhuizing naar hoofdstuk 9 langslopen:** de sectie "Kostenverschuiving per scenario" wordt 9.2 en de dimensietabel 9.1. De alinea over de verborgen kosten dubbelt met "De boodschap" van scenario I; die twee samenvoegen. En de tabel draagt de correcties van Niel: waterkwantiteit oranje in I en rood in II, waterkwaliteit in II eerst achteruit door interne eutrofiëring
+
 ## bijlage-driesporen.md
 
 *Deze bijlage is in aanbouw en wordt in ronde 5 afgemaakt. De routering stond tot 19-8 als `[[TODO]]` in de tekst zelf.*
@@ -300,6 +309,10 @@
 - [ ] **`terminologie.md` verbiedt nog "ecosysteemdiensten", en die regel is vervallen.** Redactiebrief §13 vervangt hem door twee definities: een *ecosysteemdienst* is wat de natuur zelf levert, *maatschappelijke dienstverlening* is de ondernemersactiviteit die dat aan een opdrachtgever levert. Het bestuur vroeg op 1 juli juist om dat onderscheid (cluster 7). Opgemerkt 19-8 bij hoofdstuk 8, dat de term niet gebruikt; de regel moet om vóór het eerste hoofdstuk dat hem wél nodig heeft, en dat is hoofdstuk 3 of 14
 
 ---
+
+## walkthrough (buiten de visie)
+
+- [ ] **De walkthrough in `templates/*/template.html` draagt nog de oude taal:** "Akte I — Doorgeïntensiveerd", "Akte II — Zonder pijlers", "Akte III — Mét pijlers". Dat is de leeshulp van de website en geen hoofdstuk (hij staat in `volgorde.txt` maar buiten de lezer), dus hij is op 20-8 bewust niet meegegaan in de veegronde. Wel bijwerken voordat de site publiek gaat, want de bezoeker ziet twee vocabulaires
 
 ## Wat hier bewust níet in staat
 

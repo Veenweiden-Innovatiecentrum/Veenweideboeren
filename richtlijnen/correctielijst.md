@@ -116,7 +116,7 @@
 - [x] **Bij Water — kwaliteit staat de Kaderrichtlijn Water** (toetsregel 24, correctie bestuur 1 juli). De bestuursversie zei al "KRW-doelen" en had het dus goed; toegevoegd is de afbakening dat het op veen om het oppervlaktewater gaat en dat nitraat in grondwater een vraagstuk van de zandgronden is
 - [x] **Zoetwaterbeschikbaarheid staat bij de opgave Water** (besluit 17-8): bij vernatting stijgt de eigen watervraag, en daarmee wordt op termijn bepalend hoeveel zoet water er is. De onderbouwing van Niel/UvW blijft in hoofdstuk 5 staan en is hier niet herhaald, met een verwijzing hierheen — twee vindplaatsen van hetzelfde feit is hoe drift begint. **Het jaartal uit het besluit ("na 2040 bepalend") staat er niet**, want daarvoor is hier geen citeerbare bron
 - [x] **Weidevogels bewijzen dat het gebied de dienst kan leveren, niet dat ervoor betaald wordt** (besluit 18-8): staat als eigen alinea in 4.1, met de ANLb-nuance in één regel en de bron bij hoofdstuk 2
-- [ ] **"De middengroep krijgt een nieuw perspectief: veenweideboer worden"** (nu in 4.2) moet om: dat is de lezer al. Met de schaal uit 9.2 wordt het "meer doen naast het vee, van één perceel tot het hele bedrijf". Opgemerkt 19-8 bij het ombouwen van hoofdstuk 13
+- [x] ~~**"De middengroep krijgt een nieuw perspectief: veenweideboer worden"** (nu in 4.2)~~ — **vervallen 20-8: de zin stond er al niet meer**, hij verdween 19-8 met de akte-introductie. De regel bleef open staan zonder dat er nog iets te doen was. *Oorspronkelijk punt:* moet om: dat is de lezer al. Met de schaal uit 9.2 wordt het "meer doen naast het vee, van één perceel tot het hele bedrijf". Opgemerkt 19-8 bij het ombouwen van hoofdstuk 13
 
 - [x] **"Beschermde soorten" staat nu bij Natuur — basiskwaliteit** *(Simon)*, en Natuur — gebieden houdt Natura 2000 met de staat van de habitats en de stikstofdepositie daarop
 
@@ -124,10 +124,10 @@
 
 *Besluit in `besluitenlog.md`, uitwerking per element in `skelet.md`.*
 
-- [ ] **4.1 houdt de koppeling met 3.3 en de vier harde dimensies**, en krijgt twee dingen: de zin "om **de druk op natuur, klimaat en water** te verminderen legt Nederland een deel van die vraag vast in normen en handhaaft het — en de ondernemer krijgt daarvan geen verlichting, hij krijgt de eisen", en als sluitregel het label: dit zijn eisen zonder prijs. Budget 260 woorden tegen 538 nu
-- [ ] **4.3 is nieuw en krijgt de zes zachte dimensies uit de tabel van 4.1**, met één aanloopregel en de bestaande slotregel van het hoofdstuk. **Voorwaarde: het blijft een opsomming**, anders zegt 5.3 hetzelfde nog eens. Budget 220 woorden
-- [ ] **De weidevogel-alinea gaat uit 4.2**, naar 5.1 als waarneming en naar 5.3 als grensgeval. 4.2 houdt stikstof en krijgt één brug van twee zinnen: wat vandaag niet duwt verdwijnt niet, want de aandacht wisselt per ronde. Budget 170 woorden tegen 250 nu
-- [ ] **Koolstofvastlegging komt níet in 4.3**, anders dan Tims lijst van 20-8 vraagt: Nederland eist lagere emissies en vraagt geen paludicultuur, dus vastlegging is een productroute en staat al in 5.3. Zo blijft de telling zeven opgaven en tien dimensies staan (Simons correctie)
+- [x] **4.1 houdt de koppeling met 3.3 en de vier harde dimensies**, en krijgt twee dingen: de zin "om **de druk op natuur, klimaat en water** te verminderen legt Nederland een deel van die vraag vast in normen en handhaaft het — en de ondernemer krijgt daarvan geen verlichting, hij krijgt de eisen", en als sluitregel het label: dit zijn eisen zonder prijs. Budget 260 woorden tegen 538 nu
+- [x] **4.3 is nieuw en krijgt de zes zachte dimensies uit de tabel van 4.1**, met één aanloopregel en de bestaande slotregel van het hoofdstuk. **Voorwaarde: het blijft een opsomming**, anders zegt 5.3 hetzelfde nog eens. Budget 220 woorden
+- [x] **De weidevogel-alinea gaat uit 4.2**, naar 5.1 als waarneming en naar 5.3 als grensgeval. 4.2 houdt stikstof en krijgt één brug van twee zinnen: wat vandaag niet duwt verdwijnt niet, want de aandacht wisselt per ronde. Budget 170 woorden tegen 250 nu
+- [x] **Koolstofvastlegging komt níet in 4.3**, anders dan Tims lijst van 20-8 vraagt: Nederland eist lagere emissies en vraagt geen paludicultuur, dus vastlegging is een productroute en staat al in 5.3. Zo blijft de telling zeven opgaven en tien dimensies staan (Simons correctie)
 
 ### Openstaande keuze voor Tim, geopend 19-8 bij 4.2 — raakt hoofdstuk 5, 11 en 12
 

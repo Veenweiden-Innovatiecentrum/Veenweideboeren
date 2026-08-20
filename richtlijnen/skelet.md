@@ -102,13 +102,13 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 *De tien dimensies verdelen zich over 4.1 en 4.3, en er komt er geen bij: vier hard, zes zacht. **De splitsing loopt langs lijnen die er al waren.** Water en natuur vielen al in twee dimensies uiteen, en daar staat de harde tegenover de zachte kant: de Kaderrichtlijn Water tegenover waterberging, Natura 2000 tegenover de basiskwaliteit van het boerenland. Bij klimaat zijn beide dimensies hard. Zeven opgaven, tien dimensies — Simons telling blijft dus staan.*
 
-### 4.1 Wat er moet, en waar het het zwaarst is · budget 260 woorden (nu 538)
+### 4.1 Wat er moet, en waar het het zwaarst is · **gehaald: 391 woorden** (was 538; budget was 260 en dat was fout gerekend)
 
 - **de openingsalinea legt de koppeling met het slot van 3.3 en zegt daarna wat er van die vraag hard is.** Eerst: wat voor het bedrijf een vorm van druk is, is voor Nederland een opgave — dezelfde vernatting die 3.3 als kenmerk noemt is hier de wateropgave, dezelfde snelle veenoxidatie de klimaatopgave, dezelfde ligging in of tegen Natura 2000 de natuuropgave. Eén lijst, van twee kanten bekeken, en waar 3.3 zegt dat het het scherpst is waar de druk samenkomt, ligt de vraag ook het dikst gestapeld. Daarna: **om de druk op natuur, klimaat en water te verminderen** legt Nederland een deel van die vraag vast in normen en handhaaft het — en de ondernemer krijgt daarvan geen verlichting, hij krijgt de eisen `[tekst · auteurs + nieuw]` **De formulering "om die druk te verminderen" is van Tim (20-8) en moet zeggen wélke druk:** na 3.3 wijst "die druk" naar het bedrijf, en dan staat er dat het beleid de ondernemer komt helpen. Dat is niet zo, en een beleidslezer concludeert dan dat de klacht van de ondernemer nergens op rust. Hier valt het woord **opgave** voor het eerst, conform `terminologie.md`
 - de vier harde dimensies, met per stuk wat Nederland vraagt en waar die vraag het zwaarst is: klimaat en bodemdaling · klimaat en het bedrijf · waterkwaliteit · Natura 2000 `[tabel · auteurs]` vier van de tien rijen uit de bestaande tabel, cellen ongewijzigd. De drie correcties van 19-8 blijven staan: de KRW bij waterkwaliteit (toetsregel 24) en "beschermde soorten" bij de basiskwaliteit (Simon), die daarmee in 4.3 landt
 - **de sluitregel is het label, en zij is één zin:** dit zijn eisen zonder prijs — ze moeten gehaald worden en ze leveren het bedrijf niets op `[tekst · nieuw]` Tim, 20-8. Zonder dit label is 4.3 een tweede lijst in plaats van de andere helft
 
-### 4.2 Welk dossier nu het hardst duwt · budget 170 woorden (nu 250)
+### 4.2 Welk dossier nu het hardst duwt · **gehaald: 147 woorden** (was 250, budget 170)
 
 - stikstof verklaart de urgentie en is geen achtste opgave: het is de scherpe kant van de natuuropgave, en een lagere veedichtheid verlaagt de ammoniakuitstoot als gevolg van die stap zelf `[tekst · auteurs]` §6, toetsregel 22. **Dit is de tweede koppeling met 3.3:** daar is stikstof het dossier dat het bedrijf in één keer raakt en daarmee doorslaggevend, hier is het geen eigen opgave
 - **en wat vandaag niet duwt, verdwijnt niet.** De aandacht wisselt per ronde, dus een bedrijf dat alleen op het dossier van vandaag is ingericht staat bij de volgende ronde opnieuw voor de vraag `[tekst · nieuw]` twee zinnen. Dit is de brug naar 4.3 én de onderbouwing van het meerproducten-argument in hoofdstuk 5: het is de reden dat een bedrijf meer dan één prestatie moet kunnen dragen
@@ -116,7 +116,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 *De kop noemt stikstof niet bij naam, want toetsregel 22 wil het nergens dominant. Deze sectie gaat van twee dossiers naar één en houdt daarmee haar eigen kop: welk dossier nu het hardst duwt.*
 
-### 4.3 Wat er ook gevraagd wordt, zonder dat het moet · budget 220 woorden (nieuw; de rijen komen uit 4.1)
+### 4.3 Wat er ook gevraagd wordt, zonder dat het moet · **gehaald: 227 woorden** (nieuw, budget 220; de rijen komen uit 4.1)
 
 - één aanloop: naast wat moet, vraagt Nederland meer van dit gebied — en daarvoor is geen norm, geen handhaving en geen geld `[tekst · nieuw]` twee zinnen
 - de zes zachte dimensies, uit dezelfde tabel: waterkwantiteit · de basiskwaliteit van het boerenland · voedselzekerheid · cultuur en landschap · grondstoffen en kringloop · wonen `[tabel · auteurs · verhuisd]` uit 4.1, cellen ongewijzigd. **Koolstofvastlegging staat hier niet**, anders dan Tims lijst van 20-8 vraagt: Nederland eist lagere emissies en vraagt geen paludicultuur, dus vastlegging is een productroute en hoort in 5.3, waar zij al staat. Zo blijft de telling zeven opgaven en tien dimensies overeind
@@ -128,7 +128,7 @@ Dit bestand is de enige plek waar het skelet staat. `build.py site` schrijft het
 
 *Twee punten van de correctielijst vervallen met de bestuursversie zelf: Simons herbeoordeling van de "n.v.t."-cellen en Niels vraag om een fiche bij de scores gaan over de tabel met drie contexten (Polder, Stadsrand, Natuur) en stippen, en die staat alleen in het v2-document. De gepubliceerde versie heeft tien alinea's zonder scores, dus er is niets te scoren en niets uit te leggen.*
 
-*Budget voor het hele hoofdstuk: **650 woorden tegen 832 nu.***
+*Hoofdstuk 4 is af op **774 woorden tegen 832**, en dat is 58 korter en niet de 180 die het budget van 650 beloofde. **Waarom het budget fout was:** de tien tabelrijen zijn 316 woorden van de auteurs en die verhuizen alleen, zij krimpen niet. Ik had gerekend alsof de splitsing zelf woorden zou schelen, en dat doet zij niet. In het proza is de winst er wel: 481 naar 458 woorden, terwijl er een sectiekop, een label, een brug en een aanloop bij kwamen en de weidevogel-alinea van 90 woorden eruit ging. Verder snijden in dit hoofdstuk kan alleen door de tabelcellen van de auteurs te herschrijven, en dat is geen redactiekwestie. **De grote winst blijft in hoofdstuk 5**, waar de 554 woorden zitten die 20-8 zijn belegd.*
 
 ---
 

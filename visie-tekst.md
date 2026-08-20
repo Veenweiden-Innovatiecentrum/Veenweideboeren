@@ -517,7 +517,7 @@ Er wordt in dit gebied wel degelijk gestuurd. Er zijn belangrijke maatregelen ge
 
 Voor het verdienmodel van het bedrijf verandert daarmee niets. Elk van die instrumenten vergoedt kosten of geeft ruimte, en geen ervan zet een gevraagde prestatie mét een prijs naast de melk. Het weidevogel- en landschapsbeheer komt daar het dichtst bij, en ook daar dekt de vergoeding de kosten en de gederfde inkomsten. Er wordt dus betaald, en er wordt niets ingekocht. Er staat op dit bedrijf één prijs, en die staat op de melk. Al het andere komt uit de marge die daarop overblijft. Wat er dan gebeurt is het gedrag dat een systeem oplevert waarin grond schaars is, de keten volume beloont en er voor iets anders geen prijs bestaat: schaalvergroting.
 
-Wat dat per opgave betekent, laat zich uit dat mechanisme aflezen. Waar een doel aan een middel hangt, gebeurt er iets: de ammoniakuitstoot uit de stal daalt, want daar is een investering voor. Waar een doel een prijs vraagt, gebeurt het niet: de emissies uit de bodem dalen niet, de nutriëntenbelasting blijft, en het landschap en de basiskwaliteit van natuur lopen terug met het beheer dat niemand betaalt. De tien dimensies staan naast elkaar in hoofdstuk 9.
+Per opgave loopt het daarmee twee kanten op. Waar een doel aan een middel hangt, gebeurt er iets: de ammoniakuitstoot uit de stal daalt, want daar valt in te investeren. Waar een doel een prijs vraagt, gebeurt het niet. De emissies uit de bodem dalen niet, de nutriëntenbelasting blijft, de melk geeft volume maar hangt aan voer en kunstmest van buiten, en bodemdaling en stikstof houden de woningbouw op slot. Vrijwel geen enkele opgave wordt hier gehaald. De tien dimensies staan naast elkaar in hoofdstuk 9.
 
 ### 6.3 Waarom dit geen stabiele toestand is
 
@@ -525,7 +525,7 @@ Van buiten lijkt dit te werken, en dat komt doordat er nog niets is gebeurd wat 
 
 <p>De boer verdient nog steeds, maar de marges worden dunner. De schaal compenseert wat de prijs per liter niet meer doet. En het tast de overdraagbaarheid aan: wie neemt zo’n bedrijf nog over? Boerenfamilies dreigen achter te blijven met kapitaalintensieve, onverkoopbare bedrijven. Dat is niet alleen een probleem voor de opvolger, want wie geen overdracht ziet investeert de laatste jaren niet meer.</p>
 
-Wat er daarna gebeurt, gaat in drie tempo's. Op korte termijn sneuvelt het werk waarvoor geen rekening bestaat: het beheer van slootkanten, het weidevogelbeheer, het ecologisch maaien. Op middellange termijn maakt de reflex om te groeien het landschap grover, met gedempte sloten en samengevoegde kavels, en verdwijnt het fijnmazige netwerk van oevers, greppels en perceelranden waar weidevogels, insecten en bodemleven van afhankelijk zijn; op veen betekent intensiveren bovendien dieper ontwateren, en dus meer veenoxidatie. Op lange termijn blokkeert de middengroep de omslag zelf: geen marge om te investeren, geen buffer om de eerste kwetsbare jaren door te komen, en geen perspectief dat het risico rechtvaardigt.
+Wat er daarna gebeurt, gaat in drie tempo's. Op korte termijn sneuvelt het werk waarvoor geen rekening bestaat: het beheer van slootkanten, het weidevogelbeheer, het ecologisch maaien. Op middellange termijn maakt de reflex om te groeien het landschap grover, met gedempte sloten en samengevoegde kavels, en verdwijnt het fijnmazige netwerk van oevers, greppels en perceelranden waar weidevogels, insecten en bodemleven van afhankelijk zijn; en op veen betekent intensiveren dieper ontwateren, dus meer veenoxidatie. Op lange termijn blokkeert de middengroep de omslag zelf: geen marge om te investeren, geen buffer om de eerste kwetsbare jaren door te komen, en geen perspectief dat het risico rechtvaardigt.
 
 **Zonder perspectief geen opgaven.** Geen enkele opgave wordt structureel gehaald zolang de middengroep geen andere route heeft dan doorgaan zoals het is of stoppen. Dat is 70 tot 80 procent van de bedrijven in dit gebied, en zij beheert het meeste areaal `[[CIJFER: aandeel van het veenweide-areaal dat de middengroep beheert, met het label eigen analyse VIC/JUMP]]`.
 
@@ -533,7 +533,7 @@ Wat er daarna gebeurt, gaat in drie tempo's. Op korte termijn sneuvelt het werk 
 
 Het ondernemerschap is ook hier de motor, maar hij draait op de verkeerde brandstof. Wie overblijft ondernemt op volume en op kosten: zoveel mogelijk liters, zo laag mogelijke uitgaven. Dat is geen gebrek aan vakmanschap of aan gehechtheid, het is wat een bedrijf doet als de melk het enige is waarvoor een prijs bestaat. De maatschappelijke opgaven zijn in die rekening geen drijfveer maar een kostenpost, iets om te beperken of net binnen de regels te houden. De motor is er dus wel, en hij werkt de opgaven tegen.
 
-<p>Het rentmeesterschap loopt daarmee terug. Deze bedrijven hebben vooral veel hectares nodig, en de zorg voor het land — het beheren van slootkanten, het onderhouden van oevers, het kennen van elk perceel — is vervangen door efficiëntie. Natuur en biodiversiteit gaan achteruit omdat er geen ruimte en geen aandacht meer voor is.</p>
+<p>Het rentmeesterschap loopt daarmee terug. Deze bedrijven hebben vooral veel hectares nodig, en de zorg voor het land is vervangen door efficiëntie: het beheren van slootkanten, het onderhouden van oevers, het kennen van elk perceel. Natuur en biodiversiteit gaan achteruit omdat er geen ruimte en geen aandacht meer voor is.</p>
 
 **Wat er met zo'n ondernemer verdwijnt, is concreet en telbaar.** Het zijn de uren landbeheer waarvoor niemand een rekening krijgt: sloten en oevers schoonhouden, een duiker of een dam op tijd herstellen, opmerken dat er iets niet klopt in het water of in het land, en de aanwezigheid van iemand die het gebied kent. Die prestaties zijn niet gratis maar onbeprijsd, en dat verschil wordt pas zichtbaar wanneer het eigenaarschap verschuift. Vervang de familieondernemer door een belegger of door beheer op afstand, en dan moeten die uren uit publiek geld komen, of ze gebeuren niet. Zolang deze ondernemers er zijn, is dat te voorkomen.
 
@@ -566,7 +566,7 @@ De rekening daarvoor staat intussen op niemands begroting: boetes onder de Kader
 
 De doelen zijn legitiem en de beperkingen zijn nodig. Het veen daalt, de waterkwaliteit haalt de norm niet en de depositie op nabijgelegen natuur is te hoog; dat er dan gehandhaafd wordt op wat gehaald moet worden, is de logische stap. Wat in dit scenario ontbreekt is niet de wil en niet de inzet. Het is de bodem waarop een bedrijf die eisen kan dragen.
 
-**Dit is niemands beleid.** Het is een categorie: wat er gebeurt bij elke ronde maatregelen waaronder geen tweede verdienmodel ligt. Dat mechanisme heeft eerder gedraaid, en het is niet aan één departement of één regeling toe te schrijven.{{fiche:Eerdere ronden van hetzelfde mechanisme|De uitkoopregelingen tussen 2008 en 2020 en de eerste generatie stikstofmaatregelen werkten langs dezelfde lijn: een harde vraag aan het bedrijf, met een vergoeding voor wat het inlevert en geen prijs voor wat het levert. De waarneming uit die ronden is dat het beoogde effect niet werd bereikt en dat de uitstroom versnelde van precies de bedrijven die voor de oplossing nodig zijn. Dat is een waarneming en geen oordeel: de doelen waren toen even legitiem als nu.|Dit staat hier als categorie en niet als voorbeeld uit het beleid van vandaag. De lezing van de aangekondigde veenweide-aanpak staat in bijlage 17, met datum.}}
+**Dit is niemands beleid.** Het is een categorie: wat er gebeurt bij elke ronde maatregelen waaronder geen tweede verdienmodel ligt. Dezelfde ronde is eerder gedraaid, en zij is niet aan één departement of één regeling toe te schrijven.{{fiche:Eerdere ronden van hetzelfde mechanisme|De uitkoopregelingen tussen 2008 en 2020 en de eerste generatie stikstofmaatregelen werkten langs dezelfde lijn: een harde vraag aan het bedrijf, met een vergoeding voor wat het inlevert en geen prijs voor wat het levert. De waarneming uit die ronden is dat het beoogde effect niet werd bereikt en dat de uitstroom versnelde van precies de bedrijven die voor de oplossing nodig zijn. Dat is een waarneming en geen oordeel: de doelen waren toen even legitiem als nu.|Dit staat hier als categorie en niet als voorbeeld uit het beleid van vandaag. De lezing van de aangekondigde veenweide-aanpak staat in bijlage 17, met datum.}}
 
 Wat het bedrijf merkt is dat de sturing van middelen naar doelen gaat. De grondwaterstand moet omhoog, naar -20 tot -40 cm in het veld. De normering op waterkwaliteit wordt strenger, er komen beperkingen rond stikstof en verplichtingen voor natuur. Het bedrijf moet die doelen halen en mag zelf kiezen hoe.
 
@@ -576,11 +576,11 @@ En dan valt het bedrijf om op kosten en omzet, niet op motivatie of vakmanschap.
 
 <div style="background:var(--amber-light);border-left:3px solid var(--amber);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.25rem 0;font-size:13.5px;line-height:1.65">
       <strong style="display:block;margin-bottom:6px;font-size:14px">Generieke peilfixatie pakt de boer die al weinig uitstoot</strong>
-      <p style="margin:0 0 .75rem">Niet elk veen emitteert evenveel. Percelen die al laag liggen zijn doorgaans natter en stoten minder broeikasgassen uit dan hoog gelegen percelen. Generieke peilfixatie binnen een peilvak raakt boeren met overwegend laaggelegen percelen — die nu al weinig uitstoten — harder dan boeren met hoge percelen die veel meer uitstoten. De boer die al weinig uitstoot, betaalt. Zonder kartering en differentiatie binnen peilvakken is dat moeilijk verdedigbaar.</p>
-      <p style="margin:0"><strong>Water naar boven, rust op de rest.</strong> Hoog gelegen percelen stoten het meest uit en lijden het meest onder droogteschade — daar zit de winst van actief watermanagement. Lage natte percelen kunnen vaak met rust gelaten worden. Differentiatie binnen peilvakken benut die kennis; generieke peilfixatie negeert haar.</p>
+      <p style="margin:0 0 .75rem">Niet elk veen emitteert evenveel. Percelen die al laag liggen zijn doorgaans natter en stoten minder broeikasgassen uit dan hoog gelegen percelen. Generieke peilfixatie binnen een peilvak raakt bedrijven met overwegend laaggelegen percelen, die nu al weinig uitstoten, harder dan bedrijven met hoge percelen die veel meer uitstoten. De boer die al weinig uitstoot, betaalt. Zonder kartering en differentiatie binnen peilvakken is dat moeilijk verdedigbaar.</p>
+      <p style="margin:0"><strong>Water naar boven, rust op de rest.</strong> Hoog gelegen percelen stoten het meest uit en lijden het meest onder droogteschade, en daar zit dus de winst van actief watermanagement. Lage natte percelen kunnen vaak met rust gelaten worden. Differentiatie binnen peilvakken benut die kennis; generieke peilfixatie negeert haar.</p>
 </div>
 
-Wat dat per opgave betekent, splitst zich netjes langs de lijn van de handhaving. Wat is opgelegd, wordt gehaald: de emissies uit de bodem dalen en de depositie op nabijgelegen natuur neemt af. Wat gevraagd wordt zonder norm, gebeurt niet: geen betaald landschapsbeheer, geen berging, geen wonen. En bij de waterkwaliteit valt het tussenin, want bij vernatting komt eerst gebonden fosfaat vrij en gaat de kwaliteit achteruit voordat zij vooruitgaat. De tien dimensies staan naast elkaar in hoofdstuk 9.
+Per opgave splitst het langs de lijn van de handhaving. Wat is opgelegd, wordt gehaald: de emissies uit de bodem dalen en de depositie op nabijgelegen natuur neemt af. Wat gevraagd wordt zonder norm, gebeurt niet: geen betaald landschapsbeheer, geen berging, geen wonen. En bij de waterkwaliteit valt het tussenin, want bij vernatting komt eerst gebonden fosfaat vrij en gaat de kwaliteit achteruit voordat zij vooruitgaat. De tien dimensies staan naast elkaar in hoofdstuk 9.
 
 ### 7.3 Waarom de verbetering niet standhoudt
 
@@ -590,11 +590,11 @@ Eerst gaat het beter, en dat is geen schijn. De grondwaterstand stijgt, de uitst
 
 <p>Hun land wordt overgenomen door bedrijven die er niet wonen, vaak uit de kleigebieden, met een grote behoefte aan hectares voor hun mestplaatsingsruimte. Vrijkomend veenweideland is goedkoop. Of het gaat naar partijen die het aanhouden tot de tijden beter zijn.</p>
 
-<p>En dan keert de beweging. Wie op afstand beheert, doet wat er in het contract staat: geen zorg voor de slootkanten, geen oog voor de weidevogels, geen greppel die op tijd wordt opengetrokken. De verbetering die de maatregelen opleverden rustte op dat beheer, en zij loopt terug met de mensen die het deden. Op papier is het doel gehaald. In de praktijk is het beheer verdwenen waarop het gehaalde doel stond.</p>
+<p>En dan keert de verbetering. Wie op afstand beheert, doet wat er in het contract staat: geen zorg voor de slootkanten, geen oog voor de weidevogels, geen greppel die op tijd wordt opengetrokken. De verbetering die de maatregelen opleverden rustte op dat beheer, en zij loopt terug met de mensen die het deden. Op papier is het doel gehaald. In de praktijk is het beheer verdwenen waarop het gehaalde doel stond.</p>
 
 <div style="background:var(--blue-light);border-left:3px solid var(--blue);border-radius:var(--radius);padding:.875rem 1rem;margin:1rem 0;font-size:13px;line-height:1.6">
-      <strong style="display:block;margin-bottom:3px">Let op: ook koploper-familieondernemers worden geraakt</strong>
-      Grove maatregelen zonder maatwerk treffen niet alleen de schaaloptimaliseerders. Familieondernemers die al verder zijn in de transitie — biologisch of anderszins, precies de mensen die de maatschappij wil behouden — vallen onder dezelfde normering. Het risico is reëel dat je met scenario II precies degenen wegdrukt die je nodig hebt voor scenario III.
+      <strong style="display:block;margin-bottom:3px">Het raakt ook de bedrijven die al verder zijn</strong>
+      Een generieke norm geldt voor iedereen, dus ook voor de familiebedrijven die de omslag al deels hebben gemaakt, biologisch of anderszins. Zij vallen onder dezelfde eis en dragen dezelfde kosten, terwijl zij er het minst aan hoeven te veranderen. Daarmee verdwijnen in scenario II precies de bedrijven die scenario III nodig heeft.
 </div>
 
 ### 7.4 De motor
@@ -622,7 +622,7 @@ Daarmee verdwijnt precies de figuur die scenario III nodig heeft. Een dienst lev
 <div class="scenario-lead">
 <p>Dezelfde doelsturing als in scenario II en dezelfde vernatting. Wat erbij komt is tweeledig: de juridische ruimte om het land ook anders te gebruiken, en opdrachten waarmee een dienst wordt ingekocht tegen een prijs. Die opdrachten komen van twee kanten: van de overheid, waar zij zelf een doel te halen heeft, en vanuit de markt, waar een partij er zelf belang bij heeft.</p>
 <p>Op het land liggen naast de percelen met gras en koeien een natte teelt, een strook met houtige beplanting, een perceel dat water bergt, een plek waar kleinschalig gewoond wordt en een deel dat is ingericht voor natuur en recreatie. Onder het land zit de opslag: water in de zandlaag, koolstof in het veen. De koolstof gaat de bodem in in plaats van eruit.</p>
-<p>Het bedrijf levert nog steeds melk en de tankauto rijdt nog weg, met minder. Daarnaast lopen er contracten voor water, koolstof, biodiversiteit, mest, wonen en zorg. Van wat Nederland vraagt wordt zo het meeste gehaald, en er komt meer van dit land af dan in de twee andere scenario's. Het bedrijf verdient aan twee dingen in plaats van aan één.</p>
+<p>Het bedrijf levert nog steeds melk en de tankauto rijdt nog weg, met minder. Er lopen daarbij contracten voor water, koolstof, biodiversiteit, mest, wonen en zorg. Van wat Nederland vraagt wordt zo het meeste gehaald, en er komt meer van dit land af dan in de twee andere scenario's. Het bedrijf verdient aan twee dingen in plaats van aan één.</p>
 </div>
 
 ### 8.2 De omslag: van vergoeding naar betaling
@@ -637,13 +637,13 @@ Water is daarvan het schoonste voorbeeld, want de afnemer is er al. Oasen wint z
 
 Bij stikstof ligt een vergelijkbare denkrichting, en die is verder van de praktijk af. {{fiche:Toelichting|Stikstofruimte als denkbare dienst. Het kabinet zoekt stikstofruimte, en snel: bouwen, het stroomnet en defensie wachten erop. Uitkoop levert die ruimte één keer, en daarna is het gebied zijn beheerder kwijt. Een lagere veedichtheid levert dezelfde ammoniakreductie, blijvend, en precies waar die het meest telt: tegen Natura 2000 aan. Eén voorwaarde: het wegvallende vee-inkomen wordt aangevuld met betaling voor maatschappelijke diensten, anders is het uitkoop in vertraagde vorm. Doorgedacht kan ammoniakreductie zelf zo'n dienst worden, en die denkrichting vraagt eerst juridische uitwerking: extern salderen en vergunningenrecht.}}
 
-Wat dat per opgave betekent, verschuift daarmee van kostenpost naar opbrengst. De grondwaterstand gaat omhoog omdat het loont, het slootbeheer wordt rendabel, en de berging en de biodiversiteit worden geleverd omdat er een opdrachtgever voor is. De natuur komt daarmee terug als opbrengst en niet als verplichting die hectares inneemt. Twee dimensies blijven achter: de totale watervraag bij vernatting blijft een ruimtelijk vraagstuk, en wonen en recreatie hangen aan wat het omgevingsplan toestaat. De tien dimensies staan naast elkaar in hoofdstuk 9.
+Per opgave verschuift het daarmee van kostenpost naar opbrengst. De grondwaterstand gaat omhoog omdat het loont, het slootbeheer wordt rendabel, en de berging en de biodiversiteit worden geleverd omdat er een opdrachtgever voor is. De natuur komt daarmee terug als opbrengst en niet als verplichting die hectares inneemt. Twee dimensies blijven achter: de totale watervraag bij vernatting blijft een ruimtelijk vraagstuk, en wonen en recreatie hangen aan wat het omgevingsplan toestaat. De tien dimensies staan naast elkaar in hoofdstuk 9.
 
 ### 8.3 Waarom het dan wél standhoudt
 
 Wat er eerst gebeurt is het grondbeleid. Dat stopt de grondhonger uit scenario II: een grondbank vangt de waardedaling door vernatting op, zodat familiebedrijven niet gedwongen zijn te verkopen. Transitiesteun overbrugt de kwetsbare eerste jaren tot de contracten lopen, en de bergboerenregeling, de Europese regeling die bedrijven in gebieden met een natuurlijke handicap een structurele basisvergoeding geeft, biedt daarbij basiszekerheid.
 
-Want het begint moeizaam. De ondernemer maakt een lastige overstap: minder koeien, ander landgebruik, nieuwe vaardigheden. De eerste jaren zijn kwetsbaar, en het bedrijfsmodel staat pas na zeven tot tien jaar volwaardig.{{fiche:Drie tempo's, één transitie|Er zijn drie tempo's tegelijk in beweging, en zij lopen niet gelijk. Politieke tijd loopt in jaren tot decennia — wetgeving, EU-richtlijnen, instrumentontwikkeling. Ondernemerstijd loopt in maanden tot jaren — marge, pacht, investeringshorizon. Systeemtijd loopt in fasen — agroketens 2-3 jaar, banken 3-5, marktpartijen voor maatschappelijke diensten 7-15. Scenario II synchroniseert deze tempo's niet; daarom valt de ondernemer weg voordat het beleid uitontwikkeld is. Scenario III versnelt politieke tijd niet en vertraagt ondernemerstijd niet — het koppelt ze. Transitiesteun overbrugt ondernemerstijd zolang politieke tijd loopt. Prestatiecontracten van 10-20 jaar synchroniseren ondernemerstijd met systeemtijd. Hoofdstuk 13 mobiliseert systeemtijd binnen de termijn die ondernemerstijd vraagt. De tempo's worden in elkaar geschoven.|De vraag "wanneer zijn alle beperkingen opgeheven?"is daarmee verkeerd gesteld: vernatting, KRW-normen en stikstofeisen zijn de permanente nieuwe ordening, niet tijdelijke maatregelen. Tijdelijk zijn de transitie-instrumenten zelf. Het bedrijfsmodel staat in de orde van 7-10 jaar volwaardig.}}
+Want het begint moeizaam. De ondernemer maakt een lastige overstap: minder koeien, ander landgebruik, nieuwe vaardigheden. De eerste jaren zijn kwetsbaar, en het bedrijfsmodel staat pas na zeven tot tien jaar volwaardig.{{fiche:Drie tempo's, één transitie|Er zijn drie tempo's tegelijk in beweging, en zij lopen niet gelijk. Politieke tijd loopt in jaren tot decennia: wetgeving, Europese richtlijnen, de ontwikkeling van instrumenten. Ondernemerstijd loopt in maanden tot jaren: marge, pacht, investeringshorizon. Systeemtijd loopt in fasen: agroketens 2 tot 3 jaar, banken 3 tot 5, marktpartijen voor maatschappelijke diensten 7 tot 15. Scenario II synchroniseert deze tempo's niet; daarom valt de ondernemer weg voordat het beleid uitontwikkeld is. Scenario III versnelt politieke tijd niet en vertraagt ondernemerstijd niet, het koppelt ze. Transitiesteun overbrugt ondernemerstijd zolang politieke tijd loopt. Prestatiecontracten van 10-20 jaar synchroniseren ondernemerstijd met systeemtijd. Hoofdstuk 13 mobiliseert systeemtijd binnen de termijn die ondernemerstijd vraagt. De tempo's worden in elkaar geschoven.|De vraag "wanneer zijn alle beperkingen opgeheven?"is daarmee verkeerd gesteld: vernatting, KRW-normen en stikstofeisen zijn de permanente nieuwe ordening, niet tijdelijke maatregelen. Tijdelijk zijn de transitie-instrumenten zelf. Het bedrijfsmodel staat in de orde van 7-10 jaar volwaardig.}}
 
 <p>Het inkomen herstelt dan naar het niveau van een leefbaar familiebedrijf. Niet de pieken van bulkmelk op schaal, wel structureel zekerder dan het marginale inkomen van scenario I, en opgebouwd uit meerdere stromen: maatschappelijke diensten, voedsel met een meerprijs, waterberging, vastgelegde koolstof.</p>
 
@@ -657,7 +657,7 @@ De motor draait op de juiste brandstof. De opgaven zijn hier geen kostenpost maa
 
 <p>Het doel is dat het veenweidegebied vol zit met dit soort ondernemers, en niet dat één pionier het lukt ondanks het systeem. Veel bedrijven die de opgaven helpen halen mét behoud van hun eigen perspectief: dat is wat een verdienmodel doet en een verplichting niet.</p>
 
-<p><strong>En de conflicten worden zichtbaar.</strong> Niet alle bouwstenen passen bij elkaar; sommige combinaties bijten. De ondernemer moet kiezen, en dat is precies het punt. Dit is geen optimalisatieoefening maar een reeks afwegingen, en dat maakt scenario III geen morele keuze maar een ontwerpkeuze: een systeem dat van variatie profiteert in plaats van eraan onderdoor te gaan.</p>
+<p><strong>En de conflicten worden zichtbaar.</strong> Niet alle bouwstenen passen bij elkaar; sommige combinaties bijten. De ondernemer moet kiezen, en dat is het punt. Daarmee is scenario III geen morele keuze maar een ontwerpkeuze: een systeem dat van variatie profiteert in plaats van eraan onderdoor te gaan.</p>
 
 ---
 
@@ -669,11 +669,11 @@ De motor draait op de juiste brandstof. De opgaven zijn hier geen kostenpost maa
 
 ### 9.1 Dezelfde tien dimensies, drie keer
 
-De tien dimensies uit hoofdstuk 4 staan hier voor de drie scenario's naast elkaar. Twee dingen zijn daarin te zien die per scenario niet zichtbaar zijn: hoeveel er in totaal gehaald wordt, en waar een dimensie binnen een scenario nog beweegt.
+De tien dimensies uit hoofdstuk 4 staan hier voor de drie scenario's naast elkaar. Zo is te zien hoeveel er in totaal gehaald wordt, en waar een dimensie binnen een scenario nog beweegt.
 
 {{partial:scenario-dimensies}}
 
-Twee waarschuwingen bij het lezen van deze tabel. De tien zijn niet op te tellen, want één maatregel kan de ene opgave dienen en de andere schaden: vernatting remt de veenoxidatie en laat tegelijk gebonden fosfaat vrijkomen, waardoor de waterkwaliteit eerst achteruitgaat. En een rode stip betekent niet overal hetzelfde. Bij een eis staat er dat een norm niet gehaald wordt; bij een wens staat er dat niemand ervoor betaalt. Dat zijn twee verschillende soorten tekort.
+De tien zijn niet op te tellen, want één maatregel kan de ene opgave dienen en de andere schaden: vernatting remt de veenoxidatie en laat tegelijk gebonden fosfaat vrijkomen, waardoor de waterkwaliteit eerst achteruitgaat. Een rode stip betekent ook niet overal hetzelfde. Bij een eis staat er dat een norm niet gehaald wordt; bij een wens staat er dat niemand ervoor betaalt. Dat zijn twee verschillende soorten tekort.
 
 ### 9.2 Wie de rekening betaalt, en wanneer
 
@@ -681,7 +681,11 @@ Twee waarschuwingen bij het lezen van deze tabel. De tien zijn niet op te tellen
 
 ### 9.3 Wat de drie samen laten zien
 
-*Nog te schrijven.* Eén alinea die Deel III afsluit: het verschil tussen de drie zit niet in de doelen maar in de vraag of er iemand overblijft die ze kan halen. Dit is ook de plek waar hoofdstuk 5 als meetlat wordt afgerekend: in scenario I komt de ruimte van 5.2 nooit vrij, in II blijft zij leeg, en in III wordt zij een dienst met een prijs.
+Het verschil tussen de drie zit niet in de doelen. Die zijn in alle drie dezelfde en in alle drie legitiem. Het verschil zit in de vraag of er aan het eind nog iemand is die ze kan halen.
+
+Hoofdstuk 5 beschrijft de ruimte die vrijkomt op de plekken waar de veedichtheid omlaag moet. In scenario I komt die ruimte nooit vrij, want aan het gebruik van het land verandert niets. In scenario II komt zij vrij en blijft zij leeg, en dat is omzetverlies zonder iets ervoor terug. In scenario III wordt zij een dienst met een prijs, en dan is er een reden om te blijven en te investeren.
+
+Het gaat daarbij niet om meer geld. In alle drie de scenario's betaalt de samenleving: in het eerste via kosten die op niemands begroting staan, in het tweede via uitvoering zonder opbrengst, in het derde via een prijs voor iets wat geleverd wordt. Wat verschilt is het instrument.
 
 ---
 

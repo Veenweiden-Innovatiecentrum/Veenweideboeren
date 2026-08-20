@@ -2,11 +2,11 @@
 
 ### 9.1 Dezelfde tien dimensies, drie keer
 
-De tien dimensies uit hoofdstuk 4 staan hier voor de drie scenario's naast elkaar. Twee dingen zijn daarin te zien die per scenario niet zichtbaar zijn: hoeveel er in totaal gehaald wordt, en waar een dimensie binnen een scenario nog beweegt.
+De tien dimensies uit hoofdstuk 4 staan hier voor de drie scenario's naast elkaar. Zo is te zien hoeveel er in totaal gehaald wordt, en waar een dimensie binnen een scenario nog beweegt.
 
 {{partial:scenario-dimensies}}
 
-Twee waarschuwingen bij het lezen van deze tabel. De tien zijn niet op te tellen, want één maatregel kan de ene opgave dienen en de andere schaden: vernatting remt de veenoxidatie en laat tegelijk gebonden fosfaat vrijkomen, waardoor de waterkwaliteit eerst achteruitgaat. En een rode stip betekent niet overal hetzelfde. Bij een eis staat er dat een norm niet gehaald wordt; bij een wens staat er dat niemand ervoor betaalt. Dat zijn twee verschillende soorten tekort.
+De tien zijn niet op te tellen, want één maatregel kan de ene opgave dienen en de andere schaden: vernatting remt de veenoxidatie en laat tegelijk gebonden fosfaat vrijkomen, waardoor de waterkwaliteit eerst achteruitgaat. Een rode stip betekent ook niet overal hetzelfde. Bij een eis staat er dat een norm niet gehaald wordt; bij een wens staat er dat niemand ervoor betaalt. Dat zijn twee verschillende soorten tekort.
 
 ### 9.2 Wie de rekening betaalt, en wanneer
 
@@ -14,4 +14,8 @@ Twee waarschuwingen bij het lezen van deze tabel. De tien zijn niet op te tellen
 
 ### 9.3 Wat de drie samen laten zien
 
-*Nog te schrijven.* Eén alinea die Deel III afsluit: het verschil tussen de drie zit niet in de doelen maar in de vraag of er iemand overblijft die ze kan halen. Dit is ook de plek waar hoofdstuk 5 als meetlat wordt afgerekend: in scenario I komt de ruimte van 5.2 nooit vrij, in II blijft zij leeg, en in III wordt zij een dienst met een prijs.
+Het verschil tussen de drie zit niet in de doelen. Die zijn in alle drie dezelfde en in alle drie legitiem. Het verschil zit in de vraag of er aan het eind nog iemand is die ze kan halen.
+
+Hoofdstuk 5 beschrijft de ruimte die vrijkomt op de plekken waar de veedichtheid omlaag moet. In scenario I komt die ruimte nooit vrij, want aan het gebruik van het land verandert niets. In scenario II komt zij vrij en blijft zij leeg, en dat is omzetverlies zonder iets ervoor terug. In scenario III wordt zij een dienst met een prijs, en dan is er een reden om te blijven en te investeren.
+
+Het gaat daarbij niet om meer geld. In alle drie de scenario's betaalt de samenleving: in het eerste via kosten die op niemands begroting staan, in het tweede via uitvoering zonder opbrengst, in het derde via een prijs voor iets wat geleverd wordt. Wat verschilt is het instrument.

@@ -1,69 +1,49 @@
-# Handoff — Deel III, de drie scenario's (hoofdstuk 6, 7, 8)
+# Handoff — Deel III, de drie scenario's (hoofdstuk 6, 7, 8, 9)
 
-*Geschreven 20 augustus 2026, aan het eind van de sessie die hoofdstuk 3, 4 en 5 afmaakte. Dit bestand is geen vervanging van `CLAUDE.md`: lees eerst de redactiebrief volledig, dan het besluitenlog, dan het skelet van het hoofdstuk dat aan de beurt is. Hieronder staat alleen wat specifiek voor Deel III geldt en wat op 20-8 is veranderd waar de scenario's op moeten aansluiten.*
+*Herschreven 20 augustus 2026, aan het eind van de sessie die Deel III schreef. Dit bestand vervangt `CLAUDE.md` niet: lees eerst de redactiebrief volledig, dan het besluitenlog, dan het skelet. Hieronder staat wat specifiek voor Deel III geldt.*
 
 ## Waar we staan
 
-Deel II is af: hoofdstuk 3 (`a-klem`), 4 (`b-opgaves`) en 5 (`c-omslag`) zijn herzien en samen 3.706 woorden leesregel. Deel III is nu aan de beurt en dat is het hart van het document.
+Deel III is geschreven. Wat er nog ligt is beeldwerk en één sectie in hoofdstuk 9.
 
-| Hoofdstuk | Bestand | Stand |
-|---|---|---|
-| 6 — scenario I, er verandert niets | `scenario-1.md` | nog de bestuursversie |
-| 7 — scenario II, zonder verdienmodel eronder | `scenario-2.md` | nog de bestuursversie |
-| 8 — scenario III, mét verdienmodel eronder | `scenario-3.md` | herzien in ronde 1; open punt is beeldwerk |
+| Hoofdstuk | Bestand | Woorden | Stand |
+|---|---|---|---|
+| 6 — scenario I, er verandert niets | `scenario-1.md` | 1.352 | af. Eén markering open: het areaal dat de middengroep beheert |
+| 7 — scenario II, zonder verdienmodel eronder | `scenario-2.md` | 1.067 | af. Geen markering open |
+| 8 — scenario III, mét verdienmodel eronder | `scenario-3.md` | 1.014 | af |
+| 9 — wat de drie naast elkaar opleveren | `scenario-vergelijking.md` | 260 | in de steigers; 9.1 en 9.3 geschreven, 9.2 is de partial |
 
-**Gedaan op 20-8: `e-aktes.md` is gesplitst in `scenario-1.md` (hoofdstuk 6) en `scenario-2.md` (hoofdstuk 7)**, en bestaat niet meer. Meegegaan: `volgorde.txt`, het register, het skelet (de regel `bron:`), de correctielijst, `bloktypen.md` en de lezer.
+## De acht besluiten van 20-8 die de vorm van dit deel bepalen
 
-## Waar de scenario's op moeten aansluiten
+1. **Het heet scenario, niet akte.** Een akte volgt op de vorige; deze drie staan naast elkaar. Regel in `terminologie.md`, met de reden.
+2. **De as is middelsturing tegenover doelsturing**, en of er naast de melk een tweede verdienmodel komt. Scenario I stuurt op middelen, II en III op doelen; alleen in III wordt de dienst ingekocht.
+3. **Melk is het product, maatschappelijke dienstverlening is de dienst.** Het vierde label heet daarom **betaalde dienst** en niet "product". Nooit "een tweede product" en nooit "daarnaast": het is *het product melk én maatschappelijke dienstverlening*.
+4. **Vier secties per hoofdstuk, en de spiegel zit in de vraag.** x.1 wat dit scenario is · x.2 wat het geld doet · x.3 wat de tijd doet · x.4 de motor. Het antwoord op x.3 is tegengesteld: geen stabiele toestand, de verbetering houdt niet stand, het houdt wél stand.
+5. **Boven elk hoofdstuk staan drie dingen in deze orde:** de scenariotabel (één partial, `scenario-verschil`, met de eigen rij gemarkeerd via CSS op het sectie-id), de illustratie, en de omschrijving als **lead**.
+6. **De lead is een nieuw bloktype** (`scenario-lead`): groter gezet, ruimer geregeld, één accentlijn ernaast. Geen kader, want dat is voorbehouden aan de openingssectie, en geen label als "de kern", want het document zegt niets over zijn eigen gewicht. Beschreven in `bloktypen.md`.
+7. **De dimensielijsten staan niet meer per hoofdstuk.** De tien dimensies staan één keer, als tabel in hoofdstuk 9, want die tabel zet de drie in kolommen naast elkaar en noteert de beweging binnen een scenario. Per hoofdstuk sluit x.2 af met één alinea die het effect per opgave afleidt uit het mechanisme.
+8. **Deel III is vrij van driesporen.** Vier kaders zijn naar bijlage 17 verhuisd, dus toetsregel 12a is hier gehaald. Wat nog buiten de bijlage staat is hoofdstuk 12 en het stikstofblok in de wachtkamer.
 
-**Hoofdstuk 5 is de meetlat.** Redactiebrief §15 zegt het zo: elke scenario is af te rekenen op de vraag wat er gebeurt met wat dit gebied kan dragen. Scenario I en II verliezen dat vermogen op een andere manier — in I verdwijnt de drager langzaam, in II sneller — en scenario III is de enige waarin het overeind blijft. De dimensielijst per scenario doet dat werk al; nieuw is dat de lezer het ijkpunt nu vlak ervoor gelezen heeft.
+## Wat er nog ligt
 
-**Vijf dingen uit 20-8 die Deel III raken:**
+**Beeldwerk, en het staat op één lijst** in `correctielijst.md` onder "De drie scenario-illustraties". Negen punten, waarvan drie urgent omdat de tekst er inmiddels op vooruitloopt:
 
-1. **Vier labels, en de scenario's moeten ze aanhouden.** Een **eis** zonder prijs (4.1) · een **wens** zonder eis (4.3) · een **opdracht**, waar de vraag hard is en de betaling nog kosten vergoedt — vandaag alleen het weidevogelbeheer · een **betaalde dienst**, met een afnemer die tegen een prijs inkoopt. Scenario III is precies de scenario waarin de ontbrekende categorie ontstaat: een gevraagde prestatie mét prijs. Regels in `terminologie.md`.
-2. **Hoofdstuk 5 heeft vier routes, niet drie:** koolstof vastleggen, biodiversiteit verbouwen, water opslaan, landelijk wonen leveren, uit de VIC-concepten 5b, 4a, 8a en 6b. Waar scenario III beschrijft wat er gaat lopen, hoort dat rijtje te kloppen.
-3. **Alle vier kunnen naast de melk.** De conceptdossiers rekenen elk één activiteit als heel bedrijf door, omdat dat de manier is om te toetsen of zij op eigen kracht een inkomen draagt. Dat is een toetsvorm en geen voorschrift. Scenario III mag dus nooit lezen als omschakeling van het hele bedrijf; het is de schaal van 10.2, van één perceel tot het hele bedrijf.
-4. **Een opgave is niet een maatregel.** Vernatting is een klimaatmaatregel, een lagere veedichtheid een natuurmaatregel, minder mest uitrijden een waterkwaliteitsmaatregel. In de dimensielijsten van de scenario's is dit de makkelijkste plek om het fout te doen. Regel in `terminologie.md`, met de bronnen.
-5. **"De ondernemende boer" waar het argument valt**, niet kaal "de ondernemer". In de motor-alinea van elke scenario is dat de juiste term.
+- de titels van de drie platen zeggen nog **"AKTE I", "AKTE II"** en **"AKTE III"**
+- in scenario III staat het woord **"PIJLERS"** in beeld, een verboden term
+- het kernbeeld van scenario III mist de **tweede pijl voor de markt**, terwijl 8.1 nu wél zegt dat de opdrachten van twee kanten komen
 
-## Wat er voor scenario I en II klaarstaat
+**Eén sectie tekst:** 9.2 is nu alleen de partial. Bij het schrijven daarvan hoort dat de alinea over de verborgen kosten in die partial dubbelt met de slotalinea van 6.4; die twee moeten samengevoegd.
 
-`correctielijst.md` onder `e-aktes.md` bevat **woordelijke tekst die op 19-8 uit hoofdstuk 4 en 5 is weggehaald en voor de scenario's is belegd.** Dat is geen wenslijst maar bewaarde tekst; hij hoeft niet opnieuw bedacht te worden.
-
-**Voor scenario I (hoofdstuk 6):**
-- **de drie termijnen**, al als `decision-card` gebouwd in commit `6a30ea3`: margedruk vernietigt op korte termijn het rentmeesterschap, de schaalvergrotingsreflex maakt op middellange termijn de fijnmazigheid kapot, en op lange termijn blokkeert de klemzittende middengroep de transitie zelf. Landt in 6.2.
-- **"Zonder perspectief geen opgaven"** — de conclusie, nieuw geschreven en daarom in de lijst bewaard.
-- **de boemerang uit §3** — wat er met zo'n ondernemer verdwijnt is concreet en telbaar. §3 staat één zin over de afwendbaarheid toe en niet meer.
-- **"Scenario I lijkt te werken omdat er nog niks is gebeurd"** — geen stabiele toestand maar een kwetsbaarheidspositie.
-- **de areaal-claim met haar `[[CIJFER]]`** — dit is de enige open markering van dit pakket.
-
-**Voor scenario II (hoofdstuk 7):**
-- **de waarneming over eerdere beleidscycli** (uitkoopregelingen 2008–2020, eerste-generatie stikstofmaatregelen) als fiche, zonder oordeel.
-- **de waterkwaliteitsnuance:** bij vernatting komt gebonden fosfaat vrij doordat ijzer(hydr)oxiden oplossen, dus de kwaliteit gaat eerst achteruit. Dat heet interne eutrofiëring en het is op 20-8 online bevestigd; bronnen staan in de correctielijst. Het is ook het schoolvoorbeeld dat één maatregel de ene opgave dient en de andere schaadt.
+**Eén markering:** het areaal dat de middengroep beheert, in de conclusie van 6.3.
 
 ## Waar het hier het snelst fout gaat
 
-Dit is het deel waar de toon het meest op het spel staat. Vier regels wegen hier het zwaarst:
-
-- **Toetsregel 12b:** het kader bij scenario II heet nu "Ingrijpen zonder pijlers" en begint met "De overheid grijpt in met harde maatregelen". Beide moeten om. Een scenario heet naar wat er met het bedrijf gebeurt, en de overheid komt in de kop niet handelend voor. Het bestuur op 17 juni: "als jij gaat vertellen dat ze een fout voorzitten, ga je ze alleen maar van je vervreemden."
-- **Toetsregel 12a en 2:** scenario II is niemands beleid. Het is een categorie, en er staat geen enkel voorbeeld uit het beleid van vandaag in. Zodra er staat dat het beleid "op scenario II afkoerst", leest een ambtenaar een verwijt. Wij mogen dat weten; het document beschrijft de categorie.
-- **Toetsregel 13:** de introductie van de drie scenario's staat één keer, als korte inzet aan het hoofd van hoofdstuk 6. Nergens eerder een vooruitwijzing.
-- **Toetsregel 26:** het kernbeeld van scenario III toont alleen de overheid als opdrachtgever en heeft een tweede pijl nodig voor de markt. **Al het beeldwerk aan de drie scenariotekeningen staat sinds 20-8 op één lijst** in `correctielijst.md` onder "De drie scenario-illustraties", met de titels die nog "AKTE" zeggen, het woord "PIJLERS" in scenario III en het ontbrekende beheerpakket in scenario I. De SVG met de dimensie-ontwikkeling is een ander beeld en heeft zijn eigen kopje.
-
-## De schrijfstandaard van 20-8
-
-Deze slag is over hoofdstuk 3, 4 en 5 gedaan en geldt vanaf nu:
-
-- **Geen em-dash in lopende tekst.** Een dubbele punt, een komma of een aparte zin. Wat overblijft zijn hoofdstukkoppen en tabellabels.
-- **Geen holle verwijzing.** "Het mechanisme", "die verhouding", "de fase": als het ding er niet staat, noem het bij naam. `verwijzingen.py` vindt kandidaten.
-- **Geen aankondiging van de structuur.** "Twee dingen maken dit bijzonder", "Wie loopt vast, en waarom?" — schrijf de twee dingen op en laat de vraag weg.
-- **Geen commentaar op het document zelf** in de tekst. "Het onderscheid doet werk" hoort in het besluitenlog en niet in een fiche.
-- **Getallen, bronnen en ontwikkelniveaus in een fiche**, niet in de leesregel. Meet de twee apart: de leesregel is wat de lezer volgt.
-- **Doe de zes leescheckvragen van §16.3 echt**, en let vooral op de zesde. Bij indikken sneuvelt het beeldende het eerst: op 20-8 was "wie 's ochtends langs de sloot rijdt ziet de oever inzakken" uit 5.4 verdwenen zonder besluit, en dat was de enige plek in dat hoofdstuk waar de boer een mens is.
+- **Toetsregel 1 en 12b.** De overheid komt in geen kop of kernzin handelend voor. Op 20-8 zijn drie zinnen weggehaald waar het bestuur over viel: "De overheid grijpt in met harde maatregelen", "De overheid ziet de rode dimensies uit scenario I en grijpt in", en de kop "Ingrijpen zonder pijlers". Kwalificaties als "grove maatregelen zonder maatwerk" horen er ook niet: generiek is neutraal, grof is een oordeel.
+- **Beschrijf het gebied, niet de tekening.** Een zin als "de pijl is bijna geheel groen" vraagt van de lezer dat hij gaat kijken, en het is een ander soort zin dan de rest. De inhoud van de plaat hoort in woorden in de lead.
+- **Zeg het over de opgaven één keer per hoofdstuk.** Dat is op 20-8 twee keer misgegaan: eerst stond het opgavenverhaal drie keer in scenario II, daarna kwam er nog een alinea over de pijl bij.
+- **De schrijfstandaard van 20-8 geldt**: geen em-dash in lopende tekst (alleen de hoofdstukkoppen houden er één), geen holle verwijzing, geen aankondiging van de structuur, geen commentaar op het document zelf, getallen en bronnen in een fiche.
 
 ## Twee dingen die Tim nog moet kiezen
 
-Ze staan in `correctielijst.md` en ze raken Deel III niet blokkerend, maar wel het geheel:
-
 - **Waarvoor moet betaald worden en wat loopt mee in de bedrijfsvoering?** De vier labels beschrijven de bestaande situatie; het criterium is nog een keuze. Landt in 5.1, 5.3 en hoofdstuk 12.
-- **Additionaliteit bij de koolstofroute.** Nu 4.1 de bodememissies als harde eis neerzet, kun je een reductie die toch al moet niet als credit verkopen. De scheiding tussen vermeden uitstoot en vastlegging die 5.3 al maakt, is daarmee ook juridisch. Raakt hoofdstuk 13.
+- **Additionaliteit bij de koolstofroute.** Nu 4.1 de bodememissies als harde eis neerzet, kun je een reductie die toch al moet niet als credit verkopen. Raakt hoofdstuk 13.

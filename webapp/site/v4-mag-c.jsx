@@ -41,7 +41,7 @@ function MagC({ foto }) {
       {/* 5. callout — Drager van een schaarse hulpbron (verbatim) */}
       <aside className="magc-callout magc-callout--blauw">
         <span className="magc-callout-label">Drager van een schaarse hulpbron</span>
-        <p>De veenweideboer is niet alleen leverancier van publieke diensten — óók de drager van een schaarse hulpbron: ruimte zelf, die de samenleving niet elders kan ophalen. Daarmee wordt zijn positie dubbel onderbouwd. Een datacenter doet één ding. Een woonwijk doet één ding. Een defensieterrein doet één ding. De veenweideboer in akte III doet zes of zeven dingen tegelijk op dezelfde hectare. In een land waar elke vierkante meter strategisch wordt afgewogen, is dat geen marginale positie maar een hoofdrolpositie. Verdwijnt deze drager, dan wordt diezelfde ruimte herverdeeld onder de claimantenrij — zonder garantie dat die nieuwe gebruikers de maatschappelijke opgaves invullen.</p>
+        <p>De veenweideboer is niet alleen leverancier van publieke diensten — óók de drager van een schaarse hulpbron: ruimte zelf, die de samenleving niet elders kan ophalen. Daarmee wordt zijn positie dubbel onderbouwd. Een datacenter doet één ding. Een woonwijk doet één ding. Een defensieterrein doet één ding. De veenweideboer in scenario III doet zes of zeven dingen tegelijk op dezelfde hectare. In een land waar elke vierkante meter strategisch wordt afgewogen, is dat geen marginale positie maar een hoofdrolpositie. Verdwijnt deze drager, dan wordt diezelfde ruimte herverdeeld onder de claimantenrij — zonder garantie dat die nieuwe gebruikers de maatschappelijke opgaves invullen.</p>
       </aside>
 
       {/* 6. rebuttal — volledige alinea + marge-pull-quote (verbatim herhaling) */}
@@ -54,7 +54,7 @@ function MagC({ foto }) {
 
       {/* 7. body (verbatim) */}
       <div className="magc-body">
-        <p>Akte I lijkt te werken omdat er nog niks is gebeurd. Het is geen stabiele toestand, het is een kwetsbaarheidspositie die zich pas openbaart bij de volgende schok — in soja, kunstmest, melkprijs, klimaat of regelgeving. Akte III is in die zin niet een morele maar een ontwerpkeuze: een antifragiel systeem dat van variatie profiteert in plaats van eraan onderdoor te gaan.</p>
+        <p>Scenario I lijkt te werken omdat er nog niks is gebeurd. Het is geen stabiele toestand, het is een kwetsbaarheidspositie die zich pas openbaart bij de volgende schok — in soja, kunstmest, melkprijs, klimaat of regelgeving. Scenario III is in die zin niet een morele maar een ontwerpkeuze: een antifragiel systeem dat van variatie profiteert in plaats van eraan onderdoor te gaan.</p>
       </div>
 
       {/* 8. sectie-breuk */}
@@ -84,7 +84,7 @@ function MagC({ foto }) {
         <article className="magc-dienst">
           <span className="magc-dienst-num">03</span>
           <h3>Waterbuffer voor de akkerbouw.</h3>
-          <p>Wat in akte III op het veenweidebedrijf gebeurt — wateropslag op het eigen land, dynamisch peilbeheer, sloten en greppels als opslag- en infiltratiesysteem — is ruimtelijk veel meer dan een bedrijfsbouwsteen. Het maakt het gebied tot een buffer voor de omliggende regio: in natte winters vangt het veenweidegebied piekafvoer op die anders akkerland onder water zet, in droge zomers levert het water terug aan een akkerbouw die steeds vaker droogtestress kent. Dat is een dienst aan andere voedselproducenten die de akkerbouw zelf niet kan organiseren — en die in een klimaat met grotere extremen alleen maar belangrijker wordt. En dat is geen hypothetische rol: I&amp;W stuurt sinds 2026 op waterzelfvoorzienendheid van veenweidegebieden, met aanzienlijke ruimteclaims voor waterberging als logisch gevolg.</p>
+          <p>Wat in scenario III op het veenweidebedrijf gebeurt — wateropslag op het eigen land, dynamisch peilbeheer, sloten en greppels als opslag- en infiltratiesysteem — is ruimtelijk veel meer dan een bedrijfsbouwsteen. Het maakt het gebied tot een buffer voor de omliggende regio: in natte winters vangt het veenweidegebied piekafvoer op die anders akkerland onder water zet, in droge zomers levert het water terug aan een akkerbouw die steeds vaker droogtestress kent. Dat is een dienst aan andere voedselproducenten die de akkerbouw zelf niet kan organiseren — en die in een klimaat met grotere extremen alleen maar belangrijker wordt. En dat is geen hypothetische rol: I&amp;W stuurt sinds 2026 op waterzelfvoorzienendheid van veenweidegebieden, met aanzienlijke ruimteclaims voor waterberging als logisch gevolg.</p>
         </article>
       </div>
 

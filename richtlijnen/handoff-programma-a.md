@@ -91,7 +91,7 @@ Harde begripsregels die ook op A van toepassing zijn:
 - **ronde**, niet "fase". En benoem bij eerste gebruik welke ronde nu loopt.
 - **opdrachten** (de overheid koopt een dienst in) tegenover **steun** (geregeld zonder tegenprestatie). Het woord "pijlers" is vervallen. **Bouwstenen** is uitsluitend de toolbox van de ondernemer.
 - **onbeprijsd**, niet "gratis", voor het landbeheer dat nu niet betaald wordt. Gratis suggereert zonder waarde; onbeprijsd betekent met waarde en zonder prijs.
-- **aktes** in Romeinse cijfers (I, II, III), **sporen** in Arabische (1, 2, 3). Sporen uitsluitend voor Rijksbeleid, rollen voor VIC-activiteiten.
+- **scenario's** in Romeinse cijfers (I, II, III), **sporen** in Arabische (1, 2, 3). Sporen uitsluitend voor Rijksbeleid, rollen voor VIC-activiteiten.
 
 ## 6. Wat er al voor A is vastgelegd
 

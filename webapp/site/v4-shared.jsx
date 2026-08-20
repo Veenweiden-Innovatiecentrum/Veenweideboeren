@@ -1,23 +1,23 @@
-/* v4 gedeelde componenten — Html-renderer, AkteViewer, kleine UI-delen */
+/* v4 gedeelde componenten — Html-renderer, ScenarioViewer, kleine UI-delen */
 
 function Html({ html, className, style }) {
   return <section data-nt-sectie="" className={className} style={style} dangerouslySetInnerHTML={{ __html: html }}></section>;
 }
 
-const AKTES = [
-  { n: 'I', src: 'assets/illustraties/akte-1.jpg', sub: 'over vijf jaar: doorgeïntensiveerd' },
-  { n: 'II', src: 'assets/illustraties/akte-2.jpg', sub: 'ingrijpen zonder pijlers' },
-  { n: 'III', src: 'assets/illustraties/akte-3.jpg', sub: 'dezelfde doelen, maar mét pijlers' },
+const SCENARIOS = [
+  { n: 'I', src: 'assets/illustraties/akte-1.jpg', sub: 'er wordt gestuurd op middelen' },
+  { n: 'II', src: 'assets/illustraties/akte-2.jpg', sub: 'sturen op doelen, zonder verdienmodel eronder' },
+  { n: 'III', src: 'assets/illustraties/akte-3.jpg', sub: 'dezelfde doelsturing, mét verdienmodel eronder' },
 ];
 
-function AkteViewer() {
-  const [akte, setAkte] = React.useState(0);
+function ScenarioViewer() {
+  const [scenario, setScenario] = React.useState(0);
   const [playing, setPlaying] = React.useState(false);
 
   React.useEffect(() => {
     if (!playing) return;
     const id = setInterval(() => {
-      setAkte((a) => { if (a >= 2) { setPlaying(false); return 2; } return a + 1; });
+      setScenario((a) => { if (a >= 2) { setPlaying(false); return 2; } return a + 1; });
     }, 3200);
     return () => clearInterval(id);
   }, [playing]);
@@ -34,22 +34,22 @@ function AkteViewer() {
   return (
     <div>
       <div style={{ position: 'relative', aspectRatio: '2560 / 1600', borderRadius: 'var(--radius-lg)', overflow: 'hidden', background: '#fff', border: '1px solid rgba(0,0,0,.08)' }}>
-        {AKTES.map((a, i) => (
-          <img key={a.n} src={a.src} alt={'Akte ' + a.n}
-            style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'contain', opacity: i === akte ? 1 : 0, transition: 'opacity 1500ms ease-in-out' }} />
+        {SCENARIOS.map((a, i) => (
+          <img key={a.n} src={a.src} alt={'Scenario ' + a.n}
+            style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'contain', opacity: i === scenario ? 1 : 0, transition: 'opacity 1500ms ease-in-out' }} />
         ))}
       </div>
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 10, marginTop: 16, flexWrap: 'wrap' }}>
-        {AKTES.map((a, i) => (
-          <button key={a.n} onClick={() => { setPlaying(false); setAkte(i); }} style={knop(i === akte)}>akte {a.n}</button>
+        {SCENARIOS.map((a, i) => (
+          <button key={a.n} onClick={() => { setPlaying(false); setScenario(i); }} style={knop(i === scenario)}>scenario {a.n}</button>
         ))}
-        <button onClick={() => { if (!playing && akte === 2) setAkte(0); setPlaying(!playing); }}
+        <button onClick={() => { if (!playing && scenario === 2) setScenario(0); setPlaying(!playing); }}
           style={{ ...knop(playing), borderColor: 'var(--blue)', color: playing ? '#fff' : 'var(--blue)', background: playing ? 'var(--blue)' : '#fff' }}>
           {playing ? '\u25fc stop' : '\u25b6 speel af'}
         </button>
       </div>
       <p style={{ textAlign: 'center', margin: '12px 0 0', fontSize: 13, color: 'var(--text3)', fontFamily: 'var(--font-heading)' }}>
-        akte {AKTES[akte].n} — {AKTES[akte].sub}
+        scenario {SCENARIOS[scenario].n} — {SCENARIOS[scenario].sub}
       </p>
     </div>
   );
@@ -89,4 +89,4 @@ function DocCard({ naam, sub, onClick }) {
   );
 }
 
-Object.assign(window, { Html, AKTES, AkteViewer, TerugKnop, Kicker, DocCard });
+Object.assign(window, { Html, SCENARIOS, ScenarioViewer, TerugKnop, Kicker, DocCard });

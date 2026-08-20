@@ -96,7 +96,7 @@ git add -A && git commit && git push
 
 Lukt het ophalen aan de andere kant niet, dan is dat een rate limit op het IP van de fetcher en niet een verkeerd pad; de tarball van `codeload.github.com` werkt dan wel. Nooit een tweede versie van deze tekst ergens anders neerzetten: dan zijn er twee waarheden en dat is precies de fout die deze repo al een keer drie dagen heeft gekost.
 
-**Werkt de sessie aan Deel III, de drie aktes? Lees dan `richtlijnen/handoff-deel-3-aktes.md`** — daarin staat wat er voor akte I en II woordelijk klaarstaat, welke vier toetsregels daar het zwaarst wegen, en waar hoofdstuk 3 tot 5 sinds 20-8 op aansluiten.
+**Werkt de sessie aan Deel III, de drie scenario's? Lees dan `richtlijnen/handoff-deel-3-scenarios.md`** — daarin staat wat er voor scenario I en II woordelijk klaarstaat, welke vier toetsregels daar het zwaarst wegen, en waar hoofdstuk 3 tot 5 sinds 20-8 op aansluiten.
 
 Voor de sessie die aan programma A werkt is er daarnaast `richtlijnen/handoff-programma-a.md`, zelfstandig leesbaar. Werk die bij als er iets verandert dat A raakt.
 

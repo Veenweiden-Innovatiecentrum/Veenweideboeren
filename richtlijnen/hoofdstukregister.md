@@ -23,9 +23,9 @@ De volgorde in dit register is de volgorde van `volgorde.txt`. Hoofdstukken die 
 | a-klem | 3 | 2 | **herzien**, met de eindredactieslag van 20-8 (em-dashes, holle verwijzingen, AI-sporen). 1.068 woorden en 864 leesregel. Eén open punt: het cijfer voor het inkomensgat (JUMP) |
 | b-opgaves | 4 | 2 | **herzien (20-8): drie secties, geordend naar dwang** — 4.1 wat er moet · 4.2 welk dossier nu het hardst duwt · 4.3 wat er ook gevraagd wordt zonder dat het moet. **Herzien 20-8.** De tien dimensies staan **drie hard en zeven zacht** (klimaat-bedrijf is 20-8 zacht geworden: geen norm per bedrijf voor methaan); de weidevogel is naar hoofdstuk 5 verhuisd. 820 woorden tegen 832; het budget van 650 haalt het niet omdat 316 woorden tabelcel van de auteurs zijn en die alleen verhuizen. Geen markering open |
 | c-omslag | 5 | 1 | **herzien (20-8): vier secties** — 5.1 wat hier al gebeurt en wie het betaalt · **5.2 de kans zit waar de klem het strakst is** (nieuw scharnier) · 5.3 waar deze opgaven een product kunnen worden, met het weidevogelbeheer als grensgeval en de drie horden ingekort · **5.4 en daarom een ondernemende boer**, met de marge-omkering vooraan. 2.138 woorden totaal en 1.838 leesregel tegen 2.025; nul tabellen. 5.2 heet 'De ruimte die vrijkomt'; 5.3 heeft vier routes uit de JUMP-concepten (5b, 4a, 8a, 6b); 5.4 sluit op de synthese dat de investeerder liefst de blijvende boer is. Open: de tegenstrijdige cijfers over de watervraag (30-40% versus factor 1,5-3). Nog toe te voegen: twee bronnen en één getal, de lijst staat in `correctielijst.md` |
-| akte-1 | 6 | 2 | **nu aan de beurt**; nog de bestuursversie. Op 20-8 uit `e-aktes.md` gesplitst, dat daarmee is opgehouden te bestaan. Start bij `richtlijnen/handoff-deel-3-aktes.md` |
-| akte-2 | 7 | 2 | **nu aan de beurt**; nog de bestuursversie. Op 20-8 uit `e-aktes.md` gesplitst. Start bij `richtlijnen/handoff-deel-3-aktes.md` |
-| akte-3 | 8 | 1 | herzien; open punt in de correctielijst: tweede pijl voor de markt in het kernbeeld, beeldwerk |
+| scenario-1 | 6 | 2 | **nu aan de beurt**; nog de bestuursversie. Op 20-8 uit `e-aktes.md` gesplitst, dat daarmee is opgehouden te bestaan. Start bij `richtlijnen/handoff-deel-3-scenarios.md` |
+| scenario-2 | 7 | 2 | **nu aan de beurt**; nog de bestuursversie. Op 20-8 uit `e-aktes.md` gesplitst. Start bij `richtlijnen/handoff-deel-3-scenarios.md` |
+| scenario-3 | 8 | 1 | herzien; open punt in de correctielijst: tweede pijl voor de markt in het kernbeeld, beeldwerk |
 | d-concept | 9 | 3 | bestuursversie, met één nieuwe sectie vooraan: "veenweideboer is een schaal, geen categorie" (19-8) |
 | f-ondernemer | 10 | 3 | nog de bestuursversie |
 | f-overheid | 11 | 3 | nog de bestuursversie |
@@ -37,7 +37,7 @@ De volgorde in dit register is de volgorde van `volgorde.txt`. Hoofdstukken die 
 
 ## Nog te maken
 
-*Leeg. Het begrippenhoofdstuk is 19-8 vervallen: de begrippen gaan naar bijlage 16 en de akte-introductie naar hoofdstuk 6.*
+*Leeg. Het begrippenhoofdstuk is 19-8 vervallen: de begrippen gaan naar bijlage 16 en de scenario-introductie naar hoofdstuk 6.*
 
 ## Buiten de visie
 

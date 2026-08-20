@@ -37,25 +37,25 @@ Commentaar op een specifiek beleidsstuk. Besluit §8: het driesporenframe draagt
 |---|---|---|
 | intro | Aanleiding: het driesporenbeleid | **verhuisd 18-8** |
 | a-klem | Driesporenbeleid, de scope van spoor 3 is te smal | **verhuisd 19-8**, met de correcties van Niel erin en de kritiek omgezet naar een gedateerde diagnose |
-| akte-2 | Driesporenbeleid, spoor 2 is akte II in beleidsvorm |
-| akte-2 | Grootste deel van de 90.000 ha |
-| akte-2 | De 20-30% scope binnen die 90.000 ha |
-| akte-2 | Driesporenbeleid, hectarepremie GLB versus zakelijke transactie |
-| akte-3 | Driesporenbeleid: €1,3 miljard, twee bestedingsroutes — *19-8 naar bijlage 16 verhuisd*|
-| akte-3 | Spoor 3 specifiek: waarom afwaardering de verkeerde route is — *19-8 naar bijlage 16 verhuisd*|
+| scenario-2 | Driesporenbeleid, spoor 2 is scenario II in beleidsvorm |
+| scenario-2 | Grootste deel van de 90.000 ha |
+| scenario-2 | De 20-30% scope binnen die 90.000 ha |
+| scenario-2 | Driesporenbeleid, hectarepremie GLB versus zakelijke transactie |
+| scenario-3 | Driesporenbeleid: €1,3 miljard, twee bestedingsroutes — *19-8 naar bijlage 16 verhuisd*|
+| scenario-3 | Spoor 3 specifiek: waarom afwaardering de verkeerde route is — *19-8 naar bijlage 16 verhuisd*|
 | f-overheid | Driesporenbeleid, drie van de vier pijlers ontbreken |
 | g-perspectief | Driesporenbeleid, van drie sporen naar één gebiedsbod | **verhuisd 19-8**, omgezet naar diagnose met de intensiteiten-gedachte erin |
 
 *Let op: het €1,3 miljard-kader draagt nu een dragend argument — hetzelfde geld, ander instrument. Dat argument blijft in laag 2, maar zonder bedrag (besluit §8).*
 
 ### Naar de lopende tekst — refrein (3)
-Geen uitweiding maar structuur: per akte hoe het ondernemerschap eruitziet. Dat het in een kader staat maakt het optioneel terwijl het dat niet is. Wordt een vaste alinea aan het eind van elke akte, met dezelfde kop.
+Geen uitweiding maar structuur: per scenario hoe het ondernemerschap eruitziet. Dat het in een kader staat maakt het optioneel terwijl het dat niet is. Wordt een vaste alinea aan het eind van elke scenario, met dezelfde kop.
 
 | Bestand | Kader | Nu |
 |---|---|---|
-| akte-1 | De motor, hoe werkt ondernemerschap nu? | akte I |
-| akte-2 | De motor, hoe werkt ondernemerschap hier? | akte II |
-| akte-3 | De motor, wat gebeurt er met ondernemerschap? | akte III |
+| scenario-1 | De motor, hoe werkt ondernemerschap nu? | scenario I |
+| scenario-2 | De motor, hoe werkt ondernemerschap hier? | scenario II |
+| scenario-3 | De motor, wat gebeurt er met ondernemerschap? | scenario III |
 
 *Drie verschillende koppen voor hetzelfde element worden er één: **"De motor"** (besloten 17-8, zie besluitenlog).*
 
@@ -75,16 +75,16 @@ Waar. Nuttig. Houdt het lezen op. Precies waarvoor het fiche-mechanisme bestaat.
 
 | Bestand | Kader |
 |---|---|
-| akte-3 | Drie tempo's, één transitie — *19-8 fiche geworden in 8.1*|
-| akte-2 | Generieke peilfixatie pakt de boer die al weinig uitstoot |
-| akte-2 | Let op: ook koploper-familieondernemers worden geraakt |
+| scenario-3 | Drie tempo's, één transitie — *19-8 fiche geworden in 8.1*|
+| scenario-2 | Generieke peilfixatie pakt de boer die al weinig uitstoot |
+| scenario-2 | Let op: ook koploper-familieondernemers worden geraakt |
 | f-ondernemer | Eerst de randvoorwaarde: zonder WIS werkt peilbeleid niet |
 | f-overheid | Zijstap: uitkoop versus management — het borgings-dilemma |
 | f-overheid | Wortel én stok — handhaving als sluitstuk |
 | f3-bedrijfsleven | Wat dit betekent voor de doorgang |
 | g-perspectief | Niet iedereen wíl meebewegen — en dat is geen verzet, dat is verlangen |
 
-*Het kader over koploper-familieondernemers raakt aan besluit §3 (de boer nooit hulpeloos). Bij verplaatsing naar een fiche moet de strekking wél in de lopende tekst van akte II landen.*
+*Het kader over koploper-familieondernemers raakt aan besluit §3 (de boer nooit hulpeloos). Bij verplaatsing naar een fiche moet de strekking wél in de lopende tekst van scenario II landen.*
 
 ### Herzien, dan plaatsen (2)
 Deze twee vervallen inhoudelijk of veranderen van functie door eerdere besluiten.
@@ -116,10 +116,10 @@ De winst zit niet alleen in rust. Acht blokken die nu als terzijde lezen, blijke
 | Blok | Aantal | Besluit |
 |---|---|---|
 | **Fiches** | 14 → 22 | Blijven. Onderbenut: dit is de bestaande oplossing voor laag 3 binnen laag 2 |
-| **Dimensietabellen** | 30 items | Blijven. Wel de kleurfout herstellen die Niel meldde, en akte I waterkwantiteit van groen naar oranje |
+| **Dimensietabellen** | 30 items | Blijven. Wel de kleurfout herstellen die Niel meldde, en scenario I waterkwantiteit van groen naar oranje |
 | **Vangrail-lijsten** | 8 | Blijven, maar herordend naar moeten / mogen / betalen (§15.2). "Vangrail" als woord vervalt met "pijler" |
 | **Bouwsteentabellen** | 11 | Blijven in de toolbox |
-| **Partials** | 4 | populatiemodel (a-klem) en dimensieontwikkeling (staat in `akte-3`) blijven. `f-ondernemer-visual-1` bij het hoofdstuk. `i-vic-rol-visual-1` verhuist mee naar het programmavoorstel |
+| **Partials** | 4 | populatiemodel (a-klem) en dimensieontwikkeling (staat in `scenario-3`) blijven. `f-ondernemer-visual-1` bij het hoofdstuk. `i-vic-rol-visual-1` verhuist mee naar het programmavoorstel |
 
 ## Twee vormen die niet in de inventaris stonden (19-8, bij hoofdstuk 3)
 
@@ -137,5 +137,5 @@ De dertig accentkaders zijn geteld, maar deze twee vormen zaten er niet bij en d
 
 ## Nog te toetsen bij het schrijven
 
-- Het akte III-beeld moet een tweede pijl krijgen voor de markt (§7). Zit dat in een partial of in de lopende opmaak?
+- Het scenario III-beeld moet een tweede pijl krijgen voor de markt (§7). Zit dat in een partial of in de lopende opmaak?
 - Elf `bouwsteen-table`-blokken tegenover 35 bouwstenen in de toolbox — de verhouding klopt niet. Uitzoeken bij ronde 5.

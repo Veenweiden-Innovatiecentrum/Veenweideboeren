@@ -151,12 +151,12 @@ const PULL_QUOTES = {
   'b-opgaves': 'Op korte termijn vernietigt margedruk het rentmeesterschap.',
   'c-omslag': 'De boer is niet het probleem, de boer is de motor.',
   'd-concept': 'Het is niet strenger én slechter, het is anders én beter.',
-  'akte-1': 'De motor draait, maar op de verkeerde brandstof.',
-  'f-ondernemer': 'De veenweideboer — de ondernemer van akte III — bepaalt zelf hóe de doelen gehaald worden.',
+  'scenario-1': 'De motor draait, maar op de verkeerde brandstof.',
+  'f-ondernemer': 'De veenweideboer — de ondernemer van scenario III — bepaalt zelf hóe de doelen gehaald worden.',
   'f-overheid': 'Ze werken alleen als systeem, je moet op zes niveaus tegelijk bewegen.',
   'f3-bedrijfsleven': 'Het verdienmodel bestaat alleen als de markt aan de andere kant aansluit.',
   'g-perspectief': 'Wat dit document probeert te doen, voorbij de analyse, is iets dat in de meeste beleidsstukken ontbreekt: erkenning.',
-  'h-risicos': 'Dezelfde goedbedoelde beleidslogica die akte II deed mislukken, kan ook akte III ondermijnen.',
+  'h-risicos': 'Dezelfde goedbedoelde beleidslogica die scenario II deed mislukken, kan ook scenario III ondermijnen.',
   'slot': 'Daartussen ligt geen wonder, maar een ontwerpkeuze.',
 };
 
@@ -245,7 +245,7 @@ function DocumentLezer({ openToolbox, wisselVorm }) {
         </p>
         {HOOFDSTUKKEN.map((h) => {
           const isOpen = isUit(h.id);
-          const isAktes = h.id === 'akte-1';
+          const isScenarios = h.id === 'scenario-1';
           const isToolbox = h.id === 'f-ondernemer';
           const klap = (
             <span style={{ fontSize: 13, fontFamily: 'var(--font-heading)', fontWeight: 700, color: isOpen ? 'var(--accent2)' : 'var(--text3)', whiteSpace: 'nowrap', flexShrink: 0 }}>
@@ -265,15 +265,15 @@ function DocumentLezer({ openToolbox, wisselVorm }) {
                   {h.intro.slice(0, 220)}{h.intro.length > 220 ? '\u2026' : ''}
                 </p>
               )}
-              {!isOpen && isAktes && (
+              {!isOpen && isScenarios && (
                 <div onClick={() => toggle(h.id)} style={{ display: 'flex', gap: 10, cursor: 'pointer' }}>
-                  {AKTES.map((a) => <img key={a.n} src={a.src} alt={'Akte ' + a.n} style={{ width: 120, borderRadius: 6, border: '1px solid var(--vic-border)' }} />)}
+                  {SCENARIOS.map((a) => <img key={a.n} src={a.src} alt={'Scenario ' + a.n} style={{ width: 120, borderRadius: 6, border: '1px solid var(--vic-border)' }} />)}
                 </div>
               )}
               {isOpen && (
                 <div className="v4-doc-inline">
                   <Skelet h={h}></Skelet>
-                  {isAktes && <div style={{ margin: '6px 0 26px' }}><AkteViewer></AkteViewer></div>}
+                  {isScenarios && <div style={{ margin: '6px 0 26px' }}><ScenarioViewer></ScenarioViewer></div>}
                   <Html html={h.html}></Html>
                   {isToolbox && (
                     <div style={{ margin: '18px 0' }}>
@@ -329,7 +329,7 @@ function MagazineLezer({ openToolbox, wisselVorm }) {
         }
         return (
           <MagHoofdstuk key={h.id} h={h} index={i} foto={foto} quote={PULL_QUOTES[h.id]}
-            vooraf={h.id === 'akte-1' ? <div className="magh-akteviewer"><AkteViewer></AkteViewer></div> : null}
+            vooraf={h.id === 'scenario-1' ? <div className="magh-scenarioviewer"><ScenarioViewer></ScenarioViewer></div> : null}
             naBody={h.id === 'f-ondernemer' ? (
               <div className="magh-nabody">
                 <DocCard naam="de toolbox" sub="alle maatregelen als fiches — per categorie, met literatuur; de verdieping waarmee we aan de slag gaan" onClick={openToolbox}></DocCard>

@@ -1,9 +1,15 @@
 ## 6 — Wat er gebeurt als er niets verandert
 
-Drie aktes voor het veenweidegebied. Niet drie gelijkwaardige scenario's, maar drie keuzes die elkaar opvolgen in het beleidsdebat. Akte I: status quo. Akte II: hard ingrijpen zonder pijlers. Akte III: systeemcondities aanpassen.
+<div style="background:var(--bg3);border:1px solid rgba(0,0,0,.08);border-left:3px solid var(--accent);border-radius:var(--radius);padding:1.25rem 1.5rem;margin:1.5rem 0 2rem;font-size:13.5px;line-height:1.65">
+    <strong style="display:block;margin-bottom:8px;font-size:14px">Drie scenario's, en waarin zij verschillen</strong>
+    <p style="margin:0 0 .75rem">Dit deel zet drie scenario's naast elkaar. Het zijn geen voorspellingen en zij volgen elkaar niet op: het zijn drie standen van hetzelfde systeem, die op twee dingen van elkaar verschillen. Waarop er gestuurd wordt, en of er een verdienmodel onder ligt.</p>
+    <p style="margin:0 0 .3rem"><strong>Scenario I</strong> — er wordt gestuurd op middelen, en het verdienmodel blijft de melk.</p>
+    <p style="margin:0 0 .3rem"><strong>Scenario II</strong> — er wordt gestuurd op doelen, zonder verdienmodel eronder.</p>
+    <p style="margin:0"><strong>Scenario III</strong> — dezelfde doelsturing, mét een verdienmodel eronder.</p>
+  </div>
 
 <div class="akte akte-1" id="akte1">
-    <div class="akte-number">Akte I</div>
+    <div class="akte-number">Scenario I</div>
     <h3>Over vijf jaar: doorgeïntensiveerd</h3>
     <p style="font-size:14px;font-weight:500;color:var(--red);line-height:1.5;margin-bottom:1rem;border-bottom:1px solid rgba(0,0,0,.06);padding-bottom:1rem">Het systeem draait door. Schaalvergroting wint, familieondernemers verdwijnen, en geen enkele maatschappelijke opgave wordt gehaald. De motor draait, maar op de verkeerde brandstof. De verborgen kosten lopen op, maar niemand zet ze op de begroting.</p>
     <p>Het startbeeld. Een boerderij in het veenweidegebied, van boven gezien, maar dan vijf jaar verder op het huidige pad. Strakker, efficiënter, verder geoptimaliseerd. Het landschap als productiemachine. Het resultaat van een systeem waarin grondschaarste, een op volume gerichte keten en afwezigheid van structurele steun samen logisch gedrag produceren: schaalvergroting.</p>

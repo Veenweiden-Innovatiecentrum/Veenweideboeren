@@ -6,9 +6,9 @@ intro
 a-klem
 b-opgaves
 c-omslag
-akte-1
-akte-2
-akte-3
+scenario-1
+scenario-2
+scenario-3
 d-concept
 f-ondernemer
 f-overheid

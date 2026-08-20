@@ -2,7 +2,7 @@
 
 *Afgeleid uit `richtlijnen/skelet.md`. Per hoofdstuk twee of drie zinnen over wat er in staat, plus de paragrafen. De elementen per paragraaf staan in het skelet zelf.*
 
-*Dit is geen tekst voor de visie maar de uitleg van wat wij bouwen. De letters en aktes tussen haakjes blijven staan zolang zij nog in de tekst zelf staan.*
+*Dit is geen tekst voor de visie maar de uitleg van wat wij bouwen. De letters en scenario's tussen haakjes blijven staan zolang zij nog in de tekst zelf staan.*
 
 ---
 
@@ -56,7 +56,7 @@ Op dezelfde hectare komt meer dan melk: landschap en weidevogels, koolstof in de
 
 ## Deel III — Hoe het kan lopen
 
-### 6. Wat er gebeurt als er niets verandert (akte I)
+### 6. Wat er gebeurt als er niets verandert (scenario I)
 
 Er verandert niets. Dat lijkt de veilige route en is het niet: bij de volgende schok in melkprijs, voer, klimaat of regelgeving valt een monocultuur om, en de opvolging is dan al onbetaalbaar geworden. Dit hoofdstuk beschrijft een toestand, geen keuze van iemand.
 
@@ -64,7 +64,7 @@ Er verandert niets. Dat lijkt de veilige route en is het niet: bij de volgende s
 - 6.2 Wat dat betekent per opgave
 - 6.3 De motor
 
-### 7. Wat er gebeurt zonder verdienmodel eronder (akte II)
+### 7. Wat er gebeurt zonder verdienmodel eronder (scenario II)
 
 De maatregelen komen, en er ligt geen verdienmodel onder. De doelen zijn legitiem en de beperkingen zijn nodig; wat ontbreekt is de bodem waarop een bedrijf ze kan dragen. Dan landen de kosten bij de ondernemer, verdwijnt hij, en blijft de opgave over zonder iemand die haar uitvoert.
 
@@ -72,9 +72,9 @@ De maatregelen komen, en er ligt geen verdienmodel onder. De doelen zijn legitie
 - 7.2 Wat dat betekent per opgave
 - 7.3 De motor
 
-### 8. Wat er gebeurt met een verdienmodel eronder (akte III — het antwoord)
+### 8. Wat er gebeurt met een verdienmodel eronder (scenario III — het antwoord)
 
-Dezelfde doelen, maar de dienst wordt betaald in plaats van het verlies vergoed. Er komen twee geldstromen: de overheid die een dienst inkoopt en de markt die er zelf belang bij heeft. Dit is het antwoord van het document, en het is de enige akte waarin het vermogen uit hoofdstuk 5 overeind blijft.
+Dezelfde doelen, maar de dienst wordt betaald in plaats van het verlies vergoed. Er komen twee geldstromen: de overheid die een dienst inkoopt en de markt die er zelf belang bij heeft. Dit is het antwoord van het document, en het is de enige scenario waarin het vermogen uit hoofdstuk 5 overeind blijft.
 
 - 8.1 De omslag: van vergoeding naar betaling
 - 8.2 Twee geldstromen, niet één
@@ -149,9 +149,9 @@ Waar dit begon en waar het eindigt. En de vraag, in twee regels: wij vragen geen
 
 ### 16. Bijlagen
 
-Alles om het na te rekenen: de aangekondigde veenweide-aanpak gelezen door de aktes, elk getal met zijn bron of label, de volledige toolbox en de begrippen. Wie een bewering wil nazoeken, is hier op de juiste plek.
+Alles om het na te rekenen: de aangekondigde veenweide-aanpak gelezen door de scenario's, elk getal met zijn bron of label, de volledige toolbox en de begrippen. Wie een bewering wil nazoeken, is hier op de juiste plek.
 
-- 16.1 De aangekondigde veenweide-aanpak, gelezen door de aktes
+- 16.1 De aangekondigde veenweide-aanpak, gelezen door de scenario's
 - 16.2 Cijfers en bronnen
 - 16.3 De toolbox
 - 16.4 Begrippen

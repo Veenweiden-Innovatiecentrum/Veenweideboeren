@@ -32,9 +32,9 @@
 
 ## Structuur
 12. Analyse (A tot en met C) bevat geen oplossingen en geen vooruitwijzingen naar D of verder. *Verfijnd 19-8: een **adres** mag wel. Hoofdstuk 5 sluit af met drie horden en wijst per horde aan waar zij wordt behandeld (JUMP, hoofdstuk 11, hoofdstuk 14). Dat is een leeswijzer en geen antwoord; zonder die adressen lijkt het alsof het document de horden negeert. Wat verboden blijft is de oplossing zelf: geen instrument, geen contractvorm, geen bedrag.*
-12a. Geen enkel argument leunt op het driesporenbeleid. De aktes zijn een leesbril, geen commentaar op een specifiek beleidsstuk. Concrete beleidstoepassingen staan in laag 3, met datum. Raakt: intro (6×), a-klem (2×), e-aktes (8×), f-overheid (3×, inclusief het kader "drie van de vier pijlers ontbreken"), g-perspectief (2×).
-12b. **De aktes zijn genoemd naar wat er met het bedrijf gebeurt, niet naar wat de overheid doet.** Geen aktetitel, kop of kernzin waarin de overheid handelend voorkomt. "Ingrijpen zonder verdienmodel" is een oordeel over de overheid en staat in de inhoudsopgave; "wat er gebeurt zonder verdienmodel eronder" is dezelfde analyse zonder dader. Akte II en III zijn daarom symmetrisch benoemd: zonder en met een verdienmodel eronder. In akte II staat de erkenning vooraan (toetsregel 2) en staat expliciet dat het niemands beleid is maar een categorie, met historische voorbeelden. *Toegevoegd 19-8 op Tims signaal dat het bestuur juist hier bezorgd was; de brontekst zegt nu letterlijk "de overheid grijpt in met harde maatregelen".*
-13. De drie aktes zijn één keer expliciet geïntroduceerd vóór het eerste gebruik. Nu achttien vermeldingen vóór e-aktes: intro 5, a-klem 1, b-opgaves 3, c-omslag 4, d-concept 5.
+12a. Geen enkel argument leunt op het driesporenbeleid. De scenario's zijn een leesbril, geen commentaar op een specifiek beleidsstuk. Concrete beleidstoepassingen staan in laag 3, met datum. Raakt: intro (6×), a-klem (2×), e-aktes (8×), f-overheid (3×, inclusief het kader "drie van de vier pijlers ontbreken"), g-perspectief (2×).
+12b. **De scenario's zijn genoemd naar wat er met het bedrijf gebeurt, niet naar wat de overheid doet.** Geen scenariotitel, kop of kernzin waarin de overheid handelend voorkomt. "Ingrijpen zonder verdienmodel" is een oordeel over de overheid en staat in de inhoudsopgave; "wat er gebeurt zonder verdienmodel eronder" is dezelfde analyse zonder dader. Scenario II en III zijn daarom symmetrisch benoemd: zonder en met een verdienmodel eronder. In scenario II staat de erkenning vooraan (toetsregel 2) en staat expliciet dat het niemands beleid is maar een categorie, met historische voorbeelden. *Toegevoegd 19-8 op Tims signaal dat het bestuur juist hier bezorgd was; de brontekst zegt nu letterlijk "de overheid grijpt in met harde maatregelen".*
+13. De drie scenario's zijn één keer expliciet geïntroduceerd vóór het eerste gebruik. Nu achttien vermeldingen vóór e-aktes: intro 5, a-klem 1, b-opgaves 3, c-omslag 4, d-concept 5.
 14. Weet welke laag je schrijft. Laag 3 mag nuance en uitweiding bevatten; laag 2 niet.
 15. Geen kader dat vooruitwijst naar iets wat de lezer nog niet gelezen heeft.
 16. Elke sectie heeft een volledige titel, niet alleen een letter.
@@ -53,7 +53,7 @@
 
 ## Markt
 25. De markt staat als volwaardige tweede geldstroom naast de overheid, met hypothese-status.
-26. Waar de overheid als opdrachtgever verschijnt, verschijnt de markt ernaast — ook in het kernbeeld van akte III.
+26. Waar de overheid als opdrachtgever verschijnt, verschijnt de markt ernaast — ook in het kernbeeld van scenario III.
 
 ## Begrippen
 27. In laag 1 en 2 komt "pijlers" niet voor. Wat de overheid inkoopt heet **opdrachten**; wat zij regelt zonder tegenprestatie heet **steun**. In laag 3 mag de volledige structuur blijven staan.
@@ -223,16 +223,16 @@ Daarmee is dit het sterkste bewijsvoorbeeld in het document. Het is het enige do
 
 > **Feitelijk onjuist, rechtgezet 18-8 (online geverifieerd op Tims verzoek).** "Dunea en Oasen zijn echt" klopt niet als het gaat om **betalen voor een dienst**. Dunea neemt water in uit de Afgedamde Maas en de Lek met duinfiltratie; de landbouwgerichte bronbescherming zit in de Bommelerwaard op rivierklei, buiten het veen, en de tegenprestatie aan boeren was daar historisch kennis en geen geld (LEI/WUR 2009 over Dunea's voorganger DZH). Oasen wint wél oevergrondwater midden in dit gebied, maar betaalt agrariërs uitsluitend **wettelijk verplichte droogteschade** en is partij in een massaclaim daarover. **In het veenweidegebied betaalt geen drinkwaterbedrijf voor een geleverde dienst.** Wat wel bestaat, op zandgrond: Vitens draagt 25 euro per hectare bij aan spotspray in grondwaterbeschermingsgebieden (2025-2026) en in 't Klooster wordt per hectare betaald voor zes blauwe diensten (vanaf 2026). Ook niet gevonden: een bron die zegt dat betaling voor water als dienst binnen de zorgplicht van de Drinkwaterwet valt — Vewin pleit juist voor publieke stelsels (ANLb, GLB) in plaats van drinkwatertarieven. Uitgewerkt in hoofdstuk 2, aanname 2. **Waternet is een kandidaat die de brief niet noemt:** ongeveer een derde van hun drinkwater komt uit de Bethunepolder, Utrechts veenweide.
 
-Het akte III-beeld krijgt een tweede pijl: marktvraag naast overheidsopdracht. De markt komt niet alleen in F3 maar in het kernbeeld zelf. Concreet met bestaande partijen: Dunea, Oasen, zuivelketen, banken, verzekeraars.
+Het scenario III-beeld krijgt een tweede pijl: marktvraag naast overheidsopdracht. De markt komt niet alleen in F3 maar in het kernbeeld zelf. Concreet met bestaande partijen: Dunea, Oasen, zuivelketen, banken, verzekeraars.
 
 
 ## 8. Het driesporenbeleid verdwijnt uit de dragende structuur
 
-**De aktes zijn een leesbril, geen commentaar op een specifiek beleidsstuk.**
+**De scenario's zijn een leesbril, geen commentaar op een specifiek beleidsstuk.**
 
-In de huidige versie is het driesporenbeleid de ruggengraat: de aktes worden erop gekaart en de scherpste passages luiden "spoor 2 doet dit", "spoor 3 is twee tot drie keer te smal". Dat is een probleem. De Kamerbrief van 26 juni 2026 organiseert het beleid in **vijf hoofdlijnen, niet in drie sporen**, en de Veenweidenbrief komt na de zomer. Wie het document op dat frame bouwt, laat het rusten op een politieke onzekerheid.
+In de huidige versie is het driesporenbeleid de ruggengraat: de scenario's worden erop gekaart en de scherpste passages luiden "spoor 2 doet dit", "spoor 3 is twee tot drie keer te smal". Dat is een probleem. De Kamerbrief van 26 juni 2026 organiseert het beleid in **vijf hoofdlijnen, niet in drie sporen**, en de Veenweidenbrief komt na de zomer. Wie het document op dat frame bouwt, laat het rusten op een politieke onzekerheid.
 
-**De aktes hebben dat anker niet nodig.** Doorgaan, ingrijpen zonder verdienmodel, ingrijpen mét — dat is een indeling naar *mechanisme*, niet naar beleidsstuk. Akte II is niet "spoor 2" maar de categorie: harde maatregelen zonder onderliggend bedrijfsmodel. Dat gold bij de uitkoopregelingen van 2008-2020, bij de eerste generatie stikstofmaatregelen, en het zal gelden voor wat er ook uit de Veenweidenbrief komt.
+**De scenario's hebben dat anker niet nodig.** Doorgaan, ingrijpen zonder verdienmodel, ingrijpen mét — dat is een indeling naar *mechanisme*, niet naar beleidsstuk. Scenario II is niet "spoor 2" maar de categorie: harde maatregelen zonder onderliggend bedrijfsmodel. Dat gold bij de uitkoopregelingen van 2008-2020, bij de eerste generatie stikstofmaatregelen, en het zal gelden voor wat er ook uit de Veenweidenbrief komt.
 
 **Wat dat oplevert**
 - Het document veroudert niet met de volgende Kamerbrief — het wordt juist bruikbaarder zodra die er is, want dan heeft de lezer iets om hem mee te lezen.
@@ -249,7 +249,7 @@ In de huidige versie is het driesporenbeleid de ruggengraat: de aktes worden ero
 
 **Het woord "pijlers" vervalt. De categorie splitst in twee.**
 
-De redenering: de bak die vroeger één geheel was — overheidsgeld richting de boer — splitst zich in akte III. Een deel wordt betaling voor een geleverde dienst, deels van de overheid als opdrachtgever en deels van de markt. Wat overblijft is wat de overheid doet zonder er iets voor terug te krijgen.
+De redenering: de bak die vroeger één geheel was — overheidsgeld richting de boer — splitst zich in scenario III. Een deel wordt betaling voor een geleverde dienst, deels van de overheid als opdrachtgever en deels van de markt. Wat overblijft is wat de overheid doet zonder er iets voor terug te krijgen.
 
 | Term | Wat het is | Voorbeelden |
 |---|---|---|
@@ -260,7 +260,7 @@ De redenering: de bak die vroeger één geheel was — overheidsgeld richting de
 
 **Waarom niet "vangnet".** Dat suggereert dat de hele categorie er is voor als het misgaat. Een deel is dat ook, maar grondbeleid en juridische ruimte zijn geen vangnet.
 
-**Bijkomend effect.** Deze splitsing maakt de architectuur van akte III zichtbaar die er nu impliciet in zit: het aandeel opdrachten groeit, het aandeel steun krimpt naarmate de contracten lopen. Dat stond al in de tekst, maar zonder naam.
+**Bijkomend effect.** Deze splitsing maakt de architectuur van scenario III zichtbaar die er nu impliciet in zit: het aandeel opdrachten groeit, het aandeel steun krimpt naarmate de contracten lopen. Dat stond al in de tekst, maar zonder naam.
 
 **"Bouwstenen"** blijft gereserveerd voor de toolbox van de ondernemer. Geen dubbelgebruik.
 
@@ -383,7 +383,7 @@ Getoetst tegen `content/*.md`, commit 16 juni 2026.
 | Exclusiviteit eruit | c-omslag: "diensten (…) die ze nergens anders vandaan krijgt" |
 | Waterbuffer eruit | c-omslag, blok "Waterbuffer voor de akkerbouw". Het haakje dat we nodig hebben staat er al: I&W stuurt sinds 2026 op waterzelfvoorzienendheid |
 | Collectieven | f-overheid, "Gebiedsregie via gebiedsorganisaties" |
-| Aktes vooruitwijzingen | 18× vóór e-aktes |
+| Scenario's vooruitwijzingen | 18× vóór e-aktes |
 | D en F ontdubbelen | Beide beschrijven de zes lagen |
 | €1,3 mrd uit laag 2 | samenvatting, 2× |
 | Driesporen naar bijlage | intro 6×, a-klem 2×, e-aktes 8×, f-overheid 3×, g-perspectief 2× |
@@ -398,7 +398,7 @@ Getoetst tegen `content/*.md`, commit 16 juni 2026.
 
 ### Hoofdstukvolgorde
 
-*Herzien 19 augustus 2026 (Tim). Twee wijzigingen: het begrippenhoofdstuk vervalt, en C staat nu vóór de aktes. De redenering staat hieronder onder "Waarom deze volgorde". De kolom **was** houdt de oude nummering vindbaar, want `correctielijst.md` en het besluitenlog verwijzen er nog naar.*
+*Herzien 19 augustus 2026 (Tim). Twee wijzigingen: het begrippenhoofdstuk vervalt, en C staat nu vóór de scenario's. De redenering staat hieronder onder "Waarom deze volgorde". De kolom **was** houdt de oude nummering vindbaar, want `correctielijst.md` en het besluitenlog verwijzen er nog naar.*
 
 | # | Hoofdstuk | Deel | Herkomst | was |
 |---|---|---|---|---|
@@ -407,9 +407,9 @@ Getoetst tegen `content/*.md`, commit 16 juni 2026.
 | 3 | Waarom de ondernemer klem komt te zitten (A) | **II — Wat er aan de hand is en wat er kan** | a-klem | 4 |
 | 4 | Wat Nederland van dit gebied vraagt (B) | II | b-opgaves | 5 |
 | 5 | Wat dit gebied kan dragen | II | c-omslag, ontdaan van oplossing | 8 |
-| 6 | Wat er gebeurt als er niets verandert (akte I) | **III — Hoe het kan lopen** | uit e-aktes | 6 |
-| 7 | Wat er gebeurt zonder verdienmodel eronder (akte II) | III | uit e-aktes | 7 |
-| 8 | Wat er gebeurt met een verdienmodel eronder (akte III) | III · scharnier | uit e-aktes | 9 |
+| 6 | Wat er gebeurt als er niets verandert (scenario I) | **III — Hoe het kan lopen** | uit e-aktes | 6 |
+| 7 | Wat er gebeurt zonder verdienmodel eronder (scenario II) | III | uit e-aktes | 7 |
+| 8 | Wat er gebeurt met een verdienmodel eronder (scenario III) | III · scharnier | uit e-aktes | 9 |
 | 9 | Het bedrijfsmodel Veenweideboeren (D) | **IV — Veenweideboeren** | d-concept, zonder de zes lagen | 10 |
 | 10 | Wat de ondernemer doet | IV | f-ondernemer | 11 |
 | 11 | Wat de overheid doet | IV | f-overheid, mét de zes lagen | 12 |
@@ -421,7 +421,7 @@ Getoetst tegen `content/*.md`, commit 16 juni 2026.
 
 **Vijf delen boven de hoofdstukken.** Zij staan in de inhoudsopgave, boven elk hoofdstuk in de lezer en in de HTML van het document, en zij komen uit `richtlijnen/skelet.md`. De delen doen twee dingen: zij maken de leesorde zelfverklarend, en zij maken zichtbaar dat de veenweideboer, de overheid en de markt drie kanten van hetzelfde zijn — dat was de reden dat hoofdstuk 9 en 10 als dubbel lazen. Let op: **de veenweideboer en de ondernemer zijn dezelfde persoon**; de eerste is de naam van de typologie, de tweede de rol tegenover de twee andere partijen. Regel in `terminologie.md`.
 
-**De kern van de ingreep:** de aktes worden gesplitst uit één groot hoofdstuk E, en zij staan als drie op een rij. Akte I en II sluiten de probleemstelling af; akte III is het antwoord en opent de oplossing. Daarmee is er nog één moment waarop het verhaal kantelt, en verdwijnt de dubbeling tussen D en F vanzelf.
+**De kern van de ingreep:** de scenario's worden gesplitst uit één groot hoofdstuk E, en zij staan als drie op een rij. Scenario I en II sluiten de probleemstelling af; scenario III is het antwoord en opent de oplossing. Daarmee is er nog één moment waarop het verhaal kantelt, en verdwijnt de dubbeling tussen D en F vanzelf.
 
 ### Waarom deze volgorde
 
@@ -433,15 +433,15 @@ Getoetst tegen `content/*.md`, commit 16 juni 2026.
 
 **En hoofdstuk 5 heeft een scharnier gekregen: de kans zit waar de klem het strakst is** *(Tim, 20 augustus 2026, sectie 5.2)*. Juist waar minder koeien per hectare nodig zijn daalt het inkomen uit melk terwijl de kosten blijven, en juist daar komt op dezelfde hectare ruimte vrij voor de prestaties die hoofdstuk 4 vraagt. Daarmee is de crescendo van hoofdstuk 3 niet alleen slecht nieuws dat gecompenseerd moet worden, maar de reden dat er hier iets te bieden is. De bocht van "één van de vier prestaties wordt betaald" naar "drie ervan kunnen een product worden" moest de lezer tot 20-8 zelf maken. Hoofdstuk 5 sluit af met de reden dat dit een **ondernemende boer** vraagt — de combinatie doet het werk, want "boer" levert de fijnmazigheid van iemand die er al is en "ondernemend" de bereidheid tot investeren.
 
-**Hoofdstuk 6, 7 en 8 zijn drie mechanismen, geen voorspellingen.** Er verandert niets (akte I), er wordt hard ingegrepen zonder dat er een verdienmodel onder zit (akte II), of dezelfde maatregelen mét een verdienmodel eronder (akte III). Dat onderscheid is geen finesse maar de toon van het hele document: zodra er staat dat het beleid "op akte II afkoerst", leest een ambtenaar een verwijt, en dat is precies de tegenstelling die het bestuur op 17 juni eruit wilde. Wij mogen dat weten; het document beschrijft de categorie en wat erin gebeurt. Zie toetsregel 1, 2 en 12a.
+**Hoofdstuk 6, 7 en 8 zijn drie mechanismen, geen voorspellingen.** *Bijgesteld 20-8 (Tim): scenario I is niet "er gebeurt niets" maar de huidige koers, waarin op **middelen** wordt gestuurd; wat er niet verandert is de grondslag onder het bedrijf. De as tussen de drie is middelsturing tegenover doelsturing, en of er een verdienmodel onder ligt. Zie het besluitenlog en `terminologie.md`.* Er wordt gestuurd op middelen en het verdienmodel blijft de melk (scenario I), er wordt hard ingegrepen zonder dat er een verdienmodel onder zit (scenario II), of dezelfde maatregelen mét een verdienmodel eronder (scenario III). Dat onderscheid is geen finesse maar de toon van het hele document: zodra er staat dat het beleid "op scenario II afkoerst", leest een ambtenaar een verwijt, en dat is precies de tegenstelling die het bestuur op 17 juni eruit wilde. Wij mogen dat weten; het document beschrijft de categorie en wat erin gebeurt. Zie toetsregel 1, 2 en 12a.
 
-**Akte I en II verliezen beide het vermogen uit hoofdstuk 5, op een andere manier.** In akte I gebeurt er niets en verdwijnt de drager langzaam; in akte II landen de maatregelen wél en verdwijnt de drager sneller. Dat is de boemerang uit sectie 6: het mechanisme dat de opgave oplost, haalt de drager weg die haar moet uitvoeren. Akte III is de enige waarin dat vermogen overeind blijft.
+**Scenario I en II verliezen beide het vermogen uit hoofdstuk 5, op een andere manier.** In scenario I verdwijnt de drager langzaam; in scenario II landen de maatregelen wél en verdwijnt de drager sneller. Dat is de boemerang uit sectie 6: het mechanisme dat de opgave oplost, haalt de drager weg die haar moet uitvoeren. Scenario III is de enige waarin dat vermogen overeind blijft.
 
-**Daarmee is hoofdstuk 5 de meetlat voor de drie aktes.** Elke akte is af te rekenen op de vraag wat er gebeurt met wat dit gebied kan dragen. Dat is wat de dimensielijst per akte al doet, maar nu heeft de lezer het ijkpunt vlak daarvoor gelezen. In de oude ordening stond C tussen akte II en akte III en had die lijst geen ijkpunt.
+**Daarmee is hoofdstuk 5 de meetlat voor de drie scenario's.** Elk scenario is af te rekenen op de vraag wat er gebeurt met wat dit gebied kan dragen. Dat is wat de dimensielijst per scenario al doet, maar nu heeft de lezer het ijkpunt vlak daarvoor gelezen. In de oude ordening stond C tussen scenario II en scenario III en had die lijst geen ijkpunt.
 
-**Daarom staat C nu vóór de aktes en niet ertussen.** De drie aktes zijn een vergelijking: dezelfde dimensies, drie keer, met één beeld dat de ontwikkeling van I naar III toont. Wat je vergelijkt, zet je naast elkaar. De oude plaats van C was dramatisch sterker — de troef op het diepste punt — maar zij brak de vergelijking, en met de nieuwe hoofdstuktitels ("wat er gebeurt als…") is de reeks zo zichtbaar dat er niets meer tussen kan.
+**Daarom staat C nu vóór de scenario's en niet ertussen.** De drie scenario's zijn een vergelijking: dezelfde dimensies, drie keer, met één beeld dat de ontwikkeling van I naar III toont. Wat je vergelijkt, zet je naast elkaar. De oude plaats van C was dramatisch sterker — de troef op het diepste punt — maar zij brak de vergelijking, en met de nieuwe hoofdstuktitels ("wat er gebeurt als…") is de reeks zo zichtbaar dat er niets meer tussen kan.
 
-**Het begrippenhoofdstuk vervalt.** Een woordenlijst wordt opgezocht en niet gelezen, en als hoofdstuk onderbreekt zij precies waar het verhaal op gang komt. De begrippen gaan naar de bijlage, met een fiche bij het eerste gebruik in de tekst — dat is wat `bloktypen.md` "verdieping die het lezen ophoudt" noemt. **Eén ding overleeft: de introductie van de drie aktes**, die toetsregel 13 vóór het eerste gebruik eist. Die komt als korte inzet aan het hoofd van hoofdstuk 6, waar de eerste akte begint. Dat is de enige plek waar de lezer haar nodig heeft, en zij is daarmee geen vooruitwijzing meer maar een aankondiging op het moment zelf.
+**Het begrippenhoofdstuk vervalt.** Een woordenlijst wordt opgezocht en niet gelezen, en als hoofdstuk onderbreekt zij precies waar het verhaal op gang komt. De begrippen gaan naar de bijlage, met een fiche bij het eerste gebruik in de tekst — dat is wat `bloktypen.md` "verdieping die het lezen ophoudt" noemt. **Eén ding overleeft: de introductie van de drie scenario's**, die toetsregel 13 vóór het eerste gebruik eist. Die komt als korte inzet aan het hoofd van hoofdstuk 6, waar de eerste scenario begint. Dat is de enige plek waar de lezer haar nodig heeft, en zij is daarmee geen vooruitwijzing meer maar een aankondiging op het moment zelf.
 
 ### Wat dat per bestand betekent
 - **intro** valt uiteen in twee: scope en aannames. De driesporenpassage en het begrippenkader gaan naar de bijlage.
@@ -494,7 +494,7 @@ Gooi die korte versies niet weg als je ze uitschrijft. Ze zijn het zaad voor laa
 
 **Eerst het skelet, dan de woorden (19 augustus, Tim).** `richtlijnen/skelet.md` bevat alle zestien hoofdstukken met hun secties en maximaal drie elementen per sectie, met de vorm en de herkomst erbij: `· auteurs` betekent wijzigen, `· nieuw` betekent dat er woorden gemaakt moeten worden. Een element wordt pas uitgeschreven als het daar staat en de gebruiker het heeft gezien, en er komt per keer één sectie in plaats van een heel hoofdstuk. **Waarom:** hoofdstuk 5 (toen nog 8) leverde in één sessie ruim vijfhonderd nieuwe woorden, een vormronde en twee A4 verantwoording, en dat moet allemaal door één paar ogen. Een element afwijzen kost één regel, een alinea afwijzen kost honderdvijftig woorden lezen. Het verslag krimpt mee: drie regels per stap, en de verantwoording in drie delen alleen bij het afsluiten van een hoofdstuk. De procedure staat in `CLAUDE.md`; `build.py site` toont het skelet in de lezer boven de tekst.
 
-**Volgorde: toonzettend eerst, invulwerk laatst.** Scope, aannames, C en akte III gaan voorop. Als de toon niet klopt weet je dat na tweeduizend woorden in plaats van na achttienduizend. De bijlagen zijn het meest mechanische werk en gaan achteraan — daar is verminderde scherpte het minst schadelijk.
+**Volgorde: toonzettend eerst, invulwerk laatst.** Scope, aannames, C en scenario III gaan voorop. Als de toon niet klopt weet je dat na tweeduizend woorden in plaats van na achttienduizend. De bijlagen zijn het meest mechanische werk en gaan achteraan — daar is verminderde scherpte het minst schadelijk.
 
 ### 16.2 Machinale checks
 
@@ -503,7 +503,7 @@ Uit te breiden in `verify.py`. Draait over `content/*.md` na elke wijziging.
 | Check | Faalt als | Hoort bij |
 |---|---|---|
 | Verboden termen | "pijler", "pijlvak", "kleiwegdek", "landbouwbestemming", "extensief" (als aanduiding van het model), "compensatielogica" komen voor | 27, 28 |
-| Vooruitwijzing aktes | Een bestand vóór `akte-3` bevat "akte III" | 12, 13 |
+| Vooruitwijzing scenario's | Een bestand vóór `scenario-3` bevat "scenario III" | 12, 13 |
 | Driesporen | "spoor" of "driesporen" komt voor buiten de bijlage | 12a |
 | €1,3 miljard | Het bedrag staat in een laag 2-bestand | §8 |
 | Exclusiviteit | "nergens anders", "alleen op veen", "kan alleen hier" | 8 |
@@ -550,8 +550,8 @@ De machinale check telt ze. Publiceren kan pas als de teller op nul staat of elk
 
 | Ronde | Wat | Waarom |
 |---|---|---|
-| 1 | Scope · aannames · C · akte III | Toonzettend. Hier blijkt of de lijn werkt |
-| 2 | A · B · akte I · akte II | De analyse, met de toon uit ronde 1 |
+| 1 | Scope · aannames · C · scenario III | Toonzettend. Hier blijkt of de lijn werkt |
+| 2 | A · B · scenario I · scenario II | De analyse, met de toon uit ronde 1 |
 | 3 | D · ondernemer · overheid · markt · G | De uitwerking |
 | 4 | Risico's · slot | Sluitstukken |
 | 5 | Bijlagen: de aangekondigde aanpak · cijfers · **begrippen** · toolbox | Mechanisch |
@@ -571,7 +571,7 @@ De tekst kent zeven soorten blokken. Ze sturen hoe er gelezen wordt, en op dit m
 | Lopende tekst | — | De hoofdlijn |
 | Accentkader met eigen kop | 30 | Nu drie functies door elkaar — zie hieronder |
 | Fiche (uitklapbaar) | 14 | Bronvermelding en toelichting. De bestaande laag 3 binnen laag 2 |
-| Dimensietabel | 30 items | Scores per akte, met rode, groene en amberkleurige stippen |
+| Dimensietabel | 30 items | Scores per scenario, met rode, groene en amberkleurige stippen |
 | Vangrail-lijst | 8 | De instrumenten in f-overheid |
 | Bouwsteentabel | 11 | De toolbox |
 | Partial (visual) | 4 | populatiemodel (a-klem) · dimensieontwikkeling (e-aktes) · f-ondernemer · i-vic-rol |
@@ -581,7 +581,7 @@ De tekst kent zeven soorten blokken. Ze sturen hoe er gelezen wordt, en op dit m
 | Soort | Aantal | Wat ermee gebeurt |
 |---|---|---|
 | **Driesporenkaders** | 8 | Naar de bijlage. Commentaar op een specifiek beleidsstuk — besluit §8 |
-| **Motor-kaders** | 4 | Naar de lopende tekst. Dit is geen uitweiding maar een refrein: per akte hoe het ondernemerschap eruitziet. Dragende structuur die toevallig in een kader staat |
+| **Motor-kaders** | 4 | Naar de lopende tekst. Dit is geen uitweiding maar een refrein: per scenario hoe het ondernemerschap eruitziet. Dragende structuur die toevallig in een kader staat |
 | **Echte verdieping** | ~18 | Fiche of bijlage. "Drie tempo's, één transitie", "het borgings-dilemma", "wat dit betekent voor de doorgang" |
 
 Alleen het weghalen van de driesporenkaders scheelt al een kwart van alle onderbrekingen, zonder dat er inhoud verdwijnt.
